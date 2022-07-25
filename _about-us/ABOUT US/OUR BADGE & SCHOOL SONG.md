@@ -4,19 +4,11 @@ permalink: /about-us/permalink
 description: ""
 third_nav_title: ABOUT US
 ---
-![](/images/School-Logo.jpg)
-images/School-Logo.jpg
-
-<img src="/images/School-Logo.jpg">
+<img src="/images/School-Logo.jpg" 
+     style="width:25%">
 
 
-```
 
-<img src="/images/School-Logo.jpg" 
-
-     style="width:25%">
-
-```
 
 
 <p style="text-align: center;">The&nbsp;<strong>BOOK</strong>&nbsp;symbolises the school’s aim to enable our pupils to achieve the highest level of academic achievement, which they are capable of.</p>
