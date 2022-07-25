@@ -11,8 +11,7 @@ description: ""
 
 <p style="text-align: justify;"> As the Principal, my wish for SGSians as Critical Thinkers and Thoughtful Leaders is to be led by the heart to care for others, to contribute meaningfully to the community. In doing so, they will remain guided by our <font color="blue">PRIDE</font> values – <font color="blue">P</font>erseverance, <font color="blue">R</font>espect, <font color="blue">I</font>ntegrity, <font color="blue">D</font>iligence, and <font color="blue">E</font>mpathy. Therefore, Thoughtful Leadership must first begin at home and in school where we care for one another with respect, empathy, kindness and compassion, before we apply and extend our knowledge as Critical Thinkers to make our society a better place.
 
-<p style="text-align: justify;"> I look forward to working in close partnership with all stakeholders to achieve this for our students.
+<p style="text-align: justify;"> I look forward to working in close partnership with all stakeholders to achieve this for our students.</p> 
 
-Yours in Partnership,
-
-</p>Mdm Valerie Goh
+Yours in Partnership, <br>
+Mdm Valerie Goh
