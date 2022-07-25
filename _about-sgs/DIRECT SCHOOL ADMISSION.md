@@ -3,7 +3,7 @@ title: DIRECT SCHOOL ADMISSION
 permalink: /about-sgs/direct-school-admission/
 description: ""
 ---
-**2022 DIRECT SCHOOL ADMISSION (DSA-SEC)**
+**2022 DIRECT SCHOOL ADMISSION (DSA-SEC)**<br>
 **FOR ADMISSION TO SECONDARY ONE IN 2023**
 
 **Direct School Admission (DSA–Sec) to Serangoon Garden Secondary School (2022)**
