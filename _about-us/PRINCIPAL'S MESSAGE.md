@@ -16,7 +16,3 @@ I look forward to working in close partnership with all stakeholders to achieve 
 Yours in Partnership,
 
 Mdm Valerie Goh
-
-<font color="blue">Pjhk</font>
-
-<font color style="color:red"> Fridays I look forward to working in close partnership with all stakeholders to achieve this for our students.</font>
