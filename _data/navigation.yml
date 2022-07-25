@@ -18,3 +18,5 @@ links:
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: aBOUT US
+    collection: about-us
