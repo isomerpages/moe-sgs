@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - VISION, MISSION, MOTTO AND VALUES.md
       - PRINCIPAL'S MESSAGE.md
