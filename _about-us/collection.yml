@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - ABOUT US/.keep
       - SCHOOL ADVISORY COMMITTEE.md
       - OUR BADGE & SCHOOL SONG.md
       - VISION, MISSION, MOTTO AND VALUES.md
