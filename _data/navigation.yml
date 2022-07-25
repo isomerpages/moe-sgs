@@ -4,3 +4,6 @@ links:
     collection: about-us
   - title: Example Page
     url: /example-page/
+  - title: ABOUT US
+    url: /about-us
+    sublinks: []
