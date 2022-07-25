@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - ABOUT US/CONTACT US.md
-      - ABOUT US/DIRECT SCHOOL ADMISSION.md
+      - ABOUT US/.keep
       - ABOUT US/PRINCIPAL'S MESSAGE.md
       - ABOUT US/VISION, MISSION, MOTTO AND VALUES.md
       - ABOUT US/OUR BADGE & SCHOOL SONG.md
       - ABOUT US/SCHOOL ADVISORY COMMITTEE.md
-      - ABOUT US/.keep
+      - ABOUT US/DIRECT SCHOOL ADMISSION.md
+      - ABOUT US/CONTACT US.md
