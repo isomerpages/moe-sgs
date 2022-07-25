@@ -28,4 +28,4 @@ Students successfully allocated to their DSA-Schools will <span style="text-deco
 
 They will also <span style="text-decoration: underline;"><strong>NOT</strong></span> be allowed to transfer to another school after the release of the PSLE results
 
-Interested students may also refer to some MOE Frequently Asked Questions (FAQs) for more information on the DSA-Sec Exercise, or call the MOE Customer Service Centre at 6872-2220.
+Interested students may also refer to some MOE Frequently Asked Questions (FAQs) for more information on the DSA-Sec Exercise, or call the MOE Customer Service Centre at 6872-2220. 
