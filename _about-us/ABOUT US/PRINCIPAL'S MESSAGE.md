@@ -4,7 +4,6 @@ permalink: /about-us/permalink
 description: ""
 third_nav_title: ABOUT US
 ---
-
 <p style="text-align: justify;"> As the newly-appointed 13th Principal of Serangoon Garden Secondary School (SGS), I am excited to be part of the SGSian family.
 
 <p style="text-align: justify;"> SGS has a long and proud tradition in nurturing youths from varied backgrounds to unearth their potential and develop in them a passion for life. Over the years, the school has also undergone various phases of transformation and growth, and I am grateful for the strong foundations laid. Together with my staff, we will continue to work with all our stakeholders to bring SGS to greater heights.
