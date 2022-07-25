@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-sgs:
     output: true
     order:
       - PRINCIPAL'S MESSAGE.md
