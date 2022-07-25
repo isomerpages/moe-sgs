@@ -6,4 +6,17 @@ links:
     url: /example-page/
   - title: ABOUT US
     url: /about-us
-    sublinks: []
+    sublinks:
+      - title: PRINCIPAL'S MESSAGE
+        url: /about-us/permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
