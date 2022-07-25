@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Serangoon Garden Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/School-Logo.jpg
 permalink: /
 notification: ""
 sections:
@@ -39,3 +39,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
