@@ -44,7 +44,7 @@ This practice will ensure
 *        alignment with the national examination where there is no re-attempt for examination papers missed
 *         fairness for all students
 
-We seek your cooperation **NOT** to send your child/ward to school for Weighted Assessments/Examinations if he/ she is unwell. Do take your child/ward to the doctor when he/she is unwell and get an MC so that the school can process the results accordingly.
+We seek your cooperation NOT to send your child/ward to school for Weighted Assessments/Examinations if he/ she is unwell. Do take your child/ward to the doctor when he/she is unwell and get an MC so that the school can process the results accordingly.
 
 **How should students conduct themselves during summative assessment?**
 
