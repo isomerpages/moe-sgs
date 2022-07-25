@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ABOUT US/.keep
-      - ABOUT US/PRINCIPAL'S MESSAGE.md
       - ABOUT US/VISION, MISSION, MOTTO AND VALUES.md
       - ABOUT US/OUR BADGE & SCHOOL SONG.md
       - ABOUT US/SCHOOL ADVISORY COMMITTEE.md
