@@ -13,6 +13,6 @@ description: ""
 
 <p style="text-align: justify;"> I look forward to working in close partnership with all stakeholders to achieve this for our students.
 
-<p style="text-align: justify;"> Yours in Partnership,
+Yours in Partnership,
 
-<p style="text-align: justify;"> Mdm Valerie Goh
+Mdm Valerie Goh
