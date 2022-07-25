@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - OUR BADGE & SCHOOL SONG.md
       - VISION, MISSION, MOTTO AND VALUES.md
       - PRINCIPAL'S MESSAGE.md
