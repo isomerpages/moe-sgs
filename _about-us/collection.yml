@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CONTACT US.md
       - DIRECT SCHOOL ADMISSION.md
       - SCHOOL ADVISORY COMMITTEE.md
       - OUR BADGE & SCHOOL SONG.md
