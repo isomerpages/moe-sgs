@@ -21,7 +21,6 @@ If you embrace the same beliefs and values, we invite you to join our family in 
 
 **About Direct School Admission (DSA-Sec)**
 
-
 Under the Direct School Admission Secondary (DSA-Sec) exercise, secondary schools may offer Secondary 1 places to suitable primary students earlier, using school-based criteria other than PSLE results. These criteria are schools-based and seek to allow a greater range of student achievements and talents to be recognised.
 
 Students successfully allocated to their DSA-Schools will <span style="text-decoration: underline;"><strong>NOT</strong></span> be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school **and participate in the activities related to the talent they are selected for from year 1-4.**
