@@ -51,17 +51,17 @@ Getting to SGS
 </div>
 
 
-**25, 55, 70, 73, 74, 76, 132, 165, 315**
+25, 55, 70, 73, 74, 76, 132, 165, 315
 
-**Directions from HOUGANG CENTRAL INTERCHANGE :**  
+Directions from HOUGANG CENTRAL INTERCHANGE :  
 BUSES: 132, 165  
 (Alight at Blk 101, Ang Mo Kio Avenue 3)
 
-**Directions from ANG MO KIO INTERCHANGE :**  
+Directions from ANG MO KIO INTERCHANGE :  
 BUSES: 25, 73, 74, 76, 132, 165  
 (Alight at Blk 554, Ang Mo Kio Avenue 3)
 
-**Directions from SERANGOON INTERCHANGE:**  
+Directions from SERANGOON INTERCHANGE:  
 BUS: 315     (Alight at Blk 112, Serangoon North Avenue 1)
 
 * * *
