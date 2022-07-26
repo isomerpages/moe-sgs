@@ -34,7 +34,6 @@ Getting to SGS
 </div>
 </div>
 
-
 **Address:** 21 Serangoon North Ave 1 S555889 <br>
 **Phone:** (65) 6288 9227<br>
 **Fax:** (65) 6288 8695<br>
@@ -42,5 +41,11 @@ Getting to SGS
 **School Code:** 3509<br>
 
 
-
-
+<div>
+<div style="float: left">
+<img src="/images/bus.png" />
+</div>
+<div>
+<strong>Bus Services to SGS</strong>
+</div>
+</div>
