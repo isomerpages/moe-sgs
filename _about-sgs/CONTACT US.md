@@ -21,8 +21,10 @@ Getting to SGS
 </div>
 </div>
 
+<img src="/images/Getting-to-SGS-600x413.png" 
+     style="width:85%">
 
-![](/images/Getting-to-SGS-600x413.png)
+
 
 
 <div>
