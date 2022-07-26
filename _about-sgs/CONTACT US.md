@@ -20,3 +20,16 @@ description: ""
 Getting to SGS
 </div>
 </div>
+
+
+![](/images/Getting-to-SGS-600x413.png)
+
+
+<div>
+<div style="float: left">
+<img src="/images/map.png" />
+</div>
+<div>
+Getting to SGS
+</div>
+</div>
