@@ -38,9 +38,9 @@ Getting to SGS
 **Phone:** (65) 6288 9227<br>
 **Fax:** (65) 6288 8695<br>
 **Email:** [sgss@moe.edu.sg](mailto:sgss@moe.edu.sg)<br>
-**School Code:** 3509<br>
+**School Code:** 3509
 
-
+<p>
 <div>
 <div style="float: left">
 <img src="/images/bus.png" />
