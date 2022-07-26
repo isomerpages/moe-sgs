@@ -27,9 +27,20 @@ Getting to SGS
 
 <div>
 <div style="float: left">
-<img src="/images/map.png" />
+<img src="/images/campus.png" />
 </div>
 <div>
-Getting to SGS
+<strong>Campus Location</strong>
 </div>
 </div>
+
+
+**Address:** 21 Serangoon North Ave 1 S555889
+
+**Phone:** (65) 6288 9227
+
+**Fax:** (65) 6288 8695
+
+**Email:** [sgss@moe.edu.sg](mailto:sgss@moe.edu.sg)
+
+**School Code:** 3509
