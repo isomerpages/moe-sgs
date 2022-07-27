@@ -46,7 +46,7 @@ Getting to SGS
 <strong>Bus Services to SGS</strong>
 </div>
 </div>
-
+</p>
 
 25, 55, 70, 73, 74, 76, 132, 165, 315
 
