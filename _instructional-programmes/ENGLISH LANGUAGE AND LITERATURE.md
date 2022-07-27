@@ -37,4 +37,3 @@ In SGS, we believe that language learning and literature should be fun, relevant
 <img src="/images/Slide1-1-768x568.jpg">
 <figcaption> <strong> Upper Secondary Literature students attending Othello at Shakespeare in the Park </strong> </figcaption>
 </figure>
-
