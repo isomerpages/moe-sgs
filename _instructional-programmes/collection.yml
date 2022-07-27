@@ -2,5 +2,5 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Example Title.md
+      - APPLIED LEARNING PROGRAMME.md
       - ASSESSMENT GUIDELINES.md
