@@ -38,13 +38,10 @@ description: ""
 *  Malay Arts Appreciation
 *  Speech and Drama Through Malay Films
 
-
-
 <figure>
 <img src="/images/Capture.jpg">
 <figcaption> <strong> Celebration Of Pongal Or Indian Harvest Festival </strong> </figcaption>
 </figure>
-
 
 **Achievements**
 
