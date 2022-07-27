@@ -11,3 +11,6 @@ description: ""
 
 ![](/images/alp_image.jpg)
 
+<img src="/images/ALP-Photo-6-250x250.png" 
+     style="width:40%">
+
