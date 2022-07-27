@@ -15,8 +15,7 @@ description: ""
 <div>
 <div style="float: left">
 <a href="https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross">
-<img src="/images/red%20cross%20logo.png"
-     style="width:50%">
+<img src="/images/Mother-Tongue-Department-768x565.jpg">
 </a>
 </div>
 <div>
