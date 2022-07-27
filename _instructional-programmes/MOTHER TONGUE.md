@@ -22,6 +22,7 @@ description: ""
 </div>
 </div>
 
+<img src="/images/Mother-Tongue-Department-768x565.jpg" target="\_blank">
 
 **Signature Programmes**
 
