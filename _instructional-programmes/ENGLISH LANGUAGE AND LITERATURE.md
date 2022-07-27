@@ -29,13 +29,12 @@ To nurture students in EL and Literature beyond the classroom, students have opp
 In SGS, we believe that language learning and literature should be fun, relevant and authentic. Students are always encouraged to excel beyond the classroom and to apply what they have learned in their daily lives.
 
 <figure>
-<img src="/images/Slide1-1-768x568.jpg">
-<figcaption> <strong> Upper Secondary Literature students attending Othello at Shakespeare in the Park </strong> </figcaption>
-</figure>
-
-<figure>
 <img src="/images/Slide2-1-768x541.jpg">
 <figcaption> <strong> Upper Secondary Literature students attending Othello at Shakespeare in the Park </strong> </figcaption>
 </figure>
 
+<figure>
+<img src="/images/Slide1-1-768x568.jpg">
+<figcaption> <strong> Upper Secondary Literature students attending Othello at Shakespeare in the Park </strong> </figcaption>
+</figure>
 
