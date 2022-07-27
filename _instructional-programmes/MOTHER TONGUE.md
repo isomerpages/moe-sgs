@@ -24,6 +24,7 @@ description: ""
 
 <img src="/images/Mother-Tongue-Department-768x565.jpg" target="\_blank">
 
+
 **Signature Programmes**
 
 <p style="text-align: justify;"> MT Language & Cultural Programme enables our students to understand and develop their unique identity through a deeper appreciation of culture, traditions, literature and history.</p>
