@@ -2,5 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - ENGLISH LANGUAGE AND LITERATURE.md
       - APPLIED LEARNING PROGRAMME.md
       - ASSESSMENT GUIDELINES.md
