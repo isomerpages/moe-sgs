@@ -10,17 +10,7 @@ description: ""
 
 ![](/images/Mother-Tongue-Department-768x565.jpg)
 
-<a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a>
 
-<div>
-<div style="float: left">
-<a href="https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross">
-<img src="/images/Mother-Tongue-Department-768x565.jpg">
-</a>
-</div>
-<div>
-</div>
-</div>
 
 <img src="/images/Mother-Tongue-Department-768x565.jpg" target="_blank">
 
