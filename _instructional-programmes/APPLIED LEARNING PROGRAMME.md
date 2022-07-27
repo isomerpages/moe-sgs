@@ -9,8 +9,10 @@ description: ""
 
 <p style="text-align: justify;">To recognize the students’ development of 21CC, the ALP Celebration Award Presentation will be conducted every semester to celebrate students’ achievement in bringing positive change to the community they are in. </p>
 
+# Hyperlink in the following images not included as images migrated in this format (positioning) using a screenshot.
+(not really important since the links just open up the image)
+
 ![](/images/alp_image.jpg)
 
 <img src="/images/ALP-Photo-6-250x250.png" 
      style="width:40%">
-
