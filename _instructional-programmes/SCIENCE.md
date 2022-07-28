@@ -122,4 +122,3 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <img src="/images/Slide21-768x432.jpg">
 <figcaption> <strong>[Pre-Covid photo] Ngee Ann Polytechnic Powering Lives Challenge</strong> </figcaption>
 </figure>
-
