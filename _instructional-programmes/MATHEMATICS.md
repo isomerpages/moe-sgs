@@ -3,7 +3,12 @@ title: MATHEMATICS
 permalink: /academic-exellence/mathematics/
 description: ""
 ---
-![](/images/Slide1-3-600x338.jpg)
+
+<figure>
+<img src="/images/Slide1-3-600x338.jpg">
+<figcaption> <strong> Math Department</strong> </figcaption>
+</figure>
+
 
 ##### **Our Belief**
 
