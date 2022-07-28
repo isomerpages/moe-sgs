@@ -3,9 +3,9 @@ title: ENGLISH LANGUAGE AND LITERATURE
 permalink: /academic-exellence/english/
 description: ""
 ---
-**Department Vision: Language for Life and Learning**
+##### **Department Vision: Language for Life and Learning**
 
-**Department Mission: Cultivating Competent, Confident and Clear Communicators (5Cs)**
+##### **Department Mission: Cultivating Competent, Confident and Clear Communicators (5Cs)**
 
 <p style="text-align: justify;"> In Singapore, English is the main language for business and education. English is also the language of harmony that enables better understanding of the rich cultures and ethnic groups in Singapore. The study of Literature provides a good grounding for students to become aware of the nuances of language and narratives, training young minds to appreciate layers of meaning in text and in life. </p>
 
