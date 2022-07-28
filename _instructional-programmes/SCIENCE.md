@@ -33,3 +33,19 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 
 <p style="text-align: justify;"> The Hydroponics Research Programme focuses on connecting students’ knowledge learnt in school to solve real-world issues such as food security problems through Science, Technology, Engineering and Math (STEM). It also aims to develop learning dispositions such as resilience and adaptability when conducting their research. </p>
 
+<figure>
+<img src="/images/Slide3-1-250x250.jpg">
+<figcaption> <strong>Students transplanting seedlings into the Hydroponics bed</strong> </figcaption>
+</figure>
+
+
+<figure>
+<img src="/images/Slide3-1-250x250.jpg">
+<figcaption> <strong> [Pre-Covid photo] Research in action: a student setting up a different coloured lighting system for plant growth</strong> </figcaption>
+</figure>
+
+
+
+
+
+
