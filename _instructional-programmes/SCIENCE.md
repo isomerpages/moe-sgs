@@ -16,4 +16,22 @@ The SGS Science department aims to inculcate in our students a strong interest a
 
 Science Learning Day includes a wide array of authentic learning experiences to engage our students in the exploration of Science beyond their classrooms and books, including laboratory based workshops, digital making and collaborations with external partners e.g. Science Centre Singapore, polytechnics, NUS, NTU, EMA and NParks.
 
+<figure>
+<img src="/images/Slide4-1-250x250.jpg">
+<figcaption> <strong> [Pre-Covid photo] Digital Making using the Micro-bit</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide4-1-250x250.jpg">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide4-1-250x250.jpg">
+<figcaption> <strong> [Pre-Covid photo] Learning Journey to National University of Singapore</strong> </figcaption>
+</figure>
+
+
+
+
 
