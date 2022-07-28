@@ -22,16 +22,11 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 </figure>
 
 <figure>
-<img src="/images/Slide4-1-250x250.jpg">
+<img src="/images/Slide2-1-250x250.jpg">
 <figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide4-1-250x250.jpg">
+<img src="/images/Slide3-1-250x250.jpg">
 <figcaption> <strong> [Pre-Covid photo] Learning Journey to National University of Singapore</strong> </figcaption>
 </figure>
-
-
-
-
-
