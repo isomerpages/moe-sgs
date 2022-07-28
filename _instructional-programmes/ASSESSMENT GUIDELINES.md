@@ -3,7 +3,7 @@ title: ASSESSMENT GUIDELINES
 permalink: /instructional-programmes/assessment-guidelines/
 description: ""
 ---
-**What is assessment?**
+##### **What is assessment?**
 
 Assessment is an integral part of your child’s learning process. It helps you and your child to track his/her progress academically, and know what your child can do to close his/her learning gaps through effective and timely feedback provided by teachers. Your child’s progress will be assessed in terms of
 
@@ -11,7 +11,7 @@ Assessment is an integral part of your child’s learning process. It helps you 
 *   skills
 *   attributes and capabilities
 
-**How does assessment look like in SGS?**
+##### **How does assessment look like in SGS?**
 
 In line with our changing Singapore educational landscape, our school believes that we must strike a balance between rigour and joy of learning. This balance is to ensure that desired academic outcomes are achieved, and to allow room to prepare students for the future. In the process of learning, the balance will enable students to find joy, develop learning dispositions that will motivate them to learn for life. Hence, our school employs a good mix of formative or summative assessments. 
 
