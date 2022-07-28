@@ -76,3 +76,10 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <img src="/images/Slide11-250x250.jpg">
 <figcaption> <strong>Meticulous and careful pasting of leaves onto bookmarks for staff</strong> </figcaption>
 </figure>
+
+<p style="text-align: justify;"> The Young Explorers’ Experiment Toolkit (YEET) project was designed to encourage self-directed learning in students, sparking curiosity and imbue the joy of learning in Science through simple DIY experiments at home, and virtual explorations/tours beyond the classroom and laboratory lessons. Leveraging on the students’ PLDs, Google Classroom was used for its implementation and administration. For instance, e-booklets were used instead of the printed physical copies of the programme booklets, thus reinforcing the school’s green initiatives and efforts to reduce its carbon footprint. </p>
+
+![](/images/Slide13.jpg)
+![](/images/Slide14.jpg)
+
+
