@@ -34,46 +34,46 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <p style="text-align: justify;"> The Hydroponics Research Programme focuses on connecting students’ knowledge learnt in school to solve real-world issues such as food security problems through Science, Technology, Engineering and Math (STEM). It also aims to develop learning dispositions such as resilience and adaptability when conducting their research. </p>
 
 <figure>
-<img src="/images/Slide5-1-250x250.jpg">
+<img src="/images/Slide5-1-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Students transplanting seedlings into the Hydroponics bed</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide6-1-250x250.jpg">
+<img src="/images/Slide6-1-250x250.jpg"	style="width:50%">
 <figcaption> <strong> [Pre-Covid photo] Research in action: a student setting up a different coloured lighting system for plant growth</strong> </figcaption>
 </figure>
 
 <p style="text-align: justify;"> The Hydroponics Multi-Disciplinary Enrichment Programme aims to nurture scientific literacy, creativity in our students through an integrative approach, with an emphasis to nurture eco-stewardship in our students so as to promote awareness of urban farming and sustainable living. </p>
 
 <figure>
-<img src="/images/Slide8-250x250.jpg">
+<img src="/images/Slide8-250x250.jpg"	style="width:50%">
 <figcaption> <strong> [Pre-Covid photo] Harvesting & packing of Hydroponics crops for donation to encourage urban farming and sustainable living in our community</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide7-2-250x250.jpg">
+<img src="/images/Slide7-2-250x250.jpg"	style="width:50%">
 <figcaption> <strong>After weeks of tending and caring for the Hydroponics crops, a student’s patience is paid off with a bag of spinach, after a therapeutic and satisfying harvesting experience at the Hydroponics greenhouse.</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide9-250x250.jpg">
+<img src="/images/Slide9-250x250.jpg"	style="width:50%">
 <figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
 </figure>
 
 <p style="text-align: justify;"> As part of the Hydroponics Enrichment Programme, the Science department collaborated with the school’s CCE ambassadors in our Be-. Up- project. The project involved the growing of sweet Thai basil plants in our Hydroponics greenhouse, with the aim of promoting awareness of urban farming and sustainable living. The Teachers’ Day cards, personalized bookmark/ nametag, and cards designed with the laminated basil leaves aim to celebrate all SGS staff who dedicatedly brave the rain or shine each day to shelter and nurture the seeds of the future. “The flowers that bloom tomorrow are the seeds that we plant today.” </p>
 
 <figure>
-<img src="/images/Slide10-250x250.jpg">
+<img src="/images/Slide10-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Students processing harvested basil leaves for Teachers’ Day gifts to staff</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide12-250x250.jpg">
+<img src="/images/Slide12-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Work in progress: students almost done with their appreciation cards for staff</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide11-250x250.jpg">
+<img src="/images/Slide11-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Meticulous and careful pasting of leaves onto bookmarks for staff</strong> </figcaption>
 </figure>
 
@@ -85,22 +85,22 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <p style="text-align: justify;"> Advanced Elective Modules (AEMs), a collaboration with the polytechnics provides students with opportunities to make sense of, and apply knowledge to authentic, relevant learning contexts and to help them discover their strengths and interests. Participation in AEMs also serve to strengthen the students’ portfolios through enhanced learning experiences. </p>
 
 <figure>
-<img src="/images/Slide15-250x250.jpg">
+<img src="/images/Slide15-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Aerospace Fundamentals in Flight Simulation at Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide16-250x250.jpg">
+<img src="/images/Slide16-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Discovering Stem Cell & Gene Therapy at Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide17-250x250.jpg">
+<img src="/images/Slide17-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Student participants at Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide18-250x250.jpg">
+<img src="/images/Slide18-250x250.jpg"	style="width:50%">
 <figcaption> <strong>Student participants at Temasek Polytechnic</strong> </figcaption>
 </figure>
 
