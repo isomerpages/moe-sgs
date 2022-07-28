@@ -109,16 +109,17 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <p style="text-align: justify;"> To increase our students’ exposure to learning opportunities beyond the school, the department provides opportunities for students to participate in external competitions. An example is the annual GMAC Challenge organized by the Genetic Modification Advisory Committee. Participants are tasked to create an infographic poster based on various GM themes with the aim of promoting active learning and stimulating students’ interest in Science-based GM-related topics. </p>
 
 <figure>
-<img src="/images/Slide18-250x250.jpg">
+<img src="/images/Slide19.jpg">
 <figcaption> <strong>Samples of students’ infographics posters from the GMAC Challenge</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide18-250x250.jpg">
+<img src="/images/Slide20.jpg">
 <figcaption> <strong>[Pre-Covid photo] Nanyang Polytechnic Science & Technology Challenge</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide18-250x250.jpg">
+<img src="/images/Slide21-768x432.jpg">
 <figcaption> <strong>[Pre-Covid photo] Ngee Ann Polytechnic Powering Lives Challenge</strong> </figcaption>
 </figure>
+
