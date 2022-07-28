@@ -21,4 +21,18 @@ Many students believe that their teachers are the best source to learn from. How
 <figcaption> <strong> Learning Math through Videos made by our own teachers</strong> </figcaption>
 </figure>
 
+#### Hope, Confidence and rewarding Effort
+
+Students who struggle with Math often lack confidence and lack the belief that they can do Math. They often fail exams and in fact, some have never passed Math since Primary school! To support these students, the department allows them to reattempt certain assignments over and over until they get it right. Immediate (and automated) feedback is given after each attempt so that they can learn from their mistakes and eventually get it right (and be awarded full marks). This process is critical in changing their perspective that Math is “un-passable”. One of the ways we do this is through an online Math Portal where students can repeatedly practice key concepts and eventually achieve mastery.
+
+<figure>
+<img src="/images/Slide3-3.jpg">
+<figcaption> <strong> Maths Portal assignment where students can try repeatedly</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide4-3.jpg">
+<figcaption> <strong>Students given immediate feedback when they get it wrong</strong> </figcaption>
+</figure>
+
 
