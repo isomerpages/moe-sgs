@@ -30,3 +30,6 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <img src="/images/Slide3-1-250x250.jpg">
 <figcaption> <strong> [Pre-Covid photo] Learning Journey to National University of Singapore</strong> </figcaption>
 </figure>
+
+<p style="text-align: justify;"> The Hydroponics Research Programme focuses on connecting students’ knowledge learnt in school to solve real-world issues such as food security problems through Science, Technology, Engineering and Math (STEM). It also aims to develop learning dispositions such as resilience and adaptability when conducting their research. </p>
+
