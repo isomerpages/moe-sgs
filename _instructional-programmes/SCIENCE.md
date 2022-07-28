@@ -60,3 +60,22 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
 </figure>
 
+<p style="text-align: justify;"> As part of the Hydroponics Enrichment Programme, the Science department collaborated with the school’s CCE ambassadors in our Be-. Up- project. The project involved the growing of sweet Thai basil plants in our Hydroponics greenhouse, with the aim of promoting awareness of urban farming and sustainable living. The Teachers’ Day cards, personalized bookmark/ nametag, and cards designed with the laminated basil leaves aim to celebrate all SGS staff who dedicatedly brave the rain or shine each day to shelter and nurture the seeds of the future. “The flowers that bloom tomorrow are the seeds that we plant today.” </p>
+
+<figure>
+<img src="/images/Slide9-250x250.jpg">
+<figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide9-250x250.jpg">
+<figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide9-250x250.jpg">
+<figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
+</figure>
+
+
+
