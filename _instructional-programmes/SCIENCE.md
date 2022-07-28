@@ -84,28 +84,24 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 
 <p style="text-align: justify;"> Advanced Elective Modules (AEMs), a collaboration with the polytechnics provides students with opportunities to make sense of, and apply knowledge to authentic, relevant learning contexts and to help them discover their strengths and interests. Participation in AEMs also serve to strengthen the students’ portfolios through enhanced learning experiences. </p>
 
+![](/images/Slide15-250x250.jpg)
+
 <figure>
-<img src="/images/Slide11-250x250.jpg">
+<img src="/images/Slide15-250x250.jpg">
 <figcaption> <strong>Aerospace Fundamentals in Flight Simulation at Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide11-250x250.jpg">
+<img src="/images/Slide16-250x250.jpg">
 <figcaption> <strong>Discovering Stem Cell & Gene Therapy at Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide11-250x250.jpg">
+<img src="/images/Slide17-250x250.jpg">
 <figcaption> <strong>Student participants at Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide11-250x250.jpg">
+<img src="/images/Slide18-250x250.jpg">
 <figcaption> <strong>Student participants at Temasek Polytechnic</strong> </figcaption>
 </figure>
-
-
-
-
-
-
