@@ -20,6 +20,7 @@ Getting to SGS
 </div>
 </div>
 
+#### Image not hyperlinked
 ![](/images/Getting-to-SGS-600x413.png)
 
 <div>
