@@ -47,5 +47,6 @@ Math is all around us and we want students to realize this through fun activitie
 </figure>
 
 
+##### Customized Programmes to cater to Students’ needs
 
-
+At Sec 3 and 4, students are banded based on academic ability with customized programmes. Weaker students are given more support while stronger ones are stretched. Some are also given more exposure through external competitions like the “All Singapore Secondary Mathematics Competition”.
