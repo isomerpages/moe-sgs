@@ -42,3 +42,21 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <img src="/images/Slide6-1-250x250.jpg">
 <figcaption> <strong> [Pre-Covid photo] Research in action: a student setting up a different coloured lighting system for plant growth</strong> </figcaption>
 </figure>
+
+<p style="text-align: justify;"> The Hydroponics Multi-Disciplinary Enrichment Programme aims to nurture scientific literacy, creativity in our students through an integrative approach, with an emphasis to nurture eco-stewardship in our students so as to promote awareness of urban farming and sustainable living. </p>
+
+<figure>
+<img src="/images/Slide8-250x250.jpg">
+<figcaption> <strong> [Pre-Covid photo] Harvesting & packing of Hydroponics crops for donation to encourage urban farming and sustainable living in our community</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide7-2-250x250.jpg">
+<figcaption> <strong>After weeks of tending and caring for the Hydroponics crops, a student’s patience is paid off with a bag of spinach, after a therapeutic and satisfying harvesting experience at the Hydroponics greenhouse.</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide9-250x250.jpg">
+<figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
+</figure>
+
