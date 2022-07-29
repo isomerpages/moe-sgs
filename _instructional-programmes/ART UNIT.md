@@ -94,3 +94,16 @@ description: ""
 	</strong> 
 	</figcaption>
 </figure>
+
+**2021 Draw My Stamp Story Art Competition**
+
+<figure>
+<img src="/images/ART%20UNIT/Slide10-600x199.jpg">
+<figcaption> <strong> Park Yoonsung & Goh Jun Hong Bryan </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/ART%20UNIT/Slide11-600x226.jpg">
+<figcaption> <strong> Vera Tang Hui En & Renise Soo Renhui </strong> </figcaption>
+</figure>
+
