@@ -39,3 +39,11 @@ description: ""
 <figcaption> <strong> Yrauda Katrina Gaille Cuarez – People’s Choice Award </strong> </figcaption>
 </figure>
 
+###### **2021 Yellowren Inter-school Canvas Art Competition (Students at Work)**
+
+<figure>
+<img src="/images/ART%20UNIT/Slide3-600x263.jpg">
+<figcaption> <strong> Yrauda Katrina Gaille Cuarez – People’s Choice Award </strong> </figcaption>
+</figure>
+
+
