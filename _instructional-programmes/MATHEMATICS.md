@@ -3,7 +3,6 @@ title: MATHEMATICS
 permalink: /academic-exellence/mathematics/
 description: ""
 ---
-# Hyperlinking for pictures not done
 <figure>
 <img src="/images/Slide1-3-600x338.jpg">
 <figcaption> <strong> Math Department</strong> </figcaption>
