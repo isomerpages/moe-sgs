@@ -33,10 +33,6 @@ description: ""
 	</figcaption>
 </figure>
 
-testt1
-
-<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
-     style="width:100%"></a>
 
 ##### **Achievements**
 
