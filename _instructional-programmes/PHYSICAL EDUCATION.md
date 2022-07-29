@@ -12,15 +12,15 @@ At Serangoon Garden Secondary School, we believe in educating students to enjoy 
 
 Our Outdoor Education (OE) and Physical Health & Fitness (PHF) modules teach students the fundamentals of being independent and be able to negotiate with nature and the environment such as map reading and navigation, bouldering, and learning to start fires from scratch with firewood. For PHF, we teach several areas of health and Physical Education related topics such as basic anatomy, basic first aid, and add-on topics like nutrition and hydration, which are areas that are equally important and complement one’s active lifestyle.
 
-**Signature Programmes**
+##### **Signature Programmes**
 
 At Serangoon Garden Secondary, Physical Education is not just about the play, competition, physical activity and fitness. It is about teaching the life skills that can be learnt through sports. Values such as sportsmanship, discipline, diligence, and being responsible are taught constantly as the teachers continuously facilitate and draw out these learning points at every opportunity.
 
-<a href="/images/Physical%20Education/IMG_0035-Tien-Sing-Daniel-Wee.jpg" target = "_blank"> <img src="/images/Physical%20Education/IMG_0035-Tien-Sing-Daniel-Wee.jpg" 
-     style="width:100%"></a>
+<a href="/images/Physical%20Education/IMG_9194-Tien-Sing-Daniel-Wee-250x250.jpg" target = "_blank"> <img src="/images/Physical%20Education/IMG_9194-Tien-Sing-Daniel-Wee-250x250.jpg" 
+     style="width:50%"></a>
 		 
-<a href="/images/Physical%20Education/IMG_0035-Tien-Sing-Daniel-Wee.jpg" target = "_blank"> <img src="/images/Physical%20Education/IMG_0035-Tien-Sing-Daniel-Wee.jpg" 
-     style="width:100%"></a>
+<a href="/images/Physical%20Education/IMG_9171-Tien-Sing-Daniel-Wee-250x250.jpg" target = "_blank"> <img src="/images/Physical%20Education/IMG_9171-Tien-Sing-Daniel-Wee-250x250.jpg" 
+     style="width:50%"></a>
 
 		 
 The PE programme provides many opportunities to play in the many sports recreationally, at the intra class and inter class levels and at the house levels. Students get to compete with each other in mini and improvised games in PE, at our Level Signature Programmes (LSP), Post Exam games, ACES day, at Sports Fiesta and in the Inter-house championships.
