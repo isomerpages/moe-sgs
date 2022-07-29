@@ -25,7 +25,10 @@ description: ""
 *  Malay Arts Appreciation
 *  Speech and Drama Through Malay Films
 
+<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
+     style="width:100%"></a>
 
+text 
 
 <a href="/images/Capture.jpg" target = "_blank"><figure>
 <img src="/images/Capture.jpg">
