@@ -52,6 +52,14 @@ description: ""
 
 **2021 NEA Design-A-Table Activity – Final Work**
 
+<figure>
+	<a href="/images/ART%20UNIT/Slide5-250x250.jpg" target = "_blank"> <img src="/images/ART%20UNIT/Slide5-250x250.jpg" 
+     style="width:40%"></a>
+<figcaption> 
+	<strong> Kervina Koh Yiting and & Chew Tze May Celeste </strong> 
+	</figcaption>
+</figure>
+
 ![](/images/ART%20UNIT/Slide5-250x250.jpg)
 ![](/images/ART%20UNIT/Slide6-250x250.jpg)
 ![](/images/ART%20UNIT/Slide7-250x250.jpg)
