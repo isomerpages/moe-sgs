@@ -25,4 +25,4 @@ In the upper secondary level, students learn to identify design opportunities in
 
 
 
-# Videos not migrated, need to be uploaded to youtube
+# Videos not migrated as they need to be uploaded to youtube
