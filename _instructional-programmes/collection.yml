@@ -2,15 +2,15 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - PHYSICAL EDUCATION.md
-      - ART UNIT.md
-      - NUTRITION AND FOOD SCIENCE.md
-      - MUSIC.md
-      - DESIGN & TECHNOLOGY.md
-      - HUMANITIES.md
-      - SCIENCE.md
-      - MATHEMATICS.md
-      - MOTHER TONGUE.md
-      - ENGLISH LANGUAGE AND LITERATURE.md
-      - APPLIED LEARNING PROGRAMME.md
       - ASSESSMENT GUIDELINES.md
+      - APPLIED LEARNING PROGRAMME.md
+      - ENGLISH LANGUAGE AND LITERATURE.md
+      - MOTHER TONGUE.md
+      - MATHEMATICS.md
+      - SCIENCE.md
+      - HUMANITIES.md
+      - DESIGN & TECHNOLOGY.md
+      - MUSIC.md
+      - NUTRITION AND FOOD SCIENCE.md
+      - ART UNIT.md
+      - PHYSICAL EDUCATION.md
