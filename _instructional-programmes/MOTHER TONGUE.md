@@ -25,15 +25,18 @@ description: ""
 *  Malay Arts Appreciation
 *  Speech and Drama Through Malay Films
 
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
+     style="width:100%"></a>
+<figcaption> 
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong> 
+	</figcaption>
+</figure>
+
+testt1
+
 <a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
      style="width:100%"></a>
-
-text 
-
-<a href="/images/Capture.jpg" target = "_blank"><figure>
-<img src="/images/Capture.jpg">
-<figcaption> <strong> Celebration Of Pongal Or Indian Harvest Festival </strong> </figcaption>
-</figure></a>
 
 ##### **Achievements**
 
