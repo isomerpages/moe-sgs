@@ -16,3 +16,10 @@ In the lower secondary level, students learn through design-and-make projects. A
 ##### **Upper secondary Curriculum**
 
 In the upper secondary level, students learn to identify design opportunities in the community, understand the needs of the user, and then work independently to design and prototype innovative solutions that meet those needs.
+
+
+
+
+
+
+# Videos not migrated, need to be uploaded to youtube
