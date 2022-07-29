@@ -15,7 +15,7 @@ In lower secondary level, our music programme focuses on Pop Band Song Cover mod
 Besides performing during class presentation, students are given the opportunities to perform for school events such as ‘SGS got talent’ competitions and lunch time concerts to further develop their musicianship skills. In June 2018, our students are also given the platform to perform their song covers for the public, where they sang and played musical instruments during a concert held in National Museum of Singapore.
 
 In upper secondary music curriculum, students are equipped with the basic music technology skills, such as arranging popular song covers with the use of music software. To extend learning beyond the classroom setting, upper secondary music students have the opportunity to appreciate western musicals such as The Lion King at Marina Bay Sands Theatre, as well as performing the annual combined music camp held by Art Education Branch and ITE College Central.
-
+test
 <a href="/images/2E4-Stephanie-Zhong-Hongkun-250x250.jpg" > <img src="/images/2E4-Stephanie-Zhong-Hongkun-250x250.jpg" 
      style="width:50%"></a>
 
