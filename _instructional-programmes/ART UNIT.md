@@ -26,7 +26,13 @@ description: ""
 ##### **Achievements**
 
 1.  **2020 MTC – Design for Good Youth Competition**
-2.  **2021 National Kidney Foundation Sticker Design**
 
+<figure>
+<img src="/images/ART%20UNIT/Slide1-768x432.jpg">
+<figcaption> <strong> Woo Jiaxin – Winner </strong> </figcaption>
+</figure>
+
+
+2.  **2021 National Kidney Foundation Sticker Design**
 
 
