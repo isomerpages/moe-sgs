@@ -25,14 +25,14 @@ description: ""
 
 ##### **Achievements**
 
-1.  **2020 MTC – Design for Good Youth Competition**
+1.  2020 MTC – Design for Good Youth Competition
 
 <figure>
 <img src="/images/ART%20UNIT/Slide1-768x432.jpg">
 <figcaption> <strong> Woo Jiaxin – Winner </strong> </figcaption>
 </figure>
 
-2.  **2021 National Kidney Foundation Sticker Design**
+2.  2021 National Kidney Foundation Sticker Design
 
 <figure>
 <img src="/images/ART%20UNIT/Slide2-768x432.jpg">
@@ -45,3 +45,5 @@ description: ""
 <img src="/images/ART%20UNIT/Slide3-600x263.jpg">
 <figcaption> <strong> Theme: Redemption: Environment | Technology | Society </strong> </figcaption>
 </figure>
+
+**2021 NEA Design-A-Table Activity (Students at Work)**
