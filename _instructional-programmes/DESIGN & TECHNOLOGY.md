@@ -18,8 +18,11 @@ In the lower secondary level, students learn through design-and-make projects. A
 In the upper secondary level, students learn to identify design opportunities in the community, understand the needs of the user, and then work independently to design and prototype innovative solutions that meet those needs.
 
 
+<figure>
+<img src="/images/Design-seminar-2022-768x576.jpeg"	style="width:80%">
+<figcaption> <strong> Design Seminar 2022</strong> </figcaption>
+</figure>
 
-![](/images/Design-seminar-2022-768x576.jpeg)
 
 
 # Videos not migrated, need to be uploaded to youtube
