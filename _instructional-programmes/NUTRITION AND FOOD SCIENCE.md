@@ -36,3 +36,16 @@ Food and Consumer Education students learn the importance of a healthy breakfast
 *   Keat Hong Sandwich Making Competition 1st and 4th placing 2017
 *   Assumption Pathway School Baking Competition 2017 (Participation)
 *   iChef Competition 2018 (Participation)
+
+<a href="/images/2e7a5100-c43c-4f06-bd7e-4babf550fe0e-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/2e7a5100-c43c-4f06-bd7e-4babf550fe0e-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+
+<a href="/images/5fbec406-1ef2-4d8e-8863-1703a35a280a-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/5fbec406-1ef2-4d8e-8863-1703a35a280a-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/326240e7-92eb-4ae8-a3e2-b103e4e19a31-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/326240e7-92eb-4ae8-a3e2-b103e4e19a31-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+
+<a href="/images/df293af6-f731-4c04-902d-552bb24339ed-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/df293af6-f731-4c04-902d-552bb24339ed-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+
