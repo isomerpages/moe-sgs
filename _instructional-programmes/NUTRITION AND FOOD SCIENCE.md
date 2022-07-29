@@ -5,6 +5,8 @@ description: ""
 ---
 The Nutrition and Food Science Department aims to empower students to be health-conscious and become discerning consumers; enabling them to better manage their lives for the present and the future.
 
+![](/images/326FED9F-7745-4851-912B-A9A45D95173D-Ita-Pranatih-Pratojanuri-600x600.jpeg)
+
 Following up with Food and Nutrition we aim to develop students’ understanding of concepts of nutrition and food science. With the use of inquiry-based learning and ICT in Food and Nutrition and Food Studies Coursework, students will become socially aware responsible self-directed learners.
 
 ##### **Signature Programmes**
