@@ -3,7 +3,6 @@ title: HUMANITIES
 permalink: /academic-exellence/humanities/
 description: ""
 ---
-# Hyperlinking for pictures not done
 ##### <strong><span style="text-decoration: underline;">Our Beliefs</span></strong>
 
 <p style="text-align: justify;"> The Humanities Department aims to develop students to be critical thinkers who are able to apply their learning across different contexts through authentic tasks and activities that make learning relevant and meaningful to the learner. </p>
