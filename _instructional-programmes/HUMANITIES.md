@@ -19,3 +19,39 @@ description: ""
 <img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
 <figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+</figure>
+
