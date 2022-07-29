@@ -17,7 +17,27 @@ description: ""
 
 <figure>
 <img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+<figcaption> <strong> Learning about History through board game</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> Learning Journey to Gardens by the Bay</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> Learning Journey to Gardens by the Bay</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> Tourism fieldwork at Little India</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
+<figcaption> <strong> Rocket Pitch Festival at School of Business in Singapore Polytechnic</strong> </figcaption>
 </figure>
 
 <figure>
@@ -27,31 +47,10 @@ description: ""
 
 <figure>
 <img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+<figcaption> <strong></strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
+<figcaption> <strong> Microclimate study in school</strong> </figcaption>
 </figure>
-
-<figure>
-<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Slide2-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Students learning how to make ice-cream in a bag using Science concepts</strong> </figcaption>
-</figure>
-
