@@ -19,7 +19,7 @@ In the upper secondary level, students learn to identify design opportunities in
 
 
 
-
+![](/images/Design-seminar-2022-768x576.jpeg)
 
 
 # Videos not migrated, need to be uploaded to youtube
