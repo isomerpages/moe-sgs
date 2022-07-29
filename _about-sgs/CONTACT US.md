@@ -20,8 +20,8 @@ Getting to SGS
 </div>
 </div>
 
-#### Image not hyperlinked
-![](/images/Getting-to-SGS-600x413.png)
+<a href="/images/Getting-to-SGS-600x413.png" target = "_blank"> <img src="/images/Getting-to-SGS-600x413.png" 
+     style="width:100%"></a>
 
 <div>
 <div style="float: left">
