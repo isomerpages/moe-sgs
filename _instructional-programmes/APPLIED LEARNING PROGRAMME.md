@@ -12,7 +12,7 @@ description: ""
 
 <p style="text-align: justify;">To recognize the students’ development of 21CC, the ALP Celebration Award Presentation will be conducted every semester to celebrate students’ achievement in bringing positive change to the community they are in. </p>
 
-<a href="//images/alp_image.jpg" target = "_blank"> <img src="/images/alp_image.jpg" 
+<a href="/images/alp_image.jpg" target = "_blank"> <img src="/images/alp_image.jpg" 
      style="width:100%"></a>
 		 
 		 
