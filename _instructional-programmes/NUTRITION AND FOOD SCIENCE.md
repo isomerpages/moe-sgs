@@ -18,10 +18,18 @@ Food and Nutrition students become active contributors and concerned citizens as
 
 Food and Consumer Education students learn the importance of a healthy breakfast as well as entrepreneurship skills in order to sell their breakfast meals.
 
-![](/images/b43eaf49-90e0-40da-8748-aae738cb6222-Ita-Pranatih-Pratojanuri-250x250.jpg)
-![](/images/IMG_5426-Ita-Pranatih-Pratojanuri-250x250.jpg)
-![](/images/IMG_8034-1-Ita-Pranatih-Pratojanuri-250x250.jpg)
-![](/images/IMG_8036-Ita-Pranatih-Pratojanuri-250x250.jpg)
+
+<a href="/images/b43eaf49-90e0-40da-8748-aae738cb6222-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/b43eaf49-90e0-40da-8748-aae738cb6222-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/IMG_5426-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/IMG_5426-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/IMG_8034-1-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/IMG_8034-1-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/IMG_8036-Ita-Pranatih-Pratojanuri-250x250.jpg" target = "_blank"> <img src="/images/IMG_8036-Ita-Pranatih-Pratojanuri-250x250.jpg" 
+     style="width:50%"></a>
 
 ##### **Achievements**
 
