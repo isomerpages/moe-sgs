@@ -3,7 +3,6 @@ title: MUSIC
 permalink: /academic-exellence/music/
 description: ""
 ---
-# hyperlinking image not done
 Our school has in place a General Music Programme which aims to provide students with a basic music education, which creates opportunities to develop their music abilities.
 
 Students are exposed to instrumental skills such as ukulele, keyboard and drums. Students are also encouraged to explore musical creativity through song-writing modules. In this comprehensive 2-year music programme, students develop the ability for creative expression and communication, develop an awareness of music in local and global cultures, and acquire a basis for an informed and life-long involvement in music.
