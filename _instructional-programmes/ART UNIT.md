@@ -60,8 +60,37 @@ description: ""
 	</figcaption>
 </figure>
 
-![](/images/ART%20UNIT/Slide5-250x250.jpg)
-![](/images/ART%20UNIT/Slide6-250x250.jpg)
-![](/images/ART%20UNIT/Slide7-250x250.jpg)
-![](/images/ART%20UNIT/Slide8-250x250.jpg)
-![](/images/ART%20UNIT/Slide9-250x250.jpg)
+<figure>
+	<a href="/images/ART%20UNIT/Slide6-250x250.jpg" target = "_blank"> <img src="/images/ART%20UNIT/Slide6-250x250.jpg" 
+     style="width:40%"></a>
+<figcaption> 
+	<strong> Yeo Rui En Valerie
+	</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/ART%20UNIT/Slide7-250x250.jpg" target = "_blank"> <img src="/images/ART%20UNIT/Slide7-250x250.jpg" 
+     style="width:40%"></a>
+<figcaption> 
+	<strong> Michella Loo Jia Yun
+	</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/ART%20UNIT/Slide8-250x250.jpg" target = "_blank"> <img src="/images/ART%20UNIT/Slide8-250x250.jpg" 
+     style="width:40%"></a>
+<figcaption> 
+	<strong> Manarang Jackie Renise Duco and & Chew Tze May Celeste </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/ART%20UNIT/Slide9-250x250.jpg" target = "_blank"> <img src="/images/ART%20UNIT/Slide9-250x250.jpg" 
+     style="width:40%"></a>
+<figcaption> 
+	<strong> Goh Yi Xing, Elyssa & Thor Hui Qin
+	</strong> 
+	</figcaption>
+</figure>
