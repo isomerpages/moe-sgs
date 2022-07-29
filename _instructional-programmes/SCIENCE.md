@@ -123,9 +123,38 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <p style="text-align: justify;"> Advanced Elective Modules (AEMs), a collaboration with the polytechnics provides students with opportunities to make sense of, and apply knowledge to authentic, relevant learning contexts and to help them discover their strengths and interests. Participation in AEMs also serve to strengthen the students’ portfolios through enhanced learning experiences. </p>
 
 <figure>
-<img src="/images/Slide15-250x250.jpg"	style="width:50%">
-<figcaption> <strong>Aerospace Fundamentals in Flight Simulation at Singapore Polytechnic</strong> </figcaption>
+	<a href="/images/Slide15-250x250.jpg" target = "_blank"> <img src="/images/Slide15-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Aerospace Fundamentals in Flight Simulation at Singapore Polytechnic</strong> 
+	</figcaption>
 </figure>
+
+<figure>
+	<a href="/images/Slide11-250x250.jpg" target = "_blank"> <img src="/images/Slide11-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Meticulous and careful pasting of leaves onto bookmarks for staff</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Slide11-250x250.jpg" target = "_blank"> <img src="/images/Slide11-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Meticulous and careful pasting of leaves onto bookmarks for staff</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Slide11-250x250.jpg" target = "_blank"> <img src="/images/Slide11-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Meticulous and careful pasting of leaves onto bookmarks for staff</strong> 
+	</figcaption>
+</figure>
+
+
 
 <figure>
 <img src="/images/Slide16-250x250.jpg"	style="width:50%">
