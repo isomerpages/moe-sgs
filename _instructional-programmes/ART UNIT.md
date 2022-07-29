@@ -39,7 +39,7 @@ description: ""
 <figcaption> <strong> Yrauda Katrina Gaille Cuarez – People’s Choice Award </strong> </figcaption>
 </figure>
 
-###### **2021 Yellowren Inter-school Canvas Art Competition (Students at Work)**
+**2021 Yellowren Inter-school Canvas Art Competition (Students at Work)**
 
 <figure>
 <img src="/images/ART%20UNIT/Slide3-600x263.jpg">
@@ -47,3 +47,13 @@ description: ""
 </figure>
 
 **2021 NEA Design-A-Table Activity (Students at Work)**
+
+![](/images/ART%20UNIT/Slide4-768x432.jpg)
+
+**2021 NEA Design-A-Table Activity – Final Work**
+
+![](/images/ART%20UNIT/Slide5-250x250.jpg)
+![](/images/ART%20UNIT/Slide6-250x250.jpg)
+![](/images/ART%20UNIT/Slide7-250x250.jpg)
+![](/images/ART%20UNIT/Slide8-250x250.jpg)
+![](/images/ART%20UNIT/Slide9-250x250.jpg)
