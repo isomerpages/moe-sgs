@@ -131,44 +131,27 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 </figure>
 
 <figure>
-	<a href="/images/Slide11-250x250.jpg" target = "_blank"> <img src="/images/Slide11-250x250.jpg" 
+	<a href="/images/Slide16-250x250.jpg" target = "_blank"> <img src="/images/Slide16-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
-	<strong> Meticulous and careful pasting of leaves onto bookmarks for staff</strong> 
+	<strong> Discovering Stem Cell & Gene Therapy at Singapore Polytechnic</strong> 
 	</figcaption>
 </figure>
 
 <figure>
-	<a href="/images/Slide11-250x250.jpg" target = "_blank"> <img src="/images/Slide11-250x250.jpg" 
+	<a href="/images/Slide17-250x250.jpg" target = "_blank"> <img src="/images/Slide17-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
-	<strong> Meticulous and careful pasting of leaves onto bookmarks for staff</strong> 
+	<strong> Student participants at Singapore Polytechnic</strong> 
 	</figcaption>
 </figure>
 
 <figure>
-	<a href="/images/Slide11-250x250.jpg" target = "_blank"> <img src="/images/Slide11-250x250.jpg" 
+	<a href="/images/Slide18-250x250.jpg" target = "_blank"> <img src="/images/Slide18-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
-	<strong> Meticulous and careful pasting of leaves onto bookmarks for staff</strong> 
+	<strong> Student participants at Temasek Polytechnic</strong> 
 	</figcaption>
-</figure>
-
-
-
-<figure>
-<img src="/images/Slide16-250x250.jpg"	style="width:50%">
-<figcaption> <strong>Discovering Stem Cell & Gene Therapy at Singapore Polytechnic</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Slide17-250x250.jpg"	style="width:50%">
-<figcaption> <strong>Student participants at Singapore Polytechnic</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Slide18-250x250.jpg"	style="width:50%">
-<figcaption> <strong>Student participants at Temasek Polytechnic</strong> </figcaption>
 </figure>
 
 <p style="text-align: justify;"> To increase our students’ exposure to learning opportunities beyond the school, the department provides opportunities for students to participate in external competitions. An example is the annual GMAC Challenge organized by the Genetic Modification Advisory Committee. Participants are tasked to create an infographic poster based on various GM themes with the aim of promoting active learning and stimulating students’ interest in Science-based GM-related topics. </p>
