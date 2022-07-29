@@ -32,7 +32,10 @@ description: ""
 <figcaption> <strong> Woo Jiaxin – Winner </strong> </figcaption>
 </figure>
 
-
 2.  **2021 National Kidney Foundation Sticker Design**
 
+<figure>
+<img src="/images/ART%20UNIT/Slide2-768x432.jpg">
+<figcaption> <strong> Yrauda Katrina Gaille Cuarez – People’s Choice Award </strong> </figcaption>
+</figure>
 
