@@ -26,4 +26,3 @@ In upper secondary music curriculum, students are equipped with the basic music 
 		 
 <img src="/images/Gayathri-Stephanie-Zhong-Hongkun-250x250.jpg" 
      style="width:50%">
-
