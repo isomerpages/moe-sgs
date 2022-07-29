@@ -43,14 +43,21 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <p style="text-align: justify;"> The Hydroponics Research Programme focuses on connecting students’ knowledge learnt in school to solve real-world issues such as food security problems through Science, Technology, Engineering and Math (STEM). It also aims to develop learning dispositions such as resilience and adaptability when conducting their research. </p>
 
 <figure>
-<img src="/images/Slide5-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong>Students transplanting seedlings into the Hydroponics bed</strong> </figcaption>
+	<a href="/images/Slide5-1-250x250.jpg" target = "_blank"> <img src="/images/Slide5-1-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Students transplanting seedlings into the Hydroponics bed </strong> 
+	</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide6-1-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Research in action: a student setting up a different coloured lighting system for plant growth</strong> </figcaption>
+	<a href="/images/Slide6-1-250x250.jpg" target = "_blank"> <img src="/images/Slide6-1-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> [Pre-Covid photo] Research in action: a student setting up a different coloured lighting system for plant growth</strong> 
+	</figcaption>
 </figure>
+
 
 <p style="text-align: justify;"> The Hydroponics Multi-Disciplinary Enrichment Programme aims to nurture scientific literacy, creativity in our students through an integrative approach, with an emphasis to nurture eco-stewardship in our students so as to promote awareness of urban farming and sustainable living. </p>
 
