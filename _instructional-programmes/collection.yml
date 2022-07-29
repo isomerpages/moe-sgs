@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - ART UNIT.md
       - NUTRITION AND FOOD SCIENCE.md
       - MUSIC.md
       - DESIGN & TECHNOLOGY.md
