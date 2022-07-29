@@ -62,19 +62,29 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 <p style="text-align: justify;"> The Hydroponics Multi-Disciplinary Enrichment Programme aims to nurture scientific literacy, creativity in our students through an integrative approach, with an emphasis to nurture eco-stewardship in our students so as to promote awareness of urban farming and sustainable living. </p>
 
 <figure>
-<img src="/images/Slide8-250x250.jpg"	style="width:50%">
-<figcaption> <strong> [Pre-Covid photo] Harvesting & packing of Hydroponics crops for donation to encourage urban farming and sustainable living in our community</strong> </figcaption>
+	<a href="/images/Slide8-250x250.jpg" target = "_blank"> <img src="/images/Slide8-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong>[Pre-Covid photo] Harvesting & packing of Hydroponics crops for donation to encourage urban farming and sustainable living in our community</strong> 
+	</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide7-2-250x250.jpg"	style="width:50%">
-<figcaption> <strong>After weeks of tending and caring for the Hydroponics crops, a student’s patience is paid off with a bag of spinach, after a therapeutic and satisfying harvesting experience at the Hydroponics greenhouse.</strong> </figcaption>
+	<a href="/images/Slide7-2-250x250.jpg" target = "_blank"> <img src="/images/Slide7-2-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> After weeks of tending and caring for the Hydroponics crops, a student’s patience is paid off with a bag of spinach, after a therapeutic and satisfying harvesting experience at the Hydroponics greenhouse.</strong> 
+	</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide9-250x250.jpg"	style="width:50%">
-<figcaption> <strong>[Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> </figcaption>
+	<a href="/images/Slide9-250x250.jpg" target = "_blank"> <img src="/images/Slide9-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> [Pre-Covid photo] Benefitting the community through donation of Hydroponics crops to the Singapore Cheshire Home</strong> 
+	</figcaption>
 </figure>
+
 
 <p style="text-align: justify;"> As part of the Hydroponics Enrichment Programme, the Science department collaborated with the school’s CCE ambassadors in our Be-. Up- project. The project involved the growing of sweet Thai basil plants in our Hydroponics greenhouse, with the aim of promoting awareness of urban farming and sustainable living. The Teachers’ Day cards, personalized bookmark/ nametag, and cards designed with the laminated basil leaves aim to celebrate all SGS staff who dedicatedly brave the rain or shine each day to shelter and nurture the seeds of the future. “The flowers that bloom tomorrow are the seeds that we plant today.” </p>
 
