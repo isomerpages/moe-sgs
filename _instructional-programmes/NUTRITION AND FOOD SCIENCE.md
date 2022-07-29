@@ -13,7 +13,7 @@ description: ""
 
 test
 
-###### Partnership with TOUCH Diabetes
+###### **Partnership with TOUCH Diabetes**
 
 <p style="text-align: justify;"> Food and Nutrition students become active contributors and concerned citizens as they partner with TOUCH Diabetes, creating modified meals for diabetic patients. Students learn more about meal planning and put into practice the knowledge and skills they gained in the classroom to create the meals. </p>
 
