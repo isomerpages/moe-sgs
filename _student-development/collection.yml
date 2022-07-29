@@ -1,4 +1,5 @@
 collections:
   student-development:
     output: true
-    order: []
+    order:
+      - LEVEL SIGNATURE PROGRAMMES.md
