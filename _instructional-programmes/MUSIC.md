@@ -15,11 +15,15 @@ Besides performing during class presentation, students are given the opportuniti
 
 In upper secondary music curriculum, students are equipped with the basic music technology skills, such as arranging popular song covers with the use of music software. To extend learning beyond the classroom setting, upper secondary music students have the opportunity to appreciate western musicals such as The Lion King at Marina Bay Sands Theatre, as well as performing the annual combined music camp held by Art Education Branch and ITE College Central.
 
+<img src="/images/2E4-Stephanie-Zhong-Hongkun-250x250.jpg" 
+     style="width:50%">
 
-![](/images/2E4-Stephanie-Zhong-Hongkun-250x250.jpg)
+<img src="/images/2T-Stephanie-Zhong-Hongkun-250x250.jpg" 
+     style="width:50%">
 
-![](/images/2T-Stephanie-Zhong-Hongkun-250x250.jpg)
+<img src="/images/4NT-Stephanie-Zhong-Hongkun-250x250.jpg" 
+     style="width:50%">
+		 
+<img src="/images/Gayathri-Stephanie-Zhong-Hongkun-250x250.jpg" 
+     style="width:50%">
 
-![](/images/4NT-Stephanie-Zhong-Hongkun-250x250.jpg)
-
-![](/images/Gayathri-Stephanie-Zhong-Hongkun-250x250.jpg)
