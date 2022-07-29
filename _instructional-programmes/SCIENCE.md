@@ -114,9 +114,12 @@ Science Learning Day includes a wide array of authentic learning experiences to 
 
 <p style="text-align: justify;"> The Young Explorers’ Experiment Toolkit (YEET) project was designed to encourage self-directed learning in students, sparking curiosity and imbue the joy of learning in Science through simple DIY experiments at home, and virtual explorations/tours beyond the classroom and laboratory lessons. Leveraging on the students’ PLDs, Google Classroom was used for its implementation and administration. For instance, e-booklets were used instead of the printed physical copies of the programme booklets, thus reinforcing the school’s green initiatives and efforts to reduce its carbon footprint. </p>
 
-![](/images/Slide13.jpg)
-![](/images/Slide14.jpg)
+<a href="/images/Slide13.jpg" target = "_blank"> <img src="/images/Slide13.jpg" 
+     style="width:100%"></a>
 
+<a href="/images/Slide14.jpg" target = "_blank"> <img src="/images/Slide14.jpg" 
+     style="width:100%"></a>
+		 
 <p style="text-align: justify;"> Advanced Elective Modules (AEMs), a collaboration with the polytechnics provides students with opportunities to make sense of, and apply knowledge to authentic, relevant learning contexts and to help them discover their strengths and interests. Participation in AEMs also serve to strengthen the students’ portfolios through enhanced learning experiences. </p>
 
 <figure>
