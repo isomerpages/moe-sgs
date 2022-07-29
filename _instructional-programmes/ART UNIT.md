@@ -43,7 +43,5 @@ description: ""
 
 <figure>
 <img src="/images/ART%20UNIT/Slide3-600x263.jpg">
-<figcaption> <strong> Yrauda Katrina Gaille Cuarez – People’s Choice Award </strong> </figcaption>
+<figcaption> <strong> Theme: Redemption: Environment | Technology | Society </strong> </figcaption>
 </figure>
-
-
