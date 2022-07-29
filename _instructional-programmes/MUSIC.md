@@ -7,7 +7,7 @@ Our school has in place a General Music Programme which aims to provide students
 
 Students are exposed to instrumental skills such as ukulele, keyboard and drums. Students are also encouraged to explore musical creativity through song-writing modules. In this comprehensive 2-year music programme, students develop the ability for creative expression and communication, develop an awareness of music in local and global cultures, and acquire a basis for an informed and life-long involvement in music.
 
-**Signature Programmes**
+##### **Signature Programmes**
 
 In lower secondary level, our music programme focuses on Pop Band Song Cover module. Over the two-year programme, students are equipped with the basic skills in acoustic instruments such as guitars, ukuleles and keyboard. Virtual drum apps are also used in class to provide every student with the opportunities to learn drums. Through our programme, students work in groups to put up song covers.
 
