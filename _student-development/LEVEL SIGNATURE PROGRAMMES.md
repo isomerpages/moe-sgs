@@ -7,6 +7,7 @@ The Level Signature Programme (LSP) is unique to Serangoon Garden Secondary Scho
 
 *   provide opportunities for SGSians to experience learning beyond their classrooms, and
 *   strengthen peer and teacher-student relationship (TSR) through participating in the activities together.
+
 Every year, pupils of all levels participate in programmes, specially curated for each level.  The pupils of Secondary 1, for example participate in a Healthy Lifestyle Programme where they learn various sports and games such as archery.  They will also learn the importance of healthy eating through making healthy sandwiches, taught and guided by our own teachers from the Food and Nutrition Department.
 
 The Secondary 2s, on the other hand, would get to travel overseas to our neighbouring country, Malaysia.  In 2019, the cohort went on a 4D3N immersion trip to Penang, Kuala Lumpur and Kuching. They visited various places of interests and schools, and they had the opportunity to be part of a VIA programme in a charitable home.  
