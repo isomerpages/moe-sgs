@@ -107,3 +107,19 @@ description: ""
 <figcaption> <strong> Vera Tang Hui En & Renise Soo Renhui </strong> </figcaption>
 </figure>
 
+**2021 Public Transport Workers’ Appreciation Colouring Contest – Shortlisted entries**
+
+<figure>
+<img src="/images/ART%20UNIT/Slide12-600x218.jpg">
+<figcaption> <strong> Neo Ming Hui & Chang Kai Le
+	</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/ART%20UNIT/Slide13-600x242.jpg">
+<figcaption> <strong>  Vera Tang Hui En
+	</strong> </figcaption>
+</figure>
+
+
+
