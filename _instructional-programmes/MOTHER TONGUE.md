@@ -31,7 +31,6 @@ description: ""
 	</figcaption>
 </figure>
 
-
 ##### **Achievements**
 
 **2018**
