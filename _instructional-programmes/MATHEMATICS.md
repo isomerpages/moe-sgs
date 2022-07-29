@@ -27,26 +27,35 @@ description: ""
 <p style="text-align: justify;"> Students who struggle with Math often lack confidence and lack the belief that they can do Math. They often fail exams and in fact, some have never passed Math since Primary school! To support these students, the department allows them to reattempt certain assignments over and over until they get it right. Immediate (and automated) feedback is given after each attempt so that they can learn from their mistakes and eventually get it right (and be awarded full marks). This process is critical in changing their perspective that Math is “un-passable”. One of the ways we do this is through an online Math Portal where students can repeatedly practice key concepts and eventually achieve mastery. </p>
 
 <figure>
-<img src="/images/Slide3-3.jpg">
-<figcaption> <strong> Maths Portal assignment where students can try repeatedly</strong> </figcaption>
+	<a href="/images/Slide3-3.jpg" target = "_blank"> <img src="/images/Slide3-3.jpg" 
+     style="width:100%"></a>
+<figcaption> 
+	<strong>  Maths Portal assignment where students can try repeatedly </strong> 
+	</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Slide4-3.jpg">
-<figcaption> <strong>Students given immediate feedback when they get it wrong</strong> </figcaption>
+	<a href="/images/Slide4-3.jpg" target = "_blank"> <img src="/images/Slide4-3.jpg" 
+     style="width:100%"></a>
+<figcaption> 
+	<strong> Students given immediate feedback when they get it wrong </strong> 
+	</figcaption>
 </figure>
 
 ##### **Bringing Math to Life**
 
 <p style="text-align: justify;"> Math is all around us and we want students to realize this through fun activities. We bring students out for amazing race at places like Changi Airport and Botanic Gardens where they measure, identify and solve Math-related problems in real life. In school, we bring students out of the classroom to estimate the length of tall objects in school without actually having to measure it or peel oranges to derive the relationship between the surface area of spheres and their cross-sectional area. We hope that through these activities, students will appreciate and see more purpose in their learning. </p>
 
-![](/images/Slide5-3.jpg)
+<a href="/images/Slide5-3.jpg" target = "_blank"> <img src="/images/Slide5-3.jpg" 
+     style="width:100%"></a>
 
 <figure>
-<img src="/images/Slide6-3.jpg">
-<figcaption> <strong>Students deriving the formula of the surface area of a sphere</strong> </figcaption>
+	<a href="/images/Slide6-3.jpg" target = "_blank"> <img src="/images/Slide6-3.jpg" 
+     style="width:100%"></a>
+<figcaption> 
+	<strong> Students deriving the formula of the surface area of a sphere </strong> 
+	</figcaption>
 </figure>
-
 
 ##### **Customized Programmes to cater to Students’ needs**
 
