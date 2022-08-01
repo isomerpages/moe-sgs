@@ -22,4 +22,3 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <img src="/images/CCA%20Floorball/Slide4-1-250x250.jpg" 
      style="width:50%">
-
