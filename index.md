@@ -13,8 +13,8 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Applied Learning Programme
+          description: DESCRIPTION TOO LONG & OMITTED
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
