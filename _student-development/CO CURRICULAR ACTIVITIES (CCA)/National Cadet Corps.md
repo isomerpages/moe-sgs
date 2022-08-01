@@ -14,15 +14,15 @@ To have Extraordinary Youth Leaders
 
 To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-Related Activities
 
-<u>**Motto**</u>
+<u>Motto</u>
 
 To Serve with Pride and Dedication
 
-<u>**Tagline**</u>
+<u>Tagline</u>
 
 Nurturing. Committed. Cool
 
-<u>**Theme**</u>
+<u>Theme</u>
 
 ‘Cadet Strong’, comprising of the following elements:
 
