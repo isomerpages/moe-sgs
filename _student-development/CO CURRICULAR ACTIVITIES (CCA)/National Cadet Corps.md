@@ -42,7 +42,18 @@ A cadet has a committed heart and lives by the NCC Core Values, with a strong se
 
 <div>
 <div style="float: right">
-<img src="https://loremflickr.com/320/240" />
+<img src="/images/CCA%20NCC/Ncc-song.jpg" />
 </div><div>
-Text content goes here
+	
+**Lion head**
+
+The lion, also known as the king of the jungle, is symbolic of 2 characteristics that every cadet should have: leadership and bravery.
+
+**Leadership**
+
+Every cadet should not only learn how to lead himself through self-discipline, but also how to lead others through servant leadership (help others so as to move forward as a unit).
+
+**Bravery**
+
+Through fun, adventurous and military-related activities, cadets are given meaningful opportunities to courageously challenge themselves, with the nurturing support of fellow cadets, seniors and teacher officers.
 </div></div>
