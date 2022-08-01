@@ -86,7 +86,7 @@ In addition, the team discussed on the march-in segment for the upcoming Nationa
 </figure>
 
 <figure>
-	<a href="/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg" 
+	<a href="/images/CCA%20NCC/Zoom-NCC-2-250x250.jpg" target = "_blank"> <img src="/images/CCA%20NCC/Zoom-NCC-2-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
 	<strong> Zoom Ncc </strong> 
@@ -94,12 +94,12 @@ In addition, the team discussed on the march-in segment for the upcoming Nationa
 </figure>
 
 <figure>
-	<a href="/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg" 
+	<a href="/images/CCA%20NCC/Zoom-NCC-250x250.jpg" target = "_blank"> <img src="/images/CCA%20NCC/Zoom-NCC-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
 	<strong> Zoom Ncc </strong> 
 	</figcaption>
 </figure>
 
-![](/images/CCA%20NCC/Zoom-NCC-2-250x250.jpg)
+
 ![](/images/CCA%20NCC/Zoom-NCC-250x250.jpg)
