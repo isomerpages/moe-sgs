@@ -14,7 +14,15 @@ Anyone can steer a ship in calm waters, but not every student is able to weather
 
 The CCA presents our girls with an array of opportunities that include Zonal competitions, sports carnivals, camps and even values-in-action programmes.
 
+![](/images/CCA%20Netball/Slide1-12-250x250.jpg)
+![](/images/CCA%20Netball/Slide2-10-250x250.jpg)
+![](/images/CCA%20Netball/Slide3-7-250x250.jpg)
+![](/images/CCA%20Netball/Slide4-8-250x250.jpg)
+![](/images/CCA%20Netball/Slide5-4-250x250.jpg)
+![](/images/CCA%20Netball/Slide6-4-250x250.jpg)
+
 ##### **CCA Training in times of COVID-19**
 
 <p style="text-align: justify;"> In another year of Covid-19, the teachers-in-charge and students took the opportunity to show appreciation to the school staff. The VIA core members planned and taught the team on how to make mask straps via zoom sessions. It was given as part of the care packages to our school cleaners and teachers as an appreciation for them for keeping the school a safe place for us. An instructional video was also made and shared with other students on how to make a simple mask strap for themselves too. Be it physical trainings or online meeting, the team finds ways to create memorable moments, forge camaraderie and had fun together! </p>
 
+![](/images/CCA%20Netball/Slide7-4-e1637914226628-768x280.jpg)
