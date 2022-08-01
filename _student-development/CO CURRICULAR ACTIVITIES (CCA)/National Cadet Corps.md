@@ -38,7 +38,7 @@ Committed Heart:
 
 A cadet has a committed heart and lives by the NCC Core Values, with a strong sense of purpose to serve his team, school and nation. The cadet learns passionately to develop his own abilities and proactively contributes towards wherever he is.
 
-<p style="text-align: justify;"><strong><u>SGS Unit Flag and its significance</u></strong></p>
+##### <p style="text-align: justify;"><strong><u>SGS Unit Flag and its significance</u></strong></p>
 
 <div>
 <div style="float: right">
