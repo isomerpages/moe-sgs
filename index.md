@@ -7,21 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Applied Learning Programme
-          description: DESCRIPTION TOO LONG & OMITTED
-          url: /instructional-programmes/academic-exellence/applied-learning-programme/
-        - title: Learning for Life Programme
-          description: DESCRIPTION TOO LONG & OMITTED
-          url: /academic-exellence/llp/
-        - title: Arts Education Programme
-          description: DESCRIPTION TOO LONG & OMITTED
-          url: /signature-programmes/artssgs/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
