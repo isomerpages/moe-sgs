@@ -58,7 +58,7 @@ Students who enjoy making short films, taking photographs or working with sound 
 
 <figure>
 	 <img src="/images/CCA%20Media%20Studio/Slide8-2-250x250.jpg"
-    style="width:50%"></a>
+    style="width:50%">
 <figcaption>
 	<strong> Our School Our Story submission, Brandon, 2021 </strong>
 	</figcaption>
@@ -66,7 +66,7 @@ Students who enjoy making short films, taking photographs or working with sound 
 
 <figure>
 	 <img src="/images/CCA%20Media%20Studio/Slide7-2-250x250.jpg"
-    style="width:50%"></a>
+    style="width:50%">
 <figcaption>
 	<strong> National Young Shutterbugs Film Competition, 2019</strong>
 	</figcaption>
@@ -82,7 +82,7 @@ Students who enjoy making short films, taking photographs or working with sound 
 
 <figure>
 	 <img src="/images/CCA%20Media%20Studio/Slide9-1-768x432.jpg"
-    style="width:100%"></a>
+    style="width:100%">
 <figcaption>
 	<strong>   e-CCA sessions photos, 2021</strong>
 	</figcaption>
