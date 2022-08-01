@@ -48,25 +48,23 @@ The CCA presents our girls with an array of opportunities that include Zonal com
 
 
 <figure>
- <img src="/images/CCA%20Netball/Slide3-7-250x250.jpg" 
+ <img src="/images/CCA%20Netball/Slide5-4-250x250.jpg" 
      style="width:50%">
 <figcaption> 
-	<strong> Inter-School Friendly Competition</strong> 
+	<strong> CCA Open House Briefing and Trials for the Sec 1s</strong> 
 	</figcaption>
 </figure>
 
 
 <figure>
- <img src="/images/CCA%20Netball/Slide3-7-250x250.jpg" 
+ <img src="/images/CCA%20Netball/Slide6-4-250x250.jpg" 
      style="width:50%">
 <figcaption> 
-	<strong> Inter-School Friendly Competition</strong> 
+	<strong> Team Bonding Day- 5 minutes team challenge: Lining what they have across the hall</strong> 
 	</figcaption>
 </figure>
 
 ![](/)
-![](/images/CCA%20Netball/Slide5-4-250x250.jpg)
-![](/images/CCA%20Netball/Slide6-4-250x250.jpg)
 
 ##### **CCA Training in times of COVID-19**
 
