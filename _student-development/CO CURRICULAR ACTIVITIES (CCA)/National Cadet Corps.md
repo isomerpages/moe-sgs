@@ -100,6 +100,3 @@ In addition, the team discussed on the march-in segment for the upcoming Nationa
 	<strong> Zoom Ncc </strong> 
 	</figcaption>
 </figure>
-
-
-![](/images/CCA%20NCC/Zoom-NCC-250x250.jpg)
