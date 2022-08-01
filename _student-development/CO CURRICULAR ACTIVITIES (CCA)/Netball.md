@@ -25,4 +25,7 @@ The CCA presents our girls with an array of opportunities that include Zonal com
 
 <p style="text-align: justify;"> In another year of Covid-19, the teachers-in-charge and students took the opportunity to show appreciation to the school staff. The VIA core members planned and taught the team on how to make mask straps via zoom sessions. It was given as part of the care packages to our school cleaners and teachers as an appreciation for them for keeping the school a safe place for us. An instructional video was also made and shared with other students on how to make a simple mask strap for themselves too. Be it physical trainings or online meeting, the team finds ways to create memorable moments, forge camaraderie and had fun together! </p>
 
-![](/images/CCA%20Netball/Slide7-4-e1637914226628-768x280.jpg)
+<figure>
+<img src="/images/CCA%20Netball/Slide7-4-e1637914226628-768x280.jpg">
+<figcaption> <strong> VIA Project- Uplifting Covid-19 Spirit & Showing Appreciation to Staff </strong> </figcaption>
+</figure>
