@@ -19,8 +19,8 @@ sections:
         - title: Learning for Life Programme
           description: DESCRIPTION TOO LONG & OMITTED
           url: /academic-exellence/llp/
-        - title: Page A
-          description: Page A is important too
+        - title: Arts Education Programme
+          description: DESCRIPTION TOO LONG & OMITTED
           url: /privacy/
   - infobar:
       title: Infobar title
