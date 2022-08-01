@@ -34,11 +34,11 @@ Students who enjoy making short films, taking photographs or working with sound 
 	<a href="/images/CCA%20Media%20Studio/Slide3-4-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Media%20Studio/Slide3-4-250x250.jpg"
     style="width:50%"></a>
 <figcaption>
-	<strong> Slide6CCA Sessions 2021 </strong>
+	<strong> Recording for Hari Raya celebration performance, 2021 </strong>
 	</figcaption>
 </figure>
 
-![](/images/CCA%20Media%20Studio/Slide3-4-250x250.jpg)
+
 
 ![](/images/CCA%20Media%20Studio/Slide9-1-768x432.jpg)
 ![](/images/CCA%20Media%20Studio/Slide8-2-250x250.jpg)
