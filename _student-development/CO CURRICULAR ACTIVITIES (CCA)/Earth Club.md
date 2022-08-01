@@ -11,7 +11,7 @@ Following our guiding principle of “I Know – I Do – I Advocate”, our CC
 *   Fuel lifelong learning and passion in environmental sustainability
 *   Provide opportunities and empower students to initiate meaningful environmental activities
 *   Provide a platform through which students can advocate for sound environmental behaviour
-*   
+
 <img src="/images/CCA%20Earth%20Club/Slide1-3-250x250.png" 
      style="width:50%">
 
