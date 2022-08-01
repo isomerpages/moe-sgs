@@ -69,3 +69,10 @@ description: ""
 </table>
 
 **CCA Schedule**
+
+|  **Day** |     **Time***    |                                    **CCA**                                    |
+|:--------:|:----------------:|:-----------------------------------------------------------------------------:|
+|  Monday  | 3.00pm to 5.30pm |                                   Badminton                                   |
+|  Tuesday | 3.00pm to 5.30pm | All Clubs and Societies, Physical Sports and Visual and Performing Arts CCAs. |
+| Thursday | 3.00pm to 5.30pm | All Clubs and Societies, Physical Sports and Visual and Performing Arts CCAs. |
+|  Friday  | 2.00pm to 5.00pm |                           All Uniformed Group CCAs.                           |
