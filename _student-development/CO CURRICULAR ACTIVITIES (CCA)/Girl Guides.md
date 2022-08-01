@@ -6,7 +6,11 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
 <p style="text-align: justify;"> The Girl Guides is a worldwide movement to “enable girls and young women to develop their fullest potential and become responsible citizens of the world”. Standing by its motto, ‘Be Prepared’, SGS 1st Company Guides is always reliable when called upon. </p>
 
+![](/images/CCA%20Girl%20Guides/girl_guide1.jpg)
+
 <p style="text-align: justify;"> SGS Guides empowers girls through fun and challenging programmes. They diligently pursue personal growth and sharpen their skills, especially outdoor survival skills such as tent-pitching, outdoor cooking and gadget-making. SGS Guides take pride in what they do and persevere through the toughest situations. </p>
+
+![](/images/CCA%20Girl%20Guides/girl_guide2.jpg)
 
 <p style="text-align: justify;"> Together with the school and community, SGS Guides strive to develop our young ladies into women of tomorrow with leadership qualities and a critical mind. It is an honour for the SGS Guides to be awarded the 2019 Gold Puan Noor Aishah Award for the 11th consecutive year. The award is a recognition of the Girl Guides’ relentless effort in pursuing the best and giving back to the school and community. </p>
 
