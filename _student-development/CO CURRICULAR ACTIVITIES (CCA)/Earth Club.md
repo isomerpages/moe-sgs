@@ -4,7 +4,7 @@ permalink: /student-development/CO-CURRICULAR-ACTIVITIES-CCA/earth-club/
 description: ""
 third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
-SGS Earth Club is at the heart of our school’s sustainability movement. In alignment with SG Green Plan and MOE’s Eco Stewardship Programme, our CCA aims to groom students to champion green sustainable initiatives in SGS.
+<p style="text-align: justify;"> SGS Earth Club is at the heart of our school’s sustainability movement. In alignment with SG Green Plan and MOE’s Eco Stewardship Programme, our CCA aims to groom students to champion green sustainable initiatives in SGS. </p>
 
 Following our guiding principle of “I Know – I Do – I Advocate”, our CCA aims to:
 
