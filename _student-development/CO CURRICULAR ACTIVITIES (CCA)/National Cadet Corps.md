@@ -58,11 +58,11 @@ Every cadet should not only learn how to lead himself through self-discipline, b
 Through fun, adventurous and military-related activities, cadets are given meaningful opportunities to courageously challenge themselves, with the nurturing support of fellow cadets, seniors and teacher officers.
 </div></div>
 
-<u>**White background**</u>
+<u>White background</u>
 
 The colour white represents purity and virtues, which is what cadets should possess as they serve others in their own capacity.
 
-<u>**NCC Crest** </u>
+<u>NCC Crest</u>
 
 It is important for cadets to remember that at the end of every training, through the National Cadet Corps, they would have learned how they can better serve their country, Singapore.
 
