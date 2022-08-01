@@ -72,7 +72,7 @@ Students who enjoy making short films, taking photographs or working with sound 
 	</figcaption>
 </figure>
 
-###### **CCA Training in times of COVID-19**
+##### **CCA Training in times of COVID-19**
 
 <p style="text-align: justify;"> In view of the current COVID-19 situation, sessions were conducted via ZOOM where the instructors taught essential skills for photography and videography.  Secondary 1 students and selected Secondary 3 students did photography while the Secondary 2 and selected Secondary 3 students did videography. </p>
 
