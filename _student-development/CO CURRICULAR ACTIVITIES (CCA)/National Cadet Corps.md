@@ -65,3 +65,14 @@ The colour white represents purity and virtues, which is what cadets should poss
 <u>**NCC Crest** </u>
 
 It is important for cadets to remember that at the end of every training, through the National Cadet Corps, they would have learned how they can better serve their country, Singapore.
+
+
+##### **Online Co-curricular activities (_CCA_)**
+
+Like any other CCAs, the teachers-in-charge organized a zoom session with the Secondary 3 NCC Student Leaders on 25 June 2020.  This was the first online session for NCC.
+
+Both the teachers-in-charge and Student Leaders discussed in depth, the plans for the whole unit, in the midst of the pandemic.  There were plentiful good suggestions with regard to promoting greater student engagement, whether the sessions are held online or through face-to-face interaction.  The senior cadets, for example, shared the mission, vision and core values of NCC with their juniors via power-point slides and short quizzes. 
+
+The subsequent online sessions were conducted weekly, where the junior cadets were taught to wear their uniforms properly, via video demonstrations.
+
+In addition, the team discussed on the march-in segment for the upcoming National Day celebrations.  NCC was put in charge of the march-in segment for the celebration.
