@@ -76,3 +76,7 @@ Both the teachers-in-charge and Student Leaders discussed in depth, the plans fo
 The subsequent online sessions were conducted weekly, where the junior cadets were taught to wear their uniforms properly, via video demonstrations.
 
 In addition, the team discussed on the march-in segment for the upcoming National Day celebrations.  NCC was put in charge of the march-in segment for the celebration.
+
+![](/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg)
+![](/images/CCA%20NCC/Zoom-NCC-2-250x250.jpg)
+![](/images/CCA%20NCC/Zoom-NCC-250x250.jpg)
