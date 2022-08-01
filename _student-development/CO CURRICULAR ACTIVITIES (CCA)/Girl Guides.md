@@ -24,6 +24,11 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> The student leaders indeed led by example and served as positive role models for their juniors in being adaptable and innovative to create meaningful learning experiences for each other. </p>
 
+![](/images/CCA%20Girl%20Guides/Slide17-768x432.jpg)
+![](/images/CCA%20Girl%20Guides/Slide16-768x432.jpg)
+
+
+
 ##### **Achievement**
 
 Unit Award – Puan Noor Aishah (PNA) Award 2019 (Gold)
