@@ -42,7 +42,7 @@ A cadet has a committed heart and lives by the NCC Core Values, with a strong se
 
 <img src="/images/CCA%20NCC/Ncc-song.jpg" 
      style="width:50%">
-
+<p>
 <div>
 <div style="float: right">
 <img src="/images/CCA%20NCC/Ncc-song.jpg" />
@@ -60,6 +60,7 @@ Every cadet should not only learn how to lead himself through self-discipline, b
 
 Through fun, adventurous and military-related activities, cadets are given meaningful opportunities to courageously challenge themselves, with the nurturing support of fellow cadets, seniors and teacher officers.
 </div></div>
+</p>
 
 <u>White background</u>
 
