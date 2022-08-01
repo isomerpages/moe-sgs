@@ -11,3 +11,9 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <p style="text-align: justify;"> Every year, our students participate in the South Zone Table Tennis Championships and Table Tennis Individual Championships (National). Through these competitions, they learn to overcome the odds, strengthen their confidence level and foster a sense of responsibility and accountability to their team. </p>
 
 <p style="text-align: justify;"> The team is heartened that Skyler Ang Wei Zhi of 4 Integrity was nominated for the National Young Leader Award in 2021 in recognition of his positive influence on the team, as he upheld the values of integrity and diligence through his hard work and determination. </p>
+
+##### **CCA Training in times of COVID-19**
+
+In view of the current COVID-19 situation, the team is unable to come together to train physically at times. Nevertheless, this did not deter the teachers-in-charge, coaches and pupils from meeting one another to continue to train and grow in understanding of the sport. The students, under the guidance of the coach, learnt many theoretical aspects of the game through the online meeting platform Zoom. They watched videos of professional table tennis players and analysed the game play with their team members, to pick up the skills and knowledge necessary to play well in the game. This was followed by reflection by the pupils, via online collaboration tools such as Padlet. The session would always end with a satisfying physical workout, with the intention to keep all in the pink of health and to stretch one’s physical capabilities even when the chances to exercise as a team in the outdoors have reduced significantly during the pandemic.
+
+As Michael Jordan once shared, “Talent wins games, but teamwork and intelligence win championships.” The SGS Table Tennis Team will continue to hone our talent and intelligence in our game and work hard as a team to overcome any challenges ahead!
