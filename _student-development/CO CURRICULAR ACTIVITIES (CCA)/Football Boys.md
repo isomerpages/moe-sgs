@@ -9,3 +9,5 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <p style="text-align: justify;"> The SGSS Football team has been competing and achieving success at both the Zonal and National tournaments. Despite COVID 19, the boys have continued training regularly, both online and physically. This has helped to keep the players physically, technically and tactically sharp. </p>
 
 <p style="text-align: justify;"> As the CCA (and the rest of Singapore) emerges from the COVID pandemic and re-starts the regular physical sessions and competitions, we look forward to the exciting road ahead for SGSS football. </p>
+
+![](/images/football.jpg)
