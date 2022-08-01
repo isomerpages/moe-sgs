@@ -78,8 +78,8 @@ The subsequent online sessions were conducted weekly, where the junior cadets we
 In addition, the team discussed on the march-in segment for the upcoming National Day celebrations.  NCC was put in charge of the march-in segment for the celebration.
 
 <figure>
-	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
-     style="width:100%"></a>
+	<a href="/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg" 
+     style="width:50%"></a>
 <figcaption> 
 	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong> 
 	</figcaption>
@@ -97,9 +97,9 @@ In addition, the team discussed on the march-in segment for the upcoming Nationa
 	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
      style="width:100%"></a>
 <figcaption> 
-	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong> 
+	<strong> Zoom Ncc </strong> 
 	</figcaption>
 </figure>
-![](/images/CCA%20NCC/Zoom-NCC-1-250x250.jpg)
+
 ![](/images/CCA%20NCC/Zoom-NCC-2-250x250.jpg)
 ![](/images/CCA%20NCC/Zoom-NCC-250x250.jpg)
