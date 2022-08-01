@@ -8,4 +8,18 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;">  Beyond tournament performances, the shuttler’s mission in SGS is to imbue the love of racquet sports to their peers in SGS. They plan and organize CCA-based and school-based events such as Inter-house Badminton tournaments, team building activities, CCA outings, Secondary One CCA Open House exhibitions, and CCA selection trials so that as many people can get to fall in love with this social and inclusive sport. In addition, they are involved in Values-in-Action activities which allow them to develop their own character and give back to the community. </p>
 
+<figure>
+	<a href="/images/CCA%20Badminton/Slide2-250x250.png" target = "_blank"> <img src="/images/CCA%20Badminton/Slide2-250x250.png"
+    style="width:50%"></a>
+<figcaption>
+	<strong> </strong>
+	</figcaption>
+</figure>
 
+<figure>
+	<a href="/images/CCA%20Badminton/Slide1-250x250.png" target = "_blank"> <img src="/images/CCA%20Badminton/Slide1-250x250.png"
+    style="width:50%"></a>
+<figcaption>
+	<strong> </strong>
+	</figcaption>
+</figure>
