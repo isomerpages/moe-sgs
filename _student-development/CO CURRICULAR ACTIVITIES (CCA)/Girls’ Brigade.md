@@ -18,8 +18,10 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <a href="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" 
      style="width:50%"></a>
 
-
-
+![]()
+![](/images/CCA%20Girls'%20Brigade/Girls-Brigade-2-250x250.jpg)
+![](/images/CCA%20Girls'%20Brigade/Girls-Brigade-3-250x250.jpg)
+![](/images/CCA%20Girls'%20Brigade/Girls-Brigade-4-250x250.jpg)
 
 <p style="text-align: justify;"> Our company aims to provide our girls with a wide range of experiences such as outdoor adventure and numerous service learning opportunities to equip them with necessary life skills, empowering each of them to make good decisions and display a sense of responsibility towards the community. </p>
 
