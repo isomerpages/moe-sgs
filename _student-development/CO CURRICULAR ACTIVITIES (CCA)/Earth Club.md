@@ -23,5 +23,3 @@ Through these various learning opportunities, our CCA aims to develop in them le
 <figcaption> <strong> Earth Club will be a new CCA in SGS, starting in 2022!<br>
 CCA days are Tuesdays and Thursdays, 3-5pm. </strong> </figcaption>
 </figure>
-
-
