@@ -72,7 +72,12 @@ The students’ works will be featured in various school’s publicity platforms
 	</figcaption>
 </figure>
 
+<figure>
+	 <img src="/images/CCA%20Media%20Studio/Slide9-1-768x432.jpg"
+    style="width:100%"></a>
+<figcaption>
+	<strong>   e-CCA sessions photos, 2021</strong>
+	</figcaption>
+</figure>
 
 
-
-![](/images/CCA%20Media%20Studio/Slide9-1-768x432.jpg)
