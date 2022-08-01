@@ -67,11 +67,13 @@ The colour white represents purity and virtues, which is what cadets should poss
 <u>NCC Crest</u>
 
 It is important for cadets to remember that at the end of every training, through the National Cadet Corps, they would have learned how they can better serve their country, Singapore.
-<br><br><br>
+<br><br>
 
 |   NCC 8 Core Values  |   NCC Pledge   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Loyalty to Country<br>Uprightness<br>Leadership<br>Discipline<br>Commitment and Responsibility<br>Care for Fellow Cadets<br>Adventurous Spirit<br>Safety | We,<br>The members of the National Cadet Corps,<br>And youth of the Republic of Singapore,<br>Do hereby pledge,<br>To be loyal to the Republic and the Corps,<br>And to maintain a high standard of discipline and performance,<br>So that we,<br>May better serve our country. |
+
+<br>
 
 ![](/images/CCA%20NCC/Screenshot-2018-11-09-at-12_15_41-PM-768x961.png)
 ![](/images/CCA%20NCC/Screenshot-2018-11-09-at-12_16_38-PM-768x962.png)
