@@ -85,7 +85,7 @@ _\*Subject to changes based on needs of individual CCA_
 
 LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
 
-###### <span style="text-decoration: underline;">**LEAPS 2.0 DOMAINS**</span>
+###### <strong><span style="text-decoration: underline;">LEAPS 2.0 DOMAINS</span> </strong>
 
 **1\. Participation**
 
