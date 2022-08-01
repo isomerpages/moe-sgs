@@ -13,7 +13,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td colspan="3">Student Matters</td>
+    <td colspan="3" style="text-align: center;">Student Matters</td>
   </tr>
   <tr>
     <td>Lower Sec</td>
