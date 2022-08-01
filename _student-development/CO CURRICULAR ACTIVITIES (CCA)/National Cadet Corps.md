@@ -6,11 +6,11 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
 ![](/images/CCA%20NCC/Banner-1024x257.png)
 
-<u>**Vision**</u>
+<u>Vision</u>
 
 To have Extraordinary Youth Leaders
 
-<u>**Mission**</u>
+<u>Mission</u>
 
 To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-Related Activities
 
