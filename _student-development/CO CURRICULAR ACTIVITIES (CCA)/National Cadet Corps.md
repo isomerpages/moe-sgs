@@ -40,6 +40,9 @@ A cadet has a committed heart and lives by the NCC Core Values, with a strong se
 
 ##### <strong><u>SGS Unit Flag and its significance</u></strong>
 
+<img src="/images/CCA%20NCC/Ncc-song.jpg" 
+     style="width:50%">
+
 <div>
 <div style="float: right">
 <img src="/images/CCA%20NCC/Ncc-song.jpg" />
