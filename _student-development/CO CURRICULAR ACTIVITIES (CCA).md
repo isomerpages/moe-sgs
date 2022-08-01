@@ -81,3 +81,36 @@ description: ""
 
 _\*Subject to changes based on needs of individual CCA_
 
+##### **CCA Grade (LEAPS 2.0)**
+
+LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
+
+**LEAPS 2.0 DOMAINS**
+
+**1\. Participation**
+
+This domain recognises students’ participation in one school-based2 Co-Curricular Activity (CCA). Recognition is based on the number of years of participation and exemplary conduct and active contribution 3 to the CCA. Sustained engagement in the same CCA allows for progressive development of character, skills, knowledge and friendships, and will be accorded higher recognition.
+
+**2\. Service**
+
+This domain recognises students’ development as socially responsible citizens who contribute meaningfully to the community. Every secondary school student will contribute at least 6 hours per school year to the community. They can choose to embark on a Values-In-Action project (VIA). Students will be recognised for the time they put into planning, service and reflection, when participating in a VIA project.
+
+**3\. Leadership**
+
+This domain recognises students’ leadership development. Recognition is accorded to students’ ability to take charge of personal development, work in a team and assume responsibilities in service of others. In addition to formal leadership appointments, participation in student leadership modules/workshops, the National Youth Achievement Award (NYAA) and leadership positions in the school, CCA or student-initiated/student-led projects will also be recognised.
+
+**4\. Achievement**
+
+This domain recognises students’ **representation** and **accomplishment** in co-curricular involvements beyond the classroom. Opportunities for representation and accomplishment present valuable learning experiences for students to learn discipline, resilience and develop their character. Students may represent the school or organisations endorsed by the school. Recognising external opportunities better caters to students’ diverse interests and talents. It also recognises the community’s role in developing the child.
+
+**5\. Representation** 
+
+This refers to being selected and endorsed by the school or an organisation endorsed by the school (e.g. the community club or national association) to contribute, perform or compete. It need not be tied to the student’s CCA in school.
+
+**6\. Accomplishment** 
+
+It refers to attaining accolades and awards at competitions, festivals, performances, exhibitions, conferences and symposiums where the student represents the school or other organisations endorsed by the school.
+
+**Recognition of Students’ Level of Attainment**
+
+At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair. The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).
