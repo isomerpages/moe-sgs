@@ -68,7 +68,7 @@ The students’ works will be featured in various school’s publicity platforms
 	 <img src="/images/CCA%20Media%20Studio/Slide7-2-250x250.jpg"
     style="width:50%"></a>
 <figcaption>
-	<strong> Our School Our Story submission, Brandon, 2021 </strong>
+	<strong> National Young Shutterbugs Film Competition, 2019</strong>
 	</figcaption>
 </figure>
 
