@@ -48,7 +48,7 @@ A cadet has a committed heart and lives by the NCC Core Values, with a strong se
 <img src="/images/CCA%20NCC/Ncc-song.jpg" />
 </div><div>
 	
-<strong>Lion head</strong>
+<strong><u>Lion head</u></strong>
 
 The lion, also known as the king of the jungle, is symbolic of 2 characteristics that every cadet should have: leadership and bravery.
 
