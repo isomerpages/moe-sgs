@@ -21,7 +21,7 @@ sections:
           url: /academic-exellence/llp/
         - title: Arts Education Programme
           description: DESCRIPTION TOO LONG & OMITTED
-          url: /privacy/
+          url: /signature-programmes/artssgs/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
