@@ -23,3 +23,12 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 	<strong> </strong>
 	</figcaption>
 </figure>
+
+##### **CCA Training in times of COVID-19**
+
+We adhere strictly to the national posture for Safety Management Measures (SMM).
+
+###### **1) Zoom Fitness Trainings**
+
+<p style="text-align: justify;"> When physical CCA sessions were halted, students met with the coach and teachers online on Zoom for virtual fitness trainings. Students also used this platform to discuss VIA projects. </p>
+
