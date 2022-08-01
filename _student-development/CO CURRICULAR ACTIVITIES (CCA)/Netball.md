@@ -30,7 +30,6 @@ The CCA presents our girls with an array of opportunities that include Zonal com
 	</figcaption>
 </figure>
 
-![](/)
 ![](/images/CCA%20Netball/Slide3-7-250x250.jpg)
 ![](/images/CCA%20Netball/Slide4-8-250x250.jpg)
 ![](/images/CCA%20Netball/Slide5-4-250x250.jpg)
