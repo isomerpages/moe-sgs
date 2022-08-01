@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Applied Learning Programme
           description: DESCRIPTION TOO LONG & OMITTED
-          url: https://google.com
+          url: /instructional-programmes/academic-exellence/applied-learning-programme/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
