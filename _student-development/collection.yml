@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - CO CURRICULAR ACTIVITIES (CCA).md
       - LEARNING FOR LIFE PROGRAMME.md
       - LEVEL SIGNATURE PROGRAMMES.md
