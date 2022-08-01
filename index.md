@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
