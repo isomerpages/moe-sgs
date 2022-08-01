@@ -16,7 +16,12 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> The unit is equally proud of the achievement of one of its Guides, Maizurah Binte Mohamad Khaizal from 4 Integrity (2021). She received the prestigious Baden-Powell Award in 2021, the highest award given out by the Girl Guides Chief Commissioner to a Girl Guide, in recognition of her leadership potential and development in Girl Guides. </p>
 
+![](/images/CCA%20Girl%20Guides/Slide8-1-768x432.jpg)
+
 <p style="text-align: justify;"> In order to fulfil the vision of developing empathy for others and committing to make a positive impact in the community, SGS Guides actively champion campaigns to advocate for causes such as environmental and water conservation, cyber-wellness, anti-smoking, kindness and many more. </p>
+
+![](/images/CCA%20Girl%20Guides/Slide11-768x432.jpg)
+![](/images/CCA%20Girl%20Guides/Slide10-600x338.jpg)
 
 <p style="text-align: justify;"> To contribute to the well-being of the community, SGSS Guides has maintained a close partnership with Ren Ci Nursing Home since 2019.  For example, they spent time doing art and craft with the seniors in 2019. They also engaged them virtually through quizzes, songs and games during National Day and Mid-Autumn Festival in 2021. </p>
 
