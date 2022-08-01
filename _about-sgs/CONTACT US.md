@@ -3,11 +3,410 @@ title: CONTACT US
 permalink: /about-sgs/contact-us/
 description: ""
 ---
-<table border="1" style="box-sizing: border-box; color: rgb(34, 34, 34); font-family: Montserrat, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 930.012px; border-collapse: collapse; height: 272px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 217.882px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">PERTAINING TO</strong></span></td><td style="box-sizing: border-box; width: 373.519px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">NAME</strong></span></td><td style="box-sizing: border-box; width: 337.616px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">EMAIL ADDRESS</strong></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td colspan="3" style="box-sizing: border-box; width: 929.016px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">Student Matters</strong></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 217.882px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;">Lower Sec</span></td><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Tay Hui Yih</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:tay_hui_yih@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">tay_hui_yih@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 217.882px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;">Upper Sec</span></td><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Steven Wong&nbsp;</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:wong_chiow_kwei_steven@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">wong_chiow_kwei_steven@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 30px;"><td style="box-sizing: border-box; width: 217.882px; height: 30px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;">Discipline Matters</span></td><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 30px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Shahul Hameed</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 30px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:shahul_hameed_kuthubudeen@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">shahul_hameed_kuthubudeen@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 217.882px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;">Exam Matters</span></td><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Leslie Tan</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:Leslie_yc_tan@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">leslie_yc_tan@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 49px;"><td rowspan="2" style="box-sizing: border-box; width: 217.882px; height: 98px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;">CCA Matters</span></td><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 49px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Wong Shiu Ming</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 49px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:wong_shiu_ming@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">wong_shiu_ming@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 49px;"><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 49px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Chan Meng Fai</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 49px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:chan_meng_fai@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">chan_meng_fai@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 217.882px; height: 24px; background-color: rgb(209, 209, 209); text-align: center;"><span style="box-sizing: border-box; font-family: &quot;arial black&quot;, sans-serif;">ICT Matters</span></td><td style="box-sizing: border-box; width: 373.519px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Leslie Tan</span></td><td style="box-sizing: border-box; width: 337.616px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a href="mailto:Leslie_yc_tan@moe.edu.sg" style="box-sizing: border-box; background-color: transparent;">Leslie_yc_tan@moe.edu.sg</a></span></td></tr></tbody></table>
+<table>
+<thead>
+  <tr>
+    <th>PERTAINING TO</th>
+    <th>NAME</th>
+    <th>EMAIL ADDRESS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="3">Student Matters</td>
+  </tr>
+  <tr>
+    <td>Lower Sec</td>
+    <td>Ms Tay Hui Yih</td>
+    <td><a href="mailto:tay_hui_yih@moe.edu.sg">tay_hui_yih@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Upper Sec</td>
+    <td>Mr Steven Wong </td>
+    <td><a href="mailto:wong_chiow_kwei_steven@moe.edu.sg">wong_chiow_kwei_steven@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Discipline Matters</td>
+    <td>Mr Shahul Hameed</td>
+    <td><a href="mailto:shahul_hameed_kuthubudeen@moe.edu.sg">shahul_hameed_kuthubudeen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Exam Matters</td>
+    <td>Mr Leslie Tan</td>
+    <td><a href="mailto:Leslie_yc_tan@moe.edu.sg">leslie_yc_tan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">CCA Matters</td>
+    <td>Mr Wong Shiu Ming</td>
+    <td><a href="mailto:wong_shiu_ming@moe.edu.sg">wong_shiu_ming@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mr Chan Meng Fai</td>
+    <td><a href="mailto:chan_meng_fai@moe.edu.sg">chan_meng_fai@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>ICT Matters</td>
+    <td>Mr Leslie Tan</td>
+    <td><a href="mailto:Leslie_yc_tan@moe.edu.sg">Leslie_yc_tan@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
 
   <p style="text-align: center"> <strong>2022 Form Teachers</strong> </p>
 
-<table border="1" style="box-sizing: border-box; color: rgb(34, 34, 34); font-family: Montserrat, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; width: 930px; height: 1845px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 170.88px; background-color: rgb(209, 209, 209); text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">CLASS</strong></span></td><td style="box-sizing: border-box; width: 364.039px; background-color: rgb(209, 209, 209); text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">NAME OF FORM TEACHER</strong></span></td><td style="box-sizing: border-box; width: 394.086px; background-color: rgb(209, 209, 209); text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: border-box; font-weight: bolder;">EMAIL ADDRESS</strong></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Perseverance</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Loh Zhi Yang</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">loh_zhi_yang@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Punitha D/O Vaitilingam</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">punitha_vaitilingam@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Respect</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Andreea Lee</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">andreea_lee@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Hameed</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">shahul_hameed_maricar@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Integrity</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Antony Raj</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">antony_raj_sasayah@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Chen Yonghong</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">chen_yonghong@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Diligence</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Joel Yow</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">yow_zhi_jian_joel@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Lee Hui Ling</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lee_hui_ling_a@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Empathy</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Amy Charles</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">yeo_yan_ling_amy@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Tang Zhi Feng</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tang_zhi_feng@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Resilience</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Daryl Tan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">daryl_tan_wen_hui@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Vajira</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">vajira_yasoma_siriwardena@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Compassion</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Mohd Fareeq</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">mohammed_fareeq_othman@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Teng Hui Dan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">teng_hui_dan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">1 Gratitude</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Koh Wei Ling</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">koh_wei_ling@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Lye Nyap Hiang</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lye_nyap_hiang@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="3" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 69px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Perseverance</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Hum Wee Tien</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">hum_wee_tien@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Tan Jit Huih</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tan_jit_huih@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 21px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 21px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mrs Chan Siew Eng</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 21px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">mok_siew_eng@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Respect</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Kwek Wen Qing</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">kwek_wen_qing@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Tan Wei Zhi</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tan_wei_zhi_a@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Integrity</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Joshua Chen</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">joshua_chen_yongwei@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Ita</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">ita_pranatih_pratojanuri@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Diligence</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Nurhanani</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">nurhanani_bte_sarifuddin@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Adeline Yeo</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">yeo_shu_hui_adeline@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Empathy</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Cassandra Choo</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">cassandra_choo_tian_hui@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Jeremiah Tan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;"><a class="rABsFf RffVmb AL18ce" href="mailto:tan_sei_choon@moe.edu.sg" target="_blank" rel="noopener noreferrer" data-tooltip-position="top" data-tooltip="From your Google Contacts" style="box-sizing: border-box; background-color: transparent;">tan_sei_choon@moe.edu.sg</a></span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="3" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 72px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Resilience</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Zhao Zixi</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">zhao_zixi@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Pathma Chinniah</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">pathmaletchmi_chinniah@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Azmed Beevi</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">azmed_beevi_abdul_kalam@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Compassion</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Eric Phua</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">phua_ngee_seng@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Tan Wei Ning</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tan_wei_ning@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">2 Gratitude</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Joy Foo</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">foo_ying_ying_joy@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Lai Yin Fong</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lai_yin_fong@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Perseverance</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Magesh</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">mageshwari_sivasamy@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mrs Seow-Hong Huiting</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">hong_huiting@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Respect</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr David Yee</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">yee_chee_wei_david@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Lin Wanting</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lin_wanting@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Integrity</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Alfred Liu</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">alfred_liu_hao_wei@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Lee Shaojia</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lee_shaojia@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Diligence</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mrs Gwen Chiew</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lim_shixuan_gwen@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Manju D/O Manoharan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">manju_manoharan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Empathy</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Iswari</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">iswari_thamil_chelvam@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Annie Wong</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">wong_ruey_ling_annie@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Resilience</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Cheong Xi Ling</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">cheong_xi_ling@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Vincent Tham</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tham_wing_kong@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Compassion</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Ezann Ow</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">ow_li_ying_ezann@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Kalai</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">kalai_vani_thanapalan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Gratitude</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Kelvin Tey</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tey_kelvin@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Faezah</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">nur_faezah_abdul_rahman_a@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Wisdom</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Peh Chin Keong</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">peh_chin_keong@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Osman</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">osman_b_abdul_majid@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">3 Grace</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Ben Toh Jiahe</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">toh_jiahe@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Nazurah</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">nazurah_ishak@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Perseverance</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Benjamin Tan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tan_qin_zhong_benjamin@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Rekha</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">rekha_jayabalan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Respect</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Hema Khaira</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">hema_latha_sahadevan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Tan Zheng Hao</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tan_zheng_hao@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Integrity</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Charlene Tan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">tan_seow_li_charlene@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Aaron Pang</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">pang_aaron_jiansheng@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Diligence</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Lim Wan Qi</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">wan_qi_lim@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Daniel Wee</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">wee_tien_sing_daniel@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Empathy</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Linus Chan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">chan_lin_siong_linus@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Lee Cai Yun</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lee_cai_yun@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Resilience</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr David Kwong</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">david_kwong_hsian_chung@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Sultanah</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">sultanah_ekhsan_hanim_ahma@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Compassion</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Lee Ai Lian</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">lee_ai_lian_a@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Wu Pijuan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">wu_pijuan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Gratitude</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mr Hasren</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">mohamad_hasren@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Huang Wen Yan</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">huang_wenyan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Wisdom</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mdm Majidah Mahmood</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">majidah_mahmood@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Valerie Chew</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">chew_tee_jong_valerie@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td rowspan="2" style="box-sizing: border-box; width: 170.88px; text-align: center; height: 48px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">4 Grace</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mrs Theresa Eng</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">pong_chin-li_theresa@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Amirah</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">amirah_mohamed_fauzi_talib@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 170.88px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">5 Perseverance</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Mrs Joanne Lee</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">joanne_zhang_yingyan@moe.edu.sg</span></td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; width: 170.88px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">5 Respect</span></td><td style="box-sizing: border-box; width: 364.039px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">Ms Wee Lip Hui</span></td><td style="box-sizing: border-box; width: 394.086px; text-align: center; height: 24px;"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">wee_lip_hui@moe.edu.sg</span></td></tr></tbody></table><br>
+<table>
+<thead>
+  <tr>
+    <th>CLASS</th>
+    <th>NAME OF FORM TEACHER</th>
+    <th>EMAIL ADDRESS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">1 Perseverance</td>
+    <td>Ms Loh Zhi Yang</td>
+    <td>loh_zhi_yang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Punitha D/O Vaitilingam</td>
+    <td>punitha_vaitilingam@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Respect</td>
+    <td>Ms Andreea Lee</td>
+    <td>andreea_lee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Hameed</td>
+    <td>shahul_hameed_maricar@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Integrity</td>
+    <td>Mr Antony Raj</td>
+    <td>antony_raj_sasayah@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Chen Yonghong</td>
+    <td>chen_yonghong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Diligence</td>
+    <td>Mr Joel Yow</td>
+    <td>yow_zhi_jian_joel@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Lee Hui Ling</td>
+    <td>lee_hui_ling_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Empathy</td>
+    <td>Ms Amy Charles</td>
+    <td>yeo_yan_ling_amy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Tang Zhi Feng</td>
+    <td>tang_zhi_feng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Resilience</td>
+    <td>Mr Daryl Tan</td>
+    <td>daryl_tan_wen_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Vajira</td>
+    <td>vajira_yasoma_siriwardena@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Compassion</td>
+    <td>Mr Mohd Fareeq</td>
+    <td>mohammed_fareeq_othman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Teng Hui Dan</td>
+    <td>teng_hui_dan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Gratitude</td>
+    <td>Mdm Koh Wei Ling</td>
+    <td>koh_wei_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Lye Nyap Hiang</td>
+    <td>lye_nyap_hiang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="3">2 Perseverance</td>
+    <td>Mr Hum Wee Tien</td>
+    <td>hum_wee_tien@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Tan Jit Huih</td>
+    <td>tan_jit_huih@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Chan Siew Eng</td>
+    <td>mok_siew_eng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Respect</td>
+    <td>Ms Kwek Wen Qing</td>
+    <td>kwek_wen_qing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Tan Wei Zhi</td>
+    <td>tan_wei_zhi_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Integrity</td>
+    <td>Mr Joshua Chen</td>
+    <td>joshua_chen_yongwei@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Ita</td>
+    <td>ita_pranatih_pratojanuri@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Diligence</td>
+    <td>Ms Nurhanani</td>
+    <td>nurhanani_bte_sarifuddin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Adeline Yeo</td>
+    <td>yeo_shu_hui_adeline@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Empathy</td>
+    <td>Ms Cassandra Choo</td>
+    <td>cassandra_choo_tian_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Jeremiah Tan</td>
+    <td><a href="mailto:tan_sei_choon@moe.edu.sg">tan_sei_choon@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3">2 Resilience</td>
+    <td>Ms Zhao Zixi</td>
+    <td>zhao_zixi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Pathma Chinniah</td>
+    <td>pathmaletchmi_chinniah@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Azmed Beevi</td>
+    <td>azmed_beevi_abdul_kalam@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Compassion</td>
+    <td>Mr Eric Phua</td>
+    <td>phua_ngee_seng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Tan Wei Ning</td>
+    <td>tan_wei_ning@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2 Gratitude</td>
+    <td>Ms Joy Foo</td>
+    <td>foo_ying_ying_joy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Lai Yin Fong</td>
+    <td>lai_yin_fong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Perseverance</td>
+    <td>Ms Magesh</td>
+    <td>mageshwari_sivasamy@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mrs Seow-Hong Huiting</td>
+    <td>hong_huiting@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Respect</td>
+    <td>Mr David Yee</td>
+    <td>yee_chee_wei_david@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Lin Wanting</td>
+    <td>lin_wanting@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Integrity</td>
+    <td>Mr Alfred Liu</td>
+    <td>alfred_liu_hao_wei@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Lee Shaojia</td>
+    <td>lee_shaojia@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Diligence</td>
+    <td>Mrs Gwen Chiew</td>
+    <td>lim_shixuan_gwen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Manju D/O Manoharan</td>
+    <td>manju_manoharan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Empathy</td>
+    <td>Mdm Iswari</td>
+    <td>iswari_thamil_chelvam@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Annie Wong</td>
+    <td>wong_ruey_ling_annie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Resilience</td>
+    <td>Ms Cheong Xi Ling</td>
+    <td>cheong_xi_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Vincent Tham</td>
+    <td>tham_wing_kong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Compassion</td>
+    <td>Ms Ezann Ow</td>
+    <td>ow_li_ying_ezann@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Kalai</td>
+    <td>kalai_vani_thanapalan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Gratitude</td>
+    <td>Mr Kelvin Tey</td>
+    <td>tey_kelvin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Faezah</td>
+    <td>nur_faezah_abdul_rahman_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Wisdom</td>
+    <td>Mr Peh Chin Keong</td>
+    <td>peh_chin_keong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Osman</td>
+    <td>osman_b_abdul_majid@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3 Grace</td>
+    <td>Mr Ben Toh Jiahe</td>
+    <td>toh_jiahe@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Nazurah</td>
+    <td>nazurah_ishak@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Perseverance</td>
+    <td>Mr Benjamin Tan</td>
+    <td>tan_qin_zhong_benjamin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Rekha</td>
+    <td>rekha_jayabalan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Respect</td>
+    <td>Ms Hema Khaira</td>
+    <td>hema_latha_sahadevan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Tan Zheng Hao</td>
+    <td>tan_zheng_hao@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Integrity</td>
+    <td>Ms Charlene Tan</td>
+    <td>tan_seow_li_charlene@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Aaron Pang</td>
+    <td>pang_aaron_jiansheng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Diligence</td>
+    <td>Ms Lim Wan Qi</td>
+    <td>wan_qi_lim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mr Daniel Wee</td>
+    <td>wee_tien_sing_daniel@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Empathy</td>
+    <td>Mr Linus Chan</td>
+    <td>chan_lin_siong_linus@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Lee Cai Yun</td>
+    <td>lee_cai_yun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Resilience</td>
+    <td>Mr David Kwong</td>
+    <td>david_kwong_hsian_chung@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Sultanah</td>
+    <td>sultanah_ekhsan_hanim_ahma@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Compassion</td>
+    <td>Mdm Lee Ai Lian</td>
+    <td>lee_ai_lian_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Wu Pijuan</td>
+    <td>wu_pijuan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Gratitude</td>
+    <td>Mr Hasren</td>
+    <td>mohamad_hasren@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Mdm Huang Wen Yan</td>
+    <td>huang_wenyan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Wisdom</td>
+    <td>Mdm Majidah Mahmood</td>
+    <td>majidah_mahmood@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Valerie Chew</td>
+    <td>chew_tee_jong_valerie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4 Grace</td>
+    <td>Mrs Theresa Eng</td>
+    <td>pong_chin-li_theresa@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms Amirah</td>
+    <td>amirah_mohamed_fauzi_talib@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>5 Perseverance</td>
+    <td>Mrs Joanne Lee</td>
+    <td>joanne_zhang_yingyan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>5 Respect</td>
+    <td>Ms Wee Lip Hui</td>
+    <td>wee_lip_hui@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 * * *
 
