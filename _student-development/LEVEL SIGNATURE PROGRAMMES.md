@@ -15,3 +15,5 @@ The Secondary 2s, on the other hand, would get to travel overseas to our neighbo
 The Secondary 3s were involved in a 4D3N camp at the MOE Adventure Camp, located in Changi.  They participated in various water sports such as canoeing, high elements and even went on a trail to the Central Business District (CBD).  Physically straining, our pupils had to work together in pairs and teams to overcome the challenges arising from the above activities. 
 
 Our graduating cohort, the Secondary 4s/5s were attached to the various Institutes of Higher Learning (IHLs), to learn about the various courses these institutions offer.  They were involved in lively discussions, experiments, workshop visits over the 3-day attachment.  The attachment provided opportunities for our graduating pupils to make informed decisions in their course application, upon graduation from SGS.
+
+lkj
