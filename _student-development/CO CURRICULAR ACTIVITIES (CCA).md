@@ -101,7 +101,7 @@ _\*Subject to changes based on needs of individual CCA_
 
 **4\. Achievement**
 
-<p style="text-align: justify;"> This domain recognises students’ **representation** and **accomplishment** in co-curricular involvements beyond the classroom. Opportunities for representation and accomplishment present valuable learning experiences for students to learn discipline, resilience and develop their character. Students may represent the school or organisations endorsed by the school. Recognising external opportunities better caters to students’ diverse interests and talents. It also recognises the community’s role in developing the child. </p>
+<p style="text-align: justify;"> This domain recognises students' representation and accomplishment in co-curricular involvements beyond the classroom. Opportunities for representation and accomplishment present valuable learning experiences for students to learn discipline, resilience and develop their character. Students may represent the school or organisations endorsed by the school. Recognising external opportunities better caters to students’ diverse interests and talents. It also recognises the community’s role in developing the child. </p>
 
 **5\. Representation** 
 
