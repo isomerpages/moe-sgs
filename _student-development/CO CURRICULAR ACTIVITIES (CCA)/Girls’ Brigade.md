@@ -6,22 +6,22 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
 <p style="text-align: justify;"> The Serangoon Garden Secondary School Girls’ Brigade aims to help girls develop to their fullest potential by imbuing leadership and responsibility in our girls. In line with the GB90 vision “Grow and Go Beyond – Extend. Serve. Lead.”, our company maintains strong ties with Trinity Methodist Church. </p>
 
-<a href="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" 
+<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-1-250x250.jpg" 
      style="width:50%"></a>
 		 
-<a href="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" 
+<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-2-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-2-250x250.jpg" 
      style="width:50%"></a>
 
-<a href="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" 
+<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-3-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-3-250x250.jpg" 
      style="width:50%"></a>
 		 
-<a href="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" 
+<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-4-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-4-250x250.jpg" 
      style="width:50%"></a>
 
 ![]()
-![](/images/CCA%20Girls'%20Brigade/Girls-Brigade-2-250x250.jpg)
-![](/images/CCA%20Girls'%20Brigade/Girls-Brigade-3-250x250.jpg)
-![](/images/CCA%20Girls'%20Brigade/Girls-Brigade-4-250x250.jpg)
+![](/)
+![](/)
+![](/)
 
 <p style="text-align: justify;"> Our company aims to provide our girls with a wide range of experiences such as outdoor adventure and numerous service learning opportunities to equip them with necessary life skills, empowering each of them to make good decisions and display a sense of responsibility towards the community. </p>
 
