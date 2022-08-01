@@ -27,8 +27,6 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ![](/images/CCA%20Girl%20Guides/Slide17-768x432.jpg)
 ![](/images/CCA%20Girl%20Guides/Slide16-768x432.jpg)
 
-
-
 ##### **Achievement**
 
 Unit Award – Puan Noor Aishah (PNA) Award 2019 (Gold)
