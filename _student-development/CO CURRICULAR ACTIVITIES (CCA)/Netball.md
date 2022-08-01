@@ -38,8 +38,33 @@ The CCA presents our girls with an array of opportunities that include Zonal com
 	</figcaption>
 </figure>
 
+<figure>
+ <img src="/images/CCA%20Netball/Slide4-8-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong> CCA Open House Briefing and Trials for the Sec 1s</strong> 
+	</figcaption>
+</figure>
 
-![](/images/CCA%20Netball/Slide4-8-250x250.jpg)
+
+<figure>
+ <img src="/images/CCA%20Netball/Slide3-7-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong> Inter-School Friendly Competition</strong> 
+	</figcaption>
+</figure>
+
+
+<figure>
+ <img src="/images/CCA%20Netball/Slide3-7-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong> Inter-School Friendly Competition</strong> 
+	</figcaption>
+</figure>
+
+![](/)
 ![](/images/CCA%20Netball/Slide5-4-250x250.jpg)
 ![](/images/CCA%20Netball/Slide6-4-250x250.jpg)
 
