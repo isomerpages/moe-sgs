@@ -78,7 +78,7 @@ It is important for cadets to remember that at the end of every training, throug
 
 <p style="text-align: center;">NCC Workplan 2019 (Excel Sheet)</p>
 
-<a href="https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross">
+<a href="/files/NCC-Workplan-2019.pdf">
 <img src="/images/CCA%20NCC/NCC-Workplan.jpg"
      style="width:100%">
 </a>
