@@ -25,11 +25,19 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> To contribute to the well-being of the community, SGSS Guides has maintained a close partnership with Ren Ci Nursing Home since 2019.  For example, they spent time doing art and craft with the seniors in 2019. They also engaged them virtually through quizzes, songs and games during National Day and Mid-Autumn Festival in 2021. </p>
 
-![](/images/CCA%20Girl%20Guides/Slide14-250x250.jpg)
-![](/images/CCA%20Girl%20Guides/Slide13-250x250.jpg)
-![](/images/CCA%20Girl%20Guides/Slide14-250x250.jpg)
-![](/images/CCA%20Girl%20Guides/Slide15-250x250.jpg)
 
+<a href="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide12-250x250.jpg" 
+     style="width:50%"></a>
+
+<a href="/images/CCA%20Girl%20Guides/Slide13-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide13-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/CCA%20Girl%20Guides/Slide14-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide14-250x250.jpg" 
+     style="width:50%"></a>
+
+<a href="/images/CCA%20Girl%20Guides/Slide15-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girl%20Guides/Slide15-250x250.jpg" 
+     style="width:50%"></a>
+		 
 ##### **CCA Training in times of COVID-19**
 
 <p style="text-align: justify;"> In the midst of the pandemic and home-based learning, our student leaders continued to engage their peers and juniors virtually, under the guidance of the teachers-in-charge. Unfazed by the challenges, the students planned and executed various unique and fun activities, to continue equipping the girls with vital leadership and life skills. </p>
