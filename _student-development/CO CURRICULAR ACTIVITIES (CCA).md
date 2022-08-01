@@ -68,7 +68,7 @@ description: ""
 </tbody>
 </table>
 
-# Table cells not merged in mark down, (formatting change)
+# CCA Schedule table cells not merged in mark down, (formatting change)
 
 ##### **CCA Schedule**
 
