@@ -14,9 +14,9 @@ Following our guiding principle of “I Know – I Do – I Advocate”, our CC
 
 ![](/images/CCA%20Earth%20Club/Slide1-3-250x250.png)
 
-Earth Club members will acquire knowledge on environmental sustainability, horticultural skills, and gain a better understanding of green industries and applications through our partnership with external organisations such as NParks and PUB. They will be given the platform to initiate eco-projects around the school, plan Values-in-Action (VIA) projects to contribute back to the community, as well as participate in external competitions and conferences.
+<p style="text-align: justify;"> Earth Club members will acquire knowledge on environmental sustainability, horticultural skills, and gain a better understanding of green industries and applications through our partnership with external organisations such as NParks and PUB. They will be given the platform to initiate eco-projects around the school, plan Values-in-Action (VIA) projects to contribute back to the community, as well as participate in external competitions and conferences. </p>
 
-Through these various learning opportunities, our CCA aims to develop in them leadership, social and cooperative skills, as well as inculcate values of teamwork, responsibility and commitment.
+<p style="text-align: justify;"> Through these various learning opportunities, our CCA aims to develop in them leadership, social and cooperative skills, as well as inculcate values of teamwork, responsibility and commitment. </p>
 
 <figure>
 <img src="/images/CCA%20Earth%20Club/Slide2-3-768x432.png">
