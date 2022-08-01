@@ -8,7 +8,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <figure>
 	<a href="/images/CCA%20Basketball%20%20%20boys/Slide1-1-250x250.png" target = "_blank"> <img src="/images/CCA%20Basketball%20%20%20boys/Slide1-1-250x250.png" 
-     style="width:100%"></a>
+     style="width:50%"></a>
 <figcaption> 
 	<strong> </strong> 
 	</figcaption>
@@ -16,7 +16,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <figure>
 	<a href="/images/CCA%20Basketball%20%20%20boys/Slide3-250x250.png" target = "_blank"> <img src="/images/CCA%20Basketball%20%20%20boys/Slide3-250x250.png" 
-     style="width:100%"></a>
+     style="width:50%"></a>
 <figcaption> 
 	<strong> </strong> 
 	</figcaption>
