@@ -54,7 +54,7 @@ Students who enjoy making short films, taking photographs or working with sound 
 	</figcaption>
 </figure>
 
-The students’ works will be featured in various school’s publicity platforms and it will be a visible reminder of their tangible contribution to the school.
+<p style="text-align: justify;"> The students’ works will be featured in various school’s publicity platforms and it will be a visible reminder of their tangible contribution to the school. </p>
 
 <figure>
 	 <img src="/images/CCA%20Media%20Studio/Slide8-2-250x250.jpg"
