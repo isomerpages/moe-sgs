@@ -73,6 +73,10 @@ It is important for cadets to remember that at the end of every training, throug
 | Loyalty to Country<br>Uprightness<br>Leadership<br>Discipline<br>Commitment and Responsibility<br>Care for Fellow Cadets<br>Adventurous Spirit<br>Safety | We,<br>The members of the National Cadet Corps,<br>And youth of the Republic of Singapore,<br>Do hereby pledge,<br>To be loyal to the Republic and the Corps,<br>And to maintain a high standard of discipline and performance,<br>So that we,<br>May better serve our country. |
 
 
+![](/images/CCA%20NCC/Screenshot-2018-11-09-at-12_15_41-PM-768x961.png)
+![](/images/CCA%20NCC/Screenshot-2018-11-09-at-12_16_38-PM-768x962.png)
+![](/images/CCA%20NCC/Screenshot-2018-11-09-at-12_24_27-PM-768x960.png)
+
 ##### **Online Co-curricular activities (_CCA_)**
 
 Like any other CCAs, the teachers-in-charge organized a zoom session with the Secondary 3 NCC Student Leaders on 25 June 2020.  This was the first online session for NCC.
