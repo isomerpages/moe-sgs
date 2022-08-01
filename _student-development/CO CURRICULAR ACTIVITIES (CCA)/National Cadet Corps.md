@@ -64,9 +64,10 @@ Through fun, adventurous and military-related activities, cadets are given meani
 
 The colour white represents purity and virtues, which is what cadets should possess as they serve others in their own capacity.
 
-<u>NCC Crest</u><br>
+<u>NCC Crest</u>
 
 It is important for cadets to remember that at the end of every training, through the National Cadet Corps, they would have learned how they can better serve their country, Singapore.
+<br><br><br>
 
 |   NCC 8 Core Values  |   NCC Pledge   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
