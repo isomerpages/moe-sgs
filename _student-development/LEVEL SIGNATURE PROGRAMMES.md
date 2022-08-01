@@ -16,4 +16,4 @@ The Secondary 3s were involved in a 4D3N camp at the MOE Adventure Camp, located
 
 Our graduating cohort, the Secondary 4s/5s were attached to the various Institutes of Higher Learning (IHLs), to learn about the various courses these institutions offer.  They were involved in lively discussions, experiments, workshop visits over the 3-day attachment.  The attachment provided opportunities for our graduating pupils to make informed decisions in their course application, upon graduation from SGS.
 
-lkj
+![](/images/Level%20Signature%20Programmes/level%20signature%20program.jpg)
