@@ -16,9 +16,9 @@ sections:
         - title: Applied Learning Programme
           description: DESCRIPTION TOO LONG & OMITTED
           url: /instructional-programmes/academic-exellence/applied-learning-programme/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Learning for Life Programme
+          description: DESCRIPTION TOO LONG & OMITTED
+          url: /academic-exellence/llp/
         - title: Page A
           description: Page A is important too
           url: /privacy/
