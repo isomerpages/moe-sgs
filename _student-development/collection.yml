@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Test/.keep
       - CO CURRICULAR ACTIVITIES (CCA)/CO CURRICULAR ACTIVITIES (CCA).md
       - CO CURRICULAR ACTIVITIES (CCA)/.keep
       - LEVEL SIGNATURE PROGRAMMES.md
