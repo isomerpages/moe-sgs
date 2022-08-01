@@ -14,4 +14,6 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> Our basketball members re-oriented themselves in face of COVID-19.  Instead of the usual physical training sessions, our coaches instructed the boys, via zoom sessions, on guided exercises, with supervision of the CCA teachers. ‘Physical Conditioning’ was the focus of our first e-CCA session, where the boys, together with the coach and teachers had a tiring but worthwhile workout. The subsequent sessions provided opportunities for our boys to stay connected to one another as they keep themselves physically fit and mentally disciplined.  Both our boys, together with their parents welcome this initiative. </p>
 
+![](/images/CCA%20Basketball%20%20%20boys/Slide2-1-768x432.png)
+
 <p style="text-align: justify;"> Whenever possible of course, training is pivoted back to physical training sessions as the default, in compliance with all Safety Management Measures in place. </p>
