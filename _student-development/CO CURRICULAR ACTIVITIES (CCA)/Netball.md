@@ -14,7 +14,15 @@ Anyone can steer a ship in calm waters, but not every student is able to weather
 
 The CCA presents our girls with an array of opportunities that include Zonal competitions, sports carnivals, camps and even values-in-action programmes.
 
-![](/images/CCA%20Netball/Slide1-12-250x250.jpg)
+<figure>
+ <img src="/images/CCA%20Netball/Slide1-12-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong> B Division South Zone Competition</strong> 
+	</figcaption>
+</figure>
+
+![](/)
 ![](/images/CCA%20Netball/Slide2-10-250x250.jpg)
 ![](/images/CCA%20Netball/Slide3-7-250x250.jpg)
 ![](/images/CCA%20Netball/Slide4-8-250x250.jpg)
