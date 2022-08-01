@@ -78,6 +78,12 @@ It is important for cadets to remember that at the end of every training, throug
 
 <p style="text-align: center;">NCC Workplan 2019 (Excel Sheet)</p>
 
+<a href="https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross">
+<img src="/images/CCA%20NCC/NCC-Workplan.jpg"
+     style="width:100%">
+</a>
+
+
 ##### **Online Co-curricular activities (_CCA_)**
 
 Like any other CCAs, the teachers-in-charge organized a zoom session with the Secondary 3 NCC Student Leaders on 25 June 2020.  This was the first online session for NCC.
