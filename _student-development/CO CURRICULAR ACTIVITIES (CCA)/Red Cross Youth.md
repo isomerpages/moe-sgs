@@ -18,3 +18,11 @@ to serve our country  <br>
 and join with others  <br>
 all over the world  <br>
 To help the sick and suffering </p>
+
+<figure>
+	<img src="/images/CCA%20NPCC/Slide4-6-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Secondary 4 Passing-Out-Parade (POP) 2021</strong> 
+	</figcaption>
+</figure>
