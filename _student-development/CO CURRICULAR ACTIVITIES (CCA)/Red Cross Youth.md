@@ -10,4 +10,11 @@ The Singapore Red Cross Youth (RCY) is part of the largest humanitarian network 
 
 <p style="text-align: justify;"> In SGS, Red Cross Youths go through a series of programmes, such as combined Uniformed Group camps, leadership camps, bonding activities and skills-based courses such as first aid and disaster management in order to train our cadets to become adaptable, resilient and confident team players with a strong foundation in first aid knowledge as we uphold the Red Cross Promise: </p>
 
-
+<p style="text-align: center;"> We,  <br>
+ as the youth members <br>
+of Singapore Red Cross Society.  <br>
+Promise  <br>
+to serve our country  <br>
+and join with others  <br>
+all over the world  <br>
+To help the sick and suffering </p>
