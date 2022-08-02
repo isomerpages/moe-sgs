@@ -6,8 +6,6 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
 <p style="text-align: justify;"> 2017 was a breakthrough year for the Language Arts Club as we took to the stage for the first time at the Singapore Youth Festival. While our hearts were filled with trepidation, we nonetheless gamely tackled Kuo Pao Kun’s classic play, Mama Looking For Her Cat – a heart-wrenching tale of how a dysfunctional Singaporean family comes to grips with its matriarch’s loneliness. </p>
 
-![]()
-
 <a href="/images/CCA%20Language%20Arts%20Club/LAC-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Language%20Arts%20Club/LAC-1-250x250.jpg" 
      style="width:50%"></a>
 
