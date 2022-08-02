@@ -28,9 +28,49 @@ To help the sick and suffering </p>
 </figure>
 
 <figure>
-	<img src="/images/CCA%20Red%20Cross/Slide1-11-250x250.jpg" 
+	<img src="/images/CCA%20Red%20Cross/Slide2-9-250x250.jpg" 
      style="width:50%">
 <figcaption> 
-	<strong>Sec 4 Passing Out Parade</strong> 
+	<strong>Passing Out Parade: Sec 3s take over</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/CCA%20Red%20Cross/Slide3-6-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Sec 1 World Red Cross Day Enrollment Ceremony</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/CCA%20Red%20Cross/Slide4-7-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>VIA: Teaching badminton students how to do first aid</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/CCA%20Red%20Cross/Slide5-3-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>VIA with Blood Buddy mascot (pre-COVID)</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/CCA%20Red%20Cross/Slide6-3-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Red Cross camps (pre-COVID)</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/CCA%20Red%20Cross/Slide7-3-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Red Cross camps (pre-COVID)</strong> 
 	</figcaption>
 </figure>
