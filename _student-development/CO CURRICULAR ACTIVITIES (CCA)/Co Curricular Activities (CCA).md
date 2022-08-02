@@ -52,7 +52,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
     <td></td>
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/football">Football (Boys)</a></td>
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/national-cadet-corps/">National Cadet Corps</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/performing-arts/gushing-ensemble/">Guzheng Ensemble</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/guzheng-ensemble/">Guzheng Ensemble</a></td>
   </tr>
   <tr>
     <td></td>
