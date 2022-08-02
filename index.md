@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
+      key_highlights:
+        - title: Applied Learning Programme
+          description: Description >30 char, omitted
+          url: /signature-programmes/artssgs/
+        - title: Learn for Life Programme
+          description: Description >30 char, omitted
+          url: ""
+        - title: Arts Education Programme
+          description: Description >30 char, omitted
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
