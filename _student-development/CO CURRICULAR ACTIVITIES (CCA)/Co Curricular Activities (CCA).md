@@ -4,8 +4,6 @@ permalink: /co-curricular-activities-cca/
 description: ""
 third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
-
-
 ##### **Co-Curricular Activities (CCA) in Secondary School Education**
 
 <p style="text-align: justify;"> Co-Curricular Activities (CCA) plays a key role in the holistic development of our students. It provides students with a platform to discover their interests and talents for a life-long love for a particular activity, skill or interest. This will subsequently help the individual to lead a balanced life in adulthood. </p>
@@ -25,10 +23,10 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <table>
 <thead>
   <tr>
-    <th>**Clubs and Societies**</th>
-    <th>**Physical Sports**</th>
-    <th>**Uniformed Groups**</th>
-    <th>**Visual and Performing Arts**</th>
+    <th>Clubs and Societies</th>
+    <th>Physical Sports</th>
+    <th>Uniformed Groups</th>
+    <th>Visual and Performing Arts</th>
   </tr>
 </thead>
 <tbody>
