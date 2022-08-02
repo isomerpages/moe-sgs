@@ -62,8 +62,8 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/cca/table-tennis/">Table Tennis (Boys)</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/uniformed-groups/red-cross-youth/">Red Cross Youth</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/table-tennis/">Table Tennis (Boys)</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/red-cross-youth/">Red Cross Youth</a></td>
     <td></td>
   </tr>
 </tbody>
