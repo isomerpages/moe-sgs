@@ -16,3 +16,19 @@ The Ensemble gives back to society through its VIA programme. In 2021, they coll
 ##### **Our Achievements**
 
 The Ensemble took part in the biennial Singapore Youth Festival (SYF) Arts Presentation and achieved a <u>Certificate of Distinction consecutively from 2013 to 2021</u>. The stellar results are possible because of its consistent effort and team work.
+
+##### **CCA Training during COVID-19**
+
+The pandemic reshaped the way the Ensemble carries out its practices as it had to shift the practice sessions online. Students who do not have a Guzheng at home loaned the instrument from the school so that learning could continue. While there were challenges like internet connection lags, it was gratifying to see the pupils engaged during the online sessions as they clapped along to the different beats and rhythms of the tune, participated in online quizzes and played their instruments. 
+
+##### **Student Experience**
+
+Below were some comments from the pupils:
+
+_‘It was good that we have to answer questions like mini-tests throughout our online lesson.’ (Andreena, 1GT)_
+
+_‘One good thing about E-CCA is that we get to attend it in the comfort of our home and we get to revise the foundation like music theory.’ (Rachel, 2DI)_
+
+_‘I think the online lesson went very well. I understood everything the instructor said. However, there was a lag at times and I could not properly view the instructor when she was demonstrating the clapping of the beats.’ (Zi Xuan, 2IN)_
+
+Our students certainly demonstrated our school value of perseverance as they participated in the weekly practices faithfully and through the process, learnt to adapt to the ‘new normal’ way of attending guzheng practice sessions.  With the skills taught during E-CCA, all the students practised and recorded individual snippets of themselves playing the song, which was then pieced together to form the complete music video, entitled ‘Home’, and presented to the school during the National Day celebrations in 2020.
