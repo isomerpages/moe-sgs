@@ -22,7 +22,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 ##### **CCA Training in times of COVID-19**
 
-<p style="text-align: justify;"> Due to Covid-19, our unit has remained nimble and successfully transformed our traditional training activities and institutionalised a hybrid blended-learning model. The teachers-in-charge of the various levels planned and implemented online technological platforms such as the NPCC Home-Based Learning Site <a href="https://sites.google.com/view/npcchbl/home">(https://sites.google.com/view/npcchbl/home)</a>. Student Learning Space (SLS) and Google Classroom, which are used as submission platforms for our cadets to attain their knowledge and badges. </p>
+<p style="text-align: justify;"> Due to Covid-19, our unit has remained nimble and successfully transformed our traditional training activities and institutionalised a hybrid blended-learning model. The teachers-in-charge of the various levels planned and implemented online technological platforms such as the NPCC Home-Based Learning Site (<a href="https://sites.google.com/view/npcchbl/home">https://sites.google.com/view/npcchbl/home</a>). Student Learning Space (SLS) and Google Classroom, which are used as submission platforms for our cadets to attain their knowledge and badges. </p>
 
 <p style="text-align: justify;"> The Sec 1 cadets successfully completed the Crime Prevention (CP) online badge work under the supervision of Ms. Ita. Our cadets designed their own posters and put them up on the class noticeboards around the school to spread the crime prevention messages. </p>
 
