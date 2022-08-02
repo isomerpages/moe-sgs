@@ -16,13 +16,13 @@ In 2021, our dancers competed in the Singapore Youth Festival (SYF), performing 
 
 The SGS dancers also perform regularly at key school events such as at the annual Chinese New Year Celebrations, National Day Celebrations and Open House. They also get to experience an inter-school dance camp at the end of every year. This gives them a great opportunity to interact with dancers from other schools, forging new friendships through dance while honing their skills.
 
-**CCA Training in times of COVID-19**
+##### **CCA Training in times of COVID-19**
 
 The pandemic has brought much inconvenience to many, whether in the area of work, school or even family time. Despite this difficult period, the students of the Dance Club did not stop meeting another, practicing on their dance skills and knowledge. 
 
 Students continue to learn and execute the dance steps online from our instructor, in the comfort of their individual homes.
 
-**Achievement**
+##### **Achievement**
 
 2021 – Singapore Youth Festival (SYF) Arts Presentation, Certificate of Distinction
 
