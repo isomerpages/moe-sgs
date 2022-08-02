@@ -37,6 +37,18 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> The Ensemble took part in the biennial Singapore Youth Festival (SYF) Arts Presentation and achieved a <u>Certificate of Distinction consecutively from 2013 to 2021</u>. The stellar results are possible because of its consistent effort and team work. </p>
 
+<a href="/images/CCA%20Guzheng%20Ensemble/7-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/7-250x250.jpg" 
+     style="width:50%"></a>
+
+<a href="/images/CCA%20Guzheng%20Ensemble/8-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/8-250x250.jpg" 
+     style="width:50%"></a>
+
+<a href="/images/CCA%20Guzheng%20Ensemble/9-250x250.jpeg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/9-250x250.jpeg" 
+     style="width:50%"></a>
+
+<a href="/images/CCA%20Guzheng%20Ensemble/10-250x250.png" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/10-250x250.png" 
+     style="width:50%"></a>
+
 ##### **CCA Training during COVID-19**
 
 <p style="text-align: justify;"> The pandemic reshaped the way the Ensemble carries out its practices as it had to shift the practice sessions online. Students who do not have a Guzheng at home loaned the instrument from the school so that learning could continue. While there were challenges like internet connection lags, it was gratifying to see the pupils engaged during the online sessions as they clapped along to the different beats and rhythms of the tune, participated in online quizzes and played their instruments. </p>
