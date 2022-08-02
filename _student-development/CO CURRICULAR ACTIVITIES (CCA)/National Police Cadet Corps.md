@@ -62,4 +62,3 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 	<strong>Secondary 4 Passing-Out-Parade (POP) 2021</strong> 
 	</figcaption>
 </figure>
-![](/)
