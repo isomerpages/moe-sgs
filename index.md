@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Applied Learning Programme
           description: Description >30 char, omitted
-          url: /signature-programmes/artssgs/
-        - title: Learn for Life Programme
+          url: /instructional-programmes/academic-exellence/applied-learning-programme/
+        - title: Learning for Life Programme
           description: Description >30 char, omitted
-          url: ""
+          url: /academic-exellence/llp/
         - title: Arts Education Programme
           description: Description >30 char, omitted
-          url: ""
+          url: /signature-programmes/artssgs/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
