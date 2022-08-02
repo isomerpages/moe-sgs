@@ -9,6 +9,14 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <a href="/images/CCA%20Language%20Arts%20Club/LAC-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Language%20Arts%20Club/LAC-1-250x250.jpg" 
      style="width:50%"></a>
 
+<a href="/images/CCA%20Language%20Arts%20Club/LAC-2-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Language%20Arts%20Club/LAC-2-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/CCA%20Language%20Arts%20Club/LAC-3-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Language%20Arts%20Club/LAC-3-250x250.jpg" 
+     style="width:50%"></a>
+		 
+<a href="/images/CCA%20Language%20Arts%20Club/LAC-4-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Language%20Arts%20Club/LAC-4-250x250.jpg" 
+     style="width:50%"></a>
 		 
 <p style="text-align: justify;"> A gamut of our most talented students ranging from Sec 1 to 4 took part in preparing for their roles onstage and off-stage, making it a truly united LAC effort, which all paid off when we clinched the Certificate of Accomplishment. In addition, we also took part in the National Schools Literature Festival, fielding two teams of Lower Secondary students for the Lower Secondary Book Trailer and Choral Speaking competitions, allowing the students to gain valuable public performance exposure. </p>
 
