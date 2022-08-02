@@ -6,6 +6,8 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
 <p style="text-align: justify;"> The SGS Choir is all about discovering and nurturing a passion for singing and performing.  The vision of the Choir is for each and every member to become gracious citizens, resilient musicians and confident performers. The Choir believes in holistically developing each member’s talents as a performer, and therefore includes choreography and drama as part of our curriculum. Most importantly, we are strong advocates of character building, and aim to groom young ladies and gentlemen of commendable moral courage and fibre. In terms of repertoire, we do not limit our musical education to merely classical choral pieces, but also learn popular hits like “Stitches” by Shawn Mendes and “Best Day of My Life” by American Authors. </p>
 
+![](/images/CCA%20Choral%20Ensemble/choral.jpg)
+
 ##### **Achievement**
 
 2021 – Singapore Youth Festival (SYF) Arts Presentation (No accreditation due to COVID-19)
