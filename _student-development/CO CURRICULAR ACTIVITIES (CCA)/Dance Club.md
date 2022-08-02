@@ -7,6 +7,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 “DWDC, Da Whoosh!” This is the cheer often made by the dancers of the SGS Da Whoosh Dance Club (DWDC). A close-knit team, the dancers have been building up their repertoire of Hip Hop and Modern Contemporary dance moves. As a CCA which emphasizes on student-led ideation and leadership, the dance club provides many opportunities for the dancers to choreograph different types of performances.
 
 ![](/images/CCA%20Dance%20Club/Slide2-1-1024x576.jpg)
+
 ![](/images/CCA%20Dance%20Club/Slide1-1-1024x576.jpg)
 
 In 2021, our dancers competed in the Singapore Youth Festival (SYF), performing a modern dance piece titled “Throwback Thursday”. Both teams were accredited, with one team achieving a Certificate of Distinction and the other team, a Certificate of Accomplishment. The dancers also took part in the 2021 ActiveSG Dance Challenge, representing the school in the nationwide challenge.
