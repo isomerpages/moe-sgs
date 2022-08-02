@@ -46,12 +46,12 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/earth-club/">Earth Club</a></td>
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/floorball/">Floorball (Girls)</a></td>
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/girls-brigade/">Girls’ Brigade</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/performing-arts/dance-club/">Dance</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/dance-club/">Dance</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/cca/football/">Football (Boys)</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/uniformed-groups/national-cadet-corps/">National Cadet Corps</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/football">Football (Boys)</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/national-cadet-corps/">National Cadet Corps</a></td>
     <td><a href="https://www.sgs.edu.sg/co-curricular-activities/performing-arts/gushing-ensemble/">Guzheng Ensemble</a></td>
   </tr>
   <tr>
