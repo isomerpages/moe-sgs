@@ -6,11 +6,13 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 ---
 <p style="text-align: justify;"> The SGS Guzheng Ensemble nurtures in students a deep appreciation for the traditional Chinese instrument. In the Ensemble, students are encouraged to demonstrate values of perseverance and diligence as they work together as a team to train their coordination, focus and musicality. </p>
 
-
 <a href="/images/CCA%20Guzheng%20Ensemble/Guzheng-4-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/Guzheng-4-250x250.jpg" 
      style="width:50%"></a>
 
 <a href="/images/CCA%20Guzheng%20Ensemble/1-250x250.jpeg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/1-250x250.jpeg" 
+     style="width:50%"></a>
+
+<a href="/images/CCA%20Guzheng%20Ensemble/2-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/2-250x250.jpg" 
      style="width:50%"></a>
 
 <a href="/images/CCA%20Guzheng%20Ensemble/3-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/3-250x250.jpg" 
