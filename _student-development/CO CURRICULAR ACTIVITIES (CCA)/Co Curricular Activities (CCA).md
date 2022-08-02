@@ -56,9 +56,9 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/cca/netball/">Netball</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/uniformed-groups/national-police-cadet-corps/">National Police Cadet Corps</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/performing-arts/language-arts-club/">Language Arts Club</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/netball/">Netball</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/national-police-cadet-corps/">National Police Cadet Corps</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/language-arts-club/">Language Arts Club</a></td>
   </tr>
   <tr>
     <td></td>
