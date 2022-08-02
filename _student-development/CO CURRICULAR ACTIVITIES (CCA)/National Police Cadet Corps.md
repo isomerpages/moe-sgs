@@ -54,7 +54,6 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 	</figcaption>
 </figure>
 
-
 <figure>
 	<img src="/images/CCA%20NPCC/Slide4-6-250x250.jpg" 
      style="width:50%">
