@@ -25,6 +25,6 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 **SGS Chinese New Year Virtual Performance 2021**
 
-![](/images/CCA%20Choral%20Ensemble/Slide7-1024x576.jpg)
-![](/images/CCA%20Choral%20Ensemble/Slide8-1024x576.jpg)
 ![](/images/CCA%20Choral%20Ensemble/Slide9-1024x576.jpg)
+![](/images/CCA%20Choral%20Ensemble/Slide8-1024x576.jpg)
+![](/images/CCA%20Choral%20Ensemble/Slide7-1024x576.jpg)
