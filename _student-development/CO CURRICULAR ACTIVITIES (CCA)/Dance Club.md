@@ -24,6 +24,6 @@ Students continue to learn and execute the dance steps online from our instructo
 
 ##### **Achievement**
 
-2021 – Singapore Youth Festival (SYF) Arts Presentation, Certificate of Distinction
+2021 – Singapore Youth Festival (SYF) Arts Presentation, Certificate of <u>Distinction</u>
 
 2019 – Singapore Youth Festival (SYF) Arts Presentation, Certificate of Accomplishment
