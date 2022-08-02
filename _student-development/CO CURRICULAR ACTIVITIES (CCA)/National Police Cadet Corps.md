@@ -38,7 +38,28 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 	</figcaption>
 </figure>
 
-![]()
-![](/images/CCA%20NPCC/Slide2-8-250x250.jpg)
-![](/images/CCA%20NPCC/Slide3-5-250x250.jpg)
-![](/images/CCA%20NPCC/Slide4-6-250x250.jpg)
+<figure>
+	<img src="/images/CCA%20NPCC/Slide2-8-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Secondary 2 Kindness Movement Badge workshop conducted by Singapore Kindness Movement</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/CCA%20NPCC/Slide3-5-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Balloon Sculpting enrichment course during our Annual Camp 2021</strong> 
+	</figcaption>
+</figure>
+
+
+<figure>
+	<img src="/images/CCA%20NPCC/Slide4-6-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong>Secondary 4 Passing-Out-Parade (POP) 2021</strong> 
+	</figcaption>
+</figure>
+![](/)
