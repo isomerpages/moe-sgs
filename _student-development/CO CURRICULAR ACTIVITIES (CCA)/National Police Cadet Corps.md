@@ -29,3 +29,16 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <p style="text-align: justify;"> The NPCC’s ‘Police Youth Ambassador (PYA)’ and ‘Community Safety & Security Programme – Values In Action (CSSP-VIA)’ courses, involving the teachers-in-charge Mr. David Kwong and Mr. Joel Yow, and Secondary 2 and 3 cadets were virtually conducted online. For both programmes, cadets were able to deepen their awareness about SGSecure and were taught skills and knowledge to identify security threats in Singapore and around the world. Thereafter, the cadets became advocates of SGSecure by producing a video which was shared during morning assembly on a school-wide level. </p>
 
 <p style="text-align: justify;"> The unit is thankful to Serangoon Neighbourhood Police Centre and NPCC Headquarters for providing a wide array of online resources to support our online initiative, including the recent Cybercrime Webinar, which has benefitted our cadets tremendously. </p>
+
+<figure>
+	<img src="/images/CCA%20NPCC/Slide1-10-250x250.jpg" 
+     style="width:50%">
+<figcaption> 
+	<strong> Area 6 Secondary 1 Swearing-In Ceremony 2021</strong> 
+	</figcaption>
+</figure>
+
+![]()
+![](/images/CCA%20NPCC/Slide2-8-250x250.jpg)
+![](/images/CCA%20NPCC/Slide3-5-250x250.jpg)
+![](/images/CCA%20NPCC/Slide4-6-250x250.jpg)
