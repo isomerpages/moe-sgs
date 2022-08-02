@@ -13,8 +13,14 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 <a href="/images/CCA%20Guzheng%20Ensemble/1-250x250.jpeg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/1-250x250.jpeg" 
      style="width:50%"></a>
 
-<a href="/images/CCA%20Guzheng%20Ensemble/2-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/2-250x250.jpg" 
+<a href="/images/CCA%20Guzheng%20Ensemble/3-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/3-250x250.jpg" 
      style="width:50%"></a>
+		 
+<a href="/images/CCA%20Guzheng%20Ensemble/4-250x250.jpeg" target = "_blank"> <img src="/images/CCA%20Guzheng%20Ensemble/4-250x250.jpeg" 
+     style="width:50%"></a>
+
+
+
 		 
 ##### **What We Do**
 
