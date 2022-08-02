@@ -10,7 +10,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> We wrapped things off for the year with a Teachers’ Day segment, where we hosted a rip-roaring pop quiz for the crowd. We look forward to every new year and its challenges with great gusto. Let us continue to entertain you! </p>
 
-**Online Co-curricular activities (_CCA_)**
+##### **Online Co-curricular activities (_CCA_)**
 
 <p style="text-align: justify;"> The opportunity for the pupils of the Language Arts Club to come together to rehearse is no longer made possible in view of the COVID-19 situation. </p>
 
