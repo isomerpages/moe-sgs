@@ -37,8 +37,8 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/choral-ensemble/">Choir</a></td>
   </tr>
   <tr>
-    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/earth-club/">Robotics Club</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/cca/basketball/">Basketball (Boys)</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/robotics-club/">Robotics Club</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/Basketball">Basketball (Boys)</a></td>
     <td><a href="https://www.sgs.edu.sg/co-curricular-activities/uniformed-groups/girl-guides/">Girl Guides</a></td>
     <td><a href="https://www.sgs.edu.sg/co-curricular-activities/performing-arts/concert-band/">Concert Band</a></td>
   </tr>
