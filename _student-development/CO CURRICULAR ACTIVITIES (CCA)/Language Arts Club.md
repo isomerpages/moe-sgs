@@ -16,6 +16,6 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
 
 <p style="text-align: justify;"> Nevertheless, this did not deter the teachers-in-charge and pupils to meet one another, to rehearse.  Instead of the physical meet-up, the pupils met online to rehearse for the upcoming National Day celebration.  Each pupil, with guidance from the teachers-in-charge, rehearsed on their roles, in the comfort of their homes.  The individual recordings were later pieced together into a presentation. </p>
 
-<p style="text-align: justify;"> The Language Arts Club is therefore proud to present a snippet of its first production on zoom for our upcoming National Day’s celebration.  This theatre performance touches on many relatable issues we have experienced from the COVID-19 pandemic. Enjoy the video. </p>
+<p style="text-align: justify;"> The Language Arts Club is therefore proud to present a snippet of its first production on zoom for our upcoming National Day’s celebration. This theatre performance touches on many relatable issues we have experienced from the COVID-19 pandemic. Enjoy the video. </p>
 
 # Please upload the video to youtube
