@@ -44,7 +44,7 @@ third_nav_title: CO CURRICULAR ACTIVITIES (CCA)
   </tr>
   <tr>
     <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/earth-club/">Earth Club</a></td>
-    <td><a href="https://www.sgs.edu.sg/co-curricular-activities/cca/floorball/">Floorball (Girls)</a></td>
+    <td><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/floorball/">Floorball (Girls)</a></td>
     <td><a href="https://www.sgs.edu.sg/co-curricular-activities/uniformed-groups/girls-brigade/">Girls’ Brigade</a></td>
     <td><a href="https://www.sgs.edu.sg/co-curricular-activities/performing-arts/dance-club/">Dance</a></td>
   </tr>
