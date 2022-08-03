@@ -1,0 +1,4 @@
+collections:
+  potential-resources:
+    output: true
+    order: []
