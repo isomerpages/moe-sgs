@@ -17,7 +17,7 @@ description: ""
 
 <p style="text-align: justify;"> The PSLE score ranges are indicative as 2021 is the first year of transition from T-score to Achievement Levels (AL) scoring system. They are simulated using the 2020 PSLE cohort results and students’ school choice. </p>
 
-2. <strong><u>**Can we still appeal if my child does not get posted to SGS?**</u></strong>
+2. <strong><u>Can we still appeal if my child does not get posted to SGS?</u></strong>
 
 <p style="text-align: justify;">Yes, you may still appeal. However, we are unable to guarantee whether the appeal will be successful, as the indicative score may change depending on the demand for places in our school. </p>
 
