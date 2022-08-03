@@ -50,8 +50,8 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   </tr>
   <tr>
     <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/concert-band/" target = "_blank" >Concert Band</a></td>
-    <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/Basketball/" target = "_blank">Basketball</a></td>
-    <td style="text-align: center"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/floorball/" target = "_blank">Floorball</a></td>
+    <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/guzheng-ensemble/" target = "_blank">Guzheng Ensemble</a></td>
+    <td style="text-align: center"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/dance-club/" target = "_blank">Dance Club</a></td>
   </tr>
   <tr>
     <td colspan="3"><img src="/images/CCA%20Tour/cca_tour.jpg" width="720" height="137"></td>
