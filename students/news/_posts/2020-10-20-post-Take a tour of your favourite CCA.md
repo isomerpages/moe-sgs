@@ -58,7 +58,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   </tr>
   <tr>
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/netball/" target = "_blank">Choral Ensemble</a></td>
-    <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/table-tennis/" target = "_blank">s</a></td>
+    <td></td>
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/football/" target = "_blank">Language Arts Club</a></td>
   </tr>
 </tbody>
