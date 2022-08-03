@@ -4,7 +4,7 @@ permalink: /students/Student-Academic-Matters/sba/
 description: ""
 third_nav_title: Student Academic Matters
 ---
-##### **School-Based Assessment 2022**
+#### **School-Based Assessment 2022**
 
 As part of our school’s efforts to balance the assessment load to better support our students’ learning, the weightings for our School-Based Assessment (SBA) for Secondary 1 to 3 students in 2022 are as follows:
 
