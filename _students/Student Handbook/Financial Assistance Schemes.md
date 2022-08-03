@@ -14,5 +14,7 @@ third_nav_title: Student Handbook
 |                | Transport subsidy ($120 transport credit per annum for students taking public transport)         |         |
 |                                 | 2 sets of school uniforms            |        |
 |                                 | 2 sets of PE attire                           |                                                                 |
-|                                 | 2 pairs of socks                                                                                                                                                     |                                                                                                                        |
-|                                 | 1 pair of shoes                                                                                                                                                      |                                                                                                                        |
+|                                 | 2 pairs of socks                         |       |
+|                                 | 1 pair of shoes                            |       |
+
+
