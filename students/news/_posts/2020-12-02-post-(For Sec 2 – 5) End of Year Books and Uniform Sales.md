@@ -86,3 +86,25 @@ Please click on the link to view or download the booklist.
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c8m9{background-color:#D9D9D9;color:#222;text-align:center;vertical-align:top}
+.tg .tg-p59o{color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c8m9" colspan="2"><span style="font-weight:bolder">FAS Application</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-p59o" colspan="2"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/10/MOE-FAS-Application-Form-Sep-2021.pdf">MOE FAS Application Form (Sep 2021)</a><br><br>(Please submit FAS applications to <a href="mailto:sgss@moe.edu.sg"><span style="background-color:transparent">sgss@moe.edu.sg</span></a> with the relevant scanned documents)</td>
+  </tr>
+</tbody>
+</table>
