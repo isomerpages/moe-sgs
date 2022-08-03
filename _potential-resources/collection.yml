@@ -1,4 +1,5 @@
 collections:
   potential-resources:
     output: true
-    order: []
+    order:
+      - Staff Well Being.md
