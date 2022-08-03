@@ -106,7 +106,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   </tr>
   <tr>
     <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/robotics-club/" target = "_blank" >Robotics Club</a></td>
-    <td style="text-align: center"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/floorball/" target = "_blank">Floorball</a></td>
+    <td style="text-align: center"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/sgs-media-studio/" target = "_blank">Club Media Studio</a></td>
   </tr>
 </tbody>
 </table>
