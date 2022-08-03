@@ -104,7 +104,7 @@ Please click on the link to view or download the booklist.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-p59o" colspan="2"><a href="/files/Book%20and%20uniform%20sales/MOE-FAS-Application-Form-Sep-2021.pdf" target = "_blank" >MOE FAS Application Form (Sep 2021)</a><br><br>(Please submit FAS applications to <a href="mailto:sgss@moe.edu.sg"><span style="background-color:transparent">sgss@moe.edu.sg</span></a> with the relevant scanned documents)</td>
+    <td style = "text-align: center"><a href="/files/Book%20and%20uniform%20sales/MOE-FAS-Application-Form-Sep-2021.pdf" target = "_blank" >MOE FAS Application Form (Sep 2021)</a><br><br><i> (Please submit FAS applications to <a href="mailto:sgss@moe.edu.sg"><span style="background-color:transparent">sgss@moe.edu.sg</span></a> with the relevant scanned documents)</i> </td>
   </tr>
 </tbody>
 </table>
