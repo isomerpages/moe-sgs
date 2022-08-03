@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Student Handbook/.keep
       - Latest News.md
       - Student Academic Matters/.keep
       - Student Academic Matters/Student Academic Matters.md
       - Student Academic Matters/School Based Assessments.md
       - Student Academic Matters/Student Learning Space.md
+      - Student Handbook/.keep
       - Education and Career Guidance.md
