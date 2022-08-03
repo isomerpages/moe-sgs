@@ -8,3 +8,11 @@ third_nav_title: Student Handbook
 |:----------------------------:|:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
 | Sec 1 Express/ Sec 2 Express |                      Pass English and average score of all subjects                      |             Laterally transferred to Sec 2/Sec 3 Normal (Academic)            |
 |         Sec 3 Express        | Pass English and 2 other subjects<br><br>OR<br><br>Pass 5 other subjects if did not pass English | Retained at Sec 3 Express or laterally transferred to Sec 4 Normal (Academic) |
+
+<br>
+
+|       Level/Stream      |                Promotion criteria         |                    If promotion criteria is not met             |              Lateral transfer to Express           |
+|:-----------------------:|:-----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| Sec 1 Normal (Academic) | Pass EL and 2 other subjects<br>OR<br>Pass 4 other subjects if did not pass English | Retained at Sec 1 Normal (Academic)<br>OR<br>Laterally transferred to Sec 2 Normal (Technical) | 70% or more for all of the following:<br><br>Average score of all subjects<br>English<br>Maths<br>Science |
+| Sec 2 Normal (Academic) | Pass EL and 2 other subjects<br>OR<br>Pass 4 other subjects if did not pass English |                               Retained at Sec 2 Normal (Academic)                              | 70% or more for all of the following:<br><br>Average score of all subjects<br>English<br>Maths<br>Science |
+| Sec 3 Normal (Academic) | Pass EL and 2 other subjects<br>OR<br>Pass 4 other subjects if did not pass English |                               Retained at Sec 3 Normal (Academic)                              |                                               Not applicable                                              |
