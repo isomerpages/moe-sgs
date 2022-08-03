@@ -28,11 +28,11 @@ third_nav_title: Student Handbook
   </tr>
   <tr>
     <td></td>
-    <td><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/05/First-Uniform-1-600x338.png" alt="First Uniform" width="600" height="338"></td>
+    <td><img src="/images/School%20Rules/First-Uniform-1-600x338.png" width="600" height="338"></td>
   </tr>
   <tr>
     <td></td>
-    <td><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/01/code-conduct2-600x338.jpg" alt="Code Conduct2" width="600" height="338"></td>
+    <td><img src="/images/School%20Rules/code-conduct2-600x338.jpg" width="600" height="338"></td>
   </tr>
   <tr>
     <td>1.2</td>
