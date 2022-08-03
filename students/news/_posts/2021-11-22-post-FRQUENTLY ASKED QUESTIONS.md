@@ -25,7 +25,7 @@ description: ""
 
 ##### B. School Life
 
-1.  What are your school hours like?
+1.  <u><strong>What are your school hours like?</u></strong>
 
 <p style="text-align: justify;"> In 2021, for all school days except Monday, students are to be in school by 7.30 a.m. The flag raising begins at 7.45 a.m sharp in class. </p>
 
