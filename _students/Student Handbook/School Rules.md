@@ -81,3 +81,5 @@ third_nav_title: Student Handbook
 | 3.1 | I will attend school regularly and punctually. I understand that daily attendance in school during term time is compulsory as it supports learning.<br><br>I will be in school by 7.55 a.m., seated with my class at the classroom, school hall or parade square for the flag-raising ceremony at 8 a.m.<br>I understand that if I am not present during the flag-raising ceremony, I will be considered late or absent from school.                          |
 | 3.2 | Absence from school must be substantiated by a medical certificate. The medical certificate must be submitted to my Form Teacher when I return to school the next day. I understand that if I am absent without a valid reason, I will face consequences.<br><br> <br>Letters from parents/legal guardians (maximum of 5 letters per term) may be considered in cases where medical certificates are not applicable. This does not apply during examinations. |
 | 3.3 | I will attend lessons, CCA and other school activities punctually.        |
+
+##### <u>Respect for Nation and School</u>
