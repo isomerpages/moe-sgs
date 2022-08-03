@@ -126,7 +126,7 @@ Please click on the link to view or download the booklist.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-p59o"><a href="files/Book%20and%20uniform%20sales/End-of-Year-Book-and-Uniform-Sales.pdf">End of Year Book and Uniform Sales (updated 29 Oct 2021)</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/End-of-Year-Book-and-Uniform-Sales.pdf">End of Year Book and Uniform Sales (updated 29 Oct 2021)</a></td>
   </tr>
 </tbody>
 </table>
