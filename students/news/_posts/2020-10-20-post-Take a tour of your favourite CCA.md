@@ -51,7 +51,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   </tr>
   <tr>
     <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/badminton/" target = "_blank" >Badminton</a></td>
-    <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/national-cadet-corps/" target = "_blank">National Cadet Corps</a></td>
+    <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/Basketball/" target = "_blank">Basketball</a></td>
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/red-cross-youth/" target = "_blank">Red Cross Youth</a></td>
   </tr>
   <tr>
