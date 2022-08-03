@@ -25,6 +25,14 @@ description: ""
 </figure>
 
 <figure>
+	<a href="/images/Staff%20Well%20Being/Slide8-1-250x250.jpg" target = "_blank"> <img src="/images/Staff%20Well%20Being/Slide8-1-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff activity at Bukit Timah Hill (Pre Covid)</strong> 
+	</figcaption>
+</figure>
+
+<figure>
 	<a href="/images/Staff%20Well%20Being/Slide2-2-250x250.jpg" target = "_blank"> <img src="/images/Staff%20Well%20Being/Slide2-2-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
