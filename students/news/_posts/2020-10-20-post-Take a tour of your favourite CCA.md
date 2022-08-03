@@ -30,8 +30,8 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   <tr>
     <td colspan="3"><img src="/images/CCA%20Tour/UniformGroup2.png" alt="Uniformgroup2" width="720" height="137"></td>
   </tr>
-  <tr style="text-align: center;">
-    <td style="text-align: center;">Girls’ Brigade</td>
+  <tr>
+    <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/girls-brigade/">Girls’ Brigade</a></td>
     <td style="text-align: center;">National Police Cadet Corps</td>
     <td style="text-align: center;">Girl Guides</td>
   </tr>
