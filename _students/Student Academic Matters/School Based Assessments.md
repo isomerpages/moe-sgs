@@ -13,6 +13,11 @@ As part of our school’s efforts to balance the assessment load to better suppo
 |    Period   | Term 1<br><br>Wk 7 to 8 | Term 2<br><br>Wk 6 to 8 | Term 3<br><br>Wk 6 to 8 | Term 4<br><br>Wk 3 to 5 |
 |  Weighting  |           20%           |           20%           |           20%           |           40%           |
 
+The schedule for our School-Based Assessment (SBA) for Secondary 4 and 5 students in 2022 is as follows:
+
+|  Sec 4 & 5 |           WA 1          |   Mid Year Examination  |             Preliminary Examination             |
+|:----------:|:-----------------------:|:-----------------------:|:-----------------------------------------------:|
+|   Period   | Term 1<br><br>Wk 7 to 8 | Term 2<br><br>Wk 6 to 8 | Term 3<br><br>4N: Wk 6 to 8<br>4E5N: Wk 8 to 10 |
 
 ##### What are Weighted Assessments?
 
