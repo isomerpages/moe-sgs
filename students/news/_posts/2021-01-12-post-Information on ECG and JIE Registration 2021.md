@@ -5,3 +5,7 @@ date: 2021-01-12
 layout: post
 description: ""
 ---
+Dear Parent(s) / Guardian,
+
+Please click on the image to download the Information on ECG and JAE Registration.
+
