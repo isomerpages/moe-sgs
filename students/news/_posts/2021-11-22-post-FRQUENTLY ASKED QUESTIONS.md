@@ -5,7 +5,7 @@ date: 2021-11-22
 layout: post
 description: ""
 ---
-##### A. Entry requirements and Administrative details.
+##### **A. Entry requirements and Administrative details.**
 
 1. <strong><u> What is the school’s indicative PSLE score range?</u></strong>
 
@@ -23,7 +23,7 @@ description: ""
 
 <p style="text-align: justify;"> Given that we have seen an increase in demand for places in SGS over the past few years, you may wish to consider opting for SGS as one of the first 3 choices to avoid having to go through an appeal to enrol with us.</p>
 
-##### B. School Life
+##### **B. School Life**
 
 1.  <strong> <u>What are your school hours like?</u></strong>
 
@@ -47,7 +47,7 @@ The school opens at 6.45 a.m and closes at 6 p.m.
 
 <p style="text-align: justify;">From year to year, the subject combinations eventually offered, including Pure Sciences and Pure Humanities, may vary depending on the students’ preferences, their aptitude to do well in these subjects, as well as the school’s available teaching resources. </p>
 
-##### C. Special Programmes
+##### **C. Special Programmes**
 
 1.  <strong> <u>What is your Applied Learning Programme (ALP)?</u></strong>
 
