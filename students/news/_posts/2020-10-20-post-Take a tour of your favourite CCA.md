@@ -20,7 +20,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
 </thead>
 <tbody>
   <tr>
-    <td colspan="3"><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/10/UniformGroup1.png" alt="Uniformgroup1" width="720" height="138"></td>
+    <td colspan="3"><img src="/images/CCA%20Tour/UniformGroup1.png" alt="Uniformgroup1" width="720" height="138"></td>
   </tr>
   <tr style="text-align: center;">
     <td>Boys’ Brigade</td>
@@ -28,7 +28,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
     <td>Red Cross Youth</td>
   </tr>
   <tr>
-    <td colspan="3"><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/10/UniformGroup2.png" alt="Uniformgroup2" width="720" height="137"></td>
+    <td colspan="3"><img src="/images/CCA%20Tour/UniformGroup2.png" alt="Uniformgroup2" width="720" height="137"></td>
   </tr>
   <tr style="text-align: center;">
     <td>Girls’ Brigade</td>
