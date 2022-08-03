@@ -81,7 +81,7 @@ Please click on the link to view or download the booklist.
 </thead>
 <tbody>
   <tr>
-    <td>Order from<br><br><a href="https://jeepsinguniform.com/collections/serangoon-gardens-secondary">https://jeepsinguniform.com</a></td>
+    <td  style = "text-align: center">Order from<br><br><a href="https://jeepsinguniform.com/collections/serangoon-gardens-secondary">https://jeepsinguniform.com</a></td>
     <td> <a href="https://www.sgs.edu.sg/wp-content/uploads/2021/10/Jeep-Sing-Fashion-Flyer.pdf" target="_blank" rel="noopener noreferrer">Instructions for purchasing uniform and PE attire</a><br><br>(No sale of uniform in SGSS. <br>On-site purchase at Jeep Sing retail in Ang Mo Kio is strictly by appointment only)</td>
   </tr>
 </tbody>
