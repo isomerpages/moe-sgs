@@ -36,7 +36,7 @@ third_nav_title: Student Handbook
   </tr>
   <tr>
     <td>1.2</td>
-    <td> Footwear<br><br>I will wear all white or all black socks that cover my ankles fully.<br>I will wear either all white or all black canvas school shoes, or sports shoes that are white, black, grey, blue, or a combination of these colours. Neon colours on any part of the shoes or shoes with fanciful logos or designs are not to be worn.<br>In the event of a foot injury, I may obtain permission from the Student Management Committee to wear slippers or sandals to school.</td>
+    <td> Footwear<br><br>I will wear all white or all black socks that cover my ankles fully.<br><br>I will wear either all white or all black canvas school shoes, or sports shoes that are white, black, grey, blue, or a combination of these colours. Neon colours on any part of the shoes or shoes with fanciful logos or designs are not to be worn.<br><br>In the event of a foot injury, I may obtain permission from the Student Management Committee to wear slippers or sandals to school.</td>
   </tr>
 </tbody>
 </table>
