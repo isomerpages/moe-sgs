@@ -12,6 +12,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
 # please migrate the videos to youtube
 <p style="text-align: center;"> <strong>Our 18 CCAs </strong></p>
 
+
 <table>
 <thead>
   <tr>
@@ -37,6 +38,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   </tr>
 </tbody>
 </table>
+
 
 <table>
 <thead>
@@ -87,6 +89,25 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/netball/" target = "_blank">Netball</a></td>
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/table-tennis/" target = "_blank">Table Tennis</a></td>
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/football/" target = "_blank">Football</a></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center; background-color: #dbdbdb" colspan="3">Clubs and Societies</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="3"><img src="/images/CCA%20Tour/SportsGames1.png" alt="sportsgames1" width="720" height="138"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/badminton/" target = "_blank" >Badminton</a></td>
+    <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/Basketball/" target = "_blank">Basketball</a></td>
+    <td style="text-align: center"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/floorball/" target = "_blank">Floorball</a></td>
   </tr>
 </tbody>
 </table>
