@@ -86,5 +86,3 @@ Please click on the link to view or download the booklist.
   </tr>
 </tbody>
 </table>
-
-[](/)
