@@ -31,7 +31,7 @@ description: ""
 
 On Monday, students are to report to their classrooms by 8.10 a.m
 
-2.  How late are students expected to stay in school each day?
+2.  <u><strong>How late are students expected to stay in school each day?</u></strong>
 
 <p style="text-align: justify;"> This depends on whether your child is schedule for CCAs or additional learning programmes. Should your child be required to stay in school beyond the dismassal time indicated in his or her timetable, you will be informed by the school in advance. </p>
 
