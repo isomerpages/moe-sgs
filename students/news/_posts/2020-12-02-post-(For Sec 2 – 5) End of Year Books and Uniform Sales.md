@@ -15,11 +15,6 @@ description: ""
 
 Please click on the link to view or download the booklist.
 
-[](/files/Book%20and%20uniform%20sales/Sec-2E-Booklist.pdf)
-[](/files/Book%20and%20uniform%20sales/Sec-2NA-Booklist.pdf)
-[](/files/Book%20and%20uniform%20sales/Sec-2NT-Booklist.pdf)
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,9 +44,9 @@ Please click on the link to view or download the booklist.
     <td class="tg-c8m9" colspan="3">Secondary 3 Book list</td>
   </tr>
   <tr>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-3NT-Booklist.pdf">Secondary 3 Normal Technical</a></td>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-3NA-Booklist.pdf"><span style="background-color:transparent">Secondary 3 Normal Academic</span></a></td>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-3E-Booklist.pdf">Secondary 3 Express</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-3NT-Booklist.pdf">Secondary 3 Normal Technical</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-3NA-Booklist.pdf"><span style="background-color:transparent">Secondary 3 Normal Academic</span></a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-3E-Booklist.pdf">Secondary 3 Express</a></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3"></td>
@@ -60,9 +55,9 @@ Please click on the link to view or download the booklist.
     <td class="tg-c8m9" colspan="3">Secondary 4 Book list</td>
   </tr>
   <tr>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-4NT-Booklist.pdf">Secondary 4 Normal Technical</a></td>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-4NA-Booklist.pdf">Secondary 4 Normal Academic</a></td>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-4E-Booklist.pdf">Secondary 4 Express</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-4NT-Booklist.pdf">Secondary 4 Normal Technical</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-4NA-Booklist.pdf">Secondary 4 Normal Academic</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-4E-Booklist.pdf">Secondary 4 Express</a></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3"></td>
@@ -71,7 +66,7 @@ Please click on the link to view or download the booklist.
     <td class="tg-c8m9" colspan="3">Secondary 5 Book list</td>
   </tr>
   <tr>
-    <td class="tg-p59o" colspan="3"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-5NA-Booklist.pdf">Secondary 5 Normal Academic</a></td>
+    <td class="tg-p59o" colspan="3"><a href="/files/Book%20and%20uniform%20sales/Sec-5NA-Booklist.pdf">Secondary 5 Normal Academic</a></td>
   </tr>
 </tbody>
 </table>
