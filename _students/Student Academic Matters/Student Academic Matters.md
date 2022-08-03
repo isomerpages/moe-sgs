@@ -10,4 +10,4 @@ third_nav_title: Student Academic Matters
 **Downloads**
 
 *   [Study and Revision Schedule](https://www.sgs.edu.sg/wp-content/uploads/2014/03/Study-and-Revision-Schedule-Upper-Sec.xls)
-*   [Good Study Tips](https://dl.dropboxusercontent.com/u/1117776/Host%20for%20SGS/Developing%20good%20study%20habits.pdf)
+*   [Good Study Tips (LINK BROKEN)](https://dl.dropboxusercontent.com/u/1117776/Host%20for%20SGS/Developing%20good%20study%20habits.pdf)
