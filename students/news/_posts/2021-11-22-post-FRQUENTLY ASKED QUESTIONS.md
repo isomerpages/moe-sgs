@@ -37,11 +37,11 @@ On Monday, students are to report to their classrooms by 8.10 a.m
 
 The school opens at 6.45 a.m and closes at 6 p.m.
 
-3.  What are the various CCAs offered in the school?
+3.  <u><strong>What are the various CCAs offered in the school?</u></strong>
 
 <p style="text-align: justify;"> We have 18 CCAs in total which include sports, Uniformed Groups (UGs), Performaing Arts (Pas) as well as Clubs and Societies. For instance, we have football, table tennis, basketball and badminton for boys; and netball and floorball for girls. We also have UGs like NPCC, Red Cross Youth, Boys’ Brigade, Girls’ Brigade and Girls Guides, and PAs like our Guzheng Ensemble, Concert Band, Dance Club and Choral Ensemble (Choir). Our Clubs and Societies, such as the Media Club, Robotics Club and Language Arts CLub are also popular with our students. </p>
 
-4.  What subject combinations does your school offer to Secondary 3 pupils? Does your school offer Pure Science?
+4.  <u><strong>What subject combinations does your school offer to Secondary 3 pupils? Does your school offer Pure Science?</u></strong>
 
 <p style="text-align: justify;"> In addition to the core subjects of Languages and Math, we also offer a range of electives such as History, Geography and Literature in English for Combined Humanities; and Physics, Chemistry and Biology for Combined Sciences. Also, we offer subjects like Principles of Accounts, Food and Nutrition, and Design and Technology. Students may choose to offer up to 6 or 7 subjects, depending on their level of readiness and their performance in Secondary 2. </p>
 
