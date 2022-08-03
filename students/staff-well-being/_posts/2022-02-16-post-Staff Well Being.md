@@ -71,3 +71,11 @@ description: ""
 	<strong> Staff at Teachers’ Day Celebration Lunch (Pre Covid) </strong> 
 	</figcaption>
 </figure>
+
+<figure>
+	<a href="/images/Staff%20Well%20Being/Slide4-2-250x250.jpg" target = "_blank"> <img src="/images/Staff%20Well%20Being/Slide4-2-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff Lohei during Lunar New Year (Pre Covid) </strong> 
+	</figcaption>
+</figure>
