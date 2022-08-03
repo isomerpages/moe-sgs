@@ -5,3 +5,8 @@ date: 2020-12-02
 layout: post
 description: ""
 ---
+**Things to take Note:**
+
+1.  Students who are offering SBB subjects should check that they are ordering the correct textbooks/workbooks for their subjects.
+2.  Please visit [https://textbook.popular.com.sg](http://textbook.popular.com.sg/) to order your books online. Last day for online order is **15 Dec 2021**.
+3.  Online purchase is strongly encouraged. On-site purchase is strictly by appointment basis. Students should be accompanied by at most **one** parent/guardian.
