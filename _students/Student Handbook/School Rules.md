@@ -57,15 +57,15 @@ third_nav_title: Student Handbook
 <tbody>
   <tr>
     <td>2,1</td>
-    <td>For the Gentlemen<br><br>I will have my hair short, neat and simple. The fringe should not touch the top of my eyebrows.<br><br>I will keep a clean-shaven and neat appearance.</td>
+		<td><u>For the Gentlemen</u><br><br>I will have my hair short, neat and simple. The fringe should not touch the top of my eyebrows.<br><br>I will keep a clean-shaven and neat appearance.</td>
   </tr>
   <tr>
     <td>2.2</td>
-    <td>For the Ladies<br><br>If I have shoulder-length hair or hair touching the collar, I will tie my hair up neatly at all times. Long fringe that are past the eyebrows will be clipped away neatly. Hair accessories should be black or blue in colour. I will wear at most one pair of simple ear studs.</td>
+    <td><u> For the Ladies </u><br><br>If I have shoulder-length hair or hair touching the collar, I will tie my hair up neatly at all times. Long fringe that are past the eyebrows will be clipped away neatly. Hair accessories should be black or blue in colour. I will wear at most one pair of simple ear studs.</td>
   </tr>
   <tr>
     <td>2.3</td>
-    <td>For all students<br><br>I will not colour or tint my hair.<br><br>I will keep my fingernails clean and trimmed, without nail polish.<br><br>I will not wear any other accessories.<br><br>No form of body decoration (e.g. tattoos) is allowed.</td>
+    <td><u>For all students</u><br><br>I will not colour or tint my hair.<br><br>I will keep my fingernails clean and trimmed, without nail polish.<br><br>I will not wear any other accessories.<br><br>No form of body decoration (e.g. tattoos) is allowed.</td>
   </tr>
   <tr>
     <td></td>
