@@ -9,5 +9,5 @@ third_nav_title: Student Academic Matters
 
 **Downloads**
 
-*   [Study and Revision Schedule](/files/Study-and-Revision-Schedule-Upper-Sec-combined.pdf)
+*   <a href="/files/Study-and-Revision-Schedule-Upper-Sec-combined.pdf" target = "_blank" >Study and Revision Schedule</a>
 *   [Good Study Tips (LINK BROKEN)](https://dl.dropboxusercontent.com/u/1117776/Host%20for%20SGS/Developing%20good%20study%20habits.pdf)
