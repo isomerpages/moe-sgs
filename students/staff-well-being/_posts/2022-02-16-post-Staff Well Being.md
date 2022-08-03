@@ -33,6 +33,22 @@ description: ""
 </figure>
 
 <figure>
+	<a href="/images/Staff%20Well%20Being/Slide7-3-250x250.jpg" target = "_blank"> <img src="/images/Staff%20Well%20Being/Slide7-3-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff participating in sports and bonding games (Pre Covid)</strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Staff%20Well%20Being/Slide6-2-250x250.jpg" target = "_blank"> <img src="/images/Staff%20Well%20Being/Slide6-2-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff participating in sports and bonding games (Pre Covid)</strong> 
+	</figcaption>
+</figure>
+
+<figure>
 	<a href="/images/Staff%20Well%20Being/Slide2-2-250x250.jpg" target = "_blank"> <img src="/images/Staff%20Well%20Being/Slide2-2-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
