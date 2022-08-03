@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Handbook/.keep
       - Latest News.md
       - Student Academic Matters/.keep
       - Student Academic Matters/Student Academic Matters.md
