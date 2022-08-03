@@ -54,7 +54,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
     <td style="text-align: center"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/floorball/" target = "_blank">Floorball</a></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="/images/CCA%20Tour/SportsGames2.png" alt="sportsgames2" width="720" height="137"></td>
+    <td colspan="3"><img src="/images/CCA%20Tour/cca_tour.jpg" width="720" height="137"></td>
   </tr>
   <tr>
     <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/netball/" target = "_blank">Netball</a></td>
