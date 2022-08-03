@@ -110,24 +110,3 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   </tr>
 </tbody>
 </table>
-
-<table style="undefined;table-layout: fixed; width: 623px">
-<colgroup>
-<col style="width: 299px">
-<col style="width: 324px">
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2" style="text-align: center">Clubs and Societies</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2"><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/10/Clubs.png" alt="Clubs" width="482" height="137"></td>
-  </tr>
-  <tr>
-    <td style="text-align: center">Robotics</td>
-    <td style="text-align: center">Club Media Studio</td>
-  </tr>
-</tbody>
-</table>
