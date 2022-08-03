@@ -74,6 +74,8 @@ third_nav_title: Student Handbook
 </tbody>
 </table>
 
+<br>
+
 | 3   | Attendance and Punctuality          |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3.1 | I will attend school regularly and punctually. I understand that daily attendance in school during term time is compulsory as it supports learning.<br><br>I will be in school by 7.55 a.m., seated with my class at the classroom, school hall or parade square for the flag-raising ceremony at 8 a.m.<br>I understand that if I am not present during the flag-raising ceremony, I will be considered late or absent from school.                          |
