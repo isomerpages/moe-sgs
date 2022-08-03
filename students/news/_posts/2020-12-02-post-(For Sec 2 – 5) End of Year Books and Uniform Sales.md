@@ -14,3 +14,59 @@ description: ""
 <p style="text-align: center;"><a href="/files/Book%20and%20uniform%20sales/Instructions-for-Purchase-of-Textbooks-and-Stationery-Sec-2-to-Sec-5-2022.pdf" target = "_blank"><strong><u>Instructions for Purchase of Textbooks and Stationery</u></strong></a></p>
 
 Please click on the link to view or download the booklist.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c8m9{background-color:#D9D9D9;color:#222;text-align:center;vertical-align:top}
+.tg .tg-p59o{color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c8m9" colspan="3">Secondary 2 Book list</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-2NT-Booklist.pdf">Secondary 2 Normal Technical</a></td>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-2NA-Booklist.pdf">Secondary 2 Normal Academic</a></td>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-2E-Booklist.pdf">Secondary 2 Express</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-c8m9" colspan="3">Secondary 3 Book list</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-3NT-Booklist.pdf">Secondary 3 Normal Technical</a></td>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-3NA-Booklist.pdf"><span style="background-color:transparent">Secondary 3 Normal Academic</span></a></td>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-3E-Booklist.pdf">Secondary 3 Express</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-c8m9" colspan="3">Secondary 4 Book list</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-4NT-Booklist.pdf">Secondary 4 Normal Technical</a></td>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-4NA-Booklist.pdf">Secondary 4 Normal Academic</a></td>
+    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-4E-Booklist.pdf">Secondary 4 Express</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-c8m9" colspan="3">Secondary 5 Book list</td>
+  </tr>
+  <tr>
+    <td class="tg-p59o" colspan="3"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-5NA-Booklist.pdf">Secondary 5 Normal Academic</a></td>
+  </tr>
+</tbody>
+</table>
