@@ -11,7 +11,7 @@ Our school counsellors work collaboratively with our students to:
 *   facilitate the expansion of their view of life, enhance his/her social and emotional development and explore coping resources; and
 *   manage his/her challenges and make choices for change in himself/herself.
 
-**We strongly encourage students to arrange for talk-it-through sessions with the counsellor to discuss any issues that he/she may be concerned with.**
+We strongly encourage students to arrange for talk-it-through sessions with the counsellor to discuss any issues that he/she may be concerned with.
 
 ##### **Learning & Behavioural Support**
 
@@ -25,17 +25,17 @@ Our AED (LBS) supports students in the following:
 
 *   help students with educational needs to better integrate into mainstream schools and classes
 
-**We are located at Block D Room 02-01 (R Centre) and Room 02-02.**
+We are located at Block D Room 02-01 (R Centre) and Room 02-02.
 
-**School Counsellors :**
+School Counsellors :
 
 Mdm Loh Lai Choon (6578 9172)
 
 Mr Dennis Abbeyquaye (6578 9170 ext 286)
 
-**AED (LBS) :** Ms Asmita
+AED (LBS) : Ms Asmita
 
-**The road of life twists and turns and no two directions are ever the same. Yet our lessons come from the journey, not the destination.  ~ Don Williams, Jr.**
+The road of life twists and turns and no two directions are ever the same. Yet our lessons come from the journey, not the destination.  ~ Don Williams, Jr.
 
 ##### **Education and Career Guidance (ECG) Counselling**
 
