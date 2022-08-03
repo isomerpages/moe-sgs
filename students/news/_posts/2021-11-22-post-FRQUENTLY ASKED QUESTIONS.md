@@ -49,17 +49,17 @@ The school opens at 6.45 a.m and closes at 6 p.m.
 
 ##### C. Special Programmes
 
-1.  What is your Applied Learning Programme (ALP)?
+1.  <u><strong>What is your Applied Learning Programme (ALP)?</u></strong>
 
 <p style="text-align: justify;"> In line with our vision of nuturing SGSians as ‘Learning with Grit, Leaders with Heart’, our Applied Learning Programme (ALP), entitled “Researching Society through Media Literacy” focuses on equipping our students with necessary media communication skills to think critically and deeply about society issues. Over the three-year programme, students progressivelly hone compeyencies such as media literacy, critical thinking and media creations skills to facilitate their research and present their findings. </p>
 
 <p style="text-align: justify;"> Through the ALP, our students grow in confidence as they learn to manage an Independent project, effectively work with others and present their research through different mediums. At the end of the project, there is the ALP Celebrations, where students share their research and solutions to societal issues with the SGSians family. </p>
 
-2.  Will there be opportunities for my child to develop leadership skills? What is your Learning for Life Programme (LLP)?
+2.  <u><strong>Will there be opportunities for my child to develop leadership skills? What is your Learning for Life Programme (LLP)?</u></strong>
 
 <p style="text-align: justify;"> All students have the opportunity to undergo leadership skills development in SGS, under our ‘Learning for Life Programme’ to grow as ‘Confident and Compassionate Leaders’. Through our LLP, students are equipped with skills to lead themselves, work with peers and lead others, through customized level-wide leadership programmes. As part of our inclusive approach for student leadership development, all students have the opportunity to serve as a students-leader at the class, CCA or school level through the SGS Leadership by Choice platform. Selected students leaders will also embark on an overseas expedition to further broaden their horizons while increasing their capacity to lead. </p>
 
-3.  Are there other signature programmes offered?
+3.  <u><strong>Are there other signature programmes offered?</u></strong>
 
 <p style="text-align: justify;"> Our school’s Level Signature Programmes (LSPs) aim to enhance our students’ social </p>
 
