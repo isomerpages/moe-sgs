@@ -55,7 +55,7 @@ third_nav_title: Student Handbook
 <tbody>
   <tr>
     <td>2,1</td>
-    <td>For the Gentlemen<br><br>I will have my hair short, neat and simple. The fringe should not touch the top of my eyebrows.<br>I will keep a clean-shaven and neat appearance.</td>
+    <td>For the Gentlemen<br><br>I will have my hair short, neat and simple. The fringe should not touch the top of my eyebrows.<br><br>I will keep a clean-shaven and neat appearance.</td>
   </tr>
   <tr>
     <td>2.2</td>
@@ -63,7 +63,7 @@ third_nav_title: Student Handbook
   </tr>
   <tr>
     <td>2.3</td>
-    <td>For all students<br><br>I will not colour or tint my hair.<br>I will keep my fingernails clean and trimmed, without nail polish.<br>I will not wear any other accessories.<br>No form of body decoration (e.g. tattoos) is allowed.</td>
+    <td>For all students<br><br>I will not colour or tint my hair.<br><br>I will keep my fingernails clean and trimmed, without nail polish.<br><br>I will not wear any other accessories.<br><br>No form of body decoration (e.g. tattoos) is allowed.</td>
   </tr>
   <tr>
     <td></td>
