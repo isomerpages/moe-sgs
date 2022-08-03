@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Education and Career Guidance.md
       - Student Academic Matters/Student Academic Matters.md
       - Student Academic Matters/.keep
       - Latest News.md
