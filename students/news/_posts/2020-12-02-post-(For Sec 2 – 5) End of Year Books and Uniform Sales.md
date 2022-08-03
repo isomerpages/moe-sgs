@@ -11,3 +11,5 @@ description: ""
 2.  Please visit [https://textbook.popular.com.sg](http://textbook.popular.com.sg/) to order your books online. Last day for online order is **15 Dec 2021**.
 3.  Online purchase is strongly encouraged. On-site purchase is strictly by appointment basis. Students should be accompanied by at most **one** parent/guardian.
 
+[Instructions for Purchase of Textbooks and Stationery](/files/Book%20and%20uniform%20sales/Instructions-for-Purchase-of-Textbooks-and-Stationery-Sec-2-to-Sec-5-2022.pdf)
+
