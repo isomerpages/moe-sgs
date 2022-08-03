@@ -25,7 +25,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
   <tr>
     <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/boys-brigade/">Boys’ Brigade</a></td>
     <td style="text-align: center;" ><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/national-cadet-corps/">National Cadet Corps</a></td>
-    <td style="text-align: center;">Red Cross Youth</td>
+    <td style="text-align: center;"><a href="/student-development/CO-CURRICULAR-ACTIVITIES-CCA/red-cross-youth/">Red Cross Youth</a></td>
   </tr>
   <tr>
     <td colspan="3"><img src="/images/CCA%20Tour/UniformGroup2.png" alt="Uniformgroup2" width="720" height="137"></td>
