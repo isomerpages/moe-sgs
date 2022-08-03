@@ -10,3 +10,4 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
 <p style="text-align: center;"> <strong>CCA Performances </strong></p>
 
 # please migrate the videos to youtube
+<p style="text-align: center;"> <strong>Our 18 CCAs </strong></p>
