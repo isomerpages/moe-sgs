@@ -99,3 +99,5 @@ third_nav_title: Student Handbook
 | 5.4 | I will store only learning devices, reading materials and handphones in the locker at the start of the day unless requested by teachers for learning activities in class.<br>I may only use my learning devices or handphones at the canteen during recess/lunch breaks.<br>I will not deface the interior and exterior of the locker, which is the property of the school. I will open my locker for inspection when requested by school staff.<br>I understand that if I do not comply with the regulations of using the lockers, I may not be able to continue using the lockers. |
 | 5.5 | I will only consume food and drinks in the canteen during breaks. I may consume snacks in class during snack time, with the permission of my teacher.        |
 | 5.6 | I will be guided by the school values of PRIDE:  Perseverance, Respect, Integrity, Diligence, Empathy at all times.           |
+
+_Consequences for the transgression of the School Rules have been briefed at the school’s assembly as well as at other suitable platforms._
