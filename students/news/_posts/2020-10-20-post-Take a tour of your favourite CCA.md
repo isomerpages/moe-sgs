@@ -15,7 +15,7 @@ We have a total of 18 CCAs – Uniform Groups, Performing Arts and Clubs & Socie
 <table>
 <thead>
   <tr>
-    <th style="text-align: center;" colspan="3">Uniformed Groups</th>
+    <th style="text-align: center; background-color: #dbdbdb" colspan="3">Uniformed Groups</th>
   </tr>
 </thead>
 <tbody>
