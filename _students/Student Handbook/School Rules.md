@@ -67,7 +67,7 @@ third_nav_title: Student Handbook
   </tr>
   <tr>
     <td></td>
-    <td><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/01/boys-hair-1-600x153.jpg" alt="Grooming" width="600" height="153"></td>
+    <td><img src="/images/School%20Rules/boys-hair-1-600x153.jpg" width="600" height="153"></td>
   </tr>
 </tbody>
 </table>
