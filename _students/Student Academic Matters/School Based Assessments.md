@@ -8,6 +8,11 @@ third_nav_title: Student Academic Matters
 
 As part of our school’s efforts to balance the assessment load to better support our students’ learning, the weightings for our School-Based Assessment (SBA) for Secondary 1 to 3 students in 2022 are as follows:
 
+|  Sec 1 to 3 |           WA 1          |           WA 2          |           WA 3          | End-of-Year Examination |
+|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+|    Period   | Term 1<br><br>Wk 7 to 8 | Term 2<br><br>Wk 6 to 8 | Term 3<br><br>Wk 6 to 8 | Term 4<br><br>Wk 3 to 5 |
+|  Weighting  |           20%           |           20%           |           20%           |           40%           |
+
 
 ##### What are Weighted Assessments?
 
