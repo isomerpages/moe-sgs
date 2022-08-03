@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Student Academic Matters/.keep
       - Latest News.md
