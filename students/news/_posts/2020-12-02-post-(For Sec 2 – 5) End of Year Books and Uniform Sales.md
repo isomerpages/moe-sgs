@@ -13,4 +13,4 @@ description: ""
 
 <p style="text-align: center;"><a href="/files/Book%20and%20uniform%20sales/Instructions-for-Purchase-of-Textbooks-and-Stationery-Sec-2-to-Sec-5-2022.pdf" target = "_blank"><strong><u>Instructions for Purchase of Textbooks and Stationery</u></strong></a></p>
 
-**Please click on the link to view or download the booklist.**
+Please click on the link to view or download the booklist.
