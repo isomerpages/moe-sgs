@@ -83,3 +83,8 @@ third_nav_title: Student Handbook
 | 3.3 | I will attend lessons, CCA and other school activities punctually.        |
 
 ##### <u>Respect for Nation and School</u>
+
+| 4   | Flag Raising Ceremony     |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4.1 | I will stand at attention when the National Anthem is sung and the Pledge is recited.<br><br>If I am a Singapore citizen, I will sing the National Anthem and recite the Pledge with my right fist placed over my heart. |
+| 4.2 | I will sing the school song and recite the Students’ Creed with respect and pride.        |
