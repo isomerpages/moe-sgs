@@ -24,7 +24,8 @@ third_nav_title: Student Handbook
 
 <p style="text-align: justify;"> The CCE curriculum in SGS includes Sexuality Education (SEd), Education and Career Guidance (ECG), Cyberwellness (CW), and CCE Themed Lessons (MOE prescribed and school-based). We nurture our students through meaningfully designed lessons and learning experiences within the CCE curriculum. The two diagrams below summarise the purpose and outcomes of the CCE curriculum and learning experiences in SGS. </p>
 
-<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
+
+<a href="/images/CCE/Presentation3.jpg" target = "_blank"> <img src="/images/CCE/Presentation3.jpg" 
      style="width:100%"></a>
 		 
 <p style="text-align: justify;"> Serangoon Garden Secondary’s CCE programmes are grounded in the school’s PRIDE (Perseverance, Respect, Integrity, Diligence and Empathy) values and MOE’s R3ICH values. With the core values as its foundation, students are equipped with key citizenship dispositions, skills, knowledge, 21st CC and socio-emotional competencies (SEC) through the various meaningful curriculum lessons and learning experiences organised by the school. </p>
