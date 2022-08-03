@@ -51,7 +51,7 @@ Our ECG Counsellor is available at the V-Hub on Wednesdays.
 
 Students could find out more information from the ECG noticeboard located in the school canteen and the V-Hub.
 
-**ECG Counsellor:**  Ms Camilla Teo
+ECG Counsellor:  Ms Camilla Teo
 
 ##### **Student Welfare**
 
