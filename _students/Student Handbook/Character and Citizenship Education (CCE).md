@@ -24,7 +24,6 @@ third_nav_title: Student Handbook
 
 <p style="text-align: justify;"> The CCE curriculum in SGS includes Sexuality Education (SEd), Education and Career Guidance (ECG), Cyberwellness (CW), and CCE Themed Lessons (MOE prescribed and school-based). We nurture our students through meaningfully designed lessons and learning experiences within the CCE curriculum. The two diagrams below summarise the purpose and outcomes of the CCE curriculum and learning experiences in SGS. </p>
 
-
 <a href="/images/CCE/Presentation3.jpg" target = "_blank"> <img src="/images/CCE/Presentation3.jpg" 
      style="width:100%"></a>
 		 
@@ -36,4 +35,10 @@ third_nav_title: Student Handbook
 
 <p style="text-align: justify;"> In alignment with the approach of providing authentic and collaborative learning experiences for SGS students, VIA @SGS adopts the Design Thinking model when planning sustainable VIA projects or activities for the community. These projects are planned and carried out through the school’s CCA programmes. The benchmarks for the projects are aligned to the school’s Learning for Life Programme (LLP), Nurturing Confident and Compassionate Leaders. Below are the outcomes and the process for VIA@ SGS. </p>
 
+<a href="/images/CCE/VIA-@SGS-guided-by-Design-Thinking-Approach.jpg" target = "_blank"> <img src="/images/CCE/VIA-@SGS-guided-by-Design-Thinking-Approach.jpg" 
+     style="width:100%"></a>
+		 
 ##### **VIA @ SGSS**
+
+<a href="/images/CCE/Presentation4.jpg" target = "_blank"> <img src="/images/CCE/Presentation4.jpg" 
+     style="width:100%"></a>
