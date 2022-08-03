@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Student Academic Matters
 ---
 *   [Education and Career Guidance](/students/education-and-career-guidance/)
-*   [Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)
-
 * <a href="https://www.seab.gov.sg/" target = "_blank" >Singapore Examinations and Assessment Board</a>
 
 **Downloads**
