@@ -40,3 +40,34 @@ third_nav_title: Student Handbook
   </tr>
 </tbody>
 </table>
+
+<table style="undefined;table-layout: fixed; width: 639px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 609px">
+</colgroup>
+<thead>
+  <tr>
+    <th>2</th>
+    <th>Grooming</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2,1</td>
+    <td>For the Gentlemen<br><br>I will have my hair short, neat and simple. The fringe should not touch the top of my eyebrows.<br>I will keep a clean-shaven and neat appearance.</td>
+  </tr>
+  <tr>
+    <td>2.2</td>
+    <td>For the Ladies<br><br>If I have shoulder-length hair or hair touching the collar, I will tie my hair up neatly at all times. Long fringe that are past the eyebrows will be clipped away neatly. Hair accessories should be black or blue in colour. I will wear at most one pair of simple ear studs.</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>For all students<br><br>I will not colour or tint my hair.<br>I will keep my fingernails clean and trimmed, without nail polish.<br>I will not wear any other accessories.<br>No form of body decoration (e.g. tattoos) is allowed.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/01/boys-hair-1-600x153.jpg" alt="Grooming" width="600" height="153"></td>
+  </tr>
+</tbody>
+</table>
