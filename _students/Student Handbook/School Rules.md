@@ -88,3 +88,5 @@ third_nav_title: Student Handbook
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4.1 | I will stand at attention when the National Anthem is sung and the Pledge is recited.<br><br>If I am a Singapore citizen, I will sing the National Anthem and recite the Pledge with my right fist placed over my heart. |
 | 4.2 | I will sing the school song and recite the Students’ Creed with respect and pride.        |
+
+##### <u> Golden Rules for a Pleasant School Experience </u>
