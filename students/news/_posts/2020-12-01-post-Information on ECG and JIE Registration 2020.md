@@ -9,6 +9,6 @@ Dear Parent(s) / Guardian,
 
 Please click on the image to download the Information on ECG and JIE Registration.
 
-
-
-![](/images/Information-on-ECG-and-JIE-Registration_Page_01-1024x576.png)
+<a href="/files/Information-on-ECG-and-JIE-Registration_2020.pdf" target = "_blank"> <img src="/images/Information-on-ECG-and-JIE-Registration_Page_01-1024x576.png" 
+     style="width:100%"></a>
+		 
