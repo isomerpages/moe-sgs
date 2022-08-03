@@ -15,6 +15,11 @@ description: ""
 
 Please click on the link to view or download the booklist.
 
+[](/files/Book%20and%20uniform%20sales/Sec-2E-Booklist.pdf)
+[](/files/Book%20and%20uniform%20sales/Sec-2NA-Booklist.pdf)
+[](/files/Book%20and%20uniform%20sales/Sec-2NT-Booklist.pdf)
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,9 +38,9 @@ Please click on the link to view or download the booklist.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-2NT-Booklist.pdf">Secondary 2 Normal Technical</a></td>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-2NA-Booklist.pdf">Secondary 2 Normal Academic</a></td>
-    <td class="tg-p59o"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/11/Sec-2E-Booklist.pdf">Secondary 2 Express</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-2NT-Booklist.pdf">Secondary 2 Normal Technical</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-2NA-Booklist.pdf">Secondary 2 Normal Academic</a></td>
+    <td class="tg-p59o"><a href="/files/Book%20and%20uniform%20sales/Sec-2E-Booklist.pdf">Secondary 2 Express</a></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3"></td>
