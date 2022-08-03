@@ -17,13 +17,13 @@ We strongly encourage students to arrange for talk-it-through sessions with the 
 
 Our AED (LBS) supports students in the following:
 
-1.  provide structured and systematic support to students with educational needs through:
+* provide structured and systematic support to students with educational needs through:
 
-*             In-Class support
-*             Withdrawal sessions: small group or 1-to-1 extra support
-*             Skills training: social skills, study and organization skills including time management
+1.             In-Class support
+2.             Withdrawal sessions: small group or 1-to-1 extra support
+3.             Skills training: social skills, study and organization skills including time management
 
-2. help students with educational needs to better integrate into mainstream schools and classes
+* help students with educational needs to better integrate into mainstream schools and classes
 
 We are located at Block D Room 02-01 (R Centre) and Room 02-02.
 
