@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - USEFUL PARENT ARTICLES/Sign Up For Parents Gateway.md
-      - USEFUL PARENT ARTICLES/.keep
-      - Parents Support Group.md
       - Latest News.md
       - Personalised Digital Learning Programme (PDLP).md
+      - Parents Support Group.md
+      - USEFUL PARENT ARTICLES/.keep
+      - USEFUL PARENT ARTICLES/Sign Up For Parents Gateway.md
