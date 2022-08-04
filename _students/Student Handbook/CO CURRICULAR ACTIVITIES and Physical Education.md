@@ -67,3 +67,11 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 |     Levels 2 – 5     | –        Represent school or external organisation<br><br>–        Sustained representation over the years |
 |        Level 4       | Represent UG HQ at international event                                                                     |
 |        Level 5       | Represent Singapore/MOE/Singapore Schools/NPOE/UG HQ at international competitions                         |
+
+<br>
+
+| Levels of Attainment |                                                                                   Accomplishment                                                                                   |
+|:--------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Levels 1 – 2     | Nil                                                                                                                                                                                |
+|     Levels 3 – 4     | Represent school/external organisation and obtained:<br><br>–        Team placing: Top 4<br>–        Individual placing: Top 8<br>–        Award/Certification: Gold/Silver/Bronze |
+|        Level 5       | Accomplishment at Singapore/MOE/Singapore Schools/NPOE/UG HQ at international competitions         |
