@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Latest News.md
+      - LATEST NEWS.md
       - Student Academic Matters/.keep
       - Student Academic Matters/Student Academic Matters.md
       - Student Academic Matters/School Based Assessments.md
