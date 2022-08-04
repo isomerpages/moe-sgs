@@ -36,4 +36,4 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-##### At Serangoon Garden Secondary School, the following Sexuality Education lessons will be taught in <u>2022:</u>
+##### At Serangoon Garden Secondary School, the following Sexuality Education lessons will be taught in <u>2022</u>:
