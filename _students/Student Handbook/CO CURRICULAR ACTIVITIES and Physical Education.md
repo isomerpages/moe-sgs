@@ -155,4 +155,19 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 | 5. |             Shuttle Run (seconds)            |               |                                |                                |                           |                 |
 | 6. |     2.4 km Run<br><br>(minutes : seconds)    |               |                                |                                |                           |                 |
 
+**How to design your training programme:**
 
+**FITT Principle**
+
+*   **Frequency** – How often do you exercise? Recommended 60 minutes a day (WHO guidelines)
+*   **Intensity** – How hard do you exercise? (60 – 80% of Max Heart Rate)
+*   **Time** – How long do you exercise? Recommendation is for a duration of 30 minutes for to develop cardiovascular fitness.
+*   **Type of Activity** – For cardiovascular fitness, take part in activities that are endurance in nature and involve major groups such as jogging, swimming and dancing.
+
+**NAPFA STANDARDS (SECONDARY) FOR MALES**
+
+![](/images/Pe%20and%20cca%20guideline/adfa.jpg)
+
+**NAPFA STANDARDS (SECONDARY) FOR FEMALES**
+
+![](/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg)
