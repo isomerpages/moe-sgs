@@ -30,16 +30,16 @@ third_nav_title: Student Handbook
 
 #### **Email & Social Media**
 
-10.  Users should not post or share any indecent, obscene, pornographic, defamatory material/message that offends and causes distress to other people.
-11.  Users are reminded that threats, harassment, embarrassment, impersonation and intimidation to others is a chargeable offence under Singapore Legal System.
-12.  Users are expected to observe netiquette (rules on behaviour on the internet) and to remain courteous and polite in all online interactions.
+<p>10.  Users should not post or share any indecent, obscene, pornographic, defamatory material/message that offends and causes distress to other people.</p>
+<p>11.  Users are reminded that threats, harassment, embarrassment, impersonation and intimidation to others is a chargeable offence under Singapore Legal System.</p>
+<p>12.  Users are expected to observe netiquette (rules on behaviour on the internet) and to remain courteous and polite in all online interactions.</p>
 
 #### **Intellectual Property**
 
-13.  Users should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.
-14.  Users should not own, copy or share software in an unauthorized or illegal manner.
-15.  The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the user.
+<p>13.  Users should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.</p>
+<p>14.  Users should not own, copy or share software in an unauthorized or illegal manner.</p>
+<p>15.  The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the user.</p>
 
 #### **Photography and Videography at School Events/Publication of Students’ Work**
 
-16.  Photographs or video images of you or your parents/legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish selected photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels. Parents/Legal guardians are to notify the school in writing if they do not wish to grant such permission.
+<p style="text-align: justify;">16.  Photographs or video images of you or your parents/legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish selected photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels. Parents/Legal guardians are to notify the school in writing if they do not wish to grant such permission.</p>
