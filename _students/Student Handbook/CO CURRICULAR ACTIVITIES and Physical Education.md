@@ -99,3 +99,21 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 |        Level 3       | Completed at least 36 hours of service OR at least two VIA projects that impact the school or community OR at least 24 hours of service and at least one VIA project that impacts the school or community |
 |        Level 4       | Completed at least 24 hours of service AND at least two VIA projects that impacts the school or community             |
 |        Level 5       | Completed at least 24 hours of service AND at least one  student – initiated project that impacts the school or community AND at least one other VIA project                                              |
+
+**Joint Admission Exercise (JAE)**
+
+CCA points (LEAPS points) will be used when applying for Junior Colleges, Millennia Institute, Polytechnics and ITEs. Bonus points are awarded to students for their CCA grades. **Two** bonus points are awarded for an **A** grade and **one** bonus point for a **B** or **C** grade.
+
+**Physical Education (PE) Guidelines**
+
+**A) PE Rules**
+
+*   Students are to change and report to their assigned PE venues.
+*   Only PE t-shirts and the school PE black shorts are allowed for PE lessons. (No CCA, class or other camp T-shirts are allowed)
+*   For students who are not feeling well, an Medical Certificate (MC) or a parent’s letter must be submitted. Should students feel unwell during PE lessons, the PE teacher must be informed.
+*   Students should not enter the PE room unless accompanied by a PE teacher.
+*   The bouldering wall area is out of bounds to all students at all times unless supervised by a PE teacher.
+*   Students participating in physical activities are to have a light meal a couple hours at least before the activity. They should stay hydrated, before, during and after physical activities.
+*   Students should not be engaged in outdoor physical activities when the lightning warning system is activated.
+
+**B) Health Targets:**
