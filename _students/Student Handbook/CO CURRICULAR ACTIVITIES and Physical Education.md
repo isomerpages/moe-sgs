@@ -4,7 +4,7 @@ permalink: /students/Student-Handbook/pe-and-cca-guidelines/
 description: ""
 third_nav_title: Student Handbook
 ---
-Rationale of CCA in School
+##### Rationale of CCA in School
 
 <p style="text-align: justify;"> CCA plays a key role in the holistic development of our students. Well-organised and implemented, they will fuel in the individual a life-long love for a particular activity, skill or interest. This will subsequently help the individual to lead a balanced life in adulthood. </p>
 
@@ -22,11 +22,11 @@ CCAs in SGS for 2019 (Note that CCA offers are subject to change)
 1.  Every student is expected to attend a CCA. Every student is to participate in one core CCA only. Student are strongly encouraged to go through their 4 or 5 years in their CCA. Change of CCA is made on a case by case basis such as for example, medical reasons.
 2.  Students should consider their choice of CCA carefully and should select a CCA which they are interested in. This will ensure a more meaningful and enjoyable CCA learning experience for them.
 
-**CCA Scheme**
+##### **CCA Scheme**
 
 CCA bonus points can be used for consideration for entries to Junior Colleges, Polytechnics and the Millennia Institute. They will also be considered when students select subjects in ITE courses.
 
-**LEAPS  2.0**
+##### **LEAPS  2.0**
 
 Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 document for parents is available on the MOE Website.
 
@@ -57,7 +57,7 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 | Levels 4 – 5         | Continuous involvement in the same CCA for 4 or 5 years             |
 | Levels 3 – 5         | Exemplary conduct and active contribution to a CCA for 3 to 5 years |
 
-**Achievement**
+##### **Achievement**
 
 *   Recognition of achievements and accomplishments beyond CCA and school
 
@@ -100,11 +100,11 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 |        Level 4       | Completed at least 24 hours of service AND at least two VIA projects that impacts the school or community             |
 |        Level 5       | Completed at least 24 hours of service AND at least one  student – initiated project that impacts the school or community AND at least one other VIA project                                              |
 
-**Joint Admission Exercise (JAE)**
+##### **Joint Admission Exercise (JAE)**
 
 CCA points (LEAPS points) will be used when applying for Junior Colleges, Millennia Institute, Polytechnics and ITEs. Bonus points are awarded to students for their CCA grades. **Two** bonus points are awarded for an **A** grade and **one** bonus point for a **B** or **C** grade.
 
-**Physical Education (PE) Guidelines**
+##### **Physical Education (PE) Guidelines**
 
 **A) PE Rules**
 
