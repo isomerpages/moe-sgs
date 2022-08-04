@@ -10,6 +10,6 @@ We would like to invite you to download the free Parents Gateway mobile app on y
 
 **From January 2019 parents who are onboard Parents Gateway will receive information via the mobile app.**
 
-[Parents Gateway Slides (5 Jan 2019)](https://www.sgs.edu.sg/wp-content/uploads/2019/01/SGS-Parents-Gateway-Slides.pdf)
+[Parents Gateway Slides (5 Jan 2019)](/files/SGS-Parents-Gateway-Slides.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
