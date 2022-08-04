@@ -30,7 +30,7 @@ During Lesson, you are
 *   work purposefully and not misbehave
 *   not allowed to leave the classroom without permission
 *   obtain a pass from the teacher if you need to leave the classroom
-*   not allowed to take or use any materials form Food lab without teacher’s permission
+*   not allowed to take or use any materials form Food lab <u>without</u> teacher’s permission
 *   not allowed to use vulgarities at all times (School values: Respect)
 
 At the end of each lesson, always ensure that
