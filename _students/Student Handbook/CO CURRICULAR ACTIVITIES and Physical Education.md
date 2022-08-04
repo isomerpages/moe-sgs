@@ -175,10 +175,6 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 <p style="text-align: center;"><b>AWARD REQUIREMENTS</b></p>
 
-| AWARD REQUIREMENTS |
-|:------------------:|
-<br>
-
 | Awards |                     Minimum Scores                    |
 |:------:|:-----------------------------------------------------:|
 |  Gold  | C grade in all 6 stations with a minimum of 21 points |
