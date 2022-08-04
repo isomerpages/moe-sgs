@@ -14,31 +14,31 @@ third_nav_title: Student Handbook
 
 #### **General**
 
-<p>1.  Users are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.</p>
-<p>2.  Users are responsible for any resource that is borrowed from school for the duration of the loan. The user will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance with the school’s discipline policy.</p>
-<p>3.  Users are responsible for their personal devices. The school will not be held responsible for any damage, theft or loss of their devices.</p>
-<p>4.  Users should not use the school’s electrical power to charge their own personal devices. Users should ensure that their personal devices are fully charged before bringing it to school.</p>
+<p style="text-align: justify;">1.  Users are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.</p>
+<p style="text-align: justify;">2.  Users are responsible for any resource that is borrowed from school for the duration of the loan. The user will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance with the school’s discipline policy.</p>
+<p style="text-align: justify;">3.  Users are responsible for their personal devices. The school will not be held responsible for any damage, theft or loss of their devices.</p>
+<p style="text-align: justify;">4.  Users should not use the school’s electrical power to charge their own personal devices. Users should ensure that their personal devices are fully charged before bringing it to school.</p>
 
 #### **Account**
 
-<p>5.  Users are responsible and accountable for all activities conducted via their own account.</p>
-<p>6.  Users are responsible for the security of their account IDs and passwords. All account IDs and passwords should not be shared with anyone.</p>
-<p>7.  User should adopt the good practice of changing their passwords every 3 months.</p>
-<p>8.  Users should not use their accounts for any illegal or unethical activities. These include cyber-bullying, posting online remarks that are racially and religiously insensitive, vulgar and/or offensive statements, disruptive of public order and intentionally causing emotional distress/harm to others,.</p>
-<p>9.  Users should not use school-owned computing devices for any online trade (i.e. buying and selling of goods and services).</p>
-<p>10.  Users should not use devices to store, modify or create content (e.g. documents, presentations, pictures, videos) that is pornographic or defamatory in nature.</p>
+<p style="text-align: justify;">5.  Users are responsible and accountable for all activities conducted via their own account.</p>
+<p style="text-align: justify;">6.  Users are responsible for the security of their account IDs and passwords. All account IDs and passwords should not be shared with anyone.</p>
+<p style="text-align: justify;">7.  User should adopt the good practice of changing their passwords every 3 months.</p>
+<p style="text-align: justify;">8.  Users should not use their accounts for any illegal or unethical activities. These include cyber-bullying, posting online remarks that are racially and religiously insensitive, vulgar and/or offensive statements, disruptive of public order and intentionally causing emotional distress/harm to others,.</p>
+<p style="text-align: justify;">9.  Users should not use school-owned computing devices for any online trade (i.e. buying and selling of goods and services).</p>
+<p style="text-align: justify;">0.  Users should not use devices to store, modify or create content (e.g. documents, presentations, pictures, videos) that is pornographic or defamatory in nature.</p>
 
 #### **Email & Social Media**
 
-<p>10.  Users should not post or share any indecent, obscene, pornographic, defamatory material/message that offends and causes distress to other people.</p>
-<p>11.  Users are reminded that threats, harassment, embarrassment, impersonation and intimidation to others is a chargeable offence under Singapore Legal System.</p>
-<p>12.  Users are expected to observe netiquette (rules on behaviour on the internet) and to remain courteous and polite in all online interactions.</p>
+<p style="text-align: justify;">10.  Users should not post or share any indecent, obscene, pornographic, defamatory material/message that offends and causes distress to other people.</p>
+<p style="text-align: justify;">11.  Users are reminded that threats, harassment, embarrassment, impersonation and intimidation to others is a chargeable offence under Singapore Legal System.</p>
+<p style="text-align: justify;">12.  Users are expected to observe netiquette (rules on behaviour on the internet) and to remain courteous and polite in all online interactions.</p>
 
 #### **Intellectual Property**
 
-<p>13.  Users should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.</p>
-<p>14.  Users should not own, copy or share software in an unauthorized or illegal manner.</p>
-<p>15.  The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the user.</p>
+<p style="text-align: justify;">13.  Users should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.</p>
+<p style="text-align: justify;">14.  Users should not own, copy or share software in an unauthorized or illegal manner.</p>
+<p style="text-align: justify;">15.  The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the user.</p>
 
 #### **Photography and Videography at School Events/Publication of Students’ Work**
 
