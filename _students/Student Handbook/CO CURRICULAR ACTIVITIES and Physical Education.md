@@ -121,3 +121,12 @@ CCA points (LEAPS points) will be used when applying for Junior Colleges, Millen
  **1)** **Body Mass Index (BMI) Targets**
 
 **BMI Calculation:**
+
+
+
+|                 | I guess my … | January measurement | July measurement |
+|:---------------:|:------------:|:-------------------:|:----------------:|
+|      Height     |              |                     |                  |
+|      Weight     |              |                     |                  |
+|       BMI       |              |                     |                  |
+| Weight Category |              |                     |                  |
