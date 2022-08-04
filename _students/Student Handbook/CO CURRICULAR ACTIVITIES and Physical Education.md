@@ -106,7 +106,7 @@ CCA points (LEAPS points) will be used when applying for Junior Colleges, Millen
 
 ### **Physical Education (PE) Guidelines**
 
-**A) PE Rules**
+#### **A) PE Rules**
 
 *   Students are to change and report to their assigned PE venues.
 *   Only PE t-shirts and the school PE black shorts are allowed for PE lessons. (No CCA, class or other camp T-shirts are allowed)
@@ -116,9 +116,9 @@ CCA points (LEAPS points) will be used when applying for Junior Colleges, Millen
 *   Students participating in physical activities are to have a light meal a couple hours at least before the activity. They should stay hydrated, before, during and after physical activities.
 *   Students should not be engaged in outdoor physical activities when the lightning warning system is activated.
 
-**B) Health Targets:**
+#### **B) Health Targets:**
 
- **1)** **Body Mass Index (BMI) Targets**
+#####  **1)** **Body Mass Index (BMI) Targets**
 
 **BMI Calculation:**
 
@@ -141,7 +141,7 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 <br>
 
-**2) National Physical Fitness Award (NAPFA)**
+##### **2) National Physical Fitness Award (NAPFA)**
 
 
 | Date of Birth:______________________ | Age:_______ |
@@ -156,20 +156,20 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 | 5. |             Shuttle Run (seconds)            |               |                                |                                |                           |                 |
 | 6. |     2.4 km Run<br><br>(minutes : seconds)    |               |                                |                                |                           |                 |
 
-**How to design your training programme:**
+#### **How to design your training programme:**
 
-**FITT Principle**
+##### **FITT Principle**
 
 *   **Frequency** – How often do you exercise? Recommended 60 minutes a day (WHO guidelines)
 *   **Intensity** – How hard do you exercise? (60 – 80% of Max Heart Rate)
 *   **Time** – How long do you exercise? Recommendation is for a duration of 30 minutes for to develop cardiovascular fitness.
 *   **Type of Activity** – For cardiovascular fitness, take part in activities that are endurance in nature and involve major groups such as jogging, swimming and dancing.
 
-**NAPFA STANDARDS (SECONDARY) FOR MALES**
+### **NAPFA STANDARDS (SECONDARY) FOR MALES**
 
 ![](/images/Pe%20and%20cca%20guideline/adfa.jpg)
 
-**NAPFA STANDARDS (SECONDARY) FOR FEMALES**
+### **NAPFA STANDARDS (SECONDARY) FOR FEMALES**
 
 ![](/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg)
 
@@ -181,7 +181,7 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 | Silver | D grade in all 6 stations with a minimum of 15 points |
 | Bronze |  E grade in all 6 stations with a minimum of 6 points |
 
-**Safety: Guidelines for Students for Camps, Physical Activities and Overseas Trips**
+### **Safety: Guidelines for Students for Camps, Physical Activities and Overseas Trips**
 
 *   Students should be medically and physically fit for all physical activities. If unwell, students must inform the teacher-in–charge of the activity.
 *   Students and parents must inform the school and staff involved of their known medical history, such as pre-existing injuries, allergies and illnesses (e.g. asthma). Students may not participate in certain activities if they are medically unable to but are expected to attend the alternative activities planned.
