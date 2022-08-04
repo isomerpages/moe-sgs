@@ -33,7 +33,7 @@ Please submit the following consent forms by <u>28 Jan 2022</u> in order for t
 
 Singapore Citizens, please make an online submission at [https://go.gov.sg/sgspdlp](https://go.gov.sg/sgspdlp).
 
-PR/IS, please submit the _hardcopy letter to your child’s/ward’s Form Teacher_.
+PR/IS, please submit the <span style="color: red"><i> hardcopy letter to your child’s/ward’s Form Teacher. </i><span>
 
 
 ![](/images/PDLP/Capture.png)
