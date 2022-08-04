@@ -10,7 +10,7 @@ third_nav_title: Student Handbook
 
 Welcome to the Food Lab of Serangoon Garden Secondary School. You will embark on a wonderful journey, but before you begin, here are some important pointers you have to take note to ensure a safe and pleasant experience.
 
-##### <p style="text-align: center;"><u>Theory Lessons</u></p>
+ <p style="text-align: center;"><u>Theory Lessons</u></p>
 
 Before the start of the lesson, you have to:
 
@@ -41,7 +41,7 @@ At the end of each lesson, always ensure that
 *   thank teacher and leave the lab in an orderly manner
 
 
-##### <p style="text-align: center;"><u>Practical Sessions</u></p>
+ <p style="text-align: center;"><u>Practical Sessions</u></p>
 
 For all practical sessions, you are expected to obey the <u>5 laws</u>:
 
