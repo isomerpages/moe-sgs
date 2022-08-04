@@ -130,3 +130,6 @@ BMI = Weight (kg) ÷  **[Height (m) × Height (m)]**
 |      Weight     |              |                     |                  |
 |       BMI       |              |                     |                  |
 | Weight Category |              |                     |                  |
+
+**BMI-for-age for BOYS aged 6 – 18 years old**
+
