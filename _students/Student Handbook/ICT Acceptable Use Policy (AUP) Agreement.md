@@ -8,16 +8,16 @@ third_nav_title: Student Handbook
 
 #### **ICT Acceptable Use Policy (AUP) Agreement** 
 
-Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. Serangoon Garden Secondary School is committed to providing a safe and conducive learning environment for all students. As a user of our ICT facilities, you are required to abide by the rules stated in this Acceptable Use Policy Agreement (AUP).
+<p style="text-align: justify;"> Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. Serangoon Garden Secondary School is committed to providing a safe and conducive learning environment for all students. As a user of our ICT facilities, you are required to abide by the rules stated in this Acceptable Use Policy Agreement (AUP). </p>
 
-This policy applies to all students in this school and the use of our school’s ICT facilities, equipment and resources, as well as users’ personal devices (e.g. mobile phones). ICT facilities, equipment and resources include the following, but are not limited to, school’s internet network, Computer Labs, hardware (e.g. laptops, tablets, computers), software (e.g. school’s learning management system, productivity software, online tools) and peripherals (e.g. projector, scanner, camera).
+<p style="text-align: justify;"> This policy applies to all students in this school and the use of our school’s ICT facilities, equipment and resources, as well as users’ personal devices (e.g. mobile phones). ICT facilities, equipment and resources include the following, but are not limited to, school’s internet network, Computer Labs, hardware (e.g. laptops, tablets, computers), software (e.g. school’s learning management system, productivity software, online tools) and peripherals (e.g. projector, scanner, camera). </p>
 
 #### **General**
 
-1.  Users are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.
-2.  Users are responsible for any resource that is borrowed from school for the duration of the loan. The user will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance with the school’s discipline policy.
-3.  Users are responsible for their personal devices. The school will not be held responsible for any damage, theft or loss of their devices.
-4.  Users should not use the school’s electrical power to charge their own personal devices. Users should ensure that their personal devices are fully charged before bringing it to school.
+<p>1.  Users are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.</p>
+<p>2.  Users are responsible for any resource that is borrowed from school for the duration of the loan. The user will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance with the school’s discipline policy.</p>
+<p>3.  Users are responsible for their personal devices. The school will not be held responsible for any damage, theft or loss of their devices.</p>
+<p>4.  Users should not use the school’s electrical power to charge their own personal devices. Users should ensure that their personal devices are fully charged before bringing it to school.</p>
 
 #### **Account**
 
