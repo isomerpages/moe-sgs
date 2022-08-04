@@ -42,7 +42,7 @@ At the end of each lesson, always ensure that
 
 ##### **Practical Sessions**
 
-For all practical sessions, you are expected to obey the 5 laws:
+For all practical sessions, you are expected to obey the <u>5 laws</u>:
 
 1.  Rights to Hygiene
 
