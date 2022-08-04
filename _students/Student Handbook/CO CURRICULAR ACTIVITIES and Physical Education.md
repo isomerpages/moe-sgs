@@ -173,6 +173,8 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 ![](/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg)
 
+<p style="text-align: center;"><b>AWARD REQUIREMENTS</b></p>
+
 | AWARD REQUIREMENTS |
 |:------------------:|
 <br>
