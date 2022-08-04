@@ -74,7 +74,7 @@ If you have any further queries, kindly email us at:
 <table>
 <thead>
   <tr>
-		<td><span color ="blue "> PDLP Matters</span><br>Mr Leslie Tan<br>HOD ICT<br><a href="mailto:leslie_yc_tan@moe.edu.sg" target="_blank" rel="noopener noreferrer">leslie_yc_tan@moe.edu.sg</a></td>
+		<td><span style = "color:blue"> PDLP Matters</span><br>Mr Leslie Tan<br>HOD ICT<br><a href="mailto:leslie_yc_tan@moe.edu.sg" target="_blank" rel="noopener noreferrer">leslie_yc_tan@moe.edu.sg</a></td>
     <td>Administrative &amp; Financial Matters<br>Ms Teresa Ng<br>Administration Manager<br><a href="mailto:teresa_ng@schools.gov.sg" target="_blank" rel="noopener noreferrer">teresa_ng@schools.gov.sg</a></td>
   </tr>
 </thead>
