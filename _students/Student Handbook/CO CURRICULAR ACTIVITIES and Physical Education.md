@@ -30,7 +30,7 @@ CCA bonus points can be used for consideration for entries to Junior Colleges, P
 
 Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 document for parents is available on the MOE Website.
 
-       **A) The New Band Descriptors:**
+**A) The New Band Descriptors:**
 
 **Excellent (2 bonus points)**
 
