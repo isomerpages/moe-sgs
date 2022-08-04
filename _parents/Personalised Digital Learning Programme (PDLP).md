@@ -37,7 +37,7 @@ PR/IS, please submit the <span style="color: red"><i> hardcopy letter to your c
 
 #### PDLP Introduction Video
 
-This is a video presentation about our PDLP programme which includes details on purchasing the PLD. The slides are available for [download here](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Sec-1-NDLP-Briefing-for-Parents-2022.pdf).
+This is a video presentation about our PDLP programme which includes details on purchasing the PLD. The slides are available for [download here](/files/Sec-1-NDLP-Briefing-for-Parents-2022.pdf).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/irEmIsr6-lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
