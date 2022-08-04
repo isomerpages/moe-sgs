@@ -34,4 +34,20 @@ Recruitment takes place during the Sec 1 orientation. 
 	</figcaption>
 </figure>
 
+<figure>
+	<a href="/images/Parents%20support%20group/Slide11-1-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide11-1-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Appreciation for Teachers </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Parents%20support%20group/Slide10-1-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide10-1-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Appreciation for Teachers </strong> 
+	</figcaption>
+</figure>
+
 ![](/images/Parents%20support%20group/Slide1-4-250x250.jpg)
