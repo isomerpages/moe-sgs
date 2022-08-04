@@ -35,6 +35,8 @@ Singapore Citizens, please make an online submission at [https://go.gov.sg/sgsp
 
 PR/IS, please submit the <span style="color: red"><i> hardcopy letter to your child’s/ward’s Form Teacher. </i></span>
 
+* * *
+
 #### PDLP Introduction Video
 
 This is a video presentation about our PDLP programme which includes details on purchasing the PLD. The slides are available for
@@ -42,6 +44,14 @@ This is a video presentation about our PDLP programme which includes details on 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/irEmIsr6-lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* * *
+
+#### Financial Assistance
+
+Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
+
+Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI) is below $1000. If your child qualifies for a subsidy, please submit [Annex D Application for Subsidy (PDLP)](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Annex-D-Application-for-Subsidy-PDLP.docx).
 
 
 ![](/images/PDLP/Capture.png)
