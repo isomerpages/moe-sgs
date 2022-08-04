@@ -12,4 +12,6 @@ links:
     resource_room: true
   - title: Menu Title
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
