@@ -35,5 +35,11 @@ Singapore Citizens, please make an online submission at [https://go.gov.sg/sgsp
 
 PR/IS, please submit the <span style="color: red"><i> hardcopy letter to your child’s/ward’s Form Teacher. </i></span>
 
+#### PDLP Introduction Video
+
+This is a video presentation about our PDLP programme which includes details on purchasing the PLD. The slides are available for [download here](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Sec-1-NDLP-Briefing-for-Parents-2022.pdf).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irEmIsr6-lQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![](/images/PDLP/Capture.png)
