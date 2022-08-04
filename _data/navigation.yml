@@ -27,3 +27,5 @@ links:
         url: /permalink
       - title: Submenu Title
         url: /permalink
+  - title: PARENTS
+    collection: parents
