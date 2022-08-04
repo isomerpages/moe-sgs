@@ -49,9 +49,9 @@ This is a video presentation about our PDLP programme which includes details on 
 
 #### Financial Assistance
 
-Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
+<p style="text-align: justify;"> Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action. </p>
 
-Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI) is below $1000. If your child qualifies for a subsidy, please submit [Annex D Application for Subsidy (PDLP)](https://go.gov.sg/application-for-subsidy-pdlp). 
+<p style="text-align: justify;"> Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI) is below $1000. If your child qualifies for a subsidy, please submit <a href="https://go.gov.sg/application-for-subsidy-pdlp" target = "_blank">Annex D Application for Subsidy (PDLP)</a>. </p>
 
 * * *
 
