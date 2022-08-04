@@ -87,3 +87,15 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 |        Level 3       | Class Chair/V- Chair, Lower Sec House Captain/CCA EXCO, Upper Sec CCA Committee, Com for school – wide events, Chair/V- Chair  for student – initiated /led projects (approved by school), NYAA Silver and above award |
 |        Level 4       | Chair/V- Chair for school – wide events, Upper Sec EXCO                                                                                                                                                                |
 |        Level 5       | CCA Chair/ V- Chair/Captain/V-Captain; Prefectorial Board/Student Council/Peer Support Leader EXCO & P/VP      |
+
+**Service**
+
+*   Recognition beyond hours to include quality (VIA – planning, service, reflection) involvement and extent of impact beyond school
+
+| Levels of Attainment |                                                                                                  Service                                                                                                  |
+|:--------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        Level 1       | Completed at least 24 to less than 30 hours of service                         |
+|        Level 2       | Completed at least 30 to less than 36 hours of service OR at least one VIA project that impacts the school or community                            |
+|        Level 3       | Completed at least 36 hours of service OR at least two VIA projects that impact the school or community OR at least 24 hours of service and at least one VIA project that impacts the school or community |
+|        Level 4       | Completed at least 24 hours of service AND at least two VIA projects that impacts the school or community             |
+|        Level 5       | Completed at least 24 hours of service AND at least one  student – initiated project that impacts the school or community AND at least one other VIA project                                              |
