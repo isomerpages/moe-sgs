@@ -165,11 +165,11 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 *   **Time** – How long do you exercise? Recommendation is for a duration of 30 minutes for to develop cardiovascular fitness.
 *   **Type of Activity** – For cardiovascular fitness, take part in activities that are endurance in nature and involve major groups such as jogging, swimming and dancing.
 
-### **NAPFA STANDARDS (SECONDARY) FOR MALES**
+#### **NAPFA STANDARDS (SECONDARY) FOR MALES**
 
 ![](/images/Pe%20and%20cca%20guideline/adfa.jpg)
 
-### **NAPFA STANDARDS (SECONDARY) FOR FEMALES**
+#### **NAPFA STANDARDS (SECONDARY) FOR FEMALES**
 
 ![](/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg)
 
@@ -181,7 +181,7 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 | Silver | D grade in all 6 stations with a minimum of 15 points |
 | Bronze |  E grade in all 6 stations with a minimum of 6 points |
 
-### **Safety: Guidelines for Students for Camps, Physical Activities and Overseas Trips**
+#### **Safety: Guidelines for Students for Camps, Physical Activities and Overseas Trips**
 
 *   Students should be medically and physically fit for all physical activities. If unwell, students must inform the teacher-in–charge of the activity.
 *   Students and parents must inform the school and staff involved of their known medical history, such as pre-existing injuries, allergies and illnesses (e.g. asthma). Students may not participate in certain activities if they are medically unable to but are expected to attend the alternative activities planned.
