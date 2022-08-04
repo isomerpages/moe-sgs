@@ -8,3 +8,5 @@ links:
     collection: student-development
   - title: STUDENTS
     collection: students
+  - title: News and Announcements
+    resource_room: true
