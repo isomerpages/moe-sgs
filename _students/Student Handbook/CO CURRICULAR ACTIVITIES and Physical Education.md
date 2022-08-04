@@ -165,11 +165,15 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 #### **NAPFA STANDARDS (SECONDARY) FOR MALES**
 
-![](/images/Pe%20and%20cca%20guideline/adfa.jpg)
+<a href="/images/Pe%20and%20cca%20guideline/adfa.jpg" target = "_blank"> <img src="/images/Pe%20and%20cca%20guideline/adfa.jpg" 
+     style="width:100%"></a>
+
 
 #### **NAPFA STANDARDS (SECONDARY) FOR FEMALES**
 
-![](/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg)
+<a href="/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg" target = "_blank"> <img src="/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg" 
+     style="width:100%"></a>
+		
 
 <p style="text-align: center;"><b>AWARD REQUIREMENTS</b></p>
 
