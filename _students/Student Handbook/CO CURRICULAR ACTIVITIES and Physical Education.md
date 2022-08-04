@@ -171,3 +171,12 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 **NAPFA STANDARDS (SECONDARY) FOR FEMALES**
 
 ![](/images/Pe%20and%20cca%20guideline/Presentation2-e1573714845260.jpg)
+
+| AWARD REQUIREMENTS |
+|:------------------:|
+
+| Awards |                     Minimum Scores                    |
+|:------:|:-----------------------------------------------------:|
+|  Gold  | C grade in all 6 stations with a minimum of 21 points |
+| Silver | D grade in all 6 stations with a minimum of 15 points |
+| Bronze |  E grade in all 6 stations with a minimum of 6 points |
