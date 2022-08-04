@@ -75,7 +75,23 @@ Recruitment takes place during the Sec 1 orientation. 
 </figure>
 
 <figure>
-	<a href="/images/Parents%20support%20group/Slide7-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide7-4-250x250.jpg" 
+	<a href="/images/Parents%20support%20group/Slide6-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide6-4-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Setting Up of Booth for Pongal Celebrations </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Parents%20support%20group/Slide5-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide5-4-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Setting Up of Booth for Pongal Celebrations </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Parents%20support%20group/Slide4-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide4-4-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
 	<strong> Setting Up of Booth for Pongal Celebrations </strong> 
