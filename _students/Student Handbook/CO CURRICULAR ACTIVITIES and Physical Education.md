@@ -24,11 +24,11 @@ CCAs in SGS for 2019 (Note that CCA offers are subject to change)
 
 ### **CCA Scheme**
 
-CCA bonus points can be used for consideration for entries to Junior Colleges, Polytechnics and the Millennia Institute. They will also be considered when students select subjects in ITE courses.
+<p style="text-align: justify;"> CCA bonus points can be used for consideration for entries to Junior Colleges, Polytechnics and the Millennia Institute. They will also be considered when students select subjects in ITE courses. </p>
 
 #### **LEAPS  2.0**
 
-Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 document for parents is available on the MOE Website.
+<p style="text-align: justify;"> Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 document for parents is available on the MOE Website. </p>
 
 ##### **A) The New Band Descriptors:**
 
