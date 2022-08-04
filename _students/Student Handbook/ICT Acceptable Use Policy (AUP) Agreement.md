@@ -14,14 +14,14 @@ third_nav_title: Student Handbook
 
 #### **General**
 
-<p>1.  Users are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.</p>
-<p>2.  Users are responsible for any resource that is borrowed from school for the duration of the loan. The user will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance with the school’s discipline policy.</p>
+<p>1.  Users are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.<br>
+2.  Users are responsible for any resource that is borrowed from school for the duration of the loan. The user will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance with the school’s discipline policy.</p>
 <p>3.  Users are responsible for their personal devices. The school will not be held responsible for any damage, theft or loss of their devices.</p>
 <p>4.  Users should not use the school’s electrical power to charge their own personal devices. Users should ensure that their personal devices are fully charged before bringing it to school.</p>
 
 #### **Account**
 
-5.  Users are responsible and accountable for all activities conducted via their own account.
+<p>5.  Users are responsible and accountable for all activities conducted via their own account.<p>
 6.  Users are responsible for the security of their account IDs and passwords. All account IDs and passwords should not be shared with anyone.
 7.  User should adopt the good practice of changing their passwords every 3 months.
 8.  Users should not use their accounts for any illegal or unethical activities. These include cyber-bullying, posting online remarks that are racially and religiously insensitive, vulgar and/or offensive statements, disruptive of public order and intentionally causing emotional distress/harm to others,.
