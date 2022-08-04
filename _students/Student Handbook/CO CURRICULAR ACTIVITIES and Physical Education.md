@@ -141,7 +141,7 @@ BMI = Weight (kg) ÷  **[Height (m) × Height (m)]**
 
 <br>
 
-|    |                  Test Items                  | Target Result | Practice 1 Result<br><br>Date: | Practice 2 Result<br><br>Date: | NAPFA Result<br><br>Date: | Points/ Grade   |
+|    |                  Test Items                  | Target Result | Practice 1 Result<br><br>Date:<br><br>| Practice 2 Result<br><br>Date: <br><br>| NAPFA Result<br><br>Date: <br><br>| Points/ Grade   |
 |----|:--------------------------------------------:|:-------------:|:------------------------------:|:------------------------------:|:-------------------------:|:---------------:|
 | 1. |             Sit-Ups (in 1 minute)            |               |                                |                                |                           |                 |
 | 2. |           Standing Broad Jump (cm)           |               |                                |                                |                           |                 |
