@@ -6,11 +6,11 @@ third_nav_title: Student Handbook
 ---
 Rationale of CCA in School
 
-CCA plays a key role in the holistic development of our students. Well-organised and implemented, they will fuel in the individual a life-long love for a particular activity, skill or interest. This will subsequently help the individual to lead a balanced life in adulthood.
+<p style="text-align: justify;"> CCA plays a key role in the holistic development of our students. Well-organised and implemented, they will fuel in the individual a life-long love for a particular activity, skill or interest. This will subsequently help the individual to lead a balanced life in adulthood. </p>
 
-CCA emphasises social interaction but each CCA has its specific objectives. Sports develop robustness, fair play and team spirit in students. The performing arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society. Uniformed group activities aim to make leaders out of students as they learn to work together building their social skills. Besides inculcating values, CCA also imbues in our students an entrepreneurial spirit, a risk-taking attitude and an appreciation for the aesthetics, all of which are necessary for the holistic development of an individual.
+<p style="text-align: justify;"> CCA emphasises social interaction but each CCA has its specific objectives. Sports develop robustness, fair play and team spirit in students. The performing arts instill in students a sense of graciousness and an appreciation for the rich culture and heritage of a multi-racial society. Uniformed group activities aim to make leaders out of students as they learn to work together building their social skills. Besides inculcating values, CCA also imbues in our students an entrepreneurial spirit, a risk-taking attitude and an appreciation for the aesthetics, all of which are necessary for the holistic development of an individual. </p>
 
-Good performance and participation in CCA will be considered when students apply for certain enrichment programmes, such as overseas trips.
+<p style="text-align: justify;"> Good performance and participation in CCA will be considered when students apply for certain enrichment programmes, such as overseas trips. </p>
 
 CCAs in SGS for 2019 (Note that CCA offers are subject to change)
 
