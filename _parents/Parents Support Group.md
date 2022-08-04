@@ -50,4 +50,12 @@ Recruitment takes place during the Sec 1 orientation. 
 	</figcaption>
 </figure>
 
+<figure>
+	<a href="/images/Parents%20support%20group/Slide9-2-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide9-2-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Preparing Inspirational Kits for Graduating Cohort </strong> 
+	</figcaption>
+</figure>
+
 ![](/images/Parents%20support%20group/Slide1-4-250x250.jpg)
