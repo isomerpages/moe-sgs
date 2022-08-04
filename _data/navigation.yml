@@ -13,5 +13,17 @@ links:
   - title: Menu Title
     url: /permalink
     sublinks:
+      - title: Submenu Title1
+        url: /permalink
+      - title: Submenu Title2
+        url: /permalink
+      - title: Submenu Title3
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
       - title: Submenu Title
         url: /permalink
