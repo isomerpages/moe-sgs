@@ -181,7 +181,6 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 | Silver | D grade in all 6 stations with a minimum of 15 points |
 | Bronze |  E grade in all 6 stations with a minimum of 6 points |
 
-
 **Safety: Guidelines for Students for Camps, Physical Activities and Overseas Trips**
 
 *   Students should be medically and physically fit for all physical activities. If unwell, students must inform the teacher-in–charge of the activity.
