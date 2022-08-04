@@ -102,7 +102,7 @@ CCAs in SGS for 2019 (Note that CCA offers are subject to change)
 
 ### **Joint Admission Exercise (JAE)**
 
-CCA points (LEAPS points) will be used when applying for Junior Colleges, Millennia Institute, Polytechnics and ITEs. Bonus points are awarded to students for their CCA grades. **Two** bonus points are awarded for an **A** grade and **one** bonus point for a **B** or **C** grade.
+CCA points (LEAPS points) will be used when applying for Junior Colleges, Millennia Institute, Polytechnics and ITEs. Bonus points are awarded to students for their CCA grades. Two bonus points are awarded for an A grade and one bonus point for a B or C grade.
 
 ### **Physical Education (PE) Guidelines**
 
