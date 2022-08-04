@@ -181,3 +181,12 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 |  Gold  | C grade in all 6 stations with a minimum of 21 points |
 | Silver | D grade in all 6 stations with a minimum of 15 points |
 | Bronze |  E grade in all 6 stations with a minimum of 6 points |
+
+
+**Safety: Guidelines for Students for Camps, Physical Activities and Overseas Trips**
+
+*   Students should be medically and physically fit for all physical activities. If unwell, students must inform the teacher-in–charge of the activity.
+*   Students and parents must inform the school and staff involved of their known medical history, such as pre-existing injuries, allergies and illnesses (e.g. asthma). Students may not participate in certain activities if they are medically unable to but are expected to attend the alternative activities planned.
+*   Students who are deemed fit for physical activity after returning from long – term medical leave will need to inform their respective PE and CCA teachers. They will gradually increase the level of intensity for physical activities for 2 weeks before full resumption of physical activities when assessed to be ready.
+*   Students with pre-existing medical conditions (e.g. asthma) are advised to have their prescribed medicine (e.g. inhaler) with them at all times.
+*   Students are advised to have a light meal and drink sufficient water prior to attending any physical activity. Students should bring along water bottles and be hydrated regularly. There are water coolers situated in all areas of the school for re-fills.
