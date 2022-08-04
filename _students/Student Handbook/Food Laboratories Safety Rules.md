@@ -8,7 +8,7 @@ third_nav_title: Student Handbook
 
 ###### **Nutrition and Food Science Lab Manual**
 
-Welcome to the Food Lab of Serangoon Garden Secondary School. You will embark on a wonderful journey, but before you begin, here are some important pointers you have to take note to ensure a safe and pleasant experience.
+<p style="text-align: justify;"> Welcome to the Food Lab of Serangoon Garden Secondary School. You will embark on a wonderful journey, but before you begin, here are some important pointers you have to take note to ensure a safe and pleasant experience. </p>
 
  <p style="text-align: center;"><u>Theory Lessons</u></p>
 
