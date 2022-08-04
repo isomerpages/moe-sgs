@@ -4,7 +4,7 @@ permalink: /students/Student-Handbook/pe-and-cca-guidelines/
 description: ""
 third_nav_title: Student Handbook
 ---
-##### **Rationale of CCA in School**
+### **Rationale of CCA in School**
 
 <p style="text-align: justify;"> CCA plays a key role in the holistic development of our students. Well-organised and implemented, they will fuel in the individual a life-long love for a particular activity, skill or interest. This will subsequently help the individual to lead a balanced life in adulthood. </p>
 
@@ -22,7 +22,7 @@ CCAs in SGS for 2019 (Note that CCA offers are subject to change)
 1.  Every student is expected to attend a CCA. Every student is to participate in one core CCA only. Student are strongly encouraged to go through their 4 or 5 years in their CCA. Change of CCA is made on a case by case basis such as for example, medical reasons.
 2.  Students should consider their choice of CCA carefully and should select a CCA which they are interested in. This will ensure a more meaningful and enjoyable CCA learning experience for them.
 
-##### **CCA Scheme**
+#### **CCA Scheme**
 
 CCA bonus points can be used for consideration for entries to Junior Colleges, Polytechnics and the Millennia Institute. They will also be considered when students select subjects in ITE courses.
 
@@ -30,7 +30,7 @@ CCA bonus points can be used for consideration for entries to Junior Colleges, P
 
 Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 document for parents is available on the MOE Website.
 
-**A) The New Band Descriptors:**
+###### **A) The New Band Descriptors:**
 
 **Excellent (2 bonus points)**
 
@@ -46,7 +46,7 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 
 **Fair (no bonus points)**
 
-**B) LEAPS 2.0 will recognise students’ effort in four Domains Participation**
+###### **B) LEAPS 2.0 will recognise students’ effort in four Domains Participation**
 
 *   Recognition of active contribution & exemplary conduct
 *   At least **75%** attendance each year
