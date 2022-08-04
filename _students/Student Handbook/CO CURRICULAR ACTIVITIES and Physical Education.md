@@ -18,3 +18,35 @@ CCAs in SGS for 2019 (Note that CCA offers are subject to change)
 |                                                 Physical Sports                                                 |                              Uniformed Groups                              |         Visual and Performing Arts        |                        Clubs and Societies                       |
 |---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------|
 | Basketball (Boys)<br><br>Floorball (Girls)<br><br>Netball<br><br>Football (Boys)<br><br>Table Tennis (Boys)<br><br>Badminton (Boys) | Boys’ Brigade<br><br>Girl Guides<br><br>Girls’ Brigade<br><br>NCC<br><br>NPCC<br><br>Red Cross | Choir<br><br>Concert Band<br><br>Dance<br><br>Guzheng | Media Club<br><br>Robotics Club<br><br>Language and Arts Club (LAC)<br><br>  |
+
+1.  Every student is expected to attend a CCA. Every student is to participate in one core CCA only. Student are strongly encouraged to go through their 4 or 5 years in their CCA. Change of CCA is made on a case by case basis such as for example, medical reasons.
+2.  Students should consider their choice of CCA carefully and should select a CCA which they are interested in. This will ensure a more meaningful and enjoyable CCA learning experience for them.
+
+**CCA Scheme**
+
+CCA bonus points can be used for consideration for entries to Junior Colleges, Polytechnics and the Millennia Institute. They will also be considered when students select subjects in ITE courses.
+
+**LEAPS  2.0**
+
+Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 document for parents is available on the MOE Website.
+
+       **A) The New Band Descriptors:**
+
+**Excellent (2 bonus points)**
+
+*   attained a minimum Level 3 in all four domains with at least Level 4 in one domain
+
+**Good (1 bonus point)**
+
+**—** attained a minimum Level 1 in all four domains with any one of the following:
+
+*   At least Level 2 in three domains;
+*   At least Level 2 in one domain and at least Level 3 in another domain; OR
+*   At least Level 4 in one domain.
+
+**Fair (no bonus points)**
+
+**B) LEAPS 2.0 will recognise students’ effort in four Domains Participation**
+
+*   Recognition of active contribution & exemplary conduct
+*   At least **75%** attendance each year
