@@ -51,6 +51,8 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 *   Recognition of active contribution & exemplary conduct
 *   At least **75%** attendance each year
 
-|   Physical Sports   |   Uniformed Groups  |  Visual and Performing Arts        |        Clubs and Societies        |
-|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:-----------------------------------------:|:----------------------------------------------------------------:|
-| Basketball (Boys)<br>Floorball (Girls)<br>Netball<br>Football (Boys)<br>Table Tennis (Boys)<br>Badminton (Boys) | Boys’ Brigade<br>Girl Guides<br>Girls’ Brigade<br>NCC<br>NPCC<br>Red Cross | Choir<br>Concert Band<br>Dance<br>Guzheng | Media Club<br>Robotics Club<br>Language and Arts Club (LAC)<br>  |
+| Levels of Attainment |          Involvement       |
+|--------------------|-------------------------------------------------------------------|
+| Levels 1 – 4         | Sustained engagement in a CCA for 2 to 5 years                      |
+| Levels 4 – 5         | Continuous involvement in the same CCA for 4 or 5 years             |
+| Levels 3 – 5         | Exemplary conduct and active contribution to a CCA for 3 to 5 years |
