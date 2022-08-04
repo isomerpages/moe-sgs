@@ -4,7 +4,7 @@ permalink: /students/Student-Handbook/pe-and-cca-guidelines/
 description: ""
 third_nav_title: Student Handbook
 ---
-##### Rationale of CCA in School
+##### **Rationale of CCA in School**
 
 <p style="text-align: justify;"> CCA plays a key role in the holistic development of our students. Well-organised and implemented, they will fuel in the individual a life-long love for a particular activity, skill or interest. This will subsequently help the individual to lead a balanced life in adulthood. </p>
 
