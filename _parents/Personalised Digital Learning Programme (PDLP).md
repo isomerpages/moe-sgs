@@ -56,6 +56,8 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 * * *
 
 #### Cyberwellness Resources for Parents
+![](/images/PDLP/Capture.png)
+
 
 * * *
 
@@ -64,4 +66,6 @@ Permanent Residents (PR) and International Students (IS) who need support can ap
 A list of answers to Frequently Asked Questions can be found [HERE](https://www.sgs.edu.sg/wp-content/uploads/2021/01/FAQs-on-PDLP-25-Jan-2021-2.pdf). 
 
 If you have any further queries, kindly email us at:
-![](/images/PDLP/Capture.png)
+
+
+
