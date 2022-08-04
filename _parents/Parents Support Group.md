@@ -25,3 +25,13 @@ The PSG has been consistently collaborating with the staff on various occasions 
 Recruitment takes place during the Sec 1 orientation. 
 
 [**Please click here to join our PSG.**](https://form.gov.sg/61e8e5c66c89fd0012d5920d)
+
+<figure>
+	<a href="/images/Parents%20support%20group/Slide12-1-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide12-1-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Appreciation for Teachers </strong> 
+	</figcaption>
+</figure>
+
+![](/images/Parents%20support%20group/Slide1-4-250x250.jpg)
