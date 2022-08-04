@@ -175,6 +175,7 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 | AWARD REQUIREMENTS |
 |:------------------:|
+<br>
 
 | Awards |                     Minimum Scores                    |
 |:------:|:-----------------------------------------------------:|
