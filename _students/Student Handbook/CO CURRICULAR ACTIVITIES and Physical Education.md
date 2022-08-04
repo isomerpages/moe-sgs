@@ -133,14 +133,11 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 ###### **BMI-for-age for BOYS aged 6 – 18 years old**
 
-
-<a href="/images/Pe%20and%20cca%20guideline/BMI-for-age-for-BOYS.jpg" target = "_blank"> <img src="/images/Pe%20and%20cca%20guideline/BMI-for-age-for-BOYS.jpg" 
-     style="width:100%"></a>
+![](/images/Pe%20and%20cca%20guideline/BMI-for-age-for-BOYS.jpg)
 
 ###### **BMI-for-age for GIRLS aged 6 – 18 years old**
 
-<a href="/images/Pe%20and%20cca%20guideline/BMI-for-age-for-GIRLS-1.jpg" target = "_blank"> <img src="/images/Pe%20and%20cca%20guideline/BMI-for-age-for-GIRLS-1.jpg" 
-     style="width:100%"></a>
+![](/images/Pe%20and%20cca%20guideline/BMI-for-age-for-GIRLS-1.jpg)
 
 <br>
 
