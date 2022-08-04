@@ -25,3 +25,6 @@ We would like to invite you to download the free Parents Gateway mobile app on y
 		 
 <a href="/images/Sign%20Up%20For%20Parents%20Gateway/4-600x337.png" target = "_blank"> <img src="/images/Sign%20Up%20For%20Parents%20Gateway/4-600x337.png" 
      style="width:100%"></a>
+		 
+<a href="/images/Sign%20Up%20For%20Parents%20Gateway/5-600x339.png" target = "_blank"> <img src="/images/Sign%20Up%20For%20Parents%20Gateway/5-600x339.png" 
+     style="width:100%"></a>
