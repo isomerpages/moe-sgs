@@ -133,3 +133,19 @@ BMI = Weight (kg) ÷  **[Height (m) × Height (m)]**
 
 **BMI-for-age for BOYS aged 6 – 18 years old**
 
+![](/images/Pe%20and%20cca%20guideline/BMI-for-age-for-BOYS.jpg)
+
+**BMI-for-age for GIRLS aged 6 – 18 years old**
+
+![](/images/Pe%20and%20cca%20guideline/BMI-for-age-for-GIRLS-1.jpg)
+
+<br>
+
+|    |                  Test Items                  | Target Result | Practice 1 Result<br><br>Date: | Practice 2 Result<br><br>Date: | NAPFA Result<br><br>Date: | Points/ Grade   |
+|----|:--------------------------------------------:|:-------------:|:------------------------------:|:------------------------------:|:-------------------------:|:---------------:|
+| 1. |             Sit-Ups (in 1 minute)            |               |                                |                                |                           |                 |
+| 2. |           Standing Broad Jump (cm)           |               |                                |                                |                           |                 |
+| 3. |              Sit and Reach (cm)              |               |                                |                                |                           |                 |
+| 4. | Inclined Pull-Ups / Pull-Ups (in 30 seconds) |               |                                |                                |                           |                 |
+| 5. |             Shuttle Run (seconds)            |               |                                |                                |                           |                 |
+| 6. |     2.4 km Run<br><br>(minutes : seconds)    |               |                                |                                |                           |                 |
