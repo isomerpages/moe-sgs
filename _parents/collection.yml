@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Latest News.md
+      - LATEST NEWS.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
       - USEFUL PARENT ARTICLES/.keep
