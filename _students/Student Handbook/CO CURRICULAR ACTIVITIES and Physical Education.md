@@ -56,3 +56,14 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 | Levels 1 – 4         | Sustained engagement in a CCA for 2 to 5 years                      |
 | Levels 4 – 5         | Continuous involvement in the same CCA for 4 or 5 years             |
 | Levels 3 – 5         | Exemplary conduct and active contribution to a CCA for 3 to 5 years |
+
+**Achievement**
+
+*   Recognition of achievements and accomplishments beyond CCA and school
+
+| Levels of Attainment |                                               Representation                                               |
+|:--------------------:|----------------------------------------------------------------------------------------------------------|
+|        Level 1       | Represent class/house/CCA/CCA (Intra – school)                                                             |
+|     Levels 2 – 5     | –        Represent school or external organisation<br><br>–        Sustained representation over the years |
+|        Level 4       | Represent UG HQ at international event                                                                     |
+|        Level 5       | Represent Singapore/MOE/Singapore Schools/NPOE/UG HQ at international competitions                         |
