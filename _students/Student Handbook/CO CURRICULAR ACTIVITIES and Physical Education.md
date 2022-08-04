@@ -141,6 +141,11 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 <br>
 
+**2) National Physical Fitness Award (NAPFA)**
+
+| Date of Birth:______________________ | Age:_______ |
+|--------------------------------------|-------------|
+
 |    |                  Test Items                  | Target Result | Practice 1 Result<br><br>Date:<br><br>| Practice 2 Result<br><br>Date: <br><br>| NAPFA Result<br><br>Date: <br><br>| Points/ Grade   |
 |----|:--------------------------------------------:|:-------------:|:------------------------------:|:------------------------------:|:-------------------------:|:---------------:|
 | 1. |             Sit-Ups (in 1 minute)            |               |                                |                                |                           |                 |
@@ -149,3 +154,5 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 | 4. | Inclined Pull-Ups / Pull-Ups (in 30 seconds) |               |                                |                                |                           |                 |
 | 5. |             Shuttle Run (seconds)            |               |                                |                                |                           |                 |
 | 6. |     2.4 km Run<br><br>(minutes : seconds)    |               |                                |                                |                           |                 |
+
+
