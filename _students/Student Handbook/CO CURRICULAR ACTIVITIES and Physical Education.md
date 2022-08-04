@@ -120,7 +120,7 @@ CCA points (LEAPS points) will be used when applying for Junior Colleges, Millen
 
 #####  **1)** **Body Mass Index (BMI) Targets**
 
-**BMI Calculation:**
+###### **BMI Calculation:**
 
 BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
@@ -131,11 +131,11 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 |       BMI       |              |                     |                  |
 | Weight Category |              |                     |                  |
 
-**BMI-for-age for BOYS aged 6 – 18 years old**
+###### **BMI-for-age for BOYS aged 6 – 18 years old**
 
 ![](/images/Pe%20and%20cca%20guideline/BMI-for-age-for-BOYS.jpg)
 
-**BMI-for-age for GIRLS aged 6 – 18 years old**
+###### **BMI-for-age for GIRLS aged 6 – 18 years old**
 
 ![](/images/Pe%20and%20cca%20guideline/BMI-for-age-for-GIRLS-1.jpg)
 
