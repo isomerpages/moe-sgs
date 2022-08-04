@@ -99,7 +99,23 @@ Recruitment takes place during the Sec 1 orientation. 
 </figure>
 
 <figure>
-	<a href="/images/Parents%20support%20group/Slide4-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide4-4-250x250.jpg" 
+	<a href="/images/Parents%20support%20group/Slide3-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide3-4-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> CNY Classroom Deco Competition Judging </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Parents%20support%20group/Slide2-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide2-4-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> CNY Classroom Deco Competition Judging </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Parents%20support%20group/Slide1-4-250x250.jpg" target = "_blank"> <img src="/images/Parents%20support%20group/Slide1-4-250x250.jpg" 
      style="width:50%"></a>
 <figcaption> 
 	<strong> CNY Classroom Deco Competition Judging </strong> 
