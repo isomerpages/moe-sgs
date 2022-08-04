@@ -10,3 +10,6 @@ links:
     collection: students
   - title: News and Announcements
     resource_room: true
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
