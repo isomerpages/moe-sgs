@@ -143,7 +143,7 @@ BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 ##### **2) National Physical Fitness Award (NAPFA)**
 
-<p>  Date of Birth:______________________   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Age:_______  </p>
+<p>  Date of Birth:______________________   Age:_______  </p>
 
 |    |                  Test Items                  | Target Result | Practice 1 Result<br><br>Date:<br><br>| Practice 2 Result<br><br>Date: <br><br>| NAPFA Result<br><br>Date: <br><br>| Points/ Grade   |
 |----|:--------------------------------------------:|:-------------:|:------------------------------:|:------------------------------:|:-------------------------:|:---------------:|
