@@ -45,16 +45,16 @@ At the end of each lesson, always ensure that
 
 For all practical sessions, you are expected to obey the <u>5 laws</u>:
 
-1.  Rights to Hygiene
+<p> 1.  Rights to Hygiene </p>
 
 *   Put on apron at all times, remove only when you leave the lab.
 *   Nails are to be kept short and clean. Hair must be tidy. Girls to tie long hair back.
 
-2.  Rights to Listen
+<p> 2.  Rights to Listen </p>
 
 *   Listen to teacher’s instructions at all times.
 
-3.  Rights to Cleanliness
+<p> 3.  Rights to Cleanliness </p>
 
 *   Wash your hand before and after handling food.
 *   Do not sneeze or cough into food.
@@ -62,12 +62,12 @@ For all practical sessions, you are expected to obey the <u>5 laws</u>:
 *   Throw rubbish in the bin provided.
 *   Clear used towels into pails provided.
 
-4.  Rights to a Clean Environment
+<p> 4.  Rights to a Clean Environment </p>
 
 *   Use only what is required (ingredients/utensils). Do not remove excess ingredients from the lab.
 *   No eating is allowed unless for food tasting and sensory evaluation purposes.
 
-5.  Rights to Safety
+<p> 5.  Rights to Safety </p>
 
 *   No running in the lab at all times.
 *   Do not leave stove unattended during cooking.
