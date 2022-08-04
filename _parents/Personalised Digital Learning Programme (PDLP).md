@@ -61,12 +61,10 @@ This is a video presentation about our PDLP programme which includes details on 
      style="width:50%"></a>
 
 *   <a href="http://go.gov.sg/moe-cyber-wellness" target = "_blank">go.gov.sg/moe-cyber-wellness</a>
-*   
-*   []()
-*   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
-*   [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
-*   [sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
-*   [help123.sg](http://help123.sg/)
+*   <a href="https://beta.moe.gov.sg/programmes/cyber-wellness/" target = "_blank">https://beta.moe.gov.sg/programmes/cyber-wellness/</a>
+*   <a href="http://go.gov.sg/better-internet-sg" target = "_blank">go.gov.sg/better-internet-sg</a>
+*   <a href="http://sure.nlb.gov.sg/" target = "_blank">sure.nlb.gov.sg</a>
+*   <a href="http://help123.sg/" target = "_blank">help123.sg</a>
 
 * * *
 
