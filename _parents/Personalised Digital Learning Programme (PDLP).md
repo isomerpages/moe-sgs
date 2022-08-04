@@ -53,5 +53,15 @@ Subsidies are available to students who require financial assistance. Singapore 
 
 Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI) is below $1000. If your child qualifies for a subsidy, please submit [Annex D Application for Subsidy (PDLP)](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Annex-D-Application-for-Subsidy-PDLP.docx).
 
+* * *
 
+#### Cyberwellness Resources for Parents
+
+* * *
+
+#### Frequently Asked Questions and Answers
+
+A list of answers to Frequently Asked Questions can be found [HERE](https://www.sgs.edu.sg/wp-content/uploads/2021/01/FAQs-on-PDLP-25-Jan-2021-2.pdf). 
+
+If you have any further queries, kindly email us at:
 ![](/images/PDLP/Capture.png)
