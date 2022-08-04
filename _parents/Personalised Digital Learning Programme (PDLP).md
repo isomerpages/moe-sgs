@@ -20,4 +20,20 @@ SGS has selected the Acer TravelMate Spin B3 as its PLD offering . Despite its s
 ![](/images/PDLP/Capture-1536x935.png)
 * * *
 
+#### Important Actions For Parents (Sec 1 2022)
+
+By early-January 2022, parents/guardians would have received a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP.
+
+Please submit the following consent forms by <u>28 Jan 2022</u> in order for the school to begin processing the purchase of a PLD for your child/ward.
+
+*   Intent to Purchase PLD
+*   Edusave Withdrawal (for Singapore Citizens only)
+*   Authorisation to collect PLD
+*   Application for Subsidy [(download here)](https://go.gov.sg/application-for-subsidy-pdlp) 
+
+Singapore Citizens, please make an online submission at [https://go.gov.sg/sgspdlp](https://go.gov.sg/sgspdlp).
+
+PR/IS, please submit the _hardcopy letter to your child’s/ward’s Form Teacher_.
+
+
 ![](/images/PDLP/Capture.png)
