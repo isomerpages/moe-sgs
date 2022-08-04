@@ -40,7 +40,8 @@ At the end of each lesson, always ensure that
 *   all materials used have been returned to its proper place
 *   thank teacher and leave the lab in an orderly manner
 
-##### **Practical Sessions**
+
+##### <p style="text-align: center;"><u>Practical Sessions</u></p>
 
 For all practical sessions, you are expected to obey the <u>5 laws</u>:
 
