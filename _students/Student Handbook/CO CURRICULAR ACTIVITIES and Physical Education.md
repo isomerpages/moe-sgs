@@ -75,3 +75,15 @@ Below is a summary of the LEAPS 2.0 Scoring System. The complete LEAPS 2.0 docum
 |     Levels 1 – 2     | Nil                                                                                                                                                                                |
 |     Levels 3 – 4     | Represent school/external organisation and obtained:<br><br>–        Team placing: Top 4<br>–        Individual placing: Top 8<br>–        Award/Certification: Gold/Silver/Bronze |
 |        Level 5       | Accomplishment at Singapore/MOE/Singapore Schools/NPOE/UG HQ at international competitions         |
+
+**Leadership**
+
+*   Recognition beyond leadership position to include leadership quality with respect to self and others (e.g. NYAA, leadership impact)
+
+| Levels of Attainment |                                                                                                       Leadership                                                                                                       |
+|:--------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        Level 1       | Completed 2 modules on leadership (baseline provision)                       |
+|        Level 2       | Class Committee, Lower Sec CCA/House Com, Com for student – initiated /led projects (approved by school), NYAA Bronze award                     |
+|        Level 3       | Class Chair/V- Chair, Lower Sec House Captain/CCA EXCO, Upper Sec CCA Committee, Com for school – wide events, Chair/V- Chair  for student – initiated /led projects (approved by school), NYAA Silver and above award |
+|        Level 4       | Chair/V- Chair for school – wide events, Upper Sec EXCO                                                                                                                                                                |
+|        Level 5       | CCA Chair/ V- Chair/Captain/V-Captain; Prefectorial Board/Student Council/Peer Support Leader EXCO & P/VP      |
