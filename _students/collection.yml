@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - LATEST NEWS.md
-      - Student Academic Matters/.keep
-      - Student Academic Matters/Student Academic Matters.md
-      - Student Academic Matters/School Based Assessments.md
-      - Student Academic Matters/Student Learning Space.md
+      - STUDENT ACADEMIC MATTERS/.keep
+      - STUDENT ACADEMIC MATTERS/Student Academic Matters.md
+      - STUDENT ACADEMIC MATTERS/School Based Assessments.md
+      - STUDENT ACADEMIC MATTERS/Student Learning Space.md
       - Student Handbook/.keep
       - Student Handbook/School Rules.md
       - Student Handbook/Financial Assistance Schemes.md
