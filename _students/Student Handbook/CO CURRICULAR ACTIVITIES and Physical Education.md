@@ -117,3 +117,7 @@ CCA points (LEAPS points) will be used when applying for Junior Colleges, Millen
 *   Students should not be engaged in outdoor physical activities when the lightning warning system is activated.
 
 **B) Health Targets:**
+
+ **1)** **Body Mass Index (BMI) Targets**
+
+**BMI Calculation:**
