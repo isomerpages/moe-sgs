@@ -60,7 +60,9 @@ This is a video presentation about our PDLP programme which includes details on 
 <a href="/files/Parent-Handbook-I-on-1_1-Learning.pdf" target = "_blank"> <img src="/images/PDLP/Capture.png" 
      style="width:50%"></a>
 
-*   [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
+*   <a href="http://go.gov.sg/moe-cyber-wellness" target = "_blank">go.gov.sg/moe-cyber-wellness</a>
+*   
+*   []()
 *   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
 *   [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
 *   [sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
