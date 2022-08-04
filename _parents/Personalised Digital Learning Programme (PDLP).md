@@ -71,3 +71,11 @@ This is a video presentation about our PDLP programme which includes details on 
 A list of answers to Frequently Asked Questions can be found [HERE](https://www.sgs.edu.sg/wp-content/uploads/2021/01/FAQs-on-PDLP-25-Jan-2021-2.pdf). 
 
 If you have any further queries, kindly email us at:
+<table>
+<thead>
+  <tr>
+    <td>PDLP Matters<br>Mr Leslie Tan<br>HOD ICT<br><a href="mailto:leslie_yc_tan@moe.edu.sg" target="_blank" rel="noopener noreferrer">leslie_yc_tan@moe.edu.sg</a></td>
+    <td>Administrative &amp; Financial Matters<br>Ms Teresa Ng<br>Administration Manager<br><a href="mailto:teresa_ng@schools.gov.sg" target="_blank" rel="noopener noreferrer">teresa_ng@schools.gov.sg</a></td>
+  </tr>
+</thead>
+</table>
