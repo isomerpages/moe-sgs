@@ -122,7 +122,7 @@ CCA points (LEAPS points) will be used when applying for Junior Colleges, Millen
 
 **BMI Calculation:**
 
-BMI = Weight (kg) ÷  **[Height (m) × Height (m)]**
+BMI = Weight (kg)    ÷   **[Height (m) × Height (m)]**
 
 |                 | I guess my … | January measurement | July measurement |
 |:---------------:|:------------:|:-------------------:|:----------------:|
