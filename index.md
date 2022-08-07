@@ -56,6 +56,13 @@ sections:
       button: Button Text
       image: /images/Homepage Thumbnails/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah.jpeg
       alt: Image alt text
+  - infopic:
+      title: 10th Character and Leadership Symposium 2019
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
+      alt: Image alt text
   - resources:
       button: LATEST NEWS
 ---
