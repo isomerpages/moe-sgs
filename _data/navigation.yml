@@ -1,5 +1,7 @@
 logo: /images/School-Logo.jpg
 links:
+  - title: tempo
+    collection: about-sgs
   - title: About US
     collection: about-sgs
   - title: INSTRUCTIONAL PROGRAMMES
