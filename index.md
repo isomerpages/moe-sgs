@@ -25,11 +25,10 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: ALP Celebration
+      button: More
       alt: Image alt text
+      url: /homepage-infopic/alp-celebration/
   - resources:
       button: LATEST NEWS
   - infobar:
