@@ -60,11 +60,12 @@ sections:
       url: /homepage-infopic/sec-3-science-learning-day/
   - infopic:
       title: 10th Character and Leadership Symposium 2019
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: The school hosted the 10th Character and Leadership Symposium for
+        Education and Social Services Sectors organized by Future Ready,
+        Character and [...]
+      button: More
       image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
-      alt: Image alt text
+      url: /homepage-infopic/10th-character-and-leadership-symposium-2019/
   - resources:
       button: LATEST NEWS
 ---
