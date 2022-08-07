@@ -23,7 +23,6 @@ description: ""
 #### broken *   [PAC@GOV (Public Access)](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)
 #### broken *   [SSOE](https://ssoe.moe.edu.sg/)
 #### broken *   [MOE Intranet](https://intranet.moe.gov.sg/)
-*   []()
 * <a href="https://www.moe.gov.sg/" target ="_blank" >Ministry of Education</a> 
 #### broken *   [HRMS](https://hrms.moe.gov.sg/)
 * <a href="https://sites.google.com/site/sgssclabreq/home/" target ="_blank" >Science Lab E-Requisition</a> 
