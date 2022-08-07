@@ -2,6 +2,7 @@ collections:
   homepage-infopic:
     output: true
     order:
+      - Sec 3 Science Learning Day.md
       - Outstanding Youth in Education Award.md
       - Serangoon Garden Secondary 60th Anniversary Celebration.md
       - ALP Celebration.md
