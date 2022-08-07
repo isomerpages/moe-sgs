@@ -19,3 +19,9 @@ Time: 0900 – 1000
 Mode: Via ZOOM
 
 Note: 2022 Sec 1 Parents would be automatically on boarded to Parents Gateway from which details on logging in the zoom meeting will be disseminated on Wednesday, 22 December 2021.
+
+|    Timing   |               Programme             |
+|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 0900 – 0930 |                                                                                                       Address by Principal         |
+| 0930 – 0950 | Briefing<br>Introduction to School Leaders and Heads of Department<br>Registration Matters (Online sales of uniform, PE attire and books)<br>Orientation Programme for Sec 1<br>School Attire and General Appearance of SGSians |
+| 0950 – 1000 |          Q&A          |
