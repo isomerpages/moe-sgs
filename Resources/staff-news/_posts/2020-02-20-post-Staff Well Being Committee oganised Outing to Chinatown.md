@@ -9,7 +9,7 @@ description: ""
 
 <figure>
 	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/Capture.jpg" 
-     style="width:100%"></a>
+     style="width:50%"></a>
 <figcaption> 
 	<strong> Staff Well Being Committee </strong> 
 	</figcaption>
