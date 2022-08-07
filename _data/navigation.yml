@@ -8,8 +8,6 @@ links:
     collection: student-development
   - title: STUDENTS
     collection: students
-  - title: PARENTS
-    collection: parents
   - title: News and Announcements
     resource_room: true
   - title: PARENTS
