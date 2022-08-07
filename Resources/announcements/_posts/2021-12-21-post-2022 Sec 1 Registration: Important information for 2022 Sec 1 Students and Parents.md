@@ -29,3 +29,7 @@ Note: 2022 Sec 1 Parents would be automatically on boarded to Parents Gateway fr
 ####  <u><b>Section B: Online Registration Form </b></u>
 
 As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this [form](https://go.gov.sg/s1registrationformsgs2022) by Thursday, 23 December 2021. This is to allow us to get to know your child/ward better.
+
+
+####  <u><b>Section C: Purchase of Books and Uniform for Sec 1  
+Please note that our books and stationery are supplied by our bookshop vendor, Popular Book Co Pte Ltd. </b></u>
