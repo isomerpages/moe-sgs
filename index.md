@@ -19,7 +19,7 @@ sections:
           description: Description >30 char, omitted
           url: /signature-programmes/artssgs/
   - resources:
-      button: LATEST NEWS
+      button: LATEST NEWS AND ANNOUNCEMENTS
   - infopic:
       title: MOE SEXUALITY EDUCATION IN SCHOOLS
       description: 1. Sexuality Education (SEd) in schools is about enabling students
