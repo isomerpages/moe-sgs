@@ -99,7 +99,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 #### **Information for Parents**
 
-<p>10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>10.  Parents may opt their children out of the Sexuality Education lessons, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Sexuality%20Education%20Opt%20Out%20form%202022.pdf">here</a>. The completed form is to be submitted by 04/02/2022.</p>
 <p>12.  Parents who wish to opt their children out of the  <i>eTeens</i> programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens%20Parents%20Opt-out%20Form%20(Sec)%202022.pdf">here</a>. The completed form is to be submitted by 04/02/2022.</p>
 <p>13.  Parents can contact the school at [sgss@moe.edu.sg](mailto:sgss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.</p>
