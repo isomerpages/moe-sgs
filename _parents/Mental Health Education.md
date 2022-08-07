@@ -12,3 +12,5 @@ Serangoon Garden’s Mental Health Education (MHE) Programme is designed to achi
 *   G5: <u>Destigmatise mental illness</u>for our students
 
 In line with the goals stated above, the MHE curriculum in Serangoon Garden Secondary School has developed and customised a series of programmes for our students. The table below states the range of topics covered in the MHE curriculum from Sec 1 to 4, outlining the Skills, Knowledge, Values and Attitude which will be covered in the various aspects of your child’s school experiences- including FT Periods, CCE lessons, assembly programmes and Level Signature Programmes.
+
+**(Below are the lessons found in the CCE 2021 Curriculum and some we have crafted so far that are related to Mental Health Education)**
