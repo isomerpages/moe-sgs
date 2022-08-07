@@ -12,8 +12,8 @@ links:
     collection: parents
   - title: News and Announcements
     resource_room: true
-  - title: Menu Title
-    url: /permalink
+  - title: PARENTS
+    url: /parents/pdlp/
     sublinks:
       - title: Submenu Title1
         url: /students/Student-Academic-Matters/sba/
