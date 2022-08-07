@@ -11,8 +11,11 @@ description: ""
 * <a href="https://onepublicservice.facebook.com/" target ="_blank" >Workplace by Facebook NEW!</a> 
 
 #### broken *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-*  [Resource Booking](https://rbs.avero-tech.com/)
-*   [OPAL](https://opal2.moe.edu.sg/)
+
+* <a href="https://rbs.avero-tech.com/" target ="_blank" >Resource Booking</a> 
+
+* <a href="https://opal2.moe.edu.sg/" target ="_blank" >OPAL</a> 
+
 #### broken *   [iExams](https://iexams.moe.gov.sg/xe/login.do "iExams")
 
 #### broken *   [TRAISI](https://traisi.moe.gov.sg/)
