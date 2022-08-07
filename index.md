@@ -19,15 +19,6 @@ sections:
           description: Description >30 char, omitted
           url: /signature-programmes/artssgs/
   - infopic:
-      title: ALP Celebration
-      button: More
-      alt: Image alt text
-      url: /homepage-infopic/alp-celebration/
-      image: /images/Homepage Thumbnails/042-Ee-Leng-Elaine-Seah-e1573003797292.jpg
-      description: The Applied Learning Programme (ALP) Celebration provided a
-        platform for students to present a wide range of societal issues ranging
-        form strengthening [...]
-  - infopic:
       title: MOE SEXUALITY EDUCATION IN SCHOOLS
       description: 1. Sexuality Education (SEd) in schools is about enabling students
         to understand the physiological, social and emotional changes they
@@ -36,6 +27,15 @@ sections:
       url: /parents/sexuality-education/
       image: /images/Homepage Thumbnails/MOE.jpg
       alt: Image alt text
+  - infopic:
+      title: ALP Celebration
+      button: More
+      alt: Image alt text
+      url: /homepage-infopic/alp-celebration/
+      image: /images/Homepage Thumbnails/042-Ee-Leng-Elaine-Seah-e1573003797292.jpg
+      description: The Applied Learning Programme (ALP) Celebration provided a
+        platform for students to present a wide range of societal issues ranging
+        form strengthening [...]
   - resources:
       button: LATEST NEWS
 ---
