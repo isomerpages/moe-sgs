@@ -2,4 +2,5 @@ collections:
   homepage-infopic:
     output: true
     order:
+      - Serangoon Garden Secondary 60th Anniversary Celebration.md
       - ALP Celebration.md
