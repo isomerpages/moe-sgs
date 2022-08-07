@@ -18,10 +18,8 @@ sections:
         - title: Arts Education Programme
           description: Description >30 char, omitted
           url: /signature-programmes/artssgs/
-  - infobar:
-      title: Announcements
-      button: More Announcements
-      url: /Resources/announcements/
+  - resources:
+      button: LATEST NEWS
   - infopic:
       title: MOE SEXUALITY EDUCATION IN SCHOOLS
       description: 1. Sexuality Education (SEd) in schools is about enabling students
@@ -76,6 +74,4 @@ sections:
       image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
       url: /homepage-infopic/10th-character-and-leadership-symposium-2019/
       alt: Symposium 2019
-  - resources:
-      button: LATEST NEWS
 ---
