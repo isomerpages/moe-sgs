@@ -46,3 +46,5 @@ description: ""
 ![](/images/O%20Level%20Briefing/Release-of-O-level-results-FTs-briefing-slides-12-Jan-as-at-10-Jan_Page_21-1024x576.jpg)
 
 ![](/images/O%20Level%20Briefing/Release-of-O-level-results-FTs-briefing-slides-12-Jan-as-at-10-Jan_Page_22-1024x576.jpg)
+
+![](/images/O%20Level%20Briefing/Release-of-O-level-results-FTs-briefing-slides-12-Jan-as-at-10-Jan_Page_23-1024x576.jpg)
