@@ -18,12 +18,6 @@ sections:
         - title: Arts Education Programme
           description: Description >30 char, omitted
           url: /signature-programmes/artssgs/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: ALP Celebration
       button: More
@@ -33,11 +27,15 @@ sections:
       description: The Applied Learning Programme (ALP) Celebration provided a
         platform for students to present a wide range of societal issues ranging
         form strengthening [...]
+  - infopic:
+      title: MOE SEXUALITY EDUCATION IN SCHOOLS
+      description: Sexuality Education (SEd) in schools is about enabling students to
+        understand the physiological, social and emotional changes they
+        experience as they [...]
+      button: More
+      url: /parents/sexuality-education/
+      image: /images/Homepage Thumbnails/MOE.jpg
+      alt: Image alt text
   - resources:
       button: LATEST NEWS
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
