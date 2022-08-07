@@ -36,6 +36,13 @@ sections:
       description: The Applied Learning Programme (ALP) Celebration provided a
         platform for students to present a wide range of societal issues ranging
         form strengthening [...]
+  - infopic:
+      title: Serangoon Garden Secondary 60th Anniversary Celebration
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/Homepage Thumbnails/166-Ee-Leng-Elaine-Seahewrw.jpg
+      alt: Image alt text
   - resources:
       button: LATEST NEWS
 ---
