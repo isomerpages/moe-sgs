@@ -8,9 +8,8 @@ description: ""
 <a href="/files/Announcement/Updated_Letter-to-Parents_Start-of-T1-2022.pdf" target = "_blank"> <img src="/images/Start%20of%20Term%201,%202022/Updated_Letter-to-Parents_Start-of-T1-2022_page-0001-724x1024.jpg"
      style="width:100%"></a>
 		 
-<a href="/files/Announcement/Updated_Letter-to-Parents_Start-of-T1-2022.pdf" target = "_blank"> <img src="/images/Start%20of%20Term%201,%202022/Updated_Letter-to-Parents_Start-of-T1-2022_page-0001-724x1024.jpg"
+<a href="/files/Announcement/Updated_Letter-to-Parents_Start-of-T1-2022.pdf" target = "_blank"> <img src="/images/Start%20of%20Term%201,%202022/Updated_Letter-to-Parents_Start-of-T1-2022_page-0002-724x1024.jpg"
      style="width:100%"></a>
 		 
-<a href="/files/Announcement/Updated_Letter-to-Parents_Start-of-T1-2022.pdf" target = "_blank"> <img src="/images/Start%20of%20Term%201,%202022/Updated_Letter-to-Parents_Start-of-T1-2022_page-0001-724x1024.jpg"
+<a href="/files/Announcement/Updated_Letter-to-Parents_Start-of-T1-2022.pdf" target = "_blank"> <img src="/images/Start%20of%20Term%201,%202022/Updated_Letter-to-Parents_Start-of-T1-2022_page-0003-724x1024.jpg"
      style="width:100%"></a>
-
