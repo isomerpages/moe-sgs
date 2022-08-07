@@ -23,5 +23,5 @@ Note: 2022 Sec 1 Parents would be automatically on boarded to Parents Gateway fr
 |    Timing   |               Programme             |
 |:-----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0900 – 0930 |                                                                                                       Address by Principal         |
-| 0930 – 0950 | Briefing<br>Introduction to School Leaders and Heads of Department<br>Registration Matters (Online sales of uniform, PE attire and books)<br>Orientation Programme for Sec 1<br>School Attire and General Appearance of SGSians |
+| 0930 – 0950 | Briefing<br><br>1. Introduction to School Leaders and Heads of Department<br><br>2. Registration Matters (Online sales of uniform, PE attire and books)<br><br>3. Orientation Programme for Sec 1<br><br>4. School Attire and General Appearance of SGSians |
 | 0950 – 1000 |          Q&A          |
