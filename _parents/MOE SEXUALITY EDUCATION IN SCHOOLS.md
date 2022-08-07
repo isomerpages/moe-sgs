@@ -38,6 +38,8 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 ##### At Serangoon Garden Secondary School, the following Sexuality Education lessons will be taught in <u>2022</u>:
 
+<p style="text-align: center;"> <b> Secondary 1 </b></p>
+
 |                UNIT               | LESSONS / DURATION |         Lesson Objectives<br><br>At the end of the lesson, students will be able to:                            | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
 |:---------------------------------:|:------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------:|
 | Respectful Relationships & Safety | 1<br><br>(60 mins) | Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals |              Term 3 Week 5              |
