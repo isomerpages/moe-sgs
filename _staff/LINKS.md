@@ -10,9 +10,8 @@ description: ""
 * <a href="https://pg.moe.edu.sg/" target ="_blank" >Parents Gateway Admin NEW!</a> 
 * <a href="https://onepublicservice.facebook.com/" target ="_blank" >Workplace by Facebook NEW!</a> 
 
-*   [](/)
 #### broken *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-#### broken *   [Resource Booking](https://rbs.avero-tech.com/)
+*  [Resource Booking](https://rbs.avero-tech.com/)
 *   [OPAL](https://opal2.moe.edu.sg/)
 #### broken *   [iExams](https://iexams.moe.gov.sg/xe/login.do "iExams")
 
