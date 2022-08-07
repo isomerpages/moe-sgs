@@ -46,8 +46,16 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |                                   | 2<br><br>(60 mins) | Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept                                                            |              Term 3 Week 8              |
 |                                   | 3<br><br>(60 mins) | Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)                                      |              Term 3 Week 9              |
 
+<br>
 
 <p style="text-align: center;"> <b> Secondary 2 </b></p>
+
+|                UNIT               |  LESSONS / DURATION |                Lesson Objectives<br><br>At the end of the lesson, students will be able to:                                          | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
+|:---------------------------------:|:-------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------:|
+| Respectful Relationships & Safety |  1<br><br>(60 mins) | Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>Understand what sexual orientation entails                                                |              Term 3 Week 2              |
+|                                   | 2A<br><br>(60 mins) | Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline                                                                                                                  |              Term 3 Week 3              |
+|                                   | 2B<br><br>(60 mins) | Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online |              Term 3 Week 5              |
+
 
 <p style="text-align: center;"> <b> Secondary 3 </b></p>
 
