@@ -14,3 +14,35 @@ description: ""
 	<strong> Staff Well Being Committee </strong> 
 	</figcaption>
 </figure>
+
+<figure>
+	<a href="/images/Chinatown%20outing/SWB3-Chee-Meng-Ong-250x250.jpg" target = "_blank"> <img src="/images/Chinatown%20outing/SWB3-Chee-Meng-Ong-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff Well Being Committee </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Chinatown%20outing/SWB4-Chee-Meng-Ong-250x250.jpg" target = "_blank"> <img src="/images/Chinatown%20outing/SWB4-Chee-Meng-Ong-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff Well Being Committee </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Chinatown%20outing/SWB5-Chee-Meng-Ong-250x250.jpg" target = "_blank"> <img src="/images/Chinatown%20outing/SWB5-Chee-Meng-Ong-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff Well Being Committee </strong> 
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Chinatown%20outing/SWB6-Chee-Meng-Ong-250x250.jpg" target = "_blank"> <img src="/images/Chinatown%20outing/SWB6-Chee-Meng-Ong-250x250.jpg" 
+     style="width:50%"></a>
+<figcaption> 
+	<strong> Staff Well Being Committee </strong> 
+	</figcaption>
+</figure>
