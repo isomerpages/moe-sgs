@@ -10,7 +10,7 @@ description: ""
 
 To prepare the start of your Secondary School journey with us, please look through the information detailed below and assist us with an online registration form to be filled by you/your child. </p>
 
-<u><b>Section A: Online Briefing and Interaction with School Leaders and Key Personnel</b></u>
+#### <u><b>Section A: Online Briefing and Interaction with School Leaders and Key Personnel</b></u>
 
 Date: Thursday, 23 Dec 2021 (Sec 1 Registration Day)
 
@@ -25,3 +25,7 @@ Note: 2022 Sec 1 Parents would be automatically on boarded to Parents Gateway fr
 | 0900 – 0930 |                                                                                                       Address by Principal         |
 | 0930 – 0950 | Briefing<br><br>a. Introduction to School Leaders and Heads of Department<br><br>b. Registration Matters (Online sales of uniform, PE attire and books)<br><br>c. Orientation Programme for Sec 1<br><br>d. School Attire and General Appearance of SGSians |
 | 0950 – 1000 |          Q&A          |
+
+####  <u><b>Section B: Online Registration Form </b></u>
+
+As part of Sec 1 Registration, we would appreciate very much for parents/guardians to take some time to complete this [form](https://go.gov.sg/s1registrationformsgs2022) by Thursday, 23 December 2021. This is to allow us to get to know your child/ward better.
