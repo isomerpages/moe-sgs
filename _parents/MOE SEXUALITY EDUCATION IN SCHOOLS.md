@@ -56,7 +56,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |                                   | 2A<br><br>(60 mins) | Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline                                                                                                                  |              Term 3 Week 3              |
 |                                   | 2B<br><br>(60 mins) | Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online |              Term 3 Week 5              |
 
-
+<br>
 <p style="text-align: center;"> <b> Secondary 3 </b></p>
 
 |                  UNIT                  |  LESSONS / DURATION |                                                                                                                                                                                          Lesson Objectives<br><br>At the end of the lesson, students will be able to:                                                                                                                                                                                          | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
@@ -65,6 +65,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |                                        | 1B<br><br>(60 mins) | Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>Know that a decision to end a relationship will have consequences on oneself and others.<br><br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. |              Term 1 Week 9              |
 |                                        |  2<br><br>(60 mins) | Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.                                                      |              Term 1 Week 10             |
 
+<br>
 <p style="text-align: center;"> <b> Secondary 4 </b></p>
 
 |                   UNIT                  | LESSONS / DURATION |                                                                                                        Lesson Objectives<br><br>At the end of the lesson, students will be able to:                             | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
@@ -74,6 +75,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |                                         | 3<br><br>(60 mins) | Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.<br><br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.                        |              Term 2 Week 5              |
 |                                         | 4<br><br>(60 mins) | Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.                                |              Term 2 Week 9              |
 
+<br>
 <p style="text-align: center;"> <b> Secondary 5 </b></p>
 
 |                    UNIT                    | LESSONS / DURATION |                  Lesson Objectives<br><br>At the end of the lesson, students will be able to:                               | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
