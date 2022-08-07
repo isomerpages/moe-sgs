@@ -75,3 +75,4 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 |                                         | 4<br><br>(60 mins) | Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.                                |              Term 2 Week 9              |
 
 <p style="text-align: center;"> <b> Secondary 5 </b></p>
+
