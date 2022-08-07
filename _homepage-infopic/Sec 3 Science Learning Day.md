@@ -13,6 +13,6 @@ description: ""
 	<a href="/images/Sec%203%20science%20learning/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah-250x250.jpeg" target = "_blank"> <img src="/images/Sec%203%20science%20learning/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah-250x250.jpeg"
      style="width:50%"></a>
 <figcaption>
-	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	<strong> Sec 3 Science Learning Day </strong>
 	</figcaption>
 </figure>
