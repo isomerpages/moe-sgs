@@ -29,6 +29,7 @@ sections:
       button: More
       alt: Image alt text
       url: /homepage-infopic/alp-celebration/
+      image: /images/Homepage Thumbnails/042-Ee-Leng-Elaine-Seah-e1573003797292.jpg
   - resources:
       button: LATEST NEWS
   - infobar:
