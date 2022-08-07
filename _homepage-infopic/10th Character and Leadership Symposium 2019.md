@@ -10,6 +10,6 @@ description: ""
 	<a href="/images/10th%20Character%20and%20Leadership/135-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/10th%20Character%20and%20Leadership/135-Ee-Leng-Elaine-Seah-250x250.jpg"
      style="width:50%"></a>
 <figcaption>
-	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	<strong> 10th Character and Leadership Symposium 2019 </strong>
 	</figcaption>
 </figure>
