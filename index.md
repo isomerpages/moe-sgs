@@ -49,6 +49,13 @@ sections:
       button: Button Text
       image: /images/Homepage Thumbnails/061-Ee-Leng-Elaine-Seah-1.jpg
       alt: Image alt text
+  - infopic:
+      title: Sec 3 Science Learning Day
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/Homepage Thumbnails/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah.jpeg
+      alt: Image alt text
   - resources:
       button: LATEST NEWS
 ---
