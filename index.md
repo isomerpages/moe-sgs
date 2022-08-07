@@ -26,6 +26,7 @@ sections:
       button: More
       url: /parents/sexuality-education/
       image: /images/Homepage Thumbnails/MOE.jpg
+      alt: MOE Sexuality Education
   - infopic:
       title: ALP Celebration
       button: More
@@ -34,6 +35,7 @@ sections:
       description: The Applied Learning Programme (ALP) Celebration provided a
         platform for students to present a wide range of societal issues ranging
         form strengthening [...]
+      alt: ALP Celebration
   - infopic:
       title: Serangoon Garden Secondary 60th Anniversary Celebration
       description: Serangoon Garden Secondary School is 60 years old! To celebrate
@@ -42,6 +44,7 @@ sections:
       button: More
       image: /images/Homepage Thumbnails/166-Ee-Leng-Elaine-Seahewrw.jpg
       url: /homepage-infopic/serangoon-garden-secondary-60th-anniversary-celebration/
+      alt: 60th Anniversary Celebration
   - infopic:
       title: Outstanding Youth in Education Award
       button: More
@@ -50,6 +53,7 @@ sections:
         in Education Award which recognizes her inspiring teaching and
         unwavering dedication to [...]
       url: /homepage-infopic/outstanding-youth-in-education-award/
+      alt: Education Award
   - infopic:
       title: Sec 3 Science Learning Day
       description: During the Science Learning Day, the Sec 3 students participated in
@@ -58,6 +62,7 @@ sections:
       button: More
       image: /images/Homepage Thumbnails/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah.jpeg
       url: /homepage-infopic/sec-3-science-learning-day/
+      alt: Sec 3 Science Learning Day
   - infopic:
       title: 10th Character and Leadership Symposium 2019
       description: The school hosted the 10th Character and Leadership Symposium for
@@ -66,6 +71,7 @@ sections:
       button: More
       image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
       url: /homepage-infopic/10th-character-and-leadership-symposium-2019/
+      alt: Symposium 2019
   - resources:
       button: LATEST NEWS
 ---
