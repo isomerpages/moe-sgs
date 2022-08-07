@@ -26,11 +26,9 @@ sections:
       button: More
       url: /parents/sexuality-education/
       image: /images/Homepage Thumbnails/MOE.jpg
-      alt: Image alt text
   - infopic:
       title: ALP Celebration
       button: More
-      alt: Image alt text
       url: /homepage-infopic/alp-celebration/
       image: /images/Homepage Thumbnails/042-Ee-Leng-Elaine-Seah-e1573003797292.jpg
       description: The Applied Learning Programme (ALP) Celebration provided a
@@ -38,11 +36,12 @@ sections:
         form strengthening [...]
   - infopic:
       title: Serangoon Garden Secondary 60th Anniversary Celebration
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Serangoon Garden Secondary School is 60 years old! To celebrate
+        this great milestone, there were many activities and programmes that
+        involved the [...]
+      button: More
       image: /images/Homepage Thumbnails/166-Ee-Leng-Elaine-Seahewrw.jpg
-      alt: Image alt text
+      url: /homepage-infopic/serangoon-garden-secondary-60th-anniversary-celebration/
   - infopic:
       title: Outstanding Youth in Education Award
       subtitle: Infopic Subtitle
