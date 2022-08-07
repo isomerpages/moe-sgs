@@ -95,3 +95,11 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 |------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------:|
 | Mass Talk by HPB appointed vendor<br><br>  | Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br><br>Modes of protection, specifically on how the condom is used<br><br>Consequences and impact of STIs/HIV |              Term 2 Week 1              |
 | Classroom-based Lesson                     | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making                                                   |              Term 2 Week 6              |
+
+#### **Information for Parents**
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1nUwJTSR_7u8GxO9VMysVV6kfE4USvktD/view?usp=sharing). The completed form is to be submitted by 04/02/2022.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1e7Dz2Ek3PHwwiL2y_u08qe-hdHbSboZG/view?usp=sharing). The completed form is to be submitted by 04/02/2022.
+13.  Parents can contact the school at [sgss@moe.edu.sg](mailto:sgss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
