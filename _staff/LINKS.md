@@ -3,7 +3,7 @@ title: LINKS
 permalink: /staff/links
 description: ""
 ---
-*   [ICON](https://icon.moe.edu.sg/)
+* <a href="https://icon.moe.edu.sg/" target ="_blank" >ICON</a> 
 
 #### broken*   [Outlook Web Mail NEW!](https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fschools.gov.sg%2fowa%2f%23authRedirect%3dtrue)
 
