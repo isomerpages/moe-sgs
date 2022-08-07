@@ -43,6 +43,12 @@ sections:
       button: Button Text
       image: /images/Homepage Thumbnails/166-Ee-Leng-Elaine-Seahewrw.jpg
       alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: Infopic Subtitle
+      button: Button Text
+      image: /images/Homepage Thumbnails/061-Ee-Leng-Elaine-Seah-1.jpg
+      alt: Image alt text
   - resources:
       button: LATEST NEWS
 ---
