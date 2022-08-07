@@ -18,6 +18,10 @@ sections:
         - title: Arts Education Programme
           description: Description >30 char, omitted
           url: /signature-programmes/artssgs/
+  - infobar:
+      title: Announcements
+      button: More Announcements
+      url: /Resources/announcements/
   - infopic:
       title: MOE SEXUALITY EDUCATION IN SCHOOLS
       description: 1. Sexuality Education (SEd) in schools is about enabling students
