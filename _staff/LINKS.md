@@ -7,8 +7,10 @@ description: ""
 
 #### broken*   [Outlook Web Mail NEW!](https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fschools.gov.sg%2fowa%2f%23authRedirect%3dtrue)
 
-*   [Parents Gateway Admin NEW!](https://pg.moe.edu.sg/)
-*   [Workplace by Facebook NEW!](https://onepublicservice.facebook.com/)
+* <a href="https://pg.moe.edu.sg/" target ="_blank" >Parents Gateway Admin NEW!</a> 
+* <a href="https://onepublicservice.facebook.com/" target ="_blank" >Workplace by Facebook NEW!</a> 
+
+*   [](/)
 #### broken *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 #### broken *   [Resource Booking](https://rbs.avero-tech.com/)
 *   [OPAL](https://opal2.moe.edu.sg/)
