@@ -52,11 +52,12 @@ sections:
       url: /homepage-infopic/outstanding-youth-in-education-award/
   - infopic:
       title: Sec 3 Science Learning Day
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: During the Science Learning Day, the Sec 3 students participated in
+        a variety of activities to enhance their learning of Science. (a) They
+        visited the [...]
+      button: More
       image: /images/Homepage Thumbnails/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah.jpeg
-      alt: Image alt text
+      url: /homepage-infopic/sec-3-science-learning-day/
   - infopic:
       title: 10th Character and Leadership Symposium 2019
       subtitle: Infopic Subtitle
