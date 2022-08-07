@@ -29,8 +29,8 @@ sections:
         form strengthening [...]
   - infopic:
       title: MOE SEXUALITY EDUCATION IN SCHOOLS
-      description: Sexuality Education (SEd) in schools is about enabling students to
-        understand the physiological, social and emotional changes they
+      description: 1. Sexuality Education (SEd) in schools is about enabling students
+        to understand the physiological, social and emotional changes they
         experience as they [...]
       button: More
       url: /parents/sexuality-education/
