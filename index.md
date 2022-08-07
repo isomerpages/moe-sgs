@@ -44,10 +44,12 @@ sections:
       url: /homepage-infopic/serangoon-garden-secondary-60th-anniversary-celebration/
   - infopic:
       title: Outstanding Youth in Education Award
-      subtitle: Infopic Subtitle
-      button: Button Text
+      button: More
       image: /images/Homepage Thumbnails/061-Ee-Leng-Elaine-Seah-1.jpg
-      alt: Image alt text
+      description: Congratulations to Ms Angela Ho for winning the Outstanding Youth
+        in Education Award which recognizes her inspiring teaching and
+        unwavering dedication to [...]
+      url: /homepage-infopic/outstanding-youth-in-education-award/
   - infopic:
       title: Sec 3 Science Learning Day
       subtitle: Infopic Subtitle
