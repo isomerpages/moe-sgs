@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Mental Health Education.md
       - LATEST NEWS.md
       - PERSONALISED DIGITAL LEARNING PROGRAMME (PDLP).md
       - PARENTS SUPPORT GROUP.md
