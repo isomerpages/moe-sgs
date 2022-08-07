@@ -12,3 +12,35 @@ description: ""
 	<strong> 60th Anniversary Celebration </strong>
 	</figcaption>
 </figure>
+
+<figure>
+	<a href="/images/60th%20Anniversary/123-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/60th%20Anniversary/123-Ee-Leng-Elaine-Seah-250x250.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> 60th Anniversary Celebration </strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/60th%20Anniversary/143-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/60th%20Anniversary/143-Ee-Leng-Elaine-Seah-250x250.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> 60th Anniversary Celebration </strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/60th%20Anniversary/147-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/60th%20Anniversary/147-Ee-Leng-Elaine-Seah-250x250.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> 60th Anniversary Celebration </strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/60th%20Anniversary/166-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/60th%20Anniversary/166-Ee-Leng-Elaine-Seah-250x250.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> 60th Anniversary Celebration </strong>
+	</figcaption>
+</figure>
