@@ -10,3 +10,12 @@ description: ""
 
 To prepare the start of your Secondary School journey with us, please look through the information detailed below and assist us with an online registration form to be filled by you/your child. </p>
 
+<u><b>Section A: Online Briefing and Interaction with School Leaders and Key Personnel</b></u>
+
+Date: Thursday, 23 Dec 2021 (Sec 1 Registration Day)
+
+Time: 0900 – 1000
+
+Mode: Via ZOOM
+
+Note: 2022 Sec 1 Parents would be automatically on boarded to Parents Gateway from which details on logging in the zoom meeting will be disseminated on Wednesday, 22 December 2021.
