@@ -31,7 +31,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      button: Resources Button Name
+      button: LATEST NEWS
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
