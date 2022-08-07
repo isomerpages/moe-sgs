@@ -29,7 +29,5 @@ description: ""
 <a href="/images/ALP%20Celebration/041-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/ALP%20Celebration/041-Ee-Leng-Elaine-Seah-250x250.jpg"
      style="width:50%"></a>
 
-
-
 <a href="/images/ALP%20Celebration/042-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/ALP%20Celebration/042-Ee-Leng-Elaine-Seah-250x250.jpg"
      style="width:50%"></a>
