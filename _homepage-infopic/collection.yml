@@ -2,6 +2,7 @@ collections:
   homepage-infopic:
     output: true
     order:
+      - 10th Character and Leadership Symposium 2019.md
       - ALP Celebration.md
       - Serangoon Garden Secondary 60th Anniversary Celebration.md
       - Outstanding Youth in Education Award.md
