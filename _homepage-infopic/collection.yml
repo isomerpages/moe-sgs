@@ -2,5 +2,6 @@ collections:
   homepage-infopic:
     output: true
     order:
+      - Outstanding Youth in Education Award.md
       - Serangoon Garden Secondary 60th Anniversary Celebration.md
       - ALP Celebration.md
