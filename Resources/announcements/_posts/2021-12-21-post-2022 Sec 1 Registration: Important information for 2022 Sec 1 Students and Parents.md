@@ -151,3 +151,9 @@ To purchase uniforms and PE attire in school, please book your appointment via 
 <p style="text-align: justify;">Parent(s)/Guardians of Sec 1 students whose MOEFAS application was approved by their Primary Schools may make an appointment to collect their books and uniform on-site in Serangoon Garden Secondary School via <a href="https://www.picktime.com/popularschool" target = "_blank">https://www.picktime.com/popularschool</a>.</p>
 
 <p style = "color:red; text-align: justify;"> On the day of your appointment, please go to the General Office to collect your FAS approval letter before making your way to the bookshop or uniform shop for collection. </p>
+
+##### **Method 2: New MOEFAS applicants / Applicants for School-based FAS**
+
+If you wish to apply for MOE Financial Assistance Scheme (FAS), please go to [https://go.gov.sg/moe-fas-serangoon-garden-sec-sch](https://go.gov.sg/moe-fas-serangoon-garden-sec-sch) to submit your FAS application with the relevant scanned documents. Alternatively, you may submit hardcopy documents to our General Office or email <a href="/files/Book%20and%20uniform%20sales/MOE-FAS-Application-Form-Sep-2021.pdf" target = "_blank">softcopy</a> submission to sgss@moe.edu.sg.
+
+We will inform you of the application outcome through Parents Gateway when we have processed your application.
