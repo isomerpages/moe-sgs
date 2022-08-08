@@ -149,3 +149,5 @@ To purchase uniforms and PE attire in school, please book your appointment via 
 **Method 1: Sec 1 FAS approved by their Primary Schools**
 
 Parent(s)/Guardians of Sec 1 students whose MOEFAS application was approved by their Primary Schools may make an appointment to collect their books and uniform on-site in Serangoon Garden Secondary School via <a href="https://www.picktime.com/popularschool" target = "_blank">https://www.picktime.com/popularschool</a>.
+
+<p style = "color:red"> On the day of your appointment, please go to the General Office to collect your FAS approval letter before making your way to the bookshop or uniform shop for collection. </p>
