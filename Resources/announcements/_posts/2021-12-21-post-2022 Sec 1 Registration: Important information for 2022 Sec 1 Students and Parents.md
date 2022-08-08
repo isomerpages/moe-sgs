@@ -41,3 +41,7 @@ Please note that our books and stationery are supplied by our bookshop vendor, P
 Please visit [https://textbook.popular.com.sg](http://textbook.popular.com.sg/) to order your books online.
 
 You are strongly encouraged to purchase the books online from Wednesday, 22 Dec onwards. The cut-off time for online purchase and delivery is Sunday, 26 Dec, 12 pm. This is to prevent delay of delivery due to the festive season. For online orders placed from Wednesday 22/12/21 to Sunday, 26/12/21, it may take up to Sunday, 9 Jan 2022 for your items to be delivered. Students who are affected will be excused from bringing their books to school till then.
+
+##### **Method 2: Purchase from school bookshop (Prior appointment needs to be made)**
+
+If you have missed the online delivery cut-off or are unable to make your purchase online, you may book an appointment through [https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) from Thursday, 23 Dec 2021 onwards to purchase books in our school.
