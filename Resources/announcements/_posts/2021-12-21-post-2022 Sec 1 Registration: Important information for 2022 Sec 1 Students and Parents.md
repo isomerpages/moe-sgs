@@ -154,6 +154,6 @@ To purchase uniforms and PE attire in school, please book your appointment via 
 
 ##### **Method 2: New MOEFAS applicants / Applicants for School-based FAS**
 
-If you wish to apply for MOE Financial Assistance Scheme (FAS), please go to [https://go.gov.sg/moe-fas-serangoon-garden-sec-sch](https://go.gov.sg/moe-fas-serangoon-garden-sec-sch) to submit your FAS application with the relevant scanned documents. Alternatively, you may submit hardcopy documents to our General Office or email <a href="/files/Book%20and%20uniform%20sales/MOE-FAS-Application-Form-Sep-2021.pdf" target = "_blank">softcopy</a> submission to sgss@moe.edu.sg.
+If you wish to apply for MOE Financial Assistance Scheme (FAS), please go to <a href="https://go.gov.sg/moe-fas-serangoon-garden-sec-sch" target = "_blank">https://go.gov.sg/moe-fas-serangoon-garden-sec-sch</a> to submit your FAS application with the relevant scanned documents. Alternatively, you may submit hardcopy documents to our General Office or email <a href="/files/Book%20and%20uniform%20sales/MOE-FAS-Application-Form-Sep-2021.pdf" target = "_blank">softcopy</a> submission to sgss@moe.edu.sg.
 
 We will inform you of the application outcome through Parents Gateway when we have processed your application.
