@@ -139,3 +139,22 @@ To purchase uniforms and PE attire in school, please book your appointment via 
   </tr>
 </tbody>
 </table>
+
+<table style="undefined;table-layout: fixed; width: 685px">
+<colgroup>
+<col style="width: 281px">
+<col style="width: 300px">
+</colgroup>
+<thead>
+  <tr>
+    <th>Appointment Booking via <a href="https://www.picktime.com/popularschool">https://www.picktime.com/popularschool</a></th>
+    <th>Thu, 23 Dec 12 am onwards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Sale of uniforms in school&nbsp;&nbsp;(admission is strictly based on appointment booking)</td>
+    <td>Mon, 27 Dec – Wed, 29 Dec 9 am to 3 pm<br><br>Classroom Block E02-01/E02-02</td>
+  </tr>
+</tbody>
+</table>
