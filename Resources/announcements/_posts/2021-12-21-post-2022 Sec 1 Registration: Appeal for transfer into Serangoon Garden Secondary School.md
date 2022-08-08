@@ -8,6 +8,6 @@ description: ""
 ---
 Dear Parent/Guardian
 
-If you are keen to seek a transfer into our school for your P6 child/ward who had just received his/her secondary school posting in 2021, please submit the application form via this <a href="https://form.gov.sg/#!/5f857bac540c7c0011898b38" target = "_blank"> link</a> by Tuesday, 28 December 2021, 12 pm.
+<p style="text-align: justify;"> If you are keen to seek a transfer into our school for your P6 child/ward who had just received his/her secondary school posting in 2021, please submit the application form via this <a href="https://form.gov.sg/#!/5f857bac540c7c0011898b38" target = "_blank"> link</a> by Tuesday, 28 December 2021, 12 pm.</p>
 
 Thank you.
