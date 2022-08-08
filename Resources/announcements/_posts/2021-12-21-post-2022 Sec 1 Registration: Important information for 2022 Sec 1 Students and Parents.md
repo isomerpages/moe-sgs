@@ -157,3 +157,9 @@ To purchase uniforms and PE attire in school, please book your appointment via 
 <p style="text-align: justify;"> If you wish to apply for MOE Financial Assistance Scheme (FAS), please go to <a href="https://go.gov.sg/moe-fas-serangoon-garden-sec-sch" target = "_blank">https://go.gov.sg/moe-fas-serangoon-garden-sec-sch</a> to submit your FAS application with the relevant scanned documents. Alternatively, you may submit hardcopy documents to our General Office or email <a href="/files/Book%20and%20uniform%20sales/MOE-FAS-Application-Form-Sep-2021.pdf" target = "_blank">softcopy</a> submission to sgss@moe.edu.sg. </p>
 
 <p style="text-align: justify;">We will inform you of the application outcome through Parents Gateway when we have processed your application.</p>
+
+####  <u><b>Section F: Personal Digital Learning Programme</b></u>
+
+The use of the Personal Learning Devices (PLD) for teaching and learning will support the development of digital literacies in our students as well as develop them as self-directed and collaborative learners. All students will need to bring a PLD daily for their lessons.
+
+For important information about how you can purchase the PLD for your child/ward as well as about the accompanying applications that the school may be rolling out as part of the PDLP, please refer to [/pdlp](https://www.sgs.edu.sg/pdlp/).
