@@ -173,3 +173,11 @@ Parents of eligible students will be notified via Parents Gateway (PG) or email 
 Parents/Guardians of eligible 1NA and 1NT students will be notified via Parents Gateway (PG) or email for those not on board PG by Thursday, 23 December 2021. Parents can accept the offer by giving consent via PG or return the signed form via email by **Friday, 24 December 2021**.
 
 You can refer to more information about Subject-Based Banding <a href="/files/SBB-Briefing-for-2022-Sec-1-Parents-_For-publication.pdf" target = "_blank">here</a>
+
+|                 |     Tue, 4 Jan     |     Wed, 5 Jan     |     Thu, 6 Jan     |                 Fri, 7 Jan                 |
+|-----------------|:------------------:|:------------------:|:------------------:|:------------------------------------------:|
+| Reporting venue | * Sec 1 classrooms | * Sec 1 classrooms | * Sec 1 classrooms | * Sec 1 classrooms                         |
+|  Reporting time |       7.55 am      |       7.55 am      |       7.55 am      |                   7.55 am                  |
+|   *Snack Time   |       9.10 am      |       9.10 am      |       9.10 am      |                   9.10 am                  |
+|      Recess     |      10.50 am      |      10.50 am      |      10.50 am      |                  11.05 am                  |
+|  Dismissal Time |      12.10 pm      |      12.10 pm      |      12.10 pm      | 5 pm due to full day Orientation Programme |
