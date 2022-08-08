@@ -186,7 +186,7 @@ You can refer to more information about Subject-Based Banding <a href="/files/S
 |      Recess     |      10.50 am      |      10.50 am      |      10.50 am      |                  11.05 am                  |
 |  Dismissal Time |      12.10 pm      |      12.10 pm      |      12.10 pm      | 5 pm due to full day Orientation Programme |
 
-Sec 1 students would be informed of their form class and classroom venue by Friday, 31 December, via Parents Gateway. They will also receive their time-table on the first day of school, Tue, 4 January 2022, and are <u>not</u> required to bring textbooks for Orientation Week. They are, however, required to bring their <u>thermometer, stationery and water bottle</u> daily.
+<p style="text-align: justify;">Sec 1 students would be informed of their form class and classroom venue by Friday, 31 December, via Parents Gateway. They will also receive their time-table on the first day of school, Tue, 4 January 2022, and are <u>not</u> required to bring textbooks for Orientation Week. They are, however, required to bring their <u>thermometer, stationery and water bottle</u> daily.</p>
 
 <p style="text-align: justify;">* All students are strongly encouraged to have breakfast daily before attending school. In addition to the current recess from 10.50 am to 11.20 am, Sec 1 students are allowed to consume a snack during class, at 9.10 am. Examples of a healthy snack which students can prepare are a whole meal sandwich, bun, fruits, nuts or a healthy snack bar. Sweets, chocolates and any form of chips/crackers are not encouraged. We seek your understanding that a small portion of food will be sufficient as the students will be having their snack in class while the lessons are in session.</p>
 
@@ -195,7 +195,7 @@ Sec 1 students would be informed of their form class and classroom venue by�
 
 Sec 1 students are to report in their school uniform on the first day of school.
 
-Due to possible delivery delays for uniforms purchased online during the festive season, Sec 1 students may report to school in their Primary School uniform during the first 2 weeks of school.  
+<p style="text-align: justify;"> Due to possible delivery delays for uniforms purchased online during the festive season, Sec 1 students may report to school in their Primary School uniform during the first 2 weeks of school.  </p>
 
 For more information on school attire and general appearance, please refer to
 
