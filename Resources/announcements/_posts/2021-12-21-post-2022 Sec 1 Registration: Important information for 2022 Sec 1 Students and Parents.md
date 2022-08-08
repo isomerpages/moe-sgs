@@ -107,3 +107,16 @@ Cut-off time for online uniform purchase is Sunday, 26 Dec, 12 pm. There is a d
 ##### **Method 2: Purchase at Jeep Sing Outlet**
 
 If you wish to visit their physical retail store, please book an appointment with Jeep Sing via <a href="https://jeepsinguniform.com/pages/appointment-booking" target = "_blank">https://jeepsinguniform.com/pages/appointment-booking</a> before going down to their outlet.
+
+**Jeep Sing Fashion Retail store**
+
+Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 Singapore 569628
+
+Tel : 31636074                               
+
+| Opening Hours    |                   |
+|------------------|----------------------------------------------------------------|
+| Monday to Friday | - 10am to 6pm (Lunch break and sanitizing of store 1pm to 2pm) |
+| Saturday         | - 10am to 2pm                                                  |
+| Sunday & PH      | - Closed                                                       |
+| Mode of payment  | - Cash, Nets, PayNow, DBS Paylah!            |
