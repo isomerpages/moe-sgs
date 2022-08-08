@@ -199,6 +199,6 @@ Due to possible delivery delays for uniforms purchased online during the festive
 
 For more information on school attire and general appearance, please refer to
 
-[/student/school-rules/](https://www.sgs.edu.sg/student/school-rules/)
+[/student/school-rules/](/students/Student-Handbook/school-rules/)
 
 Thank you and on behalf of the school, here’s wishing all our 2022 Sec 1 SGSians and families a wonderful year ahead.
