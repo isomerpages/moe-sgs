@@ -98,7 +98,7 @@ If you have missed the online delivery cut-off or are unable to make your purcha
 
 ####  <u><b>Section D: Purchase of Uniform and PE attire for Sec 1 </b></u>
 
-**Method 1: Online Purchase**  
+##### **Method 1: Online Purchase**  
 
 You may purchase the school uniform from the school uniform vendor, Jeep Sing Fashion via their [**website**](https://jeepsinguniform.com/collections/serangoon-gardens-secondary) or their retail store.
 
