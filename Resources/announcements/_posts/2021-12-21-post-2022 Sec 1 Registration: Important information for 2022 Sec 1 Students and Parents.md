@@ -92,3 +92,5 @@ If you have missed the online delivery cut-off or are unable to make your purcha
   </tr>
 </tbody>
 </table>
+
+<p style = "color:red"> Due to Safe Management measures, admission to school is strictly based on appointment. </p>
