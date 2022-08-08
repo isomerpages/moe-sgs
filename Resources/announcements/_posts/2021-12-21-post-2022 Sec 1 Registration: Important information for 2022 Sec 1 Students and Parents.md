@@ -38,7 +38,7 @@ Please note that our books and stationery are supplied by our bookshop vendor, P
 <table>
 <thead>
   <tr>
-    <th colspan="4">Links</th>
+    <th colspan="4" style="text-align: center; background-color: #82defa" >Links</th>
   </tr>
 </thead>
 <tbody>
