@@ -120,3 +120,7 @@ Tel : 31636074                               
 | Saturday         | - 10am to 2pm                                                  |
 | Sunday & PH      | - Closed                                                       |
 | Mode of payment  | - Cash, Nets, PayNow, DBS Paylah!            |
+
+##### **Method 3: Purchase at Serangoon Garden Secondary School**
+
+To purchase uniforms and PE attire in school, please book your appointment via <a href="https://www.picktime.com/popularschool" target = "_blank"><span style="background-color:transparent">https://www.picktime.com/popularschool</span></a>. Parents who booked an appointment to come down to school may visit both the uniform shop and school bookshop during their appointment slot.
