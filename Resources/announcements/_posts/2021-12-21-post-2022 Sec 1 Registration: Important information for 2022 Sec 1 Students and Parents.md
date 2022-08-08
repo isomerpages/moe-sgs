@@ -44,4 +44,4 @@ You are strongly encouraged to purchase the books online from Wednesday, 22 De
 
 ##### **Method 2: Purchase from school bookshop (Prior appointment needs to be made)**
 
-If you have missed the online delivery cut-off or are unable to make your purchase online, you may book an appointment through [https://www.picktime.com/popularschool](https://www.picktime.com/popularschool) from Thursday, 23 Dec 2021 onwards to purchase books in our school.
+If you have missed the online delivery cut-off or are unable to make your purchase online, you may book an appointment through <a href="https://www.picktime.com/popularschool" target = "_blank">https://www.picktime.com/popularschool</a> from Thursday, 23 Dec 2021 onwards to purchase books in our school.
