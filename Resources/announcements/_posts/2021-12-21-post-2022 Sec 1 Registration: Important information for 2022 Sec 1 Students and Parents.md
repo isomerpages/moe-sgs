@@ -176,7 +176,7 @@ You can refer to more information about Subject-Based Banding <a href="/files/S
 
 ####  <u><b>Section I: 2021 Sec 1 Orientation Programme</b></u>
 
-Reporting & Dismissal Times during Orientation Week (Term 1, Week 1, 4 to 7 January 2022)
+##### Reporting & Dismissal Times during Orientation Week (Term 1, Week 1, 4 to 7 January 2022)
 
 |                 |     Tue, 4 Jan     |     Wed, 5 Jan     |     Thu, 6 Jan     |                 Fri, 7 Jan                 |
 |-----------------|:------------------:|:------------------:|:------------------:|:------------------------------------------:|
@@ -185,3 +185,7 @@ Reporting & Dismissal Times during Orientation Week (Term 1, Week 1, 4 to 7 Janu
 |   *Snack Time   |       9.10 am      |       9.10 am      |       9.10 am      |                   9.10 am                  |
 |      Recess     |      10.50 am      |      10.50 am      |      10.50 am      |                  11.05 am                  |
 |  Dismissal Time |      12.10 pm      |      12.10 pm      |      12.10 pm      | 5 pm due to full day Orientation Programme |
+
+Sec 1 students would be informed of their form class and classroom venue by Friday, 31 December, via Parents Gateway. They will also receive their time-table on the first day of school, Tue, 4 January 2022, and are <u>not</u> required to bring textbooks for Orientation Week. They are, however, required to bring their <u>thermometer, stationery and water bottle</u> daily.
+
+\* All students are strongly encouraged to have breakfast daily before attending school. In addition to the current **recess** from **10.50 am** to **11.20 am**, Sec 1 students are allowed to consume a **snack** during class, at **9.10 am**. Examples of a healthy snack which students can prepare are a whole meal sandwich, bun, fruits, nuts or a healthy snack bar. Sweets, chocolates and any form of chips/crackers are not encouraged. We seek your understanding that a small portion of food will be sufficient as the students will be having their snack in class while the lessons are in session.
