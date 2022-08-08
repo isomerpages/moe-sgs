@@ -143,3 +143,5 @@ To purchase uniforms and PE attire in school, please book your appointment via 
   </tr>
 </tbody>
 </table>
+
+####  <u><b>Section E: Books, PE Attire and Uniform for Approved Sec 1 FAS</b></u>
