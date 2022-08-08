@@ -128,7 +128,7 @@ To purchase uniforms and PE attire in school, please book your appointment via 
 <table style="undefined;table-layout: fixed; width: 685px">
 <colgroup>
 <col style="width: 281px">
-<col style="width: 350px">
+<col style="width: 300px">
 </colgroup>
 <thead>
   <tr>
