@@ -60,3 +60,35 @@ You are strongly encouraged to purchase the books online from Wednesday, 22 De
 ##### **Method 2: Purchase from school bookshop (Prior appointment needs to be made)**
 
 If you have missed the online delivery cut-off or are unable to make your purchase online, you may book an appointment through <a href="https://www.picktime.com/popularschool" target = "_blank">https://www.picktime.com/popularschool</a> from Thursday, 23 Dec 2021 onwards to purchase books in our school.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2ql8{background-color:#FCE88D;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1w4q{background-color:#FCE88D;color:#222;text-align:left;vertical-align:top}
+.tg .tg-y57q{background-color:#81D2F7;color:#222;text-align:left;vertical-align:top}
+.tg .tg-neg8{background-color:#81D2F7;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-neg8"><span style="font-weight:bolder">Method 1:</span></th>
+    <th class="tg-y57q">Online purchase of books</th>
+    <th class="tg-y57q"><span style="font-weight:bolder">Wed, 22 Dec –  Sun, 26 Dec, 12pm</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2ql8" rowspan="2"><span style="font-weight:bolder">Method 2:</span><br></td>
+    <td class="tg-1w4q">Appointment Booking via <a href="https://www.picktime.com/popularschool" target = "_blank"><span style="background-color:transparent">https://www.picktime.com/popularschool</span></a></td>
+    <td class="tg-1w4q"><span style="font-weight:bolder">Thu, 23 Dec 12 am onwards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1w4q">Sale of books at school bookshop     &nbsp;&nbsp;(admission is strictly based on appointment booking)</td>
+    <td class="tg-1w4q"><span style="font-weight:bolder">Mon, 27 Dec – Wed, 29 Dec 9 am to 3 pm</span>&nbsp;&nbsp;<span style="font-weight:bolder">School Bookshop in School Canteen</span></td>
+  </tr>
+</tbody>
+</table>
