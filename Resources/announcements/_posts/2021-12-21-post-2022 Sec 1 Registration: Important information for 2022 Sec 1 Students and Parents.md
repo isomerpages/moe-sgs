@@ -171,3 +171,5 @@ Parents of eligible students will be notified via Parents Gateway (PG) or email 
 ####  <u><b>Section H: Eligibility for Subject-Based Banding (applicable for Normal Academic and Normal Technical courses only)</b></u>
 
 Parents/Guardians of eligible 1NA and 1NT students will be notified via Parents Gateway (PG) or email for those not on board PG by Thursday, 23 December 2021. Parents can accept the offer by giving consent via PG or return the signed form via email by **Friday, 24 December 2021**.
+
+You can refer to more information about Subject-Based Banding <a href="/files/SBB-Briefing-for-2022-Sec-1-Parents-_For-publication.pdf" target = "_blank">here</a>
