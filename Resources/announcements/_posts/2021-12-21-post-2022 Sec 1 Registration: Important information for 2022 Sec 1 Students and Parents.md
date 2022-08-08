@@ -123,7 +123,7 @@ Tel : 31636074                               
 
 ##### **Method 3: Purchase at Serangoon Garden Secondary School**
 
-To purchase uniforms and PE attire in school, please book your appointment via <a href="https://www.picktime.com/popularschool" target = "_blank"><span style="background-color:transparent">https://www.picktime.com/popularschool</span></a>. Parents who booked an appointment to come down to school may visit both the uniform shop and school bookshop during their appointment slot.
+<p style="text-align: justify;">To purchase uniforms and PE attire in school, please book your appointment via <a href="https://www.picktime.com/popularschool" target = "_blank"><span style="background-color:transparent">https://www.picktime.com/popularschool</span></a>. Parents who booked an appointment to come down to school may visit both the uniform shop and school bookshop during their appointment slot.</p>
 
 <table style="undefined;table-layout: fixed; width: 685px">
 <colgroup>
