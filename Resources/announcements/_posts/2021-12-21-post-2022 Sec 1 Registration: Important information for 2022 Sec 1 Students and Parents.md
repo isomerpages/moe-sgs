@@ -106,4 +106,4 @@ Cut-off time for online uniform purchase is Sunday, 26 Dec, 12 pm. There is a d
 
 ##### **Method 2: Purchase at Jeep Sing Outlet**
 
-If you wish to visit their physical retail store, please book an appointment with Jeep Sing via [https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking) before going down to their outlet.
+If you wish to visit their physical retail store, please book an appointment with Jeep Sing via <a href="https://jeepsinguniform.com/pages/appointment-booking" target = "_blank">https://jeepsinguniform.com/pages/appointment-booking</a> before going down to their outlet.
