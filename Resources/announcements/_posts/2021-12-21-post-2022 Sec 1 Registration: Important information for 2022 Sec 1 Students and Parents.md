@@ -176,6 +176,7 @@ You can refer to more information about Subject-Based Banding <a href="/files/S
 
 ####  <u><b>Section I: 2021 Sec 1 Orientation Programme</b></u>
 
+Reporting & Dismissal Times during Orientation Week (Term 1, Week 1, 4 to 7 January 2022)
 
 |                 |     Tue, 4 Jan     |     Wed, 5 Jan     |     Thu, 6 Jan     |                 Fri, 7 Jan                 |
 |-----------------|:------------------:|:------------------:|:------------------:|:------------------------------------------:|
