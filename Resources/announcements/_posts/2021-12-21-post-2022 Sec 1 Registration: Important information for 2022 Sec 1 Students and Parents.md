@@ -174,6 +174,9 @@ Parents/Guardians of eligible 1NA and 1NT students will be notified via Parents 
 
 You can refer to more information about Subject-Based Banding <a href="/files/SBB-Briefing-for-2022-Sec-1-Parents-_For-publication.pdf" target = "_blank">here</a>
 
+####  <u><b>Section I: 2021 Sec 1 Orientation Programme</b></u>
+
+
 |                 |     Tue, 4 Jan     |     Wed, 5 Jan     |     Thu, 6 Jan     |                 Fri, 7 Jan                 |
 |-----------------|:------------------:|:------------------:|:------------------:|:------------------------------------------:|
 | Reporting venue | * Sec 1 classrooms | * Sec 1 classrooms | * Sec 1 classrooms | * Sec 1 classrooms                         |
