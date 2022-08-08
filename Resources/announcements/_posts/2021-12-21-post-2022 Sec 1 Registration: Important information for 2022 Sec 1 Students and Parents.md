@@ -51,9 +51,6 @@ Please note that our books and stationery are supplied by our bookshop vendor, P
 </tbody>
 </table>
 
-
-
-
 ##### **Method 1: Online Purchase**
 
 Please visit <a href="http://textbook.popular.com.sg/" target = "_blank">https://textbook.popular.com.sg</a> to order your books online.
