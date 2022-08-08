@@ -166,7 +166,7 @@ For important information about how you can purchase the PLD for your child/ward
 
 ####  <u><b>Section G: Eligibility for Higher Mother Tongue Languages (HMTL)</b></u>
 
-Parents of eligible students will be notified via Parents Gateway (PG) or email for those not on board PG by Thursday, 23 December 2021. Parents can accept the offer by giving consent via PG or return the signed form via email by **Friday, 24 December 2021**.
+<p style="text-align: justify;">Parents of eligible students will be notified via Parents Gateway (PG) or email for those not on board PG by Thursday, 23 December 2021. Parents can accept the offer by giving consent via PG or return the signed form via email by <b>Friday, 24 December 2021</b>.</p>
 
 ####  <u><b>Section H: Eligibility for Subject-Based Banding (applicable for Normal Academic and Normal Technical courses only)</b></u>
 
