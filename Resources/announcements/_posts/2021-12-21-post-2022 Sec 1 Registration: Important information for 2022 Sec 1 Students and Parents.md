@@ -160,9 +160,9 @@ To purchase uniforms and PE attire in school, please book your appointment via 
 
 ####  <u><b>Section F: Personal Digital Learning Programme</b></u>
 
-The use of the Personal Learning Devices (PLD) for teaching and learning will support the development of digital literacies in our students as well as develop them as self-directed and collaborative learners. All students will need to bring a PLD daily for their lessons.
+<p style="text-align: justify;">The use of the Personal Learning Devices (PLD) for teaching and learning will support the development of digital literacies in our students as well as develop them as self-directed and collaborative learners. All students will need to bring a PLD daily for their lessons.</p>
 
-For important information about how you can purchase the PLD for your child/ward as well as about the accompanying applications that the school may be rolling out as part of the PDLP, please refer to <a href="/parents/pdlp/" target = "_blank">/pdlp</a>.
+<p style="text-align: justify;">For important information about how you can purchase the PLD for your child/ward as well as about the accompanying applications that the school may be rolling out as part of the PDLP, please refer to <a href="/parents/pdlp/" target = "_blank">/pdlp</a>.</p>
 
 ####  <u><b>Section G: Eligibility for Higher Mother Tongue Languages (HMTL)</b></u>
 
