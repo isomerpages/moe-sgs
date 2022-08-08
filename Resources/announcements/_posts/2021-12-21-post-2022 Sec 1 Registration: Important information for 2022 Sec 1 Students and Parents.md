@@ -100,6 +100,6 @@ If you have missed the online delivery cut-off or are unable to make your purcha
 
 ##### **Method 1: Online Purchase**  
 
-You may purchase the school uniform from the school uniform vendor, Jeep Sing Fashion via their [**website**](https://jeepsinguniform.com/collections/serangoon-gardens-secondary) or their retail store.
+You may purchase the school uniform from the school uniform vendor, Jeep Sing Fashion via their <a href="https://jeepsinguniform.com/collections/serangoon-gardens-secondary" target = "_blank">website</a> or their retail store.
 
 Cut-off time for online uniform purchase is **Sunday, 26 Dec, 12 pm**. There is a delivery charge of $5 for online purchase.
