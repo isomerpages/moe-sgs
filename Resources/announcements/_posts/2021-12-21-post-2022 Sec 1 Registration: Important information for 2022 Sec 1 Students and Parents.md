@@ -35,6 +35,22 @@ As part of Sec 1 Registration, we would appreciate very much for parents/guardia
 
 Please note that our books and stationery are supplied by our bookshop vendor, Popular Book Co Pte Ltd.
 
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Links</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/12/SGSS-S1-Instruction-Sheet-for-Purchase-of-Books-Stationery-and-Uniform-in-school.pdf">Instructions For Purchase of Textbooks, Stationery and Uniforms</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/12/2022-Sec-1NT-Booklist.pdf">Year 2022 Booklist – Secondary 1 – Normal Technical</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/12/2022-Sec-1NA-Booklist.pdf">Year 2022 Booklist – Secondary 1 – Normal Academic</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/12/2022-Sec-1E-Booklist.pdf">Year 2022 Booklist – Secondary 1 – Express</a></td>
+  </tr>
+</tbody>
+</table>
+
 
 ##### **Method 1: Online Purchase**
 
