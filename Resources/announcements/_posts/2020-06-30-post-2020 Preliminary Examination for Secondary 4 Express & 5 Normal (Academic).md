@@ -12,4 +12,4 @@ description: ""
 	</figcaption>
 </figure>
 
-[Please click here to download Annex A (Timetable)](https://www.sgs.edu.sg/wp-content/uploads/2020/06/Timetable-4E5N.pdf)
+<a href="/files/Announcement/2020%20Prelims%20Timetable-4E5N.pdf" target = "_blank">Please click here to download Annex A (Timetable)</a>
