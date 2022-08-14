@@ -6,3 +6,4 @@ date: 2020-06-30
 layout: post
 description: ""
 ---
+![](/images/2020%20PRELIMINARY%20EXAMINATION-%20parents-letter.png)
