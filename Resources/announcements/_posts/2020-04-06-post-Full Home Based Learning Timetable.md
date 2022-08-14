@@ -9,6 +9,6 @@ In line with the Multi-Ministry Taskforce’s latest efforts to further enhance 
 
 The weekly full HBL timetable for the whole duration is provided below and serves as a guide to help your child/ward pace his/her learning each day.
 
-[Lower Sec Timetable](files/Announcement/Home%20Base%20Learning/FHBL-8-April-to-4-May_Lower-Sec_6-April-2020.pdf)
+[Lower Sec Timetable](/files/Announcement/Home%20Base%20Learning/FHBL-8-April-to-4-May_Lower-Sec_6-April-2020.pdf)
 
 [Upper Sec Timetable](/files/Announcement/Home%20Base%20Learning/FHBL-8-April-to-4-May_Upper-Sec_6-April-2020.pdf)
