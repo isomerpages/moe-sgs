@@ -5,3 +5,4 @@ date: 2021-01-16
 layout: post
 description: ""
 ---
+Dear SGSIANS, the Class Timetables for Semester One are ready for download.
