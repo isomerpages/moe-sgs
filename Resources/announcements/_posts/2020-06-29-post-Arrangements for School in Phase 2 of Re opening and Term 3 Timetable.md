@@ -32,21 +32,7 @@ Dear SGSians,
 </table>
 
 <figure>
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<img src="/images/Phase%202%20Re%20Opening/Parent-Letter_Phase-2_post-circuit-breaker1.jpg">
+<figcaption> <strong> Parent Letter Phase 2 Post Circuit Breaker </strong> </figcaption>
 </figure>
 
-<figure>
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-</figure>
