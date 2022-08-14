@@ -5,9 +5,6 @@ date: 2021-01-29
 layout: post
 description: ""
 ---
-
-
-<a href="/images/Parents-letter-for-Term-1-Consultation-2021-29-Jan-updated-final-1086x1536.png" target = "_blank"> <img src="/images/Parents-letter-for-Term-1-Consultation-2021-29-Jan-updated-final-1086x1536.png"
-     ></a>
+<a href="/images/Parents-letter-for-Term-1-Consultation-2021-29-Jan-updated-final-1086x1536.png" target = "_blank"> <img src="/images/Parents-letter-for-Term-1-Consultation-2021-29-Jan-updated-final-1086x1536.png"></a>
 
 Ip0009012021 Parents Letter For Term 1 Consultation 2021 29 Jan Updated Final
