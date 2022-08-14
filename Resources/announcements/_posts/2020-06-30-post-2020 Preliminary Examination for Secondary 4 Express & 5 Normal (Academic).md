@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 <figure>
- <img src="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg">
+ <img src="/images/Parents-letter-prelims-s4E-5NA-768x947.png">
 <figcaption>
 	<strong> Parents Letter 4E5N </strong>
 	</figcaption>
