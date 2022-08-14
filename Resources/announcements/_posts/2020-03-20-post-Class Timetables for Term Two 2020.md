@@ -48,9 +48,9 @@ Sec 2
   <tr>
     <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Integrity.pdf" target = "_blank">2 Integrity</a></td>
     <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Perseverance.pdf" target = "_blank">2 Perseverance</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Resilience.pdf" target = "_blank">2 Resilience</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Respect.pdf" target = "_blank">2 Respect</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Wisdom.pdf" target = "_blank">2 Wisdom</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Resilience.pdf" target = "_blank">2 Resilience</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Respect.pdf" target = "_blank">2 Respect</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Wisdom.pdf" target = "_blank">2 Wisdom</a></td>
   </tr>
 </tbody>
 </table>
