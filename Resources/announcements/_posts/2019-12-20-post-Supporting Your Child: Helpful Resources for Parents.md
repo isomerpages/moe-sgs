@@ -24,8 +24,6 @@ Web link:
 *   [https://go.gov.sg/sel-res-for-parents](https://go.gov.sg/sel-res-for-parents)
 *   [https://www.myskillsfuture.sg/content/student/en/secondary.html](https://www.myskillsfuture.sg/content/student/en/secondary.html)
 
-PDF document:
-
-<a href="/files/Announcement/Journeying-with-Our-Childiren-Parental-Support.pdf">Click here to download</a>
+PDF document: <a href="/files/Announcement/Journeying-with-Our-Childiren-Parental-Support.pdf">Click here to download</a>
 
 Thank you.
