@@ -18,7 +18,7 @@ Serangoon Garden Secondary School warmly welcome all our new Secondary 1 student
 
 Parents/Guardians who are unable to participate in the Registration Exercise may choose to appoint a proxy to carry out the registration on behalf of their child/ward instead. Please complete the proxy form and bring it along for the registration. The Proxy Form can be downloaded from the link below:
 
-Link: [Download Proxy-form-2019](https://www.sgs.edu.sg/wp-content/uploads/2019/11/Proxy-form-2019.pdf)
+Link: <a href="/files/Announcement/Sec1%20registration%202020/Proxy-form-2019.pdf" target ="_blank" >Download Proxy-form-2019</a>
 
 **Application for MOE Financial Assistance Scheme (FAS)**
 
