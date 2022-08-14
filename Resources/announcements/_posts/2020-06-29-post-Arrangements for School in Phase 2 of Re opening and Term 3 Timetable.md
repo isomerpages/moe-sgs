@@ -5,3 +5,7 @@ date: 2020-06-29
 layout: post
 description: ""
 ---
+Dear SGSians,
+
+2020 Term 3 Timetable are available for download. Please click on the link to download.
+
