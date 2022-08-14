@@ -21,6 +21,6 @@ Specific groups of candidates will be allowed to sit for the national examinatio
 
 Please refer to the instructions below or visit SEAB’s website (https://www.seab.gov.sg/) for more information.
 
-[GCE N Levels- Instructions to Sch Candidates (NA & NT)](https://www.sgs.edu.sg/wp-content/uploads/2020/08/GCE-Instructions-to-Sch-Candidates_21-08-2020_SGSS_NA_NT_Level.pdf)
+[GCE N Levels- Instructions to Sch Candidates (NA & NT)](/files/Announcement/Safeguarding%20Wellbeing%202020/GCE-Instructions-to-Sch-Candidates_21-08-2020_SGSS_NA_NT_Level.pdf)
 
-[GCE O Levels- Instructions to Sch Candidates](https://www.sgs.edu.sg/wp-content/uploads/2020/08/GCE-Instructions-to-Sch-Candidates_21-08-2020_SGSS_O-Level.pdf)
+[GCE O Levels- Instructions to Sch Candidates](/files/Announcement/Safeguarding%20Wellbeing%202020/GCE-Instructions-to-Sch-Candidates_21-08-2020_SGSS_O-Level.pdf)
