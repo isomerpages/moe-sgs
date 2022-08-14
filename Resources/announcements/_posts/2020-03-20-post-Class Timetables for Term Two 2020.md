@@ -40,8 +40,8 @@ Sec 2
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Compassion.pdf" target = "_blank">2 Compassion</a></th>
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Diligence.pdf" target = "_blank">2 Diligence</a></th>
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Empathy.pdf" target = "_blank">2 Empathy</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Grace.pdf" target = "_blank">2 Grace</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Gratitude.pdf" target = "_blank">2 Gratitude</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Grace.pdf" target = "_blank">2 Grace</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec2/2-Gratitude.pdf" target = "_blank">2 Gratitude</a></th>
   </tr>
 </thead>
 <tbody>
