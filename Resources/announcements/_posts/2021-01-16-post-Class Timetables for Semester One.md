@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 Dear SGSIANS, the Class Timetables for Semester One are ready for download.
-[]()
+
 <table>
 <thead>
   <tr>
