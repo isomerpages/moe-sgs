@@ -11,3 +11,5 @@ description: ""
 	<strong> Parents Letter 4E5N </strong>
 	</figcaption>
 </figure>
+
+[Please click here to download Annex A (Timetable)](https://www.sgs.edu.sg/wp-content/uploads/2020/06/Timetable-4E5N.pdf)
