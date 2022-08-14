@@ -7,3 +7,4 @@ description: ""
 ---
 <a href="url">Please click here to download the PDF.</a>
 
+![](/images/continuous%20learning%20with%20weighted%20assessment.png)
