@@ -25,3 +25,18 @@ Thank you for your help!
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3" style="text-align: center;">Secondary 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/2Express.pdf">Secondary 2 Express</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/2NA.pdf">Secondary 2 Normal (Academic)</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/2NT.pdf">Secondary 2 Normal (Technical)</a></td>
+  </tr>
+</tbody>
+</table>
