@@ -25,7 +25,7 @@ Sec 1
   <tr>
     <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Perseverance.pdf" target = "_blank">1 Perseverance</a></td>
     <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Resilience-SG1.pdf" target = "_blank">1 Resilience SG1</a></td>
-    <td><a href="[](/files/Announcement/Timetable%20Term2%202020/Sec1/1-Respect.pdf)" target = "_blank">1 Respect</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Respect.pdf" target = "_blank">1 Respect</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Wisdom-SG4.pdf" target = "_blank">1 Wisdom SG4</a></td>
     <td></td>
   </tr>
