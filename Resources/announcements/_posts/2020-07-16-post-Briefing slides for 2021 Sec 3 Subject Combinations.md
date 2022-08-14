@@ -12,9 +12,9 @@ Please refer to the attachments for the Sec 3 Subject Combinations briefing s
 <table>
 <thead>
   <tr>
-    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Express.jpg"></a></th>
-    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Academic-1.jpg"></a></th>
-    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Technical.jpg"></a></th>
+    <th><a href="" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Express.jpg"></a></th>
+    <th><a href="/files/Announcement/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-NA.pdf" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Academic-1.jpg"></a></th>
+    <th><a href="/files/Announcement/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-NT.pdf" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Technical.jpg"></a></th>
   </tr>
 </thead>
 <tbody>
