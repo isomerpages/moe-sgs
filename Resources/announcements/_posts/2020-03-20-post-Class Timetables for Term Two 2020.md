@@ -14,7 +14,7 @@ Sec 1
 <table>
 <thead>
   <tr>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Compassion-SG2.pdf">1 Compassion SG2</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Compassion-SG2.pdf" target = "_blank">1 Compassion SG2</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Diligence.pdf">1 Diligence</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Empathy.pdf">1 Empathy</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Gratitude-SG3.pdf">1 Gratitude SG3</a></th>
