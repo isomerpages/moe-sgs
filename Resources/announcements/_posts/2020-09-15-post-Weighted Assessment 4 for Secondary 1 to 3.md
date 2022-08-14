@@ -22,9 +22,9 @@ Please refer to the attached letter for details on the Weighted Assessment 4 to 
 <tbody>
   <tr>
     <td><a href="/files/Announcement/Weighted%20Assessment%202020/2NT-WA4-Parents-Letter.pdf" target = "_blank" >2NT WA4</a></td>
-    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >3E WA4</a></td>
-    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >3NA WA4</a></td>
-    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >3NT WA4</a></td>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/3E-WA4-Parents-Letter-15-Sep_Updated.pdf" target = "_blank" >3E WA4</a></td>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/3NA-WA4-Parents-Letter-15-Sep_Updated.pdf" target = "_blank" >3NA WA4</a></td>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/3NT-WA4-Parents-Letter-1-Sep_updated.pdf" target = "_blank" >3NT WA4</a></td>
     <td></td>
   </tr>
 </tbody>
