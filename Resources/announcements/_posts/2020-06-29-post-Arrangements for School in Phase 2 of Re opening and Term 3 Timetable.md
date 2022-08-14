@@ -30,5 +30,3 @@ Dear SGSians,
   </tr>
 </tbody>
 </table>
-
-[]()
