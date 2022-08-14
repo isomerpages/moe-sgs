@@ -65,7 +65,7 @@ Thank you for your help!
 <table>
 <thead>
   <tr>
-    <th colspan="8">Secondary 4</th>
+    <th colspan="8" style="text-align: center;">Secondary 4</th>
   </tr>
 </thead>
 <tbody>
@@ -85,7 +85,7 @@ Thank you for your help!
 <table>
 <thead>
   <tr>
-    <th>Secondary 5</th>
+    <th style="text-align: center;">Secondary 5</th>
   </tr>
 </thead>
 <tbody>
