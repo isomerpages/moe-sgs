@@ -9,7 +9,26 @@ Dear Parent(s)/ Guardian,
 
 Please refer to the attached letter for details on the Weighted Assessment 4 to be conducted in Term 4.
 
-
+<table>
+<thead>
+  <tr>
+    <th><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >1EXP WA4 </a></th>
+    <th><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >1NA WA4</a></th>
+    <th><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >1NT WA4</a></th>
+    <th><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >2EXP WA4</a></th>
+    <th><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >2NA WA4</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >2NT WA4</a></td>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >3E WA4</a></td>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >3NA WA4</a></td>
+    <td><a href="/files/Announcement/Weighted%20Assessment%202020/1EXP-WA4-Parents-Letter.pdf" target = "_blank" >3NT WA4</a></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 Thank you.
 
