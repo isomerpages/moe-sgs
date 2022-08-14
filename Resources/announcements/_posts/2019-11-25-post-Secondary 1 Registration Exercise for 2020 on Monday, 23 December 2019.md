@@ -26,12 +26,12 @@ Link: <a href="/files/Announcement/Sec1%20registration%202020/Proxy-form-2019.p
 
 Link: <a href="/files/Announcement/Sec1%20registration%202020/MOE-FAS-application-form-Sep-19.pdf" target ="_blank" >Download MOE FAS application form</a>
 
-2\. Submit the completed form to the school for processing on Monday, 23 December 2019 during the Registration Exercise.
+2\. Submit the completed form to the school for processing on Monday, 23 December 2019 <u>during the Registration Exercise</u>.
 
 **Other matters**
 
 *   Due to limited parking, parents/guardians who drive are requested to park their vehicles at the nearby HDB car parks.
 *   For further enquiries on the Secondary 1 Registration Exercise for 2020, please contact the school at 6288 9227 (General Office).
-*   To learn how to prepare your child/ward for transition to secondary school, please click **here**.
+*   To learn how to prepare your child/ward for transition to secondary school, please click here.
 
 Link 3: [https://beta.moe.gov.sg/secondary/transition-to-secondary/](https://beta.moe.gov.sg/secondary/transition-to-secondary/)
