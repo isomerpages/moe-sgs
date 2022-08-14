@@ -61,3 +61,36 @@ Thank you for your help!
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="8">Secondary 4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_2-Respect.pdf">4 Respect</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_3-Integrity.pdf">4 Integrity</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_4-Diligence.pdf">4 Diligence</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_5-Empathy.pdf">4 Empathy</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_6-Resilience.pdf">4 Resilience</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_7-Compassion.pdf">4 Compassion</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_8-Gratitude.pdf">4 Gratitude</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/4_1-Perseverance.pdf">4 Perseverance</a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Secondary 5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/5_1-Perseverance.pdf">5 Perseverance</a></td>
+  </tr>
+</tbody>
+</table>
