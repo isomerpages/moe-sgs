@@ -5,3 +5,13 @@ date: 2020-05-12
 layout: post
 description: ""
 ---
+Under the DSA-Sec exercise, SGS will be offering Primary 6 students who fulfil specific criteria for the following areas of strength:
+
+*   Nurturing Confident and Compassionate Leaders through CCA, which is our school’s distinctive Learning for Life Programme (LLP).
+*   Providing opportunities for students who have recognised talents and achievements in Sports and Performing Arts.
+
+In SGS, we believe in nurturing our SGSians as values-driven and Critical Thinkers Thoughtful Leaders through our culture of care.
+
+If you embrace the same beliefs and values, we invite you to join our family.
+
+[Please click here to view the DSA Application Process.](https://www.sgs.edu.sg/wp-content/uploads/2020/05/SGS-DSA-2020_Final_clean-14-May-2020.pdf)
