@@ -8,7 +8,7 @@ description: ""
 Dear SGSIANS, the Class Timetables for Term Two are ready for download.
 
 []()
-[](/files/Announcement/Term%202%202021/Class-Timetables-for-Sec-1-Subject-Groups_Term-2_2021.pdf)
+[]()
 
 <table>
 <thead>
@@ -25,4 +25,15 @@ Dear SGSIANS, the Class Timetables for Term Two are ready for download.
     <td></td>
   </tr>
 </tbody>
+</table>
+
+* * *
+
+<table>
+<thead>
+  <tr>
+    <td><a href="/files/Announcement/Term%202%202021/Class-Timetables-for-Sec-1-Subject-Groups_Term-2_2021.pdf">Class Timetables for Sec 1 Subject Groups</a></td>
+    <td><a href="/files/Announcement/Term%202%202021/Class-Timetables-for-Sec-2-Subject-Groups_Term-2_2021.pdf">Class Timetables for Sec 2 Subject Groups</a></td>
+  </tr>
+</thead>
 </table>
