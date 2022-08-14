@@ -79,3 +79,22 @@ Sec 3
 </table>
 
 Sec 4
+
+<table>
+<thead>
+  <tr>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Compassion.pdf">4 Compassion</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Diligence.pdf">4 Diligence</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Empathy.pdf">4 Empathy</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Gratitude.pdf">4 Gratitude</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Integrity.pdf">4 Integrity</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Perseverance.pdf">4 Perseverance</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Resilience.pdf">4 Resilience</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/4-Respect.pdf">4 Respect</a></td>
+  </tr>
+</tbody>
+</table>
