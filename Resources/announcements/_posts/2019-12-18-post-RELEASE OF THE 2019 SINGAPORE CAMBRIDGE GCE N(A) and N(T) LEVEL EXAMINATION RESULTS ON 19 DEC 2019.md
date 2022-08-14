@@ -6,10 +6,10 @@ date: 2019-12-18
 layout: post
 description: ""
 ---
-Please be reminded that your GCE N-Level results will be released tomorrow, 19th Dec 2019. Please report to school in proper school attire (FIRST uniform and covered shoes), proper haircut and hair colour in accordance to the school rules. Be seated in the School Hall by 1.30pm.
+<p style="text-align: justify;">Please be reminded that your GCE N-Level results will be released tomorrow, 19th Dec 2019. Please report to school in proper school attire (FIRST uniform and covered shoes), proper haircut and hair colour in accordance to the school rules. Be seated in the School Hall by 1.30pm. </p>
 
-Should any reporters approach you, please kindly invite them to the school where your teachers can support you in your interview.
+<p style="text-align: justify;"> Should any reporters approach you, please kindly invite them to the school where your teachers can support you in your interview. </p>
 
-Please take note that students who are not properly attired (E.g. Improper attire, improper hairstyle and / or hair colour) may not be allowed to collect your results until your attire and / or appearance comply with the school rules.
+<p style="text-align: justify;"> Please take note that students who are not properly attired (E.g. Improper attire, improper hairstyle and / or hair colour) may not be allowed to collect your results until your attire and / or appearance comply with the school rules. </p>
 
 Thank you for your kind attention on this matter.
