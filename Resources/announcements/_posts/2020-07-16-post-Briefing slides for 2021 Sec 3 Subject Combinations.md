@@ -8,7 +8,9 @@ description: ""
 Dear Parents/Guardian,
 
 Please refer to the attachments for the Sec 3 Subject Combinations briefing slides for 2021.
-
+![](/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Express.jpg)
+![](/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Academic-1.jpg)
+![](/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Technical.jpg)
 <table>
 <thead>
   <tr>
