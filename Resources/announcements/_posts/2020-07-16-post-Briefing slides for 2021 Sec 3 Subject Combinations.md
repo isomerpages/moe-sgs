@@ -10,16 +10,13 @@ Dear Parents/Guardian,
 Please refer to the attachments for the Sec 3 Subject Combinations briefing slides for 2021.
 ![](/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Express.jpg)
 ![](/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Academic-1.jpg)
-![](/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Technical.jpg)
+![]()
 <table>
 <thead>
   <tr>
-    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
-     style="width:50%"></a></th>
-    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
-     style="width:50%"></a></th>
-    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
-     style="width:50%"></a></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"></a></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"></a></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Briefing%20for%20sec3%20subject/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Technical.jpg"></a></th>
   </tr>
 </thead>
 <tbody>
