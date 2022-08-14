@@ -14,7 +14,7 @@ Thank you for your help!
 <table>
 <thead>
   <tr>
-    <th colspan="3">Secondary 1</th>
+    <th colspan="3" style="text-align: center;">Secondary 1</th>
   </tr>
 </thead>
 <tbody>
