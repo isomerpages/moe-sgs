@@ -34,3 +34,23 @@ Sec 1
 
 Sec 2
 
+<table>
+<thead>
+  <tr>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Compassion.pdf" target = "_blank">2 Compassion</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Diligence.pdf" target = "_blank">2 Diligence</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Empathy.pdf" target = "_blank">2 Empathy</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Grace.pdf" target = "_blank">2 Grace</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Gratitude.pdf" target = "_blank">2 Gratitude</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Integrity.pdf" target = "_blank">2 Integrity</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Perseverance.pdf" target = "_blank">2 Perseverance</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Resilience.pdf" target = "_blank">2 Resilience</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Respect.pdf" target = "_blank">2 Respect</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/2-Wisdom.pdf" target = "_blank">2 Wisdom</a></td>
+  </tr>
+</tbody>
+</table>
