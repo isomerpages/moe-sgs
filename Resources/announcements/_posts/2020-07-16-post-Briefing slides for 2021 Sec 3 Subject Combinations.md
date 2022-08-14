@@ -12,9 +12,12 @@ Please refer to the attachments for the Sec 3 Subject Combinations briefing s
 <table>
 <thead>
   <tr>
-    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/07/Briefing-for-Sec-3-Subject-Combinations-2-Express.jpg" alt="Briefing For Sec 3 Subject Combinations (2 Express)" width="195" height="144"></th>
-    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/07/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Academic-1.jpg" alt="Briefing For Sec 3 Subject Combinations (2 Normal Academic) (1)" width="192" height="142"></th>
-    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2020/07/Briefing-for-Sec-3-Subject-Combinations-2-Normal-Technical.jpg" alt="Briefing For Sec 3 Subject Combinations (2 Normal Technical)" width="195" height="150"></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
+     style="width:50%"></a></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
+     style="width:50%"></a></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Announcements/3241389-200.png"
+     style="width:50%"></a></th>
   </tr>
 </thead>
 <tbody>
