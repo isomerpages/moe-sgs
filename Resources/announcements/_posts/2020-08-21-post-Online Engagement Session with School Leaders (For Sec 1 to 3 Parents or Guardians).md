@@ -21,8 +21,8 @@ Dear Parents/Guardians, please refer to the letters for more details.
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/08/Sec-1E_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/08/Sec-1E_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
+    <td><a href="/files/Announcement/Online%20Engagement%202020/Sec-1E_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
+    <td><a href="/files/Announcement/Online%20Engagement%202020/Sec-1NA_NT_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/08/Sec-1E_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/08/Sec-1E_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/08/Sec-1E_Parent-Letter_Online-Engagement-Session-with-SLs_T3_2020.pdf" target = "_blank" >Click here for the Parent Letter</a></td>
