@@ -24,7 +24,7 @@ Link: <a href="/files/Announcement/Sec1%20registration%202020/Proxy-form-2019.p
 
 1\. For parents/guardians of Secondary 1 students who wish to apply for MOE FAS, you may obtain the application form during the Registration Exercise or download the form from the link below:
 
-Link: [Download MOE FAS application form](https://www.sgs.edu.sg/wp-content/uploads/2019/11/MOE-FAS-application-form-Sep-19.pdf)
+Link: <a href="/files/Announcement/Sec1%20registration%202020/MOE-FAS-application-form-Sep-19.pdf" target ="_blank" >Download MOE FAS application form</a>
 
 2\. Submit the completed form to the school for processing on Monday, 23 December 2019 during the Registration Exercise.
 
