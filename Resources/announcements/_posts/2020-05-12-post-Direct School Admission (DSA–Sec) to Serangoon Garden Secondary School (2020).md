@@ -14,4 +14,4 @@ In SGS, we believe in nurturing our SGSians as values-driven and Critical Thinke
 
 If you embrace the same beliefs and values, we invite you to join our family.
 
-<a href="url">Please click here to view the DSA Application Process.</a>
+<a href="url" target = "_blank">Please click here to view the DSA Application Process.</a>
