@@ -23,10 +23,10 @@ Dear SGSians,
     <td>Secondary 4&amp;5</td>
   </tr>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec1.pdf">Download</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec2.pdf">Download</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec3.pdf">Download</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec45.pdf">Download</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec1.pdf" target = "_blank" >Download</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec2.pdf" target = "_blank" >Download</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec3.pdf" target = "_blank" >Download</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/06/Parent-Letter_Phase-2_post-circuit-breaker_2020-Sec45.pdf" target = "_blank" >Download</a></td>
   </tr>
 </tbody>
 </table>
