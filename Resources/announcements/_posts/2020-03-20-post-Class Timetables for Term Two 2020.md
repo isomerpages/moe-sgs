@@ -71,8 +71,8 @@ Sec 3
   <tr>
     <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Perseverance.pdf" target = "_blank">3 Perseverance</a></td>
     <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Resilience.pdf" target = "_blank" >3 Resilience</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Respect.pdf" target = "_blank">3 Respect</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Wisdom.pdf" target = "_blank">3 Wisdom</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Respect.pdf" target = "_blank">3 Respect</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Wisdom.pdf" target = "_blank">3 Wisdom</a></td>
     <td></td>
   </tr>
 </tbody>
