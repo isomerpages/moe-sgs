@@ -54,3 +54,26 @@ Sec 2
   </tr>
 </tbody>
 </table>
+
+Sec 3
+
+<table>
+<thead>
+  <tr>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Compassion.pdf" target = "_blank">3 Compassion</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Diligence.pdf" target = "_blank">3 Diligence</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Empathy.pdf" target = "_blank">3 Empathy</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Gratitude.pdf" target = "_blank">3 Gratitude</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Integrity.pdf" target = "_blank">3 Integrity</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Perseverance.pdf" target = "_blank">3 Perseverance</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Resilience.pdf" target = "_blank" >3 Resilience</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Respect.pdf" target = "_blank">3 Respect</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Wisdom.pdf" target = "_blank">3 Wisdom</a></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
