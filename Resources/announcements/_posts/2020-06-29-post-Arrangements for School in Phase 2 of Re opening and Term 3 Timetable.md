@@ -36,3 +36,17 @@ Dear SGSians,
 <figcaption> <strong> Parent Letter Phase 2 Post Circuit Breaker </strong> </figcaption>
 </figure>
 
+<figure>
+<img src="/images/Phase%202%20Re%20Opening/Parent-Letter_Phase-2_post-circuit-breaker2.jpg">
+<figcaption> <strong> Parent Letter Phase 2 Post Circuit Breaker </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Phase%202%20Re%20Opening/Parent-Letter_Phase-2_post-circuit-breaker3.jpg">
+<figcaption> <strong> Parent Letter Phase 2 Post Circuit Breaker </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Phase%202%20Re%20Opening/Parent-Letter_Phase-2_post-circuit-breaker4.jpg">
+<figcaption> <strong> Parent Letter Phase 2 Post Circuit Breaker </strong> </figcaption>
+</figure>
