@@ -16,8 +16,8 @@ Sec 1
   <tr>
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Compassion-SG2.pdf" target = "_blank">1 Compassion SG2</a></th>
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Diligence.pdf" target = "_blank">1 Diligence</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Empathy.pdf" target = "_blank">1 Empathy</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Gratitude-SG3.pdf" target = "_blank">1 Gratitude SG3</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Empathy.pdf" target = "_blank">1 Empathy</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec1/1-Gratitude-SG3.pdf" target = "_blank">1 Gratitude SG3</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/1-Integrity.pdf" target = "_blank">1 Integrity</a></th>
   </tr>
 </thead>
