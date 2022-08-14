@@ -40,3 +40,24 @@ Thank you for your help!
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="9" style="text-align: center;">Secondary 3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_1-Perseverance.pdf">3 Perseverance</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_2-Respect.pdf">3  Respect</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_3-Integrity.pdf">3  Integrity</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_4-Diligence.pdf">3  Diligence</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_5-Empathy.pdf">3  Empathy</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_6-Resilience.pdf">3  Resilience</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_7-Compassion.pdf">3  Compassion</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_8-Gratitude.pdf">3  Gratitude</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/3_9-Wisdom.pdf">3  Wisdom</a></td>
+  </tr>
+</tbody>
+</table>
