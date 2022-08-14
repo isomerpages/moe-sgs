@@ -7,7 +7,7 @@ description: ""
 ---
 Serangoon Garden Secondary School warmly welcome all our new Secondary 1 students who have been successfully posted to us. 
 
-1\. Please report to the school hall on **Monday, 23 December 2019**, at 8.**30 am**, in your primary school uniform and bring along the following:
+1\. Please report to the school hall on <u>Monday, 23 December 2019, at 8.30 am</u>, in your primary school uniform and bring along the following:
 
 *   Student card
 *   PSLE result slip
