@@ -5,3 +5,12 @@ date: 2020-09-15
 layout: post
 description: ""
 ---
+Dear Parent(s)/ Guardian,
+
+Please refer to the attached letter for details on the Weighted Assessment 4 to be conducted in Term 4.
+
+
+
+Thank you.
+
+SGSS Academic Programme Team
