@@ -5,4 +5,6 @@ date: 2020-07-21
 layout: post
 description: ""
 ---
+![](/images/Letter-to-parents-early-dismisal-LC_2020-1006x1024.png)
+
 <a href="https://www.sgs.edu.sg/wp-content/uploads/2020/07/Letter-to-parents-LC_2020.pdf" target="_blank" >Please click here to download the letter.</a>
