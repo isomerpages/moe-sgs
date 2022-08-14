@@ -5,7 +5,7 @@ date: 2020-07-16
 layout: post
 description: ""
 ---
-# Briefing slide for 3Express >5MB
+# Briefing slide for 3Express >5MB and not uploaded
 
 Dear Parents/Guardian,
 
