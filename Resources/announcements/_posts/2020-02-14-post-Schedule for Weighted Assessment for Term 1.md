@@ -90,7 +90,7 @@ Thank you for your help!
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/5_1-Perseverance.pdf">5 Perseverance</a></td>
+    <td style="text-align: center;"><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/02/5_1-Perseverance.pdf">5 Perseverance</a></td>
   </tr>
 </tbody>
 </table>
