@@ -62,7 +62,7 @@ Sec 3
   <tr>
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Compassion.pdf" target = "_blank">3 Compassion</a></th>
     <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Diligence.pdf" target = "_blank">3 Diligence</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Empathy.pdf" target = "_blank">3 Empathy</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term2%202020/Sec3/3-Empathy.pdf" target = "_blank">3 Empathy</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Gratitude.pdf" target = "_blank">3 Gratitude</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2020/03/3-Integrity.pdf" target = "_blank">3 Integrity</a></th>
   </tr>
