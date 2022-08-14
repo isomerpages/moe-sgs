@@ -5,6 +5,6 @@ date: 2020-03-24
 layout: post
 description: ""
 ---
-<a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/Social%20Responsibility.png"></a>
+<a href="/files/Announcement/Social-Responsibility-In-Safeguarding-Well-Being-Of-Our-School-Communtiy.pdf" target = "_blank"> <img src="/images/Social%20Responsibility.png"></a>
 
 Social Responsibility in Safeguarding the Well-being of our School Community
