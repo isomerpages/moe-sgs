@@ -6,3 +6,6 @@ date: 2020-05-20
 layout: post
 description: ""
 ---
+Please refer to the following attachment for information on COVID-19 Precautionary Measures and Instructions to School Candidates for 2020 Singapore-Cambridge GCE Examination.
+
+[COVID-19 Precautionary Measures and Instructions to School Candidates for 2020 Singapore-Cambridge GCE Examination](/files/Announcement/Instructions-to-MYE-Sch-Candidates_VF.pdf)
