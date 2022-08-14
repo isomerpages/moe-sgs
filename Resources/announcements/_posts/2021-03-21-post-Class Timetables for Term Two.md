@@ -7,9 +7,6 @@ description: ""
 ---
 Dear SGSIANS, the Class Timetables for Term Two are ready for download.
 
-[]()
-[]()
-
 <table>
 <thead>
   <tr>
