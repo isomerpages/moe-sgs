@@ -7,3 +7,5 @@ layout: post
 description: ""
 ---
 ![](/images/2020%20PRELIMINARY%20EXAMINATION-%20parents-letter.png)
+
+<a href="/files/Announcement/2020%20PRELIMINARY%20EXAMINATION%20TIMETABLE.pdf" target = "_blank">Please click here to download Annex A (Timetable)</a>
