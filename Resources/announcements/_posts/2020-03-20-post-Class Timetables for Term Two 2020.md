@@ -5,4 +5,6 @@ date: 2020-03-20
 layout: post
 description: ""
 ---
-ghdgf
+Dear SGSians,
+
+2020 Term 2 Timetable are available for download. More details will be provided on the first day of school.
