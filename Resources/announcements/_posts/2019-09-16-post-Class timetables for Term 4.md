@@ -107,7 +107,7 @@ Sec 5
 <table>
 <thead>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4T2.pdf">5A1</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term4%202019/Sec%205/Class-timetables-for-Term-4-5A1.pdf" target = "_blank" >5A1</a></td>
   </tr>
 </thead>
 </table>
