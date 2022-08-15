@@ -5,6 +5,8 @@ date: 2019-05-07
 layout: post
 description: ""
 ---
+# site to school homepage might need to change to isomer url eventually
+
 Dear Parents,
 
 Please access the Parents Gateway or [www.sgs.edu.sg](http://www.sgs.edu.sg/)  for information on Sec 4 & 5 Preliminary Examination. 
