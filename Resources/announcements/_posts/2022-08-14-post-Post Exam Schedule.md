@@ -14,8 +14,8 @@ Thank you.
 <table>
 <thead>
   <tr>
-    <th><img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
-    <th><img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></a></th>
+    <th><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></a></th>
   </tr>
 </thead>
 <tbody>
