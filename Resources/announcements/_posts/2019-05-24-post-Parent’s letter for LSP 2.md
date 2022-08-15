@@ -12,7 +12,7 @@ please read the attached parent’s letter for more information about the LSP 2 
 <table>
 <thead>
   <tr>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/05/LSP-2-2019-Parent-Letter-Sec-1-24-May.pdf" target = "_blank">LSP 2 2019 Parent Letter Sec 1</a></th>
+    <th><a href="/files/Announcement/LSP%202/LSP-2-2019-Parent-Letter-Sec-1-24-May.pdf" target = "_blank">LSP 2 2019 Parent Letter Sec 1</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/05/LSP-2-2019-Parent-Letter-Sec-2E-24-May.pdf" target = "_blank">LSP 2 2019 Parent Letter Sec 2E</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/05/LSP-2-2019-Parent-Letter-Sec-2NA-24-May.pdf" target = "_blank">LSP 2 2019 Parent Letter Sec 2NA </a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/05/LSP-2-2019-Parent-Letter-Sec-2NT-24-May.pdf" target = "_blank">LSP 2 2019 Parent Letter Sec 2NT</a></th>
