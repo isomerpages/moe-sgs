@@ -61,14 +61,14 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3NA.pdf" target = "_blank">3A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3NA.pdf" target = "_blank">3A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3NT.pdf" target = "_blank">3T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec3NT.pdf" target = "_blank">3T2</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3NA.pdf" target = "_blank">3A1</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3NA.pdf" target = "_blank">3A2</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E1</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E2</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E3</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3E.pdf" target = "_blank">3E4</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3NT.pdf" target = "_blank">3T1</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec3NT.pdf" target = "_blank">3T2</a></td>
     <td></td>
   </tr>
   <tr>
