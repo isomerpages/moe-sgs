@@ -37,9 +37,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2NA_Updated-9-Sept.pdf" target = "_blank">2A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2NA_Updated-9-Sept.pdf" target = "_blank">2A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2NA_Updated-9-Sept.pdf" target = "_blank">2A3</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec2NA_Updated-9-Sept.pdf" target = "_blank">2A1</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec2NA_Updated-9-Sept.pdf" target = "_blank">2A2</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec2NA_Updated-9-Sept.pdf" target = "_blank">2A3</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2E.pdf" target = "_blank">2E1</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2E.pdf" target = "_blank">2E2</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2E.pdf" target = "_blank">2E3</a></td>
