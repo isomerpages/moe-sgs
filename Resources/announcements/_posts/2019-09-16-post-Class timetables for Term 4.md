@@ -55,3 +55,59 @@ Sec 2
   </tr>
 </tbody>
 </table>
+
+Sec 3
+
+<table>
+<thead>
+  <tr>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3A1.pdf">3A1</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3A2.pdf">3A2</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3E1.pdf">3E1</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3E2.pdf">3E2</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3E3.pdf">3E3</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3E4.pdf">3E4</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3T1.pdf">3T1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-3T2.pdf">3T2</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Sec 4
+
+<table>
+<thead>
+  <tr>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A1.pdf">4A1</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A2.pdf">4A2</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A3.pdf">4A3</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A4.pdf">4A4</a></th>
+    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E1.pdf">4E1</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E2.pdf">4E2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E3.pdf">4E3</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E4.pdf">4E4</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4T1.pdf">4T1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4T2.pdf">4T2</a></td>
+  </tr>
+</tbody>
+</table>
+
+Sec 5
+
+<table>
+<thead>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4T2.pdf">5A1</a></td>
+  </tr>
+</thead>
+</table>
