@@ -20,8 +20,8 @@ Thank you.
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/10/Website_Sec-12_Parent-Letter_Post-Exam-Schedule.pdf">Secondary 1 &amp; 2</a></td>
-    <td style="text-align: center;"><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/10/Website_Sec-3_Parent-Letter_Post-Exam-Schedule.pdf">Secondary 3</a></td>
+    <td style="text-align: center;"><a href="/files/Announcement/Post%20Exam%20Schedule/Website_Sec-12_Parent-Letter_Post-Exam-Schedule.pdf" target = "_blank"> Secondary 1 &amp; 2</a></td>
+    <td style="text-align: center;"><a href="/files/Announcement/Post%20Exam%20Schedule/Website_Sec-3_Parent-Letter_Post-Exam-Schedule.pdf" target = "_blank"> Secondary 3</a></td>
   </tr>
 </tbody>
 </table>
