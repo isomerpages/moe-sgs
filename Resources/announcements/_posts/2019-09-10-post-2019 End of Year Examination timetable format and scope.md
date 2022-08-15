@@ -8,7 +8,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="9">Secondary 1</th>
+    <th colspan="9" style="text-align: center;" >Secondary 1</th>
   </tr>
 </thead>
 <tbody>
@@ -24,7 +24,7 @@ description: ""
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec1NT_Updated-16-Sept.pdf">1T2</a></td>
   </tr>
   <tr>
-    <td colspan="9"><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf">SGS EOY Papers (Scope and format) 2019</a></td>
+    <td colspan="9" style="text-align: center;" ><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf">SGS EOY Papers (Scope and format) 2019</a></td>
   </tr>
 </tbody>
 </table>
@@ -32,7 +32,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="9">Secondary 2</th>
+    <th colspan="9" style="text-align: center;">Secondary 2</th>
   </tr>
 </thead>
 <tbody>
@@ -48,7 +48,7 @@ description: ""
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec2NT.pdf">2T2</a></td>
   </tr>
   <tr>
-    <td colspan="9"><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf">SGS EOY Papers (Scope and format) 2019</a></td>
+    <td colspan="9" style="text-align: center;"><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf" >SGS EOY Papers (Scope and format) 2019</a></td>
   </tr>
 </tbody>
 </table>
@@ -56,7 +56,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="9">Secondary 3</th>
+    <th colspan="9" style="text-align: center;">Secondary 3</th>
   </tr>
 </thead>
 <tbody>
@@ -72,7 +72,7 @@ description: ""
     <td></td>
   </tr>
   <tr>
-    <td colspan="9"><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf">SGS EOY Papers (Scope and format) 2019</a></td>
+    <td colspan="9" style="text-align: center;"><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf">SGS EOY Papers (Scope and format) 2019</a></td>
   </tr>
 </tbody>
 </table>
