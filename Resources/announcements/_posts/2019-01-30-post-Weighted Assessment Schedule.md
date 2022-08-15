@@ -9,7 +9,7 @@ Dear SGSians,
 
 **Weighted Assessment Schedules (Term 1)**
 
-Letter to Parents **([9 Jan](https://www.sgs.edu.sg/wp-content/uploads/2019/02/WA-Letter-to-Parents-9-Jan-2019.pdf), [24 Jan)](https://www.sgs.edu.sg/wp-content/uploads/2019/02/WA-Letter-to-Parents-24-Jan-2019.pdf)**
+Letter to Parents ([9 Jan](https://www.sgs.edu.sg/wp-content/uploads/2019/02/WA-Letter-to-Parents-9-Jan-2019.pdf), [24 Jan)](https://www.sgs.edu.sg/wp-content/uploads/2019/02/WA-Letter-to-Parents-24-Jan-2019.pdf)
 
 [1E1](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1E1-WA-Term-1.pdf) [1E2](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1E2-WA-Term-1.pdf) [1E3](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1E3-WA-Term-1.pdf) [1E4](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1E4-WA-Term-1.pdf) [1E5](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1E5-WA-Term-1.pdf) [1A1](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1A1-WA-Term-1.pdf) [1A2](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1A2-WA-Term-1.pdf) [1A3](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1A3-WA-Term-1.pdf) [1T1](https://www.sgs.edu.sg/wp-content/uploads/2019/01/1T1-WA-Term-1.pdf)
 
