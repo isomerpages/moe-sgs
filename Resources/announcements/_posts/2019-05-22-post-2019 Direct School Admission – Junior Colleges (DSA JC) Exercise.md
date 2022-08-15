@@ -9,4 +9,4 @@ Dear parents of 4E5N students, please read the Information Note for more informa
 
 Attachment:
 
-[Information Note on 2019 DSA-JC Exercise](https://www.sgs.edu.sg/wp-content/uploads/2019/05/Information-Note-on-2019-DSA-JC-Exercise.pdf)
+<a href="url">Information Note on 2019 DSA-JC Exercise</a>
