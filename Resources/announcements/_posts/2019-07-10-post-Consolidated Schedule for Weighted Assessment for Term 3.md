@@ -92,12 +92,12 @@ cc School Leaders
   <tr>
     <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3A1</a></td>
     <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"  target = "_blank">3E1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E2-WA-Term-3.pdf"  target = "_blank">3E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E3-WA-Term-3.pdf"  target = "_blank">3E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E4-WA-Term-3.pdf"  target = "_blank">3E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3T1-WA-Term-3.pdf"  target = "_blank">3T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3T2-WA-Term-3.pdf"  target = "_blank">3T2</a></td>
+    <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3E1</a></td>
+    <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3E2</a></td>
+    <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3E3</a></td>
+    <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3E4</a></td>
+    <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3T1</a></td>
+    <td><a href="/files/Weighted%20Assessment%20Term3%202019/1A1-WA-Term-3.pdf"  target = "_blank">3T2</a></td>
     <td></td>
   </tr>
 </tbody>
