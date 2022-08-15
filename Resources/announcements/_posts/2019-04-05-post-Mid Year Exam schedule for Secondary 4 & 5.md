@@ -16,7 +16,7 @@ Dear Parent(s)/ Guardian, Sec 4& 5 students will be sitting for their Mid-Year E
 <tbody>
   <tr>
     <td><a href="/files/Announcement/Midyear%20Exam%202019%20Sec4&5/Letter-to-parents-MYE-2019-4E5N.pdf" target ="_blank">4E5N</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/Letters-to-parents-MYE-2019-4NA.pdf" target ="_blank">4NA</a></td>
+    <td><a href="/files/Announcement/Midyear%20Exam%202019%20Sec4&5/Letters-to-parents-MYE-2019-4NA.pdf" target ="_blank">4NA</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/Letters-to-parents-MYE-2019-4NT.pdf" target ="_blank">4NT</a></td>
   </tr>
 </tbody>
