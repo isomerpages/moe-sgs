@@ -84,19 +84,19 @@ Sec 4
 <table>
 <thead>
   <tr>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A1.pdf" target = "_blank">4A1</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A2.pdf" target = "_blank">4A2</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A3.pdf" target = "_blank">4A3</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4A4.pdf" target = "_blank">4A4</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E1.pdf" target = "_blank">4E1</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4A1.pdf" target = "_blank">4A1</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4A2.pdf" target = "_blank">4A2</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4A3.pdf" target = "_blank">4A3</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4A4.pdf" target = "_blank">4A4</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4E1.pdf" target = "_blank">4E1</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E2.pdf" target = "_blank">4E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E3.pdf" target = "_blank">4E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4E4.pdf" target = "_blank">4E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4T1.pdf" target = "_blank">4T1</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4E2.pdf" target = "_blank">4E2</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4E3.pdf" target = "_blank">4E3</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4E4.pdf" target = "_blank">4E4</a></td>
+    <td><a href="/files/Announcement/Timetable%20Term4%202019/Sec%204/Class-timetables-for-Term-4-4T1.pdf" target = "_blank">4T1</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-4T2.pdf" target = "_blank">4T2</a></td>
   </tr>
 </tbody>
