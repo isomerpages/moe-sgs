@@ -5,3 +5,8 @@ date: 2019-05-07
 layout: post
 description: ""
 ---
+Dear Parents,
+
+Please access the Parents Gateway or [www.sgs.edu.sg](http://www.sgs.edu.sg/)  for information on Sec 4 & 5 Preliminary Examination. 
+
+Timetable for Preliminary Examination in Term 3:
