@@ -53,8 +53,8 @@ Dear Parent(s)/Guardian,
   </tr>
   <tr>
     <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1E3-WA-Term-2.pdf">1E3</a></td>
-    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2E3-Term-2.pdf">2E3</a></td>
-    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3E4-Term-2.pdf">3E4</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2E3-WA-Term-2.pdf">2E3</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3E4-WA-Term-2.pdf">3E4</a></td>
   </tr>
   <tr>
     <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1E4-Term-2.pdf">1E4</a></td>
