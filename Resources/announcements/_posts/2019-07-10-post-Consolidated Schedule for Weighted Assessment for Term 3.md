@@ -24,7 +24,7 @@ Dear Parent(s)/ Guardian,
 Yours sincerely
 
 <img src="/images/signature.jpg" 
-     style="width:25%; float: left" ><br><br><br><br>
+     style="width:25%; float: left" ><br><br><br><br><br>
 
 Mrs Lim-Tan Cheng Hiang
 
