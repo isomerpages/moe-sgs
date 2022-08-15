@@ -2,6 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+![](/images/homepage.gif)
 
 ### **Government Agency Privacy Statement**
 
