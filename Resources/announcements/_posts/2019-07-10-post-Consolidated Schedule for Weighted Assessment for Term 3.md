@@ -22,3 +22,13 @@ Dear Parent(s)/ Guardian,
 6\. Thank you for your strong partnership with the school on your child/ward’s learning programmes.
 
 Yours sincerely
+
+<img src="/images/signature.jpg" 
+     style="width:25%; float: left" ><br><br><br><br>
+
+Mrs Lim-Tan Cheng Hiang
+
+Head/ Assessment Literacy Committee
+
+Head of Department/ Science  
+cc School Leaders
