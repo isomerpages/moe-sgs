@@ -20,8 +20,8 @@ description: ""
     <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec1E.pdf">1E2</a></td>
     <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec1E.pdf">1E3</a></td>
     <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec1E.pdf">1E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec1NT_Updated-16-Sept.pdf">1T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/EOY-Letters-to-Parents-Sec1NT_Updated-16-Sept.pdf">1T2</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec1NT_Updated-16-Sept.pdf">1T1</a></td>
+    <td><a href="/files/Announcement/EOY%202019/EOY-Letters-to-Parents-Sec1NT_Updated-16-Sept.pdf">1T2</a></td>
   </tr>
   <tr>
     <td colspan="9" style="text-align: center;" ><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/SGS-EOY-Papers-Scope-and-format-2019.pdf">SGS EOY Papers (Scope and format) 2019</a></td>
