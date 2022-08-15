@@ -16,7 +16,7 @@ Sec 1
 <thead>
   <tr>
     <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%201/Class-timetables-for-Term-4-1E2.pdf" target = "_blank">1E1</a></th>
-    <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/06/1E2.pdf" target = "_blank">1E2</a></th>
+    <th><a href="/files/Announcement/Timetable%20Term4%202019/Sec%201/1E2.pdf" target = "_blank">1E2</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-1E3.pdf" target = "_blank">1E3</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-1E4.pdf" target = "_blank">1E4</a></th>
     <th><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/09/Class-timetables-for-Term-4-1E5.pdf" target = "_blank">1E5</a></th>
