@@ -11,4 +11,4 @@ description: ""
 
 **From January 2019 parents who are onboard Parents Gateway will receive information via the mobile app.**
 
-[FAQ for Parents](https://www.sgs.edu.sg/wp-content/uploads/2018/11/8a.-PG-FAQs-for-Parents-31112018-For-Circulation-1.pdf)
+[FAQ for Parents](/files/Announcement/PG-FAQs-for-Parents-31112018-For-Circulation-1.pdf)
