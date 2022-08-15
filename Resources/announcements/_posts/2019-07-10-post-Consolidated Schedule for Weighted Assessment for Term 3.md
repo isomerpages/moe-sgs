@@ -92,7 +92,7 @@ cc School Leaders
   <tr>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3A1-WA-Term-3.pdf"  target = "_blank">3A1</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3A2-WA-Term-3.pdf"  target = "_blank">3A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"  target = "_blank">3E1</a><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"  target = "_blank"> </a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"  target = "_blank">3E1</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E2-WA-Term-3.pdf"  target = "_blank">3E2</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E3-WA-Term-3.pdf"  target = "_blank">3E3</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E4-WA-Term-3.pdf"  target = "_blank">3E4</a></td>
