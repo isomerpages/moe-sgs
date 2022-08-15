@@ -43,7 +43,7 @@ cc School Leaders
 <table>
 <thead>
   <tr>
-    <th colspan="9">Secondary 1</th>
+    <th colspan="9" style="text-align: center;">Secondary 1</th>
   </tr>
 </thead>
 <tbody>
@@ -64,7 +64,7 @@ cc School Leaders
 <table>
 <thead>
   <tr>
-    <th colspan="9">Secondary 2</th>
+    <th colspan="9" style="text-align: center;">Secondary 2</th>
   </tr>
 </thead>
 <tbody>
@@ -85,7 +85,7 @@ cc School Leaders
 <table>
 <thead>
   <tr>
-    <th colspan="9">Secondary 3</th>
+    <th colspan="9" style="text-align: center;">Secondary 3</th>
   </tr>
 </thead>
 <tbody>
