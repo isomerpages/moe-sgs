@@ -48,15 +48,15 @@ cc School Leaders
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1A1-WA-Term-3.pdf">1A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1A2-WA-Term-3.pdf">1A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1A3-WA-Term-3.pdf">1A3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E1-WA-Term-3.pdf">1E1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E2-WA-Term-3.pdf">1E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E3-WA-Term-3.pdf">1E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E4-WA-Term-3.pdf">1E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1T1-WA-Term-3.pdf">1T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1T2-WA-Term-3.pdf">1T2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1A1-WA-Term-3.pdf" target = "_blank" >1A1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1A2-WA-Term-3.pdf"  target = "_blank">1A2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1A3-WA-Term-3.pdf"  target = "_blank">1A3</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E1-WA-Term-3.pdf"  target = "_blank">1E1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E2-WA-Term-3.pdf"  target = "_blank">1E2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E3-WA-Term-3.pdf"  target = "_blank">1E3</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1E4-WA-Term-3.pdf"  target = "_blank">1E4</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1T1-WA-Term-3.pdf"  target = "_blank">1T1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/1T2-WA-Term-3.pdf"  target = "_blank">1T2</a></td>
   </tr>
 </tbody>
 </table>
@@ -69,15 +69,15 @@ cc School Leaders
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2A1-WA-Term-3.pdf">2A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2A2-WA-Term-3.pdf">2A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2A3-WA-Term-3.pdf">2A3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E1-WA-Term-3.pdf">2E1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E2-WA-Term-3.pdf">2E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E3-WA-Term-3.pdf">2E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E4-WA-Term-3.pdf">2E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2T1-WA-Term-3.pdf">2T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2T2-WA-Term-3.pdf">2T2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2A1-WA-Term-3.pdf"  target = "_blank">2A1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2A2-WA-Term-3.pdf"  target = "_blank">2A2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2A3-WA-Term-3.pdf"  target = "_blank">2A3</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E1-WA-Term-3.pdf"  target = "_blank">2E1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E2-WA-Term-3.pdf"  target = "_blank">2E2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E3-WA-Term-3.pdf"  target = "_blank">2E3</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2E4-WA-Term-3.pdf"  target = "_blank">2E4</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2T1-WA-Term-3.pdf"  target = "_blank">2T1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/2T2-WA-Term-3.pdf"  target = "_blank">2T2</a></td>
   </tr>
 </tbody>
 </table>
@@ -90,14 +90,14 @@ cc School Leaders
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3A1-WA-Term-3.pdf">3A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3A2-WA-Term-3.pdf">3A2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf">3E1</a><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"> </a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E2-WA-Term-3.pdf">3E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E3-WA-Term-3.pdf">3E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E4-WA-Term-3.pdf">3E4</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3T1-WA-Term-3.pdf">3T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3T2-WA-Term-3.pdf">3T2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3A1-WA-Term-3.pdf"  target = "_blank">3A1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3A2-WA-Term-3.pdf"  target = "_blank">3A2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"  target = "_blank">3E1</a><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E1-WA-Term-3.pdf"  target = "_blank"> </a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E2-WA-Term-3.pdf"  target = "_blank">3E2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E3-WA-Term-3.pdf"  target = "_blank">3E3</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3E4-WA-Term-3.pdf"  target = "_blank">3E4</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3T1-WA-Term-3.pdf"  target = "_blank">3T1</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/07/3T2-WA-Term-3.pdf"  target = "_blank">3T2</a></td>
     <td></td>
   </tr>
 </tbody>
