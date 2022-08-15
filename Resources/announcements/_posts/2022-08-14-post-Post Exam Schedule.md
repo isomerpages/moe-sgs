@@ -14,8 +14,8 @@ Thank you.
 <table>
 <thead>
   <tr>
-    <th><a href="/files/Announcement/Post%20Exam%20Schedule/Website_Sec-12_Parent-Letter_Post-Exam-Schedule.pdf" target = "_blank"> <img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></a></th>
-    <th><a href="/files/Announcement/Post%20Exam%20Schedule/Website_Sec-3_Parent-Letter_Post-Exam-Schedule.pdf" target = "_blank"> <img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></a></th>
+    <th><a href="/files/Announcement/Post%20Exam%20Schedule/Website_Sec-12_Parent-Letter_Post-Exam-Schedule.pdf" target = "_blank"> <img src="/images/acrobat.png" alt="Adobe Acrobat"></a></th>
+    <th><a href="/files/Announcement/Post%20Exam%20Schedule/Website_Sec-3_Parent-Letter_Post-Exam-Schedule.pdf" target = "_blank"> <img src="/images/acrobat.png" alt="Adobe Acrobat"></a></th>
   </tr>
 </thead>
 <tbody>
