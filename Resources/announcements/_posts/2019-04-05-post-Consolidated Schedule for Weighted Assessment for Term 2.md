@@ -42,22 +42,22 @@ Dear Parent(s)/Guardian,
     <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3E1-WA-Term-2.pdf">3E1</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1E1-WA-Term-2.pdf">1E1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/2E1-WA-Term-2.pdf">2E1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/3E2-WA-Term-2.pdf">3E2</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1E1-WA-Term-2.pdf">1E1</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2E1-WA-Term-2.pdf">2E1</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3E2-WA-Term-2.pdf">3E2</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1E2-WA-Term-2.pdf">1E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/2E2-WA-Term-2.pdf">2E2</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/3E3-WA-Term-2.pdf">3E3</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1E2-WA-Term-2.pdf">1E2</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2E2-WA-Term-2.pdf">2E2</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3E3-WA-Term-2.pdf">3E3</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1E3-WA-Term-2.pdf">1E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/2E3-WA-Term-2.pdf">2E3</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/3E4-WA-Term-2.pdf">3E4</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1E3-WA-Term-2.pdf">1E3</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2E3-Term-2.pdf">2E3</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3E4-Term-2.pdf">3E4</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1E4-WA-Term-2.pdf">1E4</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1A1-WA-Term-2.pdf">1E4</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/2E4-WA-Term-2.pdf">2E4</a></td>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/3T1-WA-Term-2.pdf">3T1</a></td>
   </tr>
