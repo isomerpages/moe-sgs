@@ -10,3 +10,18 @@ Dear Parent(s)/Guardian
 Please refer to this link below for the post exam schedule. It is Marking Days on Friday, 15 October and Monday, 18 October and students are not required to attend school on these days.
 
 Thank you.
+
+<table>
+<thead>
+  <tr>
+    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2021/07/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
+    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2021/07/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/10/Website_Sec-12_Parent-Letter_Post-Exam-Schedule.pdf">Secondary 1 &amp; 2</a></td>
+    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2021/10/Website_Sec-3_Parent-Letter_Post-Exam-Schedule.pdf">Secondary 3</a></td>
+  </tr>
+</tbody>
+</table>
