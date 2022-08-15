@@ -64,11 +64,11 @@ Dear Parent(s)/Guardian,
   <tr>
     <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1E5-WA-Term-2.pdf">1E5</a></td>
     <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2T1-WA-Term-2.pdf">2T1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/3T2-WA-Term-2.pdf">3T2</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3T2-WA-Term-2.pdf">3T2</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1NT-WA-Term-2.pdf">1NT</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/2T2-WA-Term-2.pdf">2T2</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1NT-WA-Term-2.pdf">1NT</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2T2-WA-Term-2.pdf">2T2</a></td>
     <td></td>
   </tr>
 </tbody>
