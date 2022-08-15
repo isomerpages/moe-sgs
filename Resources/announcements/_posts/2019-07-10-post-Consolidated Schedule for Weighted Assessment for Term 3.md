@@ -32,3 +32,9 @@ Head/ Assessment Literacy Committee
 
 Head of Department/ Science  
 cc School Leaders
+
+* * *
+
+\*Parents Gateway is a new digital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities. The Parents Gateway mobile app is downloadable free from Apple App store or Google Play store.
+
+* * *
