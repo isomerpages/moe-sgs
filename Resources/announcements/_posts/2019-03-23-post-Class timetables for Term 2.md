@@ -7,5 +7,4 @@ description: ""
 ---
 Dear SGSians,
 
-The class timetables for Term 2 are available for <a href="url" target = "_blank">download</a>.
-
+The class timetables for Term 2 are available for <a href="/files/Announcement/2019-Term-2_Class-Timetables.pdf" target = "_blank">download</a>.
