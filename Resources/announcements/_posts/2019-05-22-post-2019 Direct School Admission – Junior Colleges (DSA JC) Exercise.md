@@ -5,3 +5,8 @@ date: 2019-05-22
 layout: post
 description: ""
 ---
+Dear parents of 4E5N students, please read the Information Note for more information on the 2019 DSA-JC Exercise. If you have any question, please feel free to contact Mr Steven Wong (Upper Secondary Year-Head) at 62889227 during office hours. Thank you.
+
+Attachment:
+
+[Information Note on 2019 DSA-JC Exercise](https://www.sgs.edu.sg/wp-content/uploads/2019/05/Information-Note-on-2019-DSA-JC-Exercise.pdf)
