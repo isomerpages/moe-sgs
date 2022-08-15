@@ -7,7 +7,7 @@ description: ""
 ---
 Serangoon Garden Secondary School warmly welcomes all our new Secondary 1 students who have been successfully posted to us.
 
-Please report to the school hall on **Thursday, 20 December 2018**, at **8.30 am** and bring along your
+Please report to the school hall on <u><b>Thursday, 20 December 2018</b>, at <b>8.30 am</b></u> and bring along your
 
 (i) School Smart Card
 
