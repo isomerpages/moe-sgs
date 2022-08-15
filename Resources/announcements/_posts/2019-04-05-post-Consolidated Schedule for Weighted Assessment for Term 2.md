@@ -27,9 +27,9 @@ Dear Parent(s)/Guardian,
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1A1-WA-Term-2.pdf">1A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/2A1-WA-Term-2.pdf">2A1</a></td>
-    <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/3A1-WA-Term-2.pdf">3A1</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/1A1-WA-Term-2.pdf">1A1</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/2A1-WA-Term-2.pdf">2A1</a></td>
+    <td><a href="/files/Announcement/Weight%20Assessment%20Term2%202019/3A1-WA-Term-2.pdf">3A1</a></td>
   </tr>
   <tr>
     <td><a href="https://www.sgs.edu.sg/wp-content/uploads/2019/04/1A2-WA-Term-2.pdf">1A2</a></td>
