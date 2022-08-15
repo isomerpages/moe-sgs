@@ -5,7 +5,7 @@ date: 2019-09-16
 layout: post
 description: ""
 ---
-# Timetable schedule for 1E5, 1T1 1T2, 2T2 not uploaded (link broken)
+# Timetable schedule for 1E5, 1T1 1T2, 2T2, 3A1, 3A2, 3E1, 3E2, not uploaded (link broken)
 
 Dear SGSians,
 
