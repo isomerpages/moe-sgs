@@ -17,7 +17,7 @@ We strongly encourage parents/guardians to participate in the Registration Exerc
 
 Parents/Guardians who are unable to participate in the Registration Exercise may choose to appoint a proxy to carry out the registration on behalf of their child/ward instead. Please complete the proxy form and bring it along for the registration. The Proxy Form can be downloaded from the link below:
 
-[Download Proxy form 2018](https://www.sgs.edu.sg/wp-content/uploads/2018/12/Link-1_proxy-form-2018.pdf)
+[Download Proxy form 2018](/files/Announcement/Sec1%20registration%202020/Proxy-form-2019.pdf)
 
 <u><b>Application for MOE Financial Assistance Scheme (FAS)</b></u>
 
