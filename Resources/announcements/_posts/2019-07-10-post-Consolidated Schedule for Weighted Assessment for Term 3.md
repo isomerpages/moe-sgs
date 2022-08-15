@@ -7,7 +7,7 @@ description: ""
 ---
 Dear Parent(s)/ Guardian,
 
-Re: Consolidated Schedule for Weighted Assessment for Term 3
+<p style="text-align: center;">Re: Consolidated Schedule for Weighted Assessment for Term 3 </p>
 
 1\. Please refer to the attached consolidated schedule of the Weighted Assessments (WA) for your child/ ward for Term 3 (Annex 1). The same information will also be published through Parent Gateway\*.
 
