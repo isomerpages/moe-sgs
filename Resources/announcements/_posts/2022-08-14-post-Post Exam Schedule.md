@@ -14,8 +14,8 @@ Thank you.
 <table>
 <thead>
   <tr>
-    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2021/07/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
-    <th><img src="https://www.sgs.edu.sg/wp-content/uploads/2021/07/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
+    <th><img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
+    <th><img src="/images/acrobat.png" alt="Adobe Acrobat" width="225" height="225"></th>
   </tr>
 </thead>
 <tbody>
