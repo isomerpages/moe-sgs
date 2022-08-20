@@ -7,4 +7,4 @@ description: ""
 ---
 # Google slide widget not migrated
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQq3FN97K_YRNSyDB8sM-0flcUuwGp5C4TAZr6RiUR27oMjiQY6s97Z-WMKBQp9pmcm3ImSWZzpjnFJ/embed?start=false&amp;loop=false&amp;delayms=3000" width="1010" height="619" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQq3FN97K_YRNSyDB8sM-0flcUuwGp5C4TAZr6RiUR27oMjiQY6s97Z-WMKBQp9pmcm3ImSWZzpjnFJ/embed?start=false&amp;loop=false&amp;delayms=3000" width="800" height="619" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
