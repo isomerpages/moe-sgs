@@ -5,4 +5,5 @@ date: 2021-11-22
 layout: post
 description: ""
 ---
-# unable to migrate google slide
+# hyperlinks in the Google slide widget not updated to the corresponding links in the isomer template
+
