@@ -4,6 +4,8 @@ permalink: /students/Student-Academic-Matters/Student-Academic-Matters/
 description: ""
 third_nav_title: STUDENT ACADEMIC MATTERS
 ---
+# Student learning space shifted to this page
+
 *   [Education and Career Guidance](/students/education-and-career-guidance/)
 * <a href="https://www.seab.gov.sg/" target = "_blank" >Singapore Examinations and Assessment Board</a>
 
