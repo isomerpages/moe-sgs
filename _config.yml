@@ -1,9 +1,9 @@
 title: Serangoon Garden Secondary School
-url: ""
+url: https://www.sgs.edu.sg
 favicon: /images/School-Logo.jpg
 colors:
-  primary-color: "#9013fe"
-  secondary-color: "#4372d6"
+  primary-color: "#263056"
+  secondary-color: "#98dddf"
   media-colors:
     - title: media-color-one
       color: "#4a90e2"
