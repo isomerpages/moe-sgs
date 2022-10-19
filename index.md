@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner1.png
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       button: LATEST NEWS AND ANNOUNCEMENTS
   - infopic:
