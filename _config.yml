@@ -3,12 +3,12 @@ url: https://www.sgs.edu.sg
 favicon: /images/School-Logo.jpg
 colors:
   primary-color: "#263056"
-  secondary-color: "#98dddf"
+  secondary-color: "#002fa7"
   media-colors:
     - title: media-color-one
-      color: "#4a90e2"
+      color: "#98dddf"
     - title: media-color-two
-      color: "#4a90e2"
+      color: "#98dddf"
     - title: media-color-three
       color: "#4a90e2"
     - title: media-color-four
