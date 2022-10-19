@@ -8,16 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner1.jpeg
-      key_highlights:
-        - title: Applied Learning Programme
-          description: Description >30 char, omitted
-          url: /instructional-programmes/academic-exellence/applied-learning-programme/
-        - title: Learning for Life Programme
-          description: Description >30 char, omitted
-          url: /academic-exellence/llp/
-        - title: Arts Education Programme
-          description: Description >30 char, omitted
-          url: /signature-programmes/artssgs/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - resources:
       button: LATEST NEWS AND ANNOUNCEMENTS
   - infopic:
