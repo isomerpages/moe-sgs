@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Banner.png
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Vision and Mission
+          description: Vision, Mission, Motto, Values
+          url: https://moe-sgs-staging.netlify.app/about-sgs/vision-mission-motto-and-values/
   - resources:
       button: LATEST NEWS AND ANNOUNCEMENTS
   - infopic:
