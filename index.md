@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner1.jpeg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      background: /images/Banner1.png
   - resources:
       button: LATEST NEWS AND ANNOUNCEMENTS
   - infopic:
