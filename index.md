@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.png
+      background: /images/Banner.png
       key_highlights:
         - title: Applied Learning Programme
           description: Description >30 char, omitted
