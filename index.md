@@ -9,23 +9,10 @@ notification: New! Welcome to our staging site. We welcome and appreciate all
 sections:
   - hero:
       background: /images/Isomer Banner.png
-      dropdown:
-        title: About Us
-        options:
-          - title: Principal’s Message
-            url: /about-sgs/principals-message/
-          - title: Vision,Mission,Motto & Values
-            url: /about-sgs/vision-mission-motto-and-values/
-          - title: OUR BADGE & SCHOOL SONG
-            url: /about-sgs/our-badge-school-song/
-          - title: SCHOOL ADVISORY COMMITTEE
-            url: /about-sgs/school-advisory-committee/
-          - title: DIRECT SCHOOL ADMISSION
-            url: /about-sgs/direct-school-admission/
-          - title: CONTACT US
-            url: /about-sgs/contact-us/
       title: Serangoon Garden Secondary School
       subtitle: © 2022 All rights reserved. Serangoon Garden Secondary School
+      button: CONTACT US
+      url: https://cms.isomer.gov.sg/sites/moe-sgs/contact-us
   - resources:
       title: Annoucement
       button: More annoucements
