@@ -53,4 +53,7 @@ sections:
         platform for students to present a wide range of societal issues ranging
         form strengthening [...]
       alt: ALP Celebration
+  - resources:
+      title: Annoucement
+      button: More annoucements
 ---
