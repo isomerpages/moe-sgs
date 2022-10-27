@@ -4,14 +4,22 @@ title: Serangoon Garden Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School-Logo.jpg
 permalink: /
-notification: ""
+notification: New! Welcome to our staging site. We welcome and appreciate all
+  comments, thank you!
 sections:
   - hero:
-      background: /images/Banner.png
-      key_highlights:
-        - title: Vision and Mission
-          description: Vision, Mission, Motto, Values
-          url: https://moe-sgs-staging.netlify.app/about-sgs/vision-mission-motto-and-values/
+      background: /images/Isomer Banner.png
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Test 1
+            url: ""
+          - title: Test 2
+            url: ""
+          - title: Test 3
+            url: ""
+      title: Serangoon Garden Secondary School
+      subtitle: © 2022 All rights reserved. Serangoon Garden Secondary School
   - resources:
       button: LATEST NEWS AND ANNOUNCEMENTS
   - infopic:
