@@ -26,6 +26,9 @@ sections:
             url: /about-sgs/contact-us/
       title: Serangoon Garden Secondary School
       subtitle: © 2022 All rights reserved. Serangoon Garden Secondary School
+  - resources:
+      title: Annoucement
+      button: More annoucements
   - infopic:
       title: 10th Character and Leadership Symposium 2019
       description: The school hosted the 10th Character and Leadership Symposium for
@@ -53,7 +56,4 @@ sections:
         platform for students to present a wide range of societal issues ranging
         form strengthening [...]
       alt: ALP Celebration
-  - resources:
-      title: Annoucement
-      button: More annoucements
 ---
