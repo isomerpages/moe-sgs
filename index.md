@@ -27,14 +27,14 @@ sections:
       title: Serangoon Garden Secondary School
       subtitle: © 2022 All rights reserved. Serangoon Garden Secondary School
   - infopic:
-      title: ALP Celebration
+      title: 10th Character and Leadership Symposium 2019
+      description: The school hosted the 10th Character and Leadership Symposium for
+        Education and Social Services Sectors organized by Future Ready,
+        Character and [...]
       button: More
-      url: /homepage-infopic/alp-celebration/
-      image: /images/Homepage Thumbnails/042-Ee-Leng-Elaine-Seah-e1573003797292.jpg
-      description: The Applied Learning Programme (ALP) Celebration provided a
-        platform for students to present a wide range of societal issues ranging
-        form strengthening [...]
-      alt: ALP Celebration
+      image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
+      url: /homepage-infopic/10th-character-and-leadership-symposium-2019/
+      alt: Symposium 2019
   - infopic:
       title: Serangoon Garden Secondary 60th Anniversary Celebration
       description: Serangoon Garden Secondary School is 60 years old! To celebrate
@@ -45,12 +45,12 @@ sections:
       url: /homepage-infopic/serangoon-garden-secondary-60th-anniversary-celebration/
       alt: 60th Anniversary Celebration
   - infopic:
-      title: 10th Character and Leadership Symposium 2019
-      description: The school hosted the 10th Character and Leadership Symposium for
-        Education and Social Services Sectors organized by Future Ready,
-        Character and [...]
+      title: ALP Celebration
       button: More
-      image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
-      url: /homepage-infopic/10th-character-and-leadership-symposium-2019/
-      alt: Symposium 2019
+      url: /homepage-infopic/alp-celebration/
+      image: /images/Homepage Thumbnails/042-Ee-Leng-Elaine-Seah-e1573003797292.jpg
+      description: The Applied Learning Programme (ALP) Celebration provided a
+        platform for students to present a wide range of societal issues ranging
+        form strengthening [...]
+      alt: ALP Celebration
 ---
