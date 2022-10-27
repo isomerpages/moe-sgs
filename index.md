@@ -10,27 +10,22 @@ sections:
   - hero:
       background: /images/Isomer Banner.png
       dropdown:
-        title: Hero Dropdown Title
+        title: About Us
         options:
-          - title: Test 1
-            url: ""
-          - title: Test 2
-            url: ""
-          - title: Test 3
-            url: ""
+          - title: Principal’s Message
+            url: /about-sgs/principals-message/
+          - title: Vision,Mission,Motto & Values
+            url: /about-sgs/vision-mission-motto-and-values/
+          - title: OUR BADGE & SCHOOL SONG
+            url: /about-sgs/our-badge-school-song/
+          - title: SCHOOL ADVISORY COMMITTEE
+            url: /about-sgs/school-advisory-committee/
+          - title: DIRECT SCHOOL ADMISSION
+            url: /about-sgs/direct-school-admission/
+          - title: CONTACT US
+            url: /about-sgs/contact-us/
       title: Serangoon Garden Secondary School
       subtitle: © 2022 All rights reserved. Serangoon Garden Secondary School
-  - resources:
-      button: LATEST NEWS AND ANNOUNCEMENTS
-  - infopic:
-      title: MOE SEXUALITY EDUCATION IN SCHOOLS
-      description: 1. Sexuality Education (SEd) in schools is about enabling students
-        to understand the physiological, social and emotional changes they
-        experience as they [...]
-      button: More
-      url: /parents/sexuality-education/
-      image: /images/Homepage Thumbnails/MOE.jpg
-      alt: MOE Sexuality Education
   - infopic:
       title: ALP Celebration
       button: More
@@ -49,24 +44,6 @@ sections:
       image: /images/Homepage Thumbnails/166-Ee-Leng-Elaine-Seahewrw.jpg
       url: /homepage-infopic/serangoon-garden-secondary-60th-anniversary-celebration/
       alt: 60th Anniversary Celebration
-  - infopic:
-      title: Outstanding Youth in Education Award
-      button: More
-      image: /images/Homepage Thumbnails/061-Ee-Leng-Elaine-Seah-1.jpg
-      description: Congratulations to Ms Angela Ho for winning the Outstanding Youth
-        in Education Award which recognizes her inspiring teaching and
-        unwavering dedication to [...]
-      url: /homepage-infopic/outstanding-youth-in-education-award/
-      alt: Education Award
-  - infopic:
-      title: Sec 3 Science Learning Day
-      description: During the Science Learning Day, the Sec 3 students participated in
-        a variety of activities to enhance their learning of Science. (a) They
-        visited the [...]
-      button: More
-      image: /images/Homepage Thumbnails/Sec-3-Anatomy-1-Ee-Leng-Elaine-Seah.jpeg
-      url: /homepage-infopic/sec-3-science-learning-day/
-      alt: Sec 3 Science Learning Day
   - infopic:
       title: 10th Character and Leadership Symposium 2019
       description: The school hosted the 10th Character and Leadership Symposium for
