@@ -477,23 +477,30 @@ BUSES: 25, 73, 74, 76, 132, 165
 
 Directions from SERANGOON INTERCHANGE:  
 BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
+<br><br>
 
 
 <div style="float: left">
-<img src="/images/.png">
+<img src="/images/mrt1.png">
 </div>
-
-**Nearby MRT Station:**<br>
+<div>
+<strong>&nbsp&nbspNearby MRT Station:</strong>
+</div>
+</div>
+<br>
 <br>
 North-South Line: Ang Mo Kio <br>
 NorthEast/Circle Line: Serangoon<br>
-
-
+<br>
+<br>
 <div style="float: left">
-<img src="/images/.png">
+<img src="/images/car.png">
+	<br>
+</div>
+<div>
+<strong>&nbsp&nbspDriving directions</strong>
 </div>
 
-**Driving directions:**<br>
 1.&nbsp;&nbsp;Take the northbound CTE towards SLE.<br>
 2.&nbsp;&nbsp;Exit 12a at the Ang Mo Kio Avenue 3 market, turn right onto AMK Avenue 3.<br>
 3.&nbsp;&nbsp;Go down AMK Avenue 3, turn right at the second traffic light to Serangoon North Avenue 1.<br>
