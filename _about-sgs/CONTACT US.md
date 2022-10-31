@@ -480,7 +480,7 @@ BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 
 
 <div style="float: left">
-<img src="/images/mrt.png">
+<img src="/images/.png">
 </div>
 
 **Nearby MRT Station:**<br>
@@ -490,7 +490,7 @@ NorthEast/Circle Line: Serangoon<br>
 
 
 <div style="float: left">
-<img src="/images/car.png">
+<img src="/images/.png">
 </div>
 
 **Driving directions:**<br>
