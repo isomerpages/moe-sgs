@@ -484,6 +484,7 @@ BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 </div>
 
 **Nearby MRT Station:**<br>
+<br>
 North-South Line: Ang Mo Kio <br>
 NorthEast/Circle Line: Serangoon<br>
 
