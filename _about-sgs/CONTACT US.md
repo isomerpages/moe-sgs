@@ -479,10 +479,18 @@ Directions from SERANGOON INTERCHANGE:
 BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 
 
+<div style="float: left">
+<img src="/images/bus.png">
+</div>
+
 **Nearby MRT Station:**<br>
 North-South Line: Ang Mo Kio <br>
 NorthEast/Circle Line: Serangoon<br>
 
+
+<div style="float: left">
+<img src="/images/bus.png">
+</div>
 
 **Driving directions:**<br>
 1.&nbsp;&nbsp;Take the northbound CTE towards SLE.<br>
