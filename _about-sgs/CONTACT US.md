@@ -484,8 +484,7 @@ BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 <img src="/images/mrt1.png">
 </div>
 <div>
-<strong>&nbsp&nbspNearby MRT Station:</strong>
-</div>
+<strong>Nearby MRT Station:</strong>
 </div>
 <br>
 <br>
@@ -498,7 +497,7 @@ NorthEast/Circle Line: Serangoon<br>
 	<br>
 </div>
 <div>
-<strong>&nbsp&nbspDriving directions</strong>
+<strong>Driving directions</strong>
 </div>
 
 1.&nbsp;&nbsp;Take the northbound CTE towards SLE.<br>
