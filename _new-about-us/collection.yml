@@ -2,6 +2,7 @@ collections:
   new-about-us:
     output: true
     order:
+      - Direct School Admission.md
       - Alumni.md
       - School Advisory Committee.md
       - Our Badge & School Song.md
