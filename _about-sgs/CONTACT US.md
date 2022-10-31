@@ -480,7 +480,7 @@ BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 
 
 <div style="float: left">
-<img src="/images/bus.png">
+<img src="/images/mrt.png">
 </div>
 
 **Nearby MRT Station:**<br>
