@@ -489,7 +489,7 @@ NorthEast/Circle Line: Serangoon<br>
 
 
 <div style="float: left">
-<img src="/images/bus.png">
+<img src="/images/car.png">
 </div>
 
 **Driving directions:**<br>
