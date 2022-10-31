@@ -2,5 +2,6 @@ collections:
   new-about-us:
     output: true
     order:
+      - Our Badge & School Song.md
       - Principal's Message.md
       - Vision, Mission, Motto and Values.md
