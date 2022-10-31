@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - Test 01/Test 01.md
       - Test 01/.keep
