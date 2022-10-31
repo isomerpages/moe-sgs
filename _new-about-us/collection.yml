@@ -2,5 +2,5 @@ collections:
   new-about-us:
     output: true
     order:
-      - Vision, Mission, Motto and Values.md
       - Principal's Message.md
+      - Vision, Mission, Motto and Values.md
