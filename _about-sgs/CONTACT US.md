@@ -3,6 +3,21 @@ title: CONTACT US
 permalink: /about-sgs/contact-us/
 description: ""
 ---
+# Student Matters
+<style>
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+	th {
+  background-color: #96D4D4;
+	}
+	tr  {
+	border: 2px solid black;
+  border-collapse: collapse;
+	}
+</style>
+
 <table>
 <thead>
   <tr>
@@ -13,7 +28,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td colspan="3" style="text-align: center;">Student Matters</td>
+	
   </tr>
   <tr>
     <td>Lower Sec</td>
@@ -52,19 +67,18 @@ description: ""
 </tbody>
 </table>
 
-  <p style="text-align: center"> <strong>2022 Form Teachers</strong> </p>
-
+# 2022 Form Teachers
 <table>
 <thead>
   <tr>
     <th>CLASS</th>
-    <th>NAME OF FORM TEACHER</th>
+    <th>FORM TEACHER</th>
     <th>EMAIL ADDRESS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">1 Perseverance</td>
+    <td rowspan="2">1 Perseverance &nbsp;    </td>
     <td>Ms Loh Zhi Yang</td>
     <td>loh_zhi_yang@moe.edu.sg</td>
   </tr>
@@ -182,7 +196,7 @@ description: ""
   </tr>
   <tr>
     <td>Mr Jeremiah Tan</td>
-    <td><a href="mailto:tan_sei_choon@moe.edu.sg">tan_sei_choon@moe.edu.sg</a></td>
+    <td><a>tan_sei_choon@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="3">2 Resilience</td>
@@ -407,46 +421,49 @@ description: ""
   </tr>
 </tbody>
 </table>
+<br><br>
 
-* * *
 
-<div>
-<div style="float: left">
-<img src="/images/map.png" />
-</div>
-<div>
-Getting to SGS
-</div>
-</div>
 
-<a href="/images/Getting-to-SGS-600x413.png" target = "_blank"> <img src="/images/Getting-to-SGS-600x413.png" 
-     style="width:100%"></a>
+
 
 <div>
 <div style="float: left">
-<img src="/images/campus.png" />
+<img src="/images/map.png">
+</div>
+<div>
+<strong>Getting to SGS</strong>
+</div>
+</div>
+
+<a target="_blank" href="/images/Getting-to-SGS-600x413.png"> <img style="width:100%" src="/images/Getting-to-SGS-600x413.png"></a>	<br><br>
+
+	
+<div>
+<div style="float: left">
+<img src="/images/campus.png">
 </div>
 <div>
 <strong>Campus Location</strong>
 </div>
 </div>
 
-**Address:** 21 Serangoon North Ave 1 S555889 <br>
-**Phone:** (65) 6288 9227<br>
-**Fax:** (65) 6288 8695<br>
-**Email:** [sgss@moe.edu.sg](mailto:sgss@moe.edu.sg)<br>
-**School Code:** 3509
+**Address:**&nbsp;21 Serangoon North Ave 1 S555889 <br>
+**Phone:**&nbsp;(65) 6288 9227<br>
+**Fax:**&nbsp;(65) 6288 8695<br>
+**Email:**&nbsp;[sgss@moe.edu.sg](mailto:sgss@moe.edu.sg)<br>
+**School Code:**&nbsp;3509	<br><br>
 
 <p>
-<div>
+</p><div>
 <div style="float: left">
-<img src="/images/bus.png" />
+<img src="/images/bus.png">
 </div>
 <div>
 <strong>Bus Services to SGS</strong>
 </div>
 </div>
-</p>
+
 
 25, 55, 70, 73, 74, 76, 132, 165, 315
 
@@ -459,19 +476,16 @@ BUSES: 25, 73, 74, 76, 132, 165
 (Alight at Blk 554, Ang Mo Kio Avenue 3)
 
 Directions from SERANGOON INTERCHANGE:  
-BUS: 315     (Alight at Blk 112, Serangoon North Avenue 1)
+BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 
-* * *
 
-Nearby MRT Station:<br>
+**Nearby MRT Station:**<br>
 North-South Line: Ang Mo Kio <br>
 NorthEast/Circle Line: Serangoon<br>
 
-* * *
 
-**Driving directions:**
-
-1.  Take the northbound CTE towards SLE.
-2.  Exit 12a at the Ang Mo Kio Avenue 3 marker, turn right onto AMK Avenue 3.
-3.  Go down AMK Avenue 3, turn right at the second traffic light to Serangoon North Avenue 1.
-4.  Follow the signs to our school.
+**Driving directions:**<br>
+1.&nbsp;&nbsp;Take the northbound CTE towards SLE.<br>
+2.&nbsp;&nbsp;Exit 12a at the Ang Mo Kio Avenue 3 market, turn right onto AMK Avenue 3.<br>
+3.&nbsp;&nbsp;Go down AMK Avenue 3, turn right at the second traffic light to Serangoon North Avenue 1.<br>
+4.&nbsp;&nbsp;Follow the signs to our school.
