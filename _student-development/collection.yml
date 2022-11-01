@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CO CURRICULAR ACTIVITIES (CCA)/.keep
-      - CO CURRICULAR ACTIVITIES (CCA)/Concert Band.md
       - CO CURRICULAR ACTIVITIES (CCA)/Dance Club.md
       - CO CURRICULAR ACTIVITIES (CCA)/Guzheng Ensemble.md
       - CO CURRICULAR ACTIVITIES (CCA)/Language Arts Club.md
