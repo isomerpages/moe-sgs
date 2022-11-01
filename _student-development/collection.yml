@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - LEARNING FOR LIFE PROGRAMME.md
       - CO CURRICULAR ACTIVITIES (CCA)/Arts Education Programe.md
       - CO CURRICULAR ACTIVITIES (CCA)/.keep
       - CO CURRICULAR ACTIVITIES (CCA)/Co Curricular Activities (CCA).md
