@@ -196,7 +196,7 @@ table {
   </tr>
   <tr>
     <td>Mr Jeremiah Tan</td>
-    <td><a>tan_sei_choon@moe.edu.sg</a></td>
+    <td>tan_sei_choon@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="3">2 Resilience</td>
@@ -486,6 +486,7 @@ BUS: 315&nbsp; &nbsp; &nbsp;(Alight at Blk 112, Serangoon North Avenue 1)
 <div>
 <strong>Nearby MRT Station:</strong>
 </div>
+
 North-South Line: Ang Mo Kio <br>
 NorthEast/Circle Line: Serangoon<br>
 <br>
