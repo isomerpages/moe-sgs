@@ -2,7 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - SCIENCE.md
       - HUMANITIES.md
       - DESIGN & TECHNOLOGY.md
       - MUSIC.md
