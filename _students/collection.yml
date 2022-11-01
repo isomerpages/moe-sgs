@@ -2,5 +2,4 @@ collections:
   students:
     output: true
     order:
-      - STUDENT HANDBOOK/.keep
       - EDUCATION AND CAREER GUIDANCE.md
