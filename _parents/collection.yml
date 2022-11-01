@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - PERSONALISED DIGITAL LEARNING PROGRAMME (PDLP).md
       - PARENTS SUPPORT GROUP.md
       - USEFUL PARENT ARTICLES/.keep
       - USEFUL PARENT ARTICLES/Sign Up For Parents Gateway.md
