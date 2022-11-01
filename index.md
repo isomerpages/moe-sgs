@@ -17,24 +17,6 @@ sections:
       title: Annoucement
       button: More annoucements
   - infopic:
-      title: 10th Character and Leadership Symposium 2019
-      description: The school hosted the 10th Character and Leadership Symposium for
-        Education and Social Services Sectors organized by Future Ready,
-        Character and [...]
-      button: More
-      image: /images/Homepage Thumbnails/145-Ee-Leng-Elaine-Seah.jpg
-      url: /homepage-infopic/10th-character-and-leadership-symposium-2019/
-      alt: Symposium 2019
-  - infopic:
-      title: Serangoon Garden Secondary 60th Anniversary Celebration
-      description: Serangoon Garden Secondary School is 60 years old! To celebrate
-        this great milestone, there were many activities and programmes that
-        involved the [...]
-      button: More
-      image: /images/Homepage Thumbnails/166-Ee-Leng-Elaine-Seahewrw.jpg
-      url: /homepage-infopic/serangoon-garden-secondary-60th-anniversary-celebration/
-      alt: 60th Anniversary Celebration
-  - infopic:
       title: ALP Celebration
       button: More
       url: /homepage-infopic/alp-celebration/
