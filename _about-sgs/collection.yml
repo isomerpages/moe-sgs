@@ -2,6 +2,5 @@ collections:
   about-sgs:
     output: true
     order:
-      - SCHOOL ADVISORY COMMITTEE.md
       - DIRECT SCHOOL ADMISSION.md
       - CONTACT US.md
