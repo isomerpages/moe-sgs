@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - PARENTS SUPPORT GROUP.md
       - USEFUL PARENT ARTICLES/.keep
       - USEFUL PARENT ARTICLES/Sign Up For Parents Gateway.md
       - USEFUL PARENT ARTICLES/HOW NOT TO TALK TO YOUR KIDS.md
