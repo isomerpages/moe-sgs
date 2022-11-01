@@ -1,5 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - EDUCATION AND CAREER GUIDANCE.md
+    order: []
