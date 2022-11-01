@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CO CURRICULAR ACTIVITIES (CCA)/.keep
-      - CO CURRICULAR ACTIVITIES (CCA)/Netball.md
       - CO CURRICULAR ACTIVITIES (CCA)/Table Tennis Boys.md
       - CO CURRICULAR ACTIVITIES (CCA)/Boys’ Brigade.md
       - CO CURRICULAR ACTIVITIES (CCA)/Girl Guides.md
