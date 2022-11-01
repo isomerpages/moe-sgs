@@ -1,4 +1,5 @@
 collections:
   about-sgs:
     output: true
-    order: []
+    order:
+      - Test 01.md
