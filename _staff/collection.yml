@@ -2,5 +2,4 @@ collections:
   staff:
     output: true
     order:
-      - STAFF LATEST NEWS.md
       - LINKS.md
