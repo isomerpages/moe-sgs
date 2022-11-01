@@ -1,5 +1,4 @@
 collections:
   student-development:
     output: true
-    order:
-      - CO CURRICULAR ACTIVITIES (CCA)/.keep
+    order: []
