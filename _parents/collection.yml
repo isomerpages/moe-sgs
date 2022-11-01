@@ -1,5 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - MENTAL HEALTH EDUCATION.md
+    order: []
