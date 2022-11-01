@@ -2,7 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - ENGLISH LANGUAGE AND LITERATURE.md
       - MOTHER TONGUE.md
       - MATHEMATICS.md
       - SCIENCE.md
