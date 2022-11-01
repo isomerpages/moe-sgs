@@ -2,7 +2,6 @@ collections:
   about-sgs:
     output: true
     order:
-      - PRINCIPAL'S MESSAGE.md
       - VISION, MISSION, MOTTO AND VALUES.md
       - OUR BADGE & SCHOOL SONG.md
       - SCHOOL ADVISORY COMMITTEE.md
