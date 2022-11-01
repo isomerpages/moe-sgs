@@ -2,4 +2,5 @@ collections:
   about-sgs:
     output: true
     order:
+      - CONTACT US.md
       - Test 01.md
