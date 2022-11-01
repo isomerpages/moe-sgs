@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CO CURRICULAR ACTIVITIES (CCA)/Arts Education Programe.md
       - CO CURRICULAR ACTIVITIES (CCA)/.keep
       - CO CURRICULAR ACTIVITIES (CCA)/Co Curricular Activities (CCA).md
       - CO CURRICULAR ACTIVITIES (CCA)/Media Studio.md
