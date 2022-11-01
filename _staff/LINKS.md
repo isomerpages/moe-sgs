@@ -1,28 +1,29 @@
 ---
 title: LINKS
-permalink: /staff/links
+permalink: /staff/links/
 description: ""
 ---
-* <a href="https://icon.moe.edu.sg/" target ="_blank" >ICON</a> 
-
-#### broken*   [Outlook Web Mail NEW!](https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fschools.gov.sg%2fowa%2f%23authRedirect%3dtrue)
-
-* <a href="https://pg.moe.edu.sg/" target ="_blank" >Parents Gateway Admin NEW!</a> 
-* <a href="https://onepublicservice.facebook.com/" target ="_blank" >Workplace by Facebook NEW!</a> 
-
-#### broken *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-
-* <a href="https://rbs.avero-tech.com/" target ="_blank" >Resource Booking</a> 
-
-* <a href="https://opal2.moe.edu.sg/" target ="_blank" >OPAL</a> 
-
-#### broken *   [iExams](https://iexams.moe.gov.sg/xe/login.do "iExams")
-
-#### broken *   [TRAISI](https://traisi.moe.gov.sg/)
-#### broken *   [PAC@GOV (Intranet Access)](https://www.pac.gov.sg/)
-#### broken *   [PAC@GOV (Public Access)](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)
-#### broken *   [SSOE](https://ssoe.moe.edu.sg/)
-#### broken *   [MOE Intranet](https://intranet.moe.gov.sg/)
-* <a href="https://www.moe.gov.sg/" target ="_blank" >Ministry of Education</a> 
-#### broken *   [HRMS](https://hrms.moe.gov.sg/)
-* <a href="https://sites.google.com/site/sgssclabreq/home/" target ="_blank" >Science Lab E-Requisition</a> 
+# Useful Links
+*  [All Ears](https://forms.moe.edu.sg/)
+*  [Form SG](https://form.gov.sg/)
+*  [Go SG](https://go.gov.sg/)
+*  [HR & Payroll portal (HRP)](	https://www.hrp.gov.sg)
+*  [iCON 2.0](http://icon.moe.edu.sg/)
+*  [iEXAMS 2.0](https://iexams.seab.gov.sg/login)
+*  [MIMS](https://portal.mims.moe.gov.sg)
+*  [MOE](https://www.moe.gov.sg/)
+*  [MOE Intranet](https://intranet.moe.gov.sg)
+*  [Opal 2.0](https://www.opal2.moe.edu.sg)
+*  [Outlook Web Mail](https://schools.gov.sg/owa)
+*  [Parents Gateway](https://pg.moe.edu.sg/)
+*  [REMS 2.0](https://rems.moe.edu.sg/)
+*  [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
+*  [SC Mobile](https://scmobile.moe.edu.sg/login)
+*  [School Cockpit](https://schoolcockpit.moe.gov.sg)
+*  [Science Lab E-Requisition]((https://sites.google.com/site/sgssclabreq/home)
+)
+*  [Singapore Examninations & Assessment Board (SEAB)](https://www.seab.gov.sg/)
+*  [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
+*  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+*  [Travel Advisory Portal (2022)](https://go.gov.sg/sgssstafftravel2022)
+*  [Workplace by Facebook](https://www.workplace.com/)
