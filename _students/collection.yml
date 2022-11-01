@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - STUDENT ACADEMIC MATTERS/.keep
       - STUDENT HANDBOOK/.keep
       - STUDENT HANDBOOK/SCHOOL RULES.md
       - STUDENT HANDBOOK/FINANCIAL ASSISSTANCE SCHEMES.md
