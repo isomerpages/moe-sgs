@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CO CURRICULAR ACTIVITIES (CCA)/.keep
-      - CO CURRICULAR ACTIVITIES (CCA)/Girls’ Brigade.md
       - CO CURRICULAR ACTIVITIES (CCA)/National Cadet Corps.md
       - CO CURRICULAR ACTIVITIES (CCA)/National Police Cadet Corps.md
       - CO CURRICULAR ACTIVITIES (CCA)/Red Cross Youth.md
