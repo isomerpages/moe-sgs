@@ -2,7 +2,6 @@ collections:
   about-sgs:
     output: true
     order:
-      - OUR BADGE & SCHOOL SONG.md
       - SCHOOL ADVISORY COMMITTEE.md
       - DIRECT SCHOOL ADMISSION.md
       - CONTACT US.md
