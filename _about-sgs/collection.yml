@@ -2,5 +2,4 @@ collections:
   about-sgs:
     output: true
     order:
-      - DIRECT SCHOOL ADMISSION.md
       - CONTACT US.md
