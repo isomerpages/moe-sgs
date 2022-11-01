@@ -2,5 +2,4 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - ART UNIT.md
       - PHYSICAL EDUCATION.md
