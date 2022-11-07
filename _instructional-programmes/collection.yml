@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Mother Tongue.md
       - English Language and Literature.md
       - Applied Learning Programme.md
       - Assessment Guidelines.md
