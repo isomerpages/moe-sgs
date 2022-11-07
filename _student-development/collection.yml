@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Co Curricular Activities/Guzheng Ensemble.md
       - Co Curricular Activities/Girls’ Brigade.md
       - Co Curricular Activities/Girl Guides.md
       - Co Curricular Activities/Floorball.md
