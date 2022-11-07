@@ -2,4 +2,5 @@ collections:
   student-development:
     output: true
     order:
+      - CCEs/Character and Citizenship Education (CCE).md
       - CCEs/.keep
