@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Handbook/Post Secondary Landscape.md
       - Student Handbook/Promotion Criteria.md
       - Student Handbook/Support for Students.md
       - Student Handbook/Financial Assistance Schemes (FAS).md
