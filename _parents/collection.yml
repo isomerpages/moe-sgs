@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Parents Support Group.md
       - Personalised Digital Learning Programme (PDLP).md
       - School Based Assessment.md
