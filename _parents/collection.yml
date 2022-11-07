@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - (For Sec 2 – 5) End of Year Books and Uniform Sales.md
       - Mental Health Education.md
       - MOE Sexuality Education in Schools.md
       - School Based Assessment.md
