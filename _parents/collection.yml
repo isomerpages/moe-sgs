@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Useful Parent Articles/Raising Successful Children.md
       - Useful Parent Articles/How Not To Talk To Your Kids.md
       - Useful Parent Articles/Safe Guarding Your Child Online.md
       - Useful Parent Articles/Cyber Wellness For Parents.md
