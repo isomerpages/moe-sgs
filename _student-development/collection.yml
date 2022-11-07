@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Co Curricular Activities/Robotics Club.md
       - Co Curricular Activities/Red Cross Youth.md
       - Co Curricular Activities/Netball.md
       - Co Curricular Activities/National Police Cadet Corps.md
