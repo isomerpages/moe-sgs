@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Nutrition and Food Science.md
       - Music.md
       - Principles of Accounting.md
       - Computing & Computer Applications.md
