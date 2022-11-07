@@ -10,3 +10,5 @@ links:
     collection: students
   - title: PARENTS
     collection: parents
+  - title: STAFF
+    collection: staff
