@@ -2,31 +2,5 @@ logo: /images/School-Logo.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: PARENTS
-    url: /parents/pdlp/
-    sublinks:
-      - title: LATEST NEWS
-        url: /parents/latest-news
-      - title: SCHOOOL BASED ASSESSMENTS
-        url: /students/Student-Academic-Matters/sba/
-      - title: PDLP
-        url: /parents/pdlp/
-      - title: PARENTS SUPPORT GROUP
-        url: /parents/welcome-to-sgs/parents-support-group/
-      - title: USEFUL PARENTS ARTICLES
-        url: /parents/USEFUL-PARENT-ARTICLES/sign-up-for-parents-gateway/
-      - title: MOE SEXUALITY EDUCATION
-        url: /parents/sexuality-education/
-      - title: MENTAL HEALTH EDUCATION
-        url: /parents/mental-health-education-mhe/
-      - title: YEAR END BOOKS & UNIFORM SALES
-        url: /news/end-of-year-books-and-uniform-sales/
-  - title: STAFF
-    url: /staff/latest-news
-    sublinks:
-      - title: LATEST NEWS
-        url: /staff/latest-news
-      - title: LINKS
-        url: /staff/links
-      - title: ICT FAULT REPORTING
-        url: https://docs.google.com/forms/d/e/1FAIpQLSdZqF3UTI6n0aAy_sceq6d_910owYCUFG4jQdFfIWYkK4_DjA/viewform
+  - title: INSTRUCTIONAL PROGRAMMES
+    collection: instructional-programmes
