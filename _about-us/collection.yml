@@ -1,5 +1,5 @@
 collections:
-  about-sgs:
+  about-us:
     output: true
     order:
       - CONTACT US.md
