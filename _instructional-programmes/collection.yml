@@ -1,4 +1,5 @@
 collections:
   instructional-programmes:
     output: true
-    order: []
+    order:
+      - Assessment Guidelines.md
