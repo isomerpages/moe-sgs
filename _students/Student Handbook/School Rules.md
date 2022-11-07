@@ -21,23 +21,14 @@ third_nav_title: Student Handbook
 <td style="width: 5%; text-align: left; vertical-align: top; height: 292px;" width="5%"><span style="font-size: 14pt;">1.1</span></td>
 <td style="height: 292px;" width="94%"><span style="font-size: 14pt;"><u>School Uniform and Name-tag</u></span>
 
-<span style="font-size: 14pt;">I must wear the prescribed school uniform, and modification to the uniform is not allowed.</span></br>
+<span style="font-size: 14pt;">I must wear the prescribed school uniform, and modification to the uniform is not allowed.</span>
 
-<span style="font-size: 14pt;">I will wear my first school uniform with pride, whether I am within or outside the school premises. My name-tag will be sewn neatly on my uniform. Closed cardigans will not be worn as part of the school uniform.</span></br>
+<span style="font-size: 14pt;">I will wear my first school uniform with pride, whether I am within or outside the school premises. My name-tag will be sewn neatly on my uniform. Closed cardigans will not be worn as part of the school uniform.</span>
 
-<span style="font-size: 14pt;">On Fridays, I may wear my second uniform (ie: PE/CCA T-shirt with my school skirt/shorts/long pants). During PE lessons or physical activities, I will wear my PE attire.</span></br>
+<span style="font-size: 14pt;">On Fridays, I may wear my second uniform (ie: PE/CCA T-shirt with my school skirt/shorts/long pants). During PE lessons or physical activities, I will wear my PE attire.</span>
 
-<span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span></td></br>
+<span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span></td>
 </tr>
-<tr style="height: 337px;">
-<td style="height: 337px;" width="5%"></td>
-<td style="height: 337px;" width="94%"><img src="/images/school%20uniform.png" alt="School Uniform.png"/></td>
-</tr>
-<tr style="height: 337px;">
-<td style="height: 337px;" width="5%"></td>
-<td style="height: 337px;" width="94%"><img src="/images/school%20uniform2.png" alt="School Uniform2.png"/></td>
-</tr>
-<tr style="height: 220px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 220px;" width="5%"><span style="font-size: 14pt;">1.2</span></td>
 <td style="height: 220px;" width="94%"><span style="font-size: 14pt;"> <u>Footwear</u></span>
 
@@ -49,7 +40,7 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
-&nbsp;
+
 <table style="height: 795px; width: 100%;" width="100%">
 <tbody>
 <tr style="height: 83px;">
@@ -85,12 +76,10 @@ third_nav_title: Student Handbook
 <span style="font-size: 14pt;">No form of body decoration (e.g. tattoos) is allowed.</span></td>
 </tr>
 <tr style="height: 152px;">
-<td style="text-align: left; vertical-align: top; height: 152px;" width="5%"></td>
-<td style="height: 152px;" width="94%"><img src="/images/hairstyle.jpg" alt="Hairstyle.jpg"/></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
+
 <table style="height: 456px; width: 100%;" width="100%">
 <tbody>
 <tr style="height: 69px;">
