@@ -2,18 +2,18 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Staff Professional Development.md
-      - Physical Education.md
-      - Arts.md
-      - Nutrition and Food Science.md
-      - Music.md
-      - Principles of Accounting.md
-      - Computing & Computer Applications.md
-      - Design & Technology.md
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
-      - Mother Tongue.md
-      - English Language and Literature.md
-      - Applied Learning Programme.md
       - Assessment Guidelines.md
+      - Applied Learning Programme.md
+      - English Language and Literature.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Design & Technology.md
+      - Computing & Computer Applications.md
+      - Principles of Accounting.md
+      - Music.md
+      - Nutrition and Food Science.md
+      - Arts.md
+      - Physical Education.md
+      - Staff Professional Development.md
