@@ -2,6 +2,12 @@ collections:
   student-development:
     output: true
     order:
+      - CCEs/.keep
+      - CCEs/Character and Citizenship Education (CCE).md
+      - CCEs/Values In Action (VIA).md
+      - Level Signature Programmes.md
+      - Learning for Life Programme.md
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/Table Tennis.md
       - Co Curricular Activities/Robotics Club.md
       - Co Curricular Activities/Red Cross Youth.md
@@ -22,9 +28,3 @@ collections:
       - Co Curricular Activities/Basketball (Boys).md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Main Page.md
-      - Co Curricular Activities/.keep
-      - Learning for Life Programme.md
-      - Level Signature Programmes.md
-      - CCEs/.keep
-      - CCEs/Character and Citizenship Education (CCE).md
-      - CCEs/Values In Action (VIA).md
