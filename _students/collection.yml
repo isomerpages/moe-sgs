@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Blended Learning/.keep
       - School Based Assessment.md
       - 2023 Timetable.md
