@@ -1,5 +1,4 @@
 collections:
   student-development:
     output: true
-    order:
-      - CCE and VIA.md
+    order: []
