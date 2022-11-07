@@ -1,5 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - Test 01.md
+    order: []
