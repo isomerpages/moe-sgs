@@ -2,5 +2,4 @@ collections:
   about-sgs:
     output: true
     order:
-      - PRINCIPAL'S MESSAGE.md
       - CONTACT US.md
