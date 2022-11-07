@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Subjects/Music.md
       - Subjects/Principles of Accounting.md
       - Subjects/Computing & Computer Applications.md
       - Subjects/Design & Technology.md
