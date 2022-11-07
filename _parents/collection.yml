@@ -2,9 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - (For Sec 2 – 5) End of Year Books and Uniform Sales.md
-      - Mental Health Education.md
-      - MOE Sexuality Education in Schools.md
       - School Based Assessment.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
@@ -14,3 +11,6 @@ collections:
       - Useful Parent Articles/Safe Guarding Your Child Online.md
       - Useful Parent Articles/How Not To Talk To Your Kids.md
       - Useful Parent Articles/Raising Successful Children.md
+      - MOE Sexuality Education in Schools.md
+      - Mental Health Education.md
+      - (For Sec 2 – 5) End of Year Books and Uniform Sales.md
