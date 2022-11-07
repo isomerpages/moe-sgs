@@ -102,4 +102,4 @@ third_nav_title: Student Handbook
 | 5.5 | I will only consume food and drinks in the canteen during breaks. I may consume snacks in class during snack time, with the permission of my teacher.        |
 | 5.6 | I will be guided by the school values of **PRIDE**:  **P**erseverance, **R**espect, **I**ntegrity, **D**iligence, **E**mpathy at all times.           |
 
-_Consequences for the transgression of the School Rules have been briefed at the school’s assembly as well as at other suitable platforms._
+<font size="-2">_Consequences for the transgression of the School Rules have been briefed at the school’s assembly as well as at other suitable platforms._</font>
