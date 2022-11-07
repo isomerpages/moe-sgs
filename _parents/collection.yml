@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Mental Health Education.md
       - MOE Sexuality Education in Schools.md
       - School Based Assessment.md
       - Personalised Digital Learning Programme (PDLP).md
