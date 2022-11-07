@@ -43,6 +43,8 @@ third_nav_title: Student Handbook
 </tbody>
 </table>
 
+<br>
+
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
 <col style="width: 50px">
