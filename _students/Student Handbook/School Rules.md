@@ -4,19 +4,6 @@ permalink: /students/Student-Handbook/School-Rules/
 description: ""
 third_nav_title: Student Handbook
 ---
-<style>
-<style>
-table {
-  border: 0px solid black;
-  border-collapse: collapse;
-}
-	
-	tr  {
-	border: 0px solid black;
-  border-collapse: collapse;
-	}
-</style>
-
 <span style="font-size: 14pt;">The School Rules serve to guide and encourage positive behaviour, which is integral to fostering a caring and safe environment where learning can take place.</span>
 
 <span style="font-size: 14pt;">The SGS community believes in holistic education centred on values and character development. Through a culture of care and mutual respect, we nurture our students into <strong>Learners with Grit and Leaders with Heart</strong>. Using daily routines and teachable moments, we cultivate our students’ social and emotional competencies, and inculcate the school values of <strong>PRIDE</strong>: <strong>P</strong>erseverance, <strong>R</strong>espect, <strong>I</strong>ntegrity, <strong>D</strong>iligence, and <strong>E</strong>mpathy.</span>
