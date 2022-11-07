@@ -1,4 +1,5 @@
 collections:
   staff:
     output: true
-    order: []
+    order:
+      - LINKS.md
