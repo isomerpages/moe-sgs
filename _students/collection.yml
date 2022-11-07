@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
+      - 2023 Timetable.md
+      - School Based Assessment.md
       - Blended Learning/.keep
       - Blended Learning/Home Based Learning (HBL).md
       - Blended Learning/Using your PLDs.md
-      - School Based Assessment.md
-      - 2023 Timetable.md
