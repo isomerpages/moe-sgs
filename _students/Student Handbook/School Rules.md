@@ -13,8 +13,10 @@ third_nav_title: Student Handbook
 <span style="font-size: 14pt;"><u>First Impressions Count</u></span>
 <table style="height: 1255px; width: 100%;" width="100%">
 <tbody>
-<td style="height: 10px;" width="5%"><span style="font-size: 14pt;"><strong>1</strong></span></td>
-<td style="height: 10px;" width="94%"><span style="font-size: 14pt;"><strong>Attire</strong></span></td>
+<tr style="height: 69px;">
+<td style="height: 69px;" width="5%"><span style="font-size: 14pt;"><strong>1</strong></span></td>
+<td style="height: 69px;" width="94%"><span style="font-size: 14pt;"><strong>Attire</strong></span></td>
+</tr>
 <tr style="height: 292px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 292px;" width="5%"><span style="font-size: 14pt;">1.1</span></td>
 <td style="height: 292px;" width="94%"><span style="font-size: 14pt;"><u>School Uniform and Name-tag</u></span>
@@ -27,8 +29,14 @@ third_nav_title: Student Handbook
 
 <span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span></td>
 </tr>
-	<tr>![](/images/school%20uniform.png)</tr>
-	<tr>![](/images/school%20uniform2.png)</tr>
+<tr style="height: 337px;">
+<td style="height: 337px;" width="5%"></td>
+<td style="height: 337px;" width="94%"><img src="/images/school%20uniform.png" alt="School Uniform.png"/></td>
+</tr>
+<tr style="height: 337px;">
+<td style="height: 337px;" width="5%"></td>
+<td style="height: 337px;" width="94%"><img src="/images/school%20uniform2.png" alt="School Uniform2.png"/></td>
+</tr>
 <tr style="height: 220px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 220px;" width="5%"><span style="font-size: 14pt;">1.2</span></td>
 <td style="height: 220px;" width="94%"><span style="font-size: 14pt;"> <u>Footwear</u></span>
@@ -41,7 +49,7 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
-
+&nbsp;
 <table style="height: 795px; width: 100%;" width="100%">
 <tbody>
 <tr style="height: 83px;">
@@ -74,11 +82,15 @@ third_nav_title: Student Handbook
 
 <span style="font-size: 14pt;">I will not wear any other accessories.</span>
 
-<span style="font-size: 14pt;">No form of body decoration (e.g. tattoos) is allowed.</span>![](/images/hairstyle.jpg)</td>
+<span style="font-size: 14pt;">No form of body decoration (e.g. tattoos) is allowed.</span></td>
+</tr>
+<tr style="height: 152px;">
+<td style="text-align: left; vertical-align: top; height: 152px;" width="5%"></td>
+<td style="height: 152px;" width="94%"><img src="/images/hairstyle.jpg" alt="Hairstyle.jpg"/></td>
 </tr>
 </tbody>
 </table>
-
+&nbsp;
 <table style="height: 456px; width: 100%;" width="100%">
 <tbody>
 <tr style="height: 69px;">
@@ -105,6 +117,7 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
+&nbsp;
 
 <span style="font-size: 14pt;"><u>Respect for Nation and School</u></span>
 <table style="height: 236px; width: 100%;" width="100%">
@@ -123,6 +136,7 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
+&nbsp;
 
 <span style="font-size: 14pt;"><u>Golden Rules for a Pleasant School Experience</u></span>
 <table style="height: 750px; width: 100%;" width="100%">
@@ -165,5 +179,6 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
-
 <em>Consequences for the transgression of the <strong>School Rules</strong> have been briefed at the school’s assembly as well as at other suitable platforms.</em>
+
+&nbsp;
