@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - ICT Fault Reporting Form.md
       - 2023 Timetable.md
       - School Based Assessment.md
       - Blended Learning/.keep
@@ -16,3 +15,4 @@ collections:
       - Student Handbook/Post Secondary Landscape.md
       - Student Handbook/Safety Guidelines.md
       - Education and Career Guidance.md
+      - ICT Fault Reporting Form.md
