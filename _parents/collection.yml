@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - Useful Parent Articles/Raising Successful Children.md
-      - Useful Parent Articles/How Not To Talk To Your Kids.md
-      - Useful Parent Articles/Safe Guarding Your Child Online.md
-      - Useful Parent Articles/Cyber Wellness For Parents.md
-      - Useful Parent Articles/Sign Up For Parents Gateway.md
       - Useful Parent Articles/.keep
+      - Useful Parent Articles/Sign Up For Parents Gateway.md
+      - Useful Parent Articles/Cyber Wellness For Parents.md
+      - Useful Parent Articles/Safe Guarding Your Child Online.md
+      - Useful Parent Articles/How Not To Talk To Your Kids.md
+      - Useful Parent Articles/Raising Successful Children.md
       - Parents Support Group.md
       - Personalised Digital Learning Programme (PDLP).md
       - School Based Assessment.md
