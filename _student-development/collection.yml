@@ -2,6 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCEs/Values In Action (VIA).md
-      - CCEs/Character and Citizenship Education (CCE).md
       - CCEs/.keep
+      - CCEs/Character and Citizenship Education (CCE).md
+      - CCEs/Values In Action (VIA).md
