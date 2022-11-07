@@ -10,7 +10,6 @@ third_nav_title: Student Handbook
 
 <span style="font-size: 14pt;">SGS adopts Restorative Practices (RP) to proactively build relationships and a sense of community to prevent conflict and wrong-doing. RP is characterised by high control (limit-setting, discipline) and high support (encourage, nurture) processes, and is rooted in the values of Responsibility, Respect, Compassion, Support, Restoring, Trust and Restitution. In addressing actions that do not respect the rules, we are able to tap on the established relationships to foster cooperative behaviour, thus minimising the need for punitive measures. In addition to facilitating the inculcation of values and social and emotional competencies, we believe that RP will help develop students who are happier, more cooperative and productive, and more likely to make positive changes in their behaviour.</span>
 
-
 <span style="font-size: 14pt;"><u>First Impressions Count</u></span>
 <table style="height: 1255px; width: 100%;" width="100%">
 <tbody>
@@ -28,9 +27,9 @@ third_nav_title: Student Handbook
 
 <span style="font-size: 14pt;">On Fridays, I may wear my second uniform (ie: PE/CCA T-shirt with my school skirt/shorts/long pants). During PE lessons or physical activities, I will wear my PE attire.</span>
 
-<span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.<p>![](/images/school%20uniform.png)![](/images/school%20uniform2.png)</span></td>
+<span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span>![](/images/school%20uniform.png)![](/images/school%20uniform2.png)</td>
 </tr>
-</tr>
+	
 <tr style="height: 220px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 220px;" width="5%"><span style="font-size: 14pt;">1.2</span></td>
 <td style="height: 220px;" width="94%"><span style="font-size: 14pt;"> <u>Footwear</u></span>
@@ -43,7 +42,7 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
-&nbsp;
+
 <table style="height: 795px; width: 100%;" width="100%">
 <tbody>
 <tr style="height: 83px;">
@@ -76,11 +75,11 @@ third_nav_title: Student Handbook
 
 <span style="font-size: 14pt;">I will not wear any other accessories.</span>
 
-<span style="font-size: 14pt;">No form of body decoration (e.g. tattoos) is allowed.![](/images/hairstyle.jpg)</span></td>
+<span style="font-size: 14pt;">No form of body decoration (e.g. tattoos) is allowed.</span>![](/images/hairstyle.jpg)</td>
 </tr>
 </tbody>
 </table>
-&nbsp;
+
 <table style="height: 456px; width: 100%;" width="100%">
 <tbody>
 <tr style="height: 69px;">
@@ -107,7 +106,6 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
-&nbsp;
 
 <span style="font-size: 14pt;"><u>Respect for Nation and School</u></span>
 <table style="height: 236px; width: 100%;" width="100%">
@@ -126,7 +124,6 @@ third_nav_title: Student Handbook
 </tr>
 </tbody>
 </table>
-&nbsp;
 
 <span style="font-size: 14pt;"><u>Golden Rules for a Pleasant School Experience</u></span>
 <table style="height: 750px; width: 100%;" width="100%">
@@ -164,11 +161,10 @@ third_nav_title: Student Handbook
 <tr style="height: 104px;">
 <td style="height: 104px; text-align: left; vertical-align: top;" width="6%"><span style="font-size: 14pt;">5.6</span></td>
 <td style="height: 104px; text-align: left; vertical-align: top;" width="93%"><span style="font-size: 14pt;">I will be guided by the school values of<strong> PRIDE</strong>:  </span>
-	
+
 <span style="font-size: 14pt;"><strong>P</strong>erseverance, <strong>R</strong>espect, <strong>I</strong>ntegrity, <strong>D</strong>iligence,<strong> E</strong>mpathy at all times.</span></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 
 <em>Consequences for the transgression of the <strong>School Rules</strong> have been briefed at the school’s assembly as well as at other suitable platforms.</em>
