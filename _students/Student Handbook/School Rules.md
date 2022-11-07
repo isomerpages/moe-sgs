@@ -30,7 +30,7 @@ third_nav_title: Student Handbook
 <span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span>![](/images/school%20uniform.png)![](/images/school%20uniform2.png)</td>
 </tr>
 	
-<tr style="height: 220px;">
+<tr style="height: 120px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 220px;" width="5%"><span style="font-size: 14pt;">1.2</span></td>
 <td style="height: 220px;" width="94%"><span style="font-size: 14pt;"> <u>Footwear</u></span>
 
