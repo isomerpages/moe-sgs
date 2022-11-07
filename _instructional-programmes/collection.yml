@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Subjects/Physical Education.md
       - Subjects/Arts.md
       - Subjects/Nutrition and Food Science.md
       - Subjects/Music.md
