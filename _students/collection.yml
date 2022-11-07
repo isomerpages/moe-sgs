@@ -2,13 +2,13 @@ collections:
   students:
     output: true
     order:
-      - Student Handbook/Safety Guidelines.md
-      - Student Handbook/Post Secondary Landscape.md
-      - Student Handbook/Promotion Criteria.md
-      - Student Handbook/Support for Students.md
-      - Student Handbook/Financial Assistance Schemes (FAS).md
-      - Student Handbook/School Rules.md
       - Student Handbook/.keep
+      - Student Handbook/School Rules.md
+      - Student Handbook/Financial Assistance Schemes (FAS).md
+      - Student Handbook/Support for Students.md
+      - Student Handbook/Promotion Criteria.md
+      - Student Handbook/Post Secondary Landscape.md
+      - Student Handbook/Safety Guidelines.md
       - 2023 Timetable.md
       - School Based Assessment.md
       - Blended Learning/.keep
