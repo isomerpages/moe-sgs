@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Subjects/Computing & Computer Applications.md
       - Subjects/Design & Technology.md
       - Subjects/Humanities.md
       - Subjects/Science.md
