@@ -2,6 +2,9 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Assessment Guidelines.md
+      - Applied Learning Programme.md
+      - Subjects/.keep
       - Subjects/Physical Education.md
       - Subjects/Arts.md
       - Subjects/Nutrition and Food Science.md
@@ -14,7 +17,4 @@ collections:
       - Subjects/Mathematics.md
       - Subjects/Mother Tongue.md
       - Subjects/English Language and Literature.md
-      - Subjects/.keep
-      - Assessment Guidelines.md
-      - Applied Learning Programme.md
       - Staff Professional Development.md
