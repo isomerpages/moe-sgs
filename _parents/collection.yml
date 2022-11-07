@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Personalised Digital Learning Programme (PDLP).md
       - School Based Assessment.md
