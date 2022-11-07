@@ -13,10 +13,8 @@ third_nav_title: Student Handbook
 <span style="font-size: 14pt;"><u>First Impressions Count</u></span>
 <table style="height: 1255px; width: 100%;" width="100%">
 <tbody>
-<tr style="height: 69px;">
-<td style="height: 69px;" width="5%"><span style="font-size: 14pt;"><strong>1</strong></span></td>
-<td style="height: 69px;" width="94%"><span style="font-size: 14pt;"><strong>Attire</strong></span></td>
-</tr>
+<td style="height: 10px;" width="5%"><span style="font-size: 14pt;"><strong>1</strong></span></td>
+<td style="height: 10px;" width="94%"><span style="font-size: 14pt;"><strong>Attire</strong></span></td>
 <tr style="height: 292px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 292px;" width="5%"><span style="font-size: 14pt;">1.1</span></td>
 <td style="height: 292px;" width="94%"><span style="font-size: 14pt;"><u>School Uniform and Name-tag</u></span>
@@ -27,10 +25,11 @@ third_nav_title: Student Handbook
 
 <span style="font-size: 14pt;">On Fridays, I may wear my second uniform (ie: PE/CCA T-shirt with my school skirt/shorts/long pants). During PE lessons or physical activities, I will wear my PE attire.</span>
 
-<span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span>![](/images/school%20uniform.png)![](/images/school%20uniform2.png)</td>
+<span style="font-size: 14pt;">During school and national examinations, I will wear my first school uniform.</span></td>
 </tr>
-	
-<tr style="height: 120px;">
+	<tr>![](/images/school%20uniform.png)</tr>
+	<tr>![](/images/school%20uniform2.png)</tr>
+<tr style="height: 220px;">
 <td style="width: 5%; text-align: left; vertical-align: top; height: 220px;" width="5%"><span style="font-size: 14pt;">1.2</span></td>
 <td style="height: 220px;" width="94%"><span style="font-size: 14pt;"> <u>Footwear</u></span>
 
