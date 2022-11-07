@@ -12,7 +12,7 @@ sections:
       title: Serangoon Garden Secondary School
       subtitle: © 2022 All rights reserved. Serangoon Garden Secondary School
       button: CONTACT US
-      url: .
+      url: /about-sgs/contact-us/
   - resources:
       title: Annoucement
       button: More annoucements
