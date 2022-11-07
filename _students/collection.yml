@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Handbook/Support for Students.md
       - Student Handbook/Financial Assistance Schemes (FAS).md
       - Student Handbook/School Rules.md
       - Student Handbook/.keep
