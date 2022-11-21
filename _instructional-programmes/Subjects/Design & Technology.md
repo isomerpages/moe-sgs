@@ -4,7 +4,7 @@ permalink: /instructional-programmes/Design-Technology/
 description: ""
 third_nav_title: Subjects
 ---
-### Outline of Curriculum  
+## Outline of Curriculum  
 Design process is the key platform in Design & Technology. It guides the act of conceptualising and creating design solutions that are practical and appropriate in everyday life. Students undertake a series of design and make projects progressively (from Secondary 1 to 4/5) to acquire new knowledge and skills through this learning platform.  
 
 Students are also encouraged to take part in enrichment programmes such as seminars and competitions to apply their knowledge learned in class and reinforce their learning
