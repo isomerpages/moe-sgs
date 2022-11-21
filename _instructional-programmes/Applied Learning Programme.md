@@ -4,7 +4,10 @@ permalink: /instructional-programmes/alp/
 description: ""
 ---
 # Overview of ALP @ SGS- Research Society through Media Literacy (RSML) 
-  
+>Cross disciplinary project work, media literacy training workshops, Learning journeys to external organizations
+
+![](/images/ALP-Framework.png)
+
 Our school’s Applied Learning Programme (ALP)—‘Researching Society through Media Literacy’ (RSML) aims to nurture our students to become “Learners with grit, Leaders with heart”. It hopes to deepen our students’ 21st Century Competencies through a focus on metacognition using various thinking routines, drawing on the creativity of the students to benefit the society through the use of Design-Thinking process.  
   
 A focus on media literacy which include an appreciation of the use of media as a tool for research and advocacy as well as how to manage the use of this tool, that provides a wider outreach to the intended audience. Societal issues explored through the use of various forms of media tools including the internet, videography, photography, podcasting and social media platforms provide enhanced opportunities for our young Sgsians to demonstrate their agency in an applied context that is meaningful and compassionate.  
@@ -20,9 +23,5 @@ Students are equipped with media literacy competencies over the course of the pr
   
 In this learning process, they will develop skills such as critical thinking, reasoning, analysis and media literacy skills, which are vital for the future. When carrying out their research, students have access to knowledge and perspectives on contemporary and complex societal issues which are pertinent to Singapore and the World. With informed minds, they then make better decisions and develop innovative solutions to improve the community, through use of varied technologies. SGSians will grow in confidence as self-directed learners and active contributors to the society.
 
-
->Cross disciplinary project work, media literacy training workshops, Learning journeys to external organizations
-
-![](/images/ALP-Framework.png)
-
 ![](/images/alp.png)
+
