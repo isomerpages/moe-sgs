@@ -36,19 +36,7 @@ A student who is absent for a paper during an examination/ WA due to illness, mu
 The table below provides details on how absence will affect the student:
 	
 **Absence from Weighted Assessment (WA)/ Examinations**
-<style>
-table {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-	th {
-  background-color: #96D4D4;
-	}
-	tr  {
-	border: 2px solid black;
-  border-collapse: collapse;
-	}
-</style>
+
 <table>
 <thead>
   <tr>
@@ -56,9 +44,6 @@ table {
     <th>Without Medical Certificate (MC)</th>
   </tr>
 </thead>
-<tbody>
-  <tr>	
-  </tr>
   <tr>
     <td>All component(s) taken by students will be reflected as “MC” in the Result Slip.</td>
     <td>* AB will be reflected in the Result Slip.<br>
