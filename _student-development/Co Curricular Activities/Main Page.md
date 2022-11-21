@@ -65,7 +65,6 @@ Participation in CCA is compulsory for all secondary school students.
     <td><a href="">Red Cross Youth</a></td>
 		<td></td>
   </tr>
-</table>
 <style>
 table {
   border: 1px solid black;
