@@ -22,10 +22,10 @@ Participation in CCA is compulsory for all secondary school students.
 <table>
 <thead>
   <tr>
-    <th><strong>Clubs and Societies</th>
-    <th><strong>Physical Sports</th>
-    <th><strong>Uniformed Groups</th>
-		<th><strong>Visual and Performing Arts</th>
+    <th><strong>Clubs and Societies
+    <th><strong>Physical Sports
+    <th><strong>Uniformed Groups
+		<th><strong>Visual and Performing Arts
   </tr>
 </thead>
 <tbody>
