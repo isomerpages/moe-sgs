@@ -11,8 +11,7 @@ The **TORCH** symbolises the bright future that our our pupils can overlook fo
 
 The **BIRD** represents the “Seranggong” – a bird which is said to have been peculiar to the area in which our school is located. Thus, it indicates that our school is situated in the Serangoon district.
 
-# Our School Song
-
+### Our School Song
 Go forth! Our Blazing torch uphold  
 With friendships true and hearts of gold.  
 Let’s learn with grace and serve with pride.  
