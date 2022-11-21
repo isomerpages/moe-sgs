@@ -18,4 +18,12 @@ In the upper secondary level, students learn to identify design opportunities in
 In the process of working on design and make projects, students are able to develop 21st century competencies – skills like civic literacy, global awareness and cross-cultural skills, critical and inventive thinking, and communication, collaboration and information and skills.  
 This is in line with the SGS’s vision of “Learners with Grit, Leaders with Heart”.
 
-![](/images/dnt.gif)
+![](/images/department%20photo%202022%20-%20Md%20Imran.jpeg)
+
+![](/images/Garden%20Fiesta%20DT%20Exhibition%202022%20-%20Md%20Imran.jpeg)
+
+![](/images/Visit%20to%20Temasek%20Aviation%20Academy%202022%20-%20Md%20Imran.jpeg)
+
+![](/images/Workshop%20at%20Temasek%20Polytechnic%202022%20-%20Md%20Imran.jpeg)
+
+![](/images/Design%20seminar%202022%20-%20Md%20Imran.jpeg)
