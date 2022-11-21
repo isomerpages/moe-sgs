@@ -12,7 +12,6 @@ Through the study of accounting, students will develop a keen eye for detail and
 ### Curriculum Content  
 Students will acquire knowledge and understanding of fundamental accounting theories, principles and procedures. Students will learn to appreciate the accounting information system, apply double entry system of recording business transactions, and organize and present accounting information in ledger accounts and financial statements. Students will also analyse effects of accounting transactions, interpret ledgers and financial statements, and make business decisions in scenario based questions. For O level students, they will also evaluate efficiency of business in terms of profitability, liquidity, inventory and trade receivable managements using financial information and ratios.
 
-<br>
 
 >Humanities Day, POA Games, POA Proficiency Badges, Tea sessions with Businessman, Elective course with polytechnic
 
