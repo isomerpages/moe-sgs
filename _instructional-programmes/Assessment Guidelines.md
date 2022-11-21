@@ -54,7 +54,19 @@ The table below provides details on how absence will affect the student:
     <td>It will be computed as zero marks in the overall results. </td>
   </tr>
 	</table>
-	
+	<style>
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+	th {
+  background-color: #96D4D4;
+	}
+	tr  {
+	border: 2px solid black;
+  border-collapse: collapse;
+	}
+</style>
 This practice will ensure
 
 * alignment with the national examination where there is no re-attempt for examination papers missed
