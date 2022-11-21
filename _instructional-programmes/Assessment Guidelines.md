@@ -81,4 +81,3 @@ We seek your cooperation **NOT** to send your child/ward to school for Weighte
 All students are responsible for upholding the highest standards of academic conduct and integrity in all academic undertakings. Any act of academic dishonesty, including cheating and plagiarism, will be subjected to stern disciplinary actions.
 
 All in all, through assessment, teachers gather information about your child’s learning and provide feedback about his/her accomplishments and gaps. This informational feedback that your child receives can be used to make himself or herself more competent, making your child intrinsically motivated. With the information, your child will be empowered to do better, and learn for life.
-	
