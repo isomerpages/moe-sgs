@@ -31,17 +31,3 @@ Nutrition and Food Science 5979 (Normal Technical)
   
 ### NFS Projects by Students:  
 * SGS Young Nutritionist Programme
-
-![Hydroponics Collaboration with Science Department](/images/FN1.jpg)
-
-![Secondary 2 Practical Lesson](/images/FN2.jpg)
-
-![Food and Beverage Entrepreneurship Competition](/images/FN3.jpg)
-
-![Food and Beverage Entrepreneurship Competition](/images/FN4.jpg)
-
-![Lower Secondary Gamified Learning](/images/FN5.jpg)
-
-![Young Nutritionist Programme: ‘My Carb is Better than Your Carb Challenge’](/images/FN6.png)
-
-![Young Nutritionist Programme: ‘My Carb is Better than Your Carb Challenge’](/images/FN7.png)
