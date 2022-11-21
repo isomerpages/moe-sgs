@@ -34,9 +34,21 @@ Summative assessment aims to evaluate student learning and academic achievement 
 A student who is absent for a paper during an examination/ WA due to illness, must produce a Medical Certificate (MC) to cover his/her absence. A student without an MC will be given zero mark for the paper he/she missed. MCs issued by Traditional Chinese Medicine (TCM) practitioners and letters from parents/ guardian will not be accepted.
 
 The table below provides details on how absence will affect the student:
-	
-**Absence from Weighted Assessment (WA)/ Examinations**
 
+**Absence from Weighted Assessment (WA)/ Examinations**
+<style>
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+	th {
+  background-color: #96D4D4;
+	}
+	tr  {
+	border: 2px solid black;
+  border-collapse: collapse;
+	}
+</style>
 <table>
 <thead>
   <tr>
@@ -54,19 +66,7 @@ The table below provides details on how absence will affect the student:
     <td>It will be computed as zero marks in the overall results. </td>
   </tr>
 	</table>
-	<style>
-table {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-	th {
-  background-color: #96D4D4;
-	}
-	tr  {
-	border: 2px solid black;
-  border-collapse: collapse;
-	}
-</style>
+
 This practice will ensure
 
 * alignment with the national examination where there is no re-attempt for examination papers missed
