@@ -19,20 +19,6 @@ Participation in CCA is compulsory for all secondary school students.
 ### CCAs in SGS
 (Note that CCA offers are subjected to changes.)
 
-<style>
-table {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-	th {
-  background-color: #96D4D4;
-	}
-	tr  {
-	border: 2px solid black;
-  border-collapse: collapse;
-	}
-</style>
-
 <table>
 <thead>
   <tr>
@@ -80,3 +66,16 @@ table {
 		<td></td>
   </tr>
 </table>
+<style>
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+	th {
+  background-color: #96D4D4;
+	}
+	tr  {
+	border: 2px solid black;
+  border-collapse: collapse;
+	}
+</style>
