@@ -3,11 +3,7 @@ title: Contact Us
 permalink: /about-sgs/contact-us/
 description: ""
 ---
-
-
-
-
-# Student Matters
+### Student Matters
 <style>
 table {
   border: 1px solid black;
@@ -71,7 +67,7 @@ table {
 </tbody>
 </table>
 
-# 2022 Form Teachers
+### 2022 Form Teachers
 <table>
 <thead>
   <tr>
