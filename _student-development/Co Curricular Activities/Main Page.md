@@ -32,13 +32,11 @@ table {
 	}
 </style>
 <table>
-<thead>
   <tr>
 		<th><strong>Clubs and Societies</th>
     <th><strong>Physical Sports</th>
     <th><strong>Uniformed Groups</th>
 		<th><strong>Visual and Performing Arts</th>
-	</thead>
 <tbody>
   <tr>
     <td><a href="">Media Club</a></td>
@@ -76,5 +74,5 @@ table {
     <td><a href="">Red Cross Youth</a></td>
 		<td></td>
   </tr>
-			</tbody>
-			</table>
+</tbody>
+</table>
