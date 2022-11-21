@@ -81,9 +81,6 @@ table {
   </tr>
 </table>
 
-
-### CCA Schedule
-
 <style>
 table {
   border: 1px solid black;
@@ -97,7 +94,7 @@ table {
   border-collapse: collapse;
 	}
 </style>
-
+### CCA Schedule
 <table>
 <thead>
   <tr>
