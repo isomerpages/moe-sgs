@@ -81,6 +81,7 @@ table {
   </tr>
 </table>
 
+
 ### CCA Schedule
 
 <style>
@@ -198,4 +199,3 @@ table {
 	The complete LEAPS 2.0 document for parents is available on the MOE Website.
 
 [https://www.moe.gov.sg/programmes/cca/leaps2-0](https://www.moe.gov.sg/programmes/cca/leaps2-0)
-	
