@@ -135,3 +135,51 @@ This refers to being selected and endorsed by the school or an organisation endo
 
 ##### 6. Accomplishment
 It refers to attaining accolades and awards at competitions, festivals, performances, exhibitions, conferences and symposiums where the student represents the school or other organisations endorsed by the school.
+
+##### <u>Recognition of Students’ Level of Attainment</u>
+At the end of the graduating year, students’ co-curricular attainment will be recognised according to Excellent/Good/Fair. The level of attainment will be converted to a bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/Poly/ITE).
+
+<style>
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+	th {
+  background-color: #96D4D4;
+	}
+	tr {
+	border: 2px solid black;
+  border-collapse: collapse;
+	}
+</style>
+
+<table>
+<thead>
+  <tr>
+    <th><strong>Co-Curricular Attainment</th>
+    <th><strong>Details</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Excellent  
+(2 bonus points)</td>
+    <td>Student who attains a minimum Level 3 in all four domains with at least a Level 4 in one domain.</td>
+  </tr>
+	  <tr>
+    <td>Good  
+(1 bonus point)</td>
+    <td>Student who attains a minimum Level 1 in all four domains with any one of the following:
+			
+			i.  At least Level 2 in three domains;
+			ii. At least Level 2 in one domain and at least Level 3 in another domain; or
+			iii. At least Level 4 in one domain.</td>
+  </tr>
+		  <tr>
+    <td>Fair</td>
+    <td>Student’s attainment in co-curricular will not translate into any bonus points.</td>
+  </tr>
+	</table>
+	The complete LEAPS 2.0 document for parents is available on the MOE Website.
+
+[https://www.moe.gov.sg/programmes/cca/leaps2-0](https://www.moe.gov.sg/programmes/cca/leaps2-0)
