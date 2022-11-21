@@ -3,10 +3,7 @@ title: Our Badge & School Song
 permalink: /about-us/Our-Badge-School-Song/
 description: ""
 ---
-
-
-
-The **BOOK** symbolises the school’s aim to enable our pupils to achieve the highest level of academic achievement, which they are capable of.
+![](/images/school-logo-transparent.png)The **BOOK** symbolises the school’s aim to enable our pupils to achieve the highest level of academic achievement, which they are capable of.
 
 The **WHEELS** represent the hope that our pupils will be able, in the course of their studies in this school, to learn the diverse inter-related skills for lifelong learning to stay relevant in the face of constant change.
 
