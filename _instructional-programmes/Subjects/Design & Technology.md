@@ -27,3 +27,5 @@ This is in line with the SGS’s vision of “Learners with Grit, Leaders with H
 ![](/images/Workshop%20at%20Temasek%20Polytechnic%202022%20-%20Md%20Imran.jpeg)
 
 ![](/images/Design%20seminar%202022%20-%20Md%20Imran.jpeg)
+
+![](/images/1667986413969%20-%20Md%20Imran.jpg)
