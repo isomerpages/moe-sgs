@@ -64,10 +64,7 @@ Participation in CCA is compulsory for all secondary school students.
 		<td></td>
   </tr>
 			</table>
-	
-	
-### CCA Schedule
-<style>
+	<style>
 table {
   border: 1px solid black;
   border-collapse: collapse;
@@ -80,33 +77,3 @@ table {
   border-collapse: collapse;
 	}
 </style>
-<table>
-<thead>
-  <tr>
-    <th><strong>Day</th>
-    <th><strong>Time</th>
-    <th><strong>CCA</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Monday</td>
-    <td>3.00pm to 5.30pm</td>
-    <td>Badminton</td>
-  </tr>
-	  <tr>
-    <td>Tuesday</td>
-    <td>3.00pm to 5.30pm</td>
-    <td>All Clubs and Societies, Physical Sports and Visual and Performing Arts CCAs.</td>
-  </tr>
-	  <tr>
-    <td>Thursday</td>
-    <td>3.00pm to 5.30pm</td>
-    <td>All Clubs and Societies, Physical Sports and Visual and Performing Arts CCAs.</td>
-  </tr>
-		  <tr>
-    <td>Friday</td>
-    <td>2.00pm to 5.00pm</td>
-    <td>All Uniformed Group CCAs.</td>
-  </tr>
-	</table>
