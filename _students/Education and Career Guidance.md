@@ -4,4 +4,5 @@ permalink: /students/Education-and-Career-Guidance/
 description: ""
 ---
 ![](/images/ECG1.png)![](/images/ECG2.png)![](/images/ECG3.png)
-<a href="https://go.gov.sg/sgsecg"><img src="/images/ECG4.png"></a>
+<a href="https://go.gov.sg/sgsecg"><img src="/images/ECG6.png"></a>
+
