@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 ![](/images/CCE5.jpeg)
 
- >Circle Time in CCE lessions
+ >Circle Time in CCE lessons
  
 ![](/images/CCE6.jpeg)
 
