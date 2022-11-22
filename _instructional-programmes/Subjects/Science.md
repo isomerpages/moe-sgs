@@ -69,10 +69,3 @@ Student participants at Temasek Polytechnic
 
 ![](https://lh5.googleusercontent.com/WozCmaYEuJcHJPEmZRAapElBWH1PLEU7zRFx4ML3rcbbsR50IplehopKs5oKDjJHX5XPNtrYmyLegnHo5LjePzCIUKIb79VvMNXQF54sGgDYP4FO4Ei56FyieWepBaln4LICOAaVVtAzmMmlvvtxGQjM7APakhhDErPkkvc3ovAYoydKxEIWiA1lutEff690PJoWs45y) 
 Samples of students’ infographics posters from the GMAC Challenge
-
-![Nanyang Polytechnic Science & Technology Challenge 2016 Cheng Hiang Tan](https://lh5.googleusercontent.com/zHbhJnL4UTh1BhXYMSoyjbG6OSmJP1hXgL1tBgR3QfMKJPBUgRQQVZKqQdyY_xPSBRA6A8PuzT6I1M9Iy7fIpp1MnrHbtLu4DW9HWZY9qLIc_4vasMpo3UUhZadUaTuflnMNBap9JzcATrS1qmnabHdtqat3rf5IGLzXO7XOxe6PTS1vUaZ6bn-eozAjpiMlNriIXypu)      ![Nanyang Polytechnic Science & Technology Challenge 2016 (2) Cheng Hiang Tan](https://lh6.googleusercontent.com/iXyWOJZqS0QJvbYUjOJpj6DQ9nRVLpVPpR5zmoC0MS9VLvCTcpcgmzZvtvNLmYF7tjBg9uW7w6ypaxBTLLK1bkwyQ2VI6rIxYVDAUjA45OL-Nz1h096FMxiAtkiuQa6hXw8AbjM5f7e91-vLRbKv2vvabdXDUTeY8SgVxpT9uezgNo_Gm2VRCQxgqlHRTwK-QgQ_RgLI)
-\[Pre-Covid photo\] Nanyang Polytechnic Science & Technology Challenge
- 
-
-![Ngee Ann Polytechnic Powering Lives Challenge Cheng Hiang Tan](https://lh6.googleusercontent.com/IkCgpbFJnqexkOR774BuV-IEMii7dEcqdR_ccnG_NBeG7LyhKlfKWRb2zghcNodhSjCJ4WqvCXGxrdELuqROLseobn_prt6rfrqoCQYiaq3NP2La7-hyWHdqxI03z4tOO-zis5RB-4NlwREjvnrJstScRasE5zahGRPnQHlxzxvlN-KGt7joKayupuwndosBroszL9jn)
-\[Pre-Covid photo\] Ngee Ann Polytechnic Powering Lives Challenge
