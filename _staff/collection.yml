@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - School Calendar.md
       - LINKS.md
