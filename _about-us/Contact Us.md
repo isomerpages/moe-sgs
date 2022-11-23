@@ -124,9 +124,6 @@ table {
   </tr>
 </thead>
 <tbody>
-	  <tr>
-	
-  </tr>
 <tr>
  <td rowspan="2">1 Perseverance </td>
 <td>Mr Hasren </td>
@@ -459,5 +456,4 @@ table {
 <td>Mdm Wu Pijuan </td>
 <td><a href="mailto: wu_pijuan@moe.edu.sg">wu_pijuan@moe.edu.sg</a></td>
 </tr>
-</tbody>
 </table>
