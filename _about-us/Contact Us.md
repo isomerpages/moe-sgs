@@ -459,3 +459,4 @@ table {
 	</tbody>
 </table>
 
+![](/images/Getting-to-sgs.jpg)
