@@ -67,6 +67,43 @@ table {
 </tbody>
 </table>
 
+### SEN Officers & Counsellor
+<table>
+<thead>
+  <tr>
+    <th>NAME</th>
+    <th>EMAIL ADDRESS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mdm Alice Yeo Ai Lee </td>
+    <td><a href="mailto:yeo_ai_lee_alice@schools.gov.sg">yeo_ai_lee_alice@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm Asmita</td>
+    <td><a href="mailto:asmita_a@moe.edu.sg">asmita_a@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td>Mr Dennis Okyere Abbeyquaye</td>
+    <td><a href="mailto:dennis_okyere_abbeyquaye@moe.edu.sg">dennis_okyere_abbeyquaye@moe.edu.sg</a></td>
+  </tr>
+		<tr>
+    <td>Ms Grace Tan Yan Yan</td>
+    <td><a href="mailto:tan_yan_yan_grace@moe.edu.sg">tan_yan_yan_grace@moe.edu.sg</a></td>
+  </tr>
+		<tr>
+    <td>Mdm Loh Lai Choon</td>
+    <td><a href="mailto:loh_lai_choon@moe.edu.sg">loh_lai_choon@moe.edu.sg</a></td>
+  </tr>
+	<tr>
+    <td>Mdm Siti Syazalina binte Mohd Salleh</td>
+    <td><a href="mailto:siti_syazalina_mohd_salleh@moe.edu.sg
+">siti_syazalina_mohd_salleh@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
 ### 2022 Form Teachers
 <table>
 <thead>
