@@ -3,8 +3,8 @@ title: Contact Us
 permalink: /about-sgs/contact-us/
 description: ""
 ---
-![](/images/Map1.jpg)
-![](/images/Map2.jpg)
+![](/images/Map3.jpg)
+![](/images/Map4.jpg)
 
 ### Student Matters
 <style>
