@@ -36,6 +36,10 @@ Nutrition and Food Science 5979 (Normal Technical)
 
 ![](/images/FN4.jpeg)
 
+![](/images/FN8.jpeg)
+
+![](/images/FN9.jpeg)
+
 ![](/images/FN6.jpeg)
 
 ![](/images/FN7.jpeg)
