@@ -3,6 +3,9 @@ title: Contact Us
 permalink: /about-sgs/contact-us/
 description: ""
 ---
+![](/images/Map1.jpg)
+![](/images/Map2.jpg)
+
 ### Student Matters
 <style>
 table {
@@ -458,5 +461,3 @@ table {
 	</tr>
 	</tbody>
 </table>
-
-![](/images/Getting-to-sgs.jpg)
