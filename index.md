@@ -12,7 +12,7 @@ sections:
       title: Serangoon Garden Secondary School
       subtitle: Learners with Grit. Leaders with Heart
   - infobar:
-      description: <iframe width="900" height="720"
+      description: <iframe width="1080" height="500"
         src="https://www.youtube.com/embed/iI567sFzbxo" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
