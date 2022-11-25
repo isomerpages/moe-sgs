@@ -13,3 +13,8 @@ description: ""
 
 **Please click on the link to view or download the booklist.**
 
+#### <u>Secondary 2 Book list</u>
+* [Secondary 2 Normal Technical](/files/Sec2-NT-2023-Booklist.pdf)
+* [Secondary 2 Normal Academic](/files/Sec2-NA-2023-Booklist.pdf)
+* [Secondary 2 Express](/files/Sec2-Express-2023-Booklist.pdf)
+
