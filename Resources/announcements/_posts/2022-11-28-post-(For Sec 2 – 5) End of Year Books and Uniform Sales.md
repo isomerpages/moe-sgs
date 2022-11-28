@@ -22,17 +22,17 @@ image: ""
 * [Secondary 2 Express](/files/Sec2-Express-2023-Booklist.pdf)
 
 #### <u>Secondary 3 Book list</u>
-* [Secondary 3 Normal Technical](/files/Sec3-NT-2023-Booklist.pdf)
-* [Secondary 3 Normal Academic](/files/Sec3-NA-2023-Booklist.pdf)
-* [Secondary 3 Express](/files/Sec3-Express-2023-Booklist.pdf)
+* [Secondary 3 Normal Technical](/files/Sec3%20NT%202023%20Booklist.pdf)
+* [Secondary 3 Normal Academic](/files/Sec3%20NA%202023%20Booklist.pdf)
+* [Secondary 3 Express](/files/Sec3%20Express%202023%20Booklist.pdf)
 
 #### <u>Secondary 4 Book list</u>
-* [Secondary 4 Normal Technical](/files/Sec4-NT-2023-Booklist.pdf)
-* [Secondary 4 Normal Academic](/files/Sec4-NA-2023-Booklist.pdf)
-* [Secondary 4 Express](/files/Sec4-Express-2023-Booklist.pdf)
+* [Secondary 4 Normal Technical](/files/Sec4%20NT%202023%20Booklist.pdf)
+* [Secondary 4 Normal Academic](/files/Sec4%20NA%202023%20Booklist.pdf)
+* [Secondary 4 Express](/files/Sec4%20Express%202023%20Booklist.pdf)
 
 #### <u>Secondary 5 Book list</u>
-* [Secondary 5 Normal Academic](/files/Sec5-NA-2023-Booklist.pdf)
+* [Secondary 5 Normal Academic](/files/Sec5%20NA%202023%20Booklist.pdf)
 
 ### <u>School Uniform</u>
 * Order online by 30 Nov 2022 ([https://jeepsinguniform.com/collections/serangoon-gardens-secondary](https://jeepsinguniform.com/collections/serangoon-gardens-secondary))
