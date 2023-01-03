@@ -3,9 +3,9 @@ title: Da Whoosh Dance Club
 permalink: /student-development/CO-CURRICULAR-ACTIVITIES-CCA/dance-club/
 description: ""
 ---
-
-
 <p style="text-align: justify;"> “DWDC, Da Whoosh!” This is the cheer often made by the dancers of the SGS Da Whoosh Dance Club (DWDC). A close-knit team, the dancers have been building up their repertoire of Hip Hop and Modern Contemporary dance moves. As a CCA which emphasizes on student-led ideation and leadership, the dance club provides many opportunities for the dancers to choreograph different types of performances. </p>
+
+![](/images/Da%20Whoosh%20Dance%20Club%201.jpeg)
 
 ![](/images/CCA%20Dance%20Club/Slide2-1-1024x576.jpg)
 
