@@ -4,8 +4,8 @@ title: Serangoon Garden Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School-Logo.jpg
 permalink: /
-notification: New! Welcome to our staging site. We welcome and appreciate all
-  comments, thank you!
+notification: Please visit our official fb site to view more exciting updates on
+  our school programmes
 sections:
   - hero:
       background: /images/Isomer Banner.png
