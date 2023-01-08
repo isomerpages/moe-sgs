@@ -178,7 +178,6 @@ table {
 <td>Mr Tan Jit Huih </td>
 <td><a href="mailto: tan_jit_huih@moe.edu.sg">tan_jit_huih@moe.edu.sg</a></td>
 </tr>
-</tr>
 <tr>
  <td rowspan="2">1 Resilience </td>
 <td>Mr Alfred Liu </td>
