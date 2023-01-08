@@ -12,3 +12,6 @@ links:
     collection: parents
   - title: STAFF
     collection: staff
+  - title: Links
+    url: Link
+    sublinks: []
