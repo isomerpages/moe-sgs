@@ -80,9 +80,8 @@ table {
   </tr>
 </thead>
 <tbody>
-	  <tr>
-	
-  </tr>
+<tr>
+	</tr>
   <tr>
 		 <td>HOD/Edun Support</td>
     <td>Mdm Alice Yeo Ai Lee </td>
@@ -128,6 +127,7 @@ table {
 </thead>
 <tbody>
 <tr>
+	</tr>
  <td rowspan="2">1 Perseverance </td>
 <td>Mr Hasren </td>
 <td><a href="mailto: mohamad_hasren@moe.edu.sg">mohamad_hasren@moe.edu.sg</a></td>
