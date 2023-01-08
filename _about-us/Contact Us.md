@@ -137,13 +137,16 @@ table {
 <td><a href="mailto: tan_wei_ning@moe.edu.sg">tan_wei_ning@moe.edu.sg</a></td>
 </tr>
 <tr>
- <td rowspan="2">1 Respect </td>
+ <td rowspan="3">1 Respect </td>
 <td>Ms Yu Ka Yan </td>
 <td><a href="mailto: yu_ka_yan@moe.edu.sg">yu_ka_yan@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Osman </td>
 <td><a href="mailto: osman_b_abdul_majid@moe.edu.sg">osman_b_abdul_majid@moe.edu.sg</a></td>
+</tr>
+	<td>Mr Hum Wee Tien </td>
+<td><a href="mailto: hum_wee_tien@moe.edu.sg">hum_wee_tien@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">1 Integrity </td>
@@ -162,24 +165,28 @@ table {
 <tr>
 <td>Ms Victoria Ang </td>
 <td><a href="mailto: victoria_ang_ke_er@moe.edu.sg">victoria_ang_ke_er@moe.edu.sg</a></td>
-</tr>
 <tr>
- <td rowspan="2">1 Empathy </td>
-<td>Mr Alfred Liu </td>
-<td><a href="mailto: alfred_liu_hao_wei@moe.edu.sg>">alfred_liu_hao_wei@moe.edu.sg</td>
-</tr>
-<tr>
-<td>Ms Kwek Wen Qing </td>
-<td><a href="mailto: kwek_wen_qing@moe.edu.sg">kwek_wen_qing@moe.edu.sg</a></td>
-</tr>
-<tr>
- <td rowspan="2">1 Resilience </td>
+ <td rowspan="3">1  Empathy</td>
 <td>Mr Eric Phua </td>
 <td><a href="mailto: phua_ngee_seng@moe.edu.sg">phua_ngee_seng@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Ms Sia Boon Ping </td>
 <td><a href="mailto: sia_boon_ping@moe.edu.sg">sia_boon_ping@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Tan Jit Huih </td>
+<td><a href="mailto: tan_jit_huih@moe.edu.sg">tan_jit_huih@moe.edu.sg</a></td>
+</tr>
+</tr>
+<tr>
+ <td rowspan="2">1 Resilience </td>
+<td>Mr Alfred Liu </td>
+<td><a href="mailto: alfred_liu_hao_wei@moe.edu.sg>">alfred_liu_hao_wei@moe.edu.sg</td>
+</tr>
+<tr>
+<td>Ms Kwek Wen Qing </td>
+<td><a href="mailto: kwek_wen_qing@moe.edu.sg">kwek_wen_qing@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">1 Compassion </td>
@@ -295,8 +302,8 @@ table {
 <td><a href="mailto: wan_qi_lim@moe.edu.sg">wan_qi_lim@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td>Mrs V Santhi </td>
-<td><a href="mailto: v_santhi@moe.edu.sg">v_santhi@moe.edu.sg</a></td>
+<td>Mr Benjamin Tan </td>
+<td><a href="mailto: tan_qin_zhong_benjamin@moe.edu.sg">tan_qin_zhong_benjamin@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">3 Diligence </td>
@@ -327,8 +334,8 @@ table {
 </tr>
 <tr>
  <td rowspan="2">3 Compassion </td>
-<td>Mr Benjamin Tan </td>
-<td><a href="mailto: tan_qin_zhong_benjamin@moe.edu.sg">tan_qin_zhong_benjamin@moe.edu.sg</a></td>
+<td>Mrs V Santhi </td>
+<td><a href="mailto: v_santhi@moe.edu.sg">v_santhi@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Majidah </td>
@@ -344,17 +351,13 @@ table {
 <td><a href="mailto: chew_tee_jong_valerie@moe.edu.sg">chew_tee_jong_valerie@moe.edu.sg</a></td>
 </tr>
 <tr>
- <td rowspan="3">3 Wisdom </td>
+ <td rowspan="2">3 Wisdom </td>
 <td>Ms Sultanah </td>
 <td><a href="mailto: sultanah_ekhsan_hanim_ahma@moe.edu.sg">sultanah_ekhsan_hanim_ahma@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Linus Chan </td>
 <td><a href="mailto: chan_lin_siong_linus@moe.edu.sg">chan_lin_siong_linus@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Hum Wee Tien </td>
-<td><a href="mailto: hum_wee_tien@moe.edu.sg">hum_wee_tien@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">4 Perseverance </td>
@@ -421,7 +424,7 @@ table {
 </tr>
 <tr>
 <td>Mr Edmund Heng </td>
-<td><a href="mailto: "></a></td>
+<td><a href="mailto:heng_aik_ming_edmund@moe.edu.sg ">heng_aik_ming_edmund@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">4 Gratitude </td>
