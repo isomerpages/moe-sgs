@@ -14,4 +14,6 @@ links:
     collection: staff
   - title: Links
     url: Link
-    sublinks: []
+    sublinks:
+      - title: SGS Facebook
+        url: https://www.facebook.com/SerangoonGardenSecondarySchool/
