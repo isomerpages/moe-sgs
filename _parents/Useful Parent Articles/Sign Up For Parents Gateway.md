@@ -12,7 +12,7 @@ We would like to invite you to download the free Parents Gateway mobile app on y
 
 [Parents Gateway Slides (5 Jan 2019)](/files/SGS-Parents-Gateway-Slides.pdf)
 
-<iframe width="1232" height="693" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="680" height="350" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](/images/PG1.png)
 ![](/images/PG2.png)
