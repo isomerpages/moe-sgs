@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Safety Guideliness/.keep
       - 2023 Timetable.md
       - School Based Assessment.md
       - Blended Learning/.keep
