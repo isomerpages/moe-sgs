@@ -12,8 +12,7 @@ use every single day. As the digital world is rapidly evolving, the need for com
 
 ### Aims of the Computing Curriculum
 SGS offers both ‘O’ Level Computing as well as Computer Applications for our NT
-students.
-
+students.<br>
 The syllabus aims to provide students with the foundation to continue with further studies in computing and skills to participate in a rapidly changing technological environment so that the concepts and skills learnt would also be applicable in other fields that require computing.
 
 ### Developing Self-directed learners in a Blended Learning Environment
