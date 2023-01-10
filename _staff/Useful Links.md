@@ -3,12 +3,8 @@ title: Useful Links
 permalink: /staff-links/
 description: ""
 ---
-
-
-
-
-
 # Useful Links
+*  [Workplace by Facebook](https://onepublicservice.facebook.com/)
 *  [All Ears](https://forms.moe.edu.sg/)
 *  [Form SG](https://form.gov.sg/)
 *  [Go SG](https://go.gov.sg/)
@@ -31,4 +27,3 @@ description: ""
 *  [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
 *  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *  [Travel Advisory Portal (2022)](https://go.gov.sg/sgssstafftravel2022)
-*  [Workplace by Facebook](https://www.workplace.com/)
