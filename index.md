@@ -20,9 +20,11 @@ sections:
       title: Announcements
       button: More announcements
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: PDLP
+      subtitle: Personal Learning Device
+      description: How to purchase PLD Device
+      button: Click here
       alt: Image alt text
+      image: /images/PDLP1.png
+      url: https://youtu.be/irEmIsr6-lQ
 ---
