@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Safety Guidelines.md
       - 2023 Timetable.md
       - School Based Assessment.md
       - Blended Learning/.keep
@@ -14,6 +13,7 @@ collections:
       - Student Handbook/Support for Students.md
       - Student Handbook/Promotion Criteria.md
       - Student Handbook/Post Secondary Landscape.md
+      - Safety Guidelines.md
       - Education and Career Guidance.md
       - ICT Fault Reporting Form.md
       - SGS ICT Helpdesk.md
