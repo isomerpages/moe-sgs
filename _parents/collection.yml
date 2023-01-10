@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - Sign Up For Parents Gateway.md
       - School Based Assessment.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
+      - Sign Up For Parents Gateway.md
       - MOE Sexuality Education in Schools.md
       - Mental Health Education.md
