@@ -3,32 +3,25 @@ title: Girls’ Brigade
 permalink: /student-development/CO-CURRICULAR-ACTIVITIES-CCA/girls-brigade/
 description: ""
 ---
+<p style="text-align: justify;"> The Girls’ Brigade 55th Company aims to provide girls and young women with the opportunity to grow and lead, thereby developing them to their fullest potential. To equip, empower and enable every Girl to be a leader, and every Officer a Servant Leader, the company organise a holistic selection of activities such as camps, drills and badge work. These include both indoor and outdoor activities such as handicrafts, community outreach, outdoor cooking and learning journeys around Singapore. All of these will provide our girls with multiple opportunities to lead, plan and participate. </p>
 
-<p style="text-align: justify;"> The Serangoon Garden Secondary School Girls’ Brigade aims to help girls develop to their fullest potential by imbuing leadership and responsibility in our girls. In line with the GB90 vision “Grow and Go Beyond – Extend. Serve. Lead.”, our company maintains strong ties with Trinity Methodist Church. </p>
+##### **Key programmes**
 
-<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-1-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-1-250x250.jpg" 
-     style="width:50%"></a>
-		 
-<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-2-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-2-250x250.jpg" 
-     style="width:50%"></a>
+<p style="text-align: justify;"> The GB programme is meant to develop the girls' character, social-emotional and leadership competencies. Through planning and executing activities such as camps and VIA activities, girls will learn good values, be equipped with leadership skills, and be given the opportunities to lead and serve at home, in the company, and in the community. Leadership equipping opportunities are structured into the yearly programme, spiralling up from Sec 1, allowing girls to attain the rank of Staff Sergeant by Sec 4 or Sec 5 of their leadership journey. The girls are also empowered to represent the company and school at national competitions, such as the National Drill Competition and the Low Guat Tin Challenge. </p>
 
-<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-3-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-3-250x250.jpg" 
-     style="width:50%"></a>
-		 
-<a href="/images/CCA%20Girls'%20Brigade/Girls-Brigade-4-250x250.jpg" target = "_blank"> <img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade-4-250x250.jpg" 
-     style="width:50%"></a>
+##### **Achievements - Unit Overall Proficiency**
 
-<p style="text-align: justify;"> Our company aims to provide our girls with a wide range of experiences such as outdoor adventure and numerous service learning opportunities to equip them with necessary life skills, empowering each of them to make good decisions and display a sense of responsibility towards the community. </p>
+* 2021 – Gold
+* 2019 – Gold
 
-<p style="text-align: justify;"> Our company also prides ourselves on instilling discipline and tenacity in our girls. In the 2017 National Day Parade, we were proud to witness 2 of our cadets, Fareena and Sangita, representing the school in the Girls’ Brigade contingent. Through their experiences in the SGS Girls’ Brigade, our girls will mature into sensitive and caring individuals with a strong spirit of service. </p>
+##### **Achievements**
+* 2022 - Dr Low Guat Tin Challenge - Silver
+* 2021 - Dr Low Guat Tin Challenge - Silver
 
-##### **Online Co-curricular activities (_CCA_)**
+![](/images/CCA%20Girls'%20Brigade/Girls'%20Brigade%201.jpg)
 
-<p style="text-align: justify;"> Having not met their juniors for more than 2 months, the Secondary 3 leaders initiated a meet-up, via zoom during the Circuit Breaker (CB) period on 24 April 2020.  The leaders sought the kind permission of their teachers with regard to the first online meeting.  The Secondary 3 planned and conducted the online session.  To start off, the leaders asked their juniors to share experiences of their Home-Based Learning (HBL) sessions.  Thereafter, they played games online with one another.  It was indeed an engaging session, for both the cadets and teachers.  Moving forward, we met thrice, online in May 2020 where various online games like ‘Maffia’, ‘Guess the Lyrics’ and ‘Trivia’, were played. In addition, the cadets also discussed the possibility of having their Values-In-Action (VIA) and badge work when Term 3 begins. </p>
+![](/images/CCA%20Girls'%20Brigade/Girls'%20Brigade%202.jpg)
 
-<figure>
-<img src="/images/CCA%20Girls'%20Brigade/Girls-Brigade.jpg">
-<figcaption> <strong> Girls’ Brigade </strong> </figcaption>
-</figure>
+![](/images/CCA%20Girls'%20Brigade/Girls'%20Brigade%203.jpg)
 
-# Please upload the video to youtube
+![](/images/CCA%20Girls'%20Brigade/Girls'%20Brigade%204.jpg)
