@@ -12,6 +12,6 @@ sections:
       title: Serangoon Garden Secondary School
       subtitle: Learners with Grit. Leaders with Heart
   - resources:
-      title: Announcement
-      button: More annoucement
+      title: Announcements
+      button: More announcements
 ---
