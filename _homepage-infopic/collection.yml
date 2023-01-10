@@ -1,4 +1,5 @@
 collections:
   homepage-infopic:
     output: true
-    order: []
+    order:
+      - Test.md
