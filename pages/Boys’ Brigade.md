@@ -57,18 +57,33 @@ description: ""
 2. BB Cares VIA Activity 
 3. School National Day Parade Rehearsals
 
-
 ##### August:
 1. National Day Parade
 
-
 ##### September:
+1. Character Quest Competition 
+2. Total Defence (Bronze and Silver) at Singapore Discovery Centre
+
+#### October:
+
+1. Band of Brothers Sports Competition
 
 
+##### November:
+
+1. Founders Award Stage 3 Assessment 
+2. Standard First Aid Course (Sec 1) 3. Christmas Light-up at Orchard Road
 
 
-October:
+##### December:
+1. BB Share-A-Gift Duties (Community Service Badge) 
+2. BB Year End Gathering – Thanksgiving and Celebrations
 
-November:
 
-December:
+![](/images/CCA%20Boys'%20Brigade/Boys'%20Brigade%201.jpg)
+
+![](/images/CCA%20Boys'%20Brigade/Boys'%20Brigade%204.jpg)
+
+![](/images/CCA%20Boys'%20Brigade/Boys'%20Brigade%202.jpg)
+
+![](/images/CCA%20Boys'%20Brigade/Boys'%20Brigade%203.jpg)
