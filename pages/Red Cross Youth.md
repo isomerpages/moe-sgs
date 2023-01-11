@@ -3,7 +3,6 @@ title: Red Cross Youth
 permalink: /student-development/CO-CURRICULAR-ACTIVITIES-CCA/red-cross-youth/
 description: ""
 ---
-
 The Singapore Red Cross Youth (RCY) is part of the largest humanitarian network in the world – the International Red Cross and Red Crescent Movement.
 
 <p style="text-align: justify;"> In RCY, we aim to integrate character-building, leadership, essential life-saving skills and blood donation knowledge, local community service and overseas humanitarian projects in our curriculum, focusing on the Red Cross ethos and service to humanity. We strive to instil the Red Cross Youth spirit and build values such as compassion, passion and professionalism in all members. </p>
@@ -19,58 +18,12 @@ and join with others  <br>
 all over the world  <br>
 To help the sick and suffering </p>
 
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide1-11-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>Sec 4 Passing Out Parade</strong> 
-	</figcaption>
-</figure>
+##### **Key programmes**
 
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide2-9-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>Passing Out Parade: Sec 3s take over</strong> 
-	</figcaption>
-</figure>
+1. Leadership Training (Masterclasses and Gold Modular Workshops, Unit Specialist Programme, Warrant Officer's Programme)
+2. First Aid Certification
+3. Disaster Management Skills
+4. Interschool Competitions (Disaster Risk Reduction Championships, Ambassadors of Blood Donation, First Aid Championships)
+5. Service Learning   
 
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide3-6-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>Sec 1 World Red Cross Day Enrollment Ceremony</strong> 
-	</figcaption>
-</figure>
-
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide4-7-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>VIA: Teaching badminton students how to do first aid</strong> 
-	</figcaption>
-</figure>
-
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide5-3-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>VIA with Blood Buddy mascot (pre-COVID)</strong> 
-	</figcaption>
-</figure>
-
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide6-3-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>Red Cross camps (pre-COVID)</strong> 
-	</figcaption>
-</figure>
-
-<figure>
-	<img src="/images/CCA%20Red%20Cross/Slide7-3-250x250.jpg" 
-     style="width:50%">
-<figcaption> 
-	<strong>Red Cross camps (pre-COVID)</strong> 
-	</figcaption>
-</figure>
+ ![](/images/CCA%20Red%20Cross/Red%20Cross%20Youth.jpg)
