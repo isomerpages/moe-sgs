@@ -21,3 +21,10 @@ Upper secondary
 	
 <p style="text-align: justify;"> In the process of working on design and make projects, students are able to develop 21st century competencies – skills like civic literacy, global awareness and cross-cultural skills, critical and inventive thinking, and communication, collaboration and information and skills. This is in line with the SGS’s vision of “Learners with Grit, Leaders with Heart”.
 	
+![](/images/D&T%20-%20Workshop%20at%20Temasek%20Polytechnic.jpeg)
+	
+![](/images/D&T%20-%20Department%20photo.jpeg)
+
+![](/images/D&T%20-%20Visit%20to%20Temasek%20Aviation%20Academy.jpeg)
+	
+![](/images/D&T%20-%20Garden%20Fiesta%20DT%20Exhibition.jpeg)
