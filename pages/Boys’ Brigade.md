@@ -33,17 +33,39 @@ description: ""
 
 
 
-April:
+#### April:
 
-May:
+1. BB Blaze Competition
 
-June:
 
-July:
 
-August:
+#### May:
 
-September:
+1. Preparation for Leadership Training Camp 
+2. JM Fraser Award Presentation Ceremony
+
+
+#### June:
+
+1. 4D3N Leadership Training Camp at MOE Campsite 
+2. Exercise Navex and Adventure Badge (Navigation, Field Cooking and Basha Building)
+
+
+#### July:
+
+1. Preparation for BB Cares VIA Activity 
+2. BB Cares VIA Activity 
+3. School National Day Parade Rehearsals
+
+
+##### August:
+1. National Day Parade
+
+
+##### September:
+
+
+
 
 October:
 
