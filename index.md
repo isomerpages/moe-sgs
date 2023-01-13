@@ -11,20 +11,7 @@ sections:
       background: /images/Homepage Banner.jpg
       title: Serangoon Garden Secondary School
       subtitle: Learners with Grit. Leaders with Heart
-  - infobar:
-      title: Hi, welcome
-      subtitle: Dear all
-      description: Serangoon Garden Secondary School
-      button: Button Text
   - resources:
       title: Announcements
       button: More announcements
-  - infopic:
-      title: PDLP
-      subtitle: Personal Learning Device
-      description: How to purchase PLD Device
-      button: Click here
-      alt: Image alt text
-      image: /images/PDLP1.png
-      url: https://youtu.be/irEmIsr6-lQ
 ---
