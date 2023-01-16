@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Apply for eGIRO.md
       - School Based Assessment.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
