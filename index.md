@@ -20,6 +20,7 @@ sections:
         - title: staffs
           description: ""
           url: ""
+      background: /images/Banner1.gif
   - resources:
       title: Announcements
       button: More announcements
