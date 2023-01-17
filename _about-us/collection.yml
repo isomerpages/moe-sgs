@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Vision, Mission, Motto and Values.md
+      - Our Badge & School Song.md
+      - School Advisory Committee.md
+      - Contact Us.md

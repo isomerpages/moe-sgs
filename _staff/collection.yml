@@ -1,0 +1,6 @@
+collections:
+  staff:
+    output: true
+    order:
+      - School Calendar.md
+      - Useful Links.md

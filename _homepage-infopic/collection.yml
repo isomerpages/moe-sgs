@@ -1,0 +1,5 @@
+collections:
+  homepage-infopic:
+    output: true
+    order:
+      - Test.md

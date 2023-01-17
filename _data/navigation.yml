@@ -1,13 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School-Logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: INSTRUCTIONAL PROGRAMMES
+    collection: instructional-programmes
+  - title: STUDENT DEVELOPMENT
+    collection: student-development
+  - title: STUDENTS
+    collection: students
+  - title: PARENTS
+    collection: parents
+  - title: STAFF
+    collection: staff
+  - title: Links
+    url: Link
+    sublinks:
+      - title: SGS Facebook
+        url: https://www.facebook.com/SerangoonGardenSecondarySchool/
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg/login
