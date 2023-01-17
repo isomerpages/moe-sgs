@@ -11,7 +11,3 @@ In 2022, SGS badminton participated in the National School Games. While it has b
 Moving forward, we are looking to closer partnerships with other schools in friendlies and in-house tournaments. We hope that the badminton CCA can soar to greater heights in 2023 and beyond.
 
 ![](/images/Badminton1.jpeg)
-
-![](/images/Badminton2.jpeg)
-
-![](/images/Badminton3.jpeg)
