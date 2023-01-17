@@ -8,7 +8,7 @@ third_nav_title: Co Curricular Activities
 
 <p style="text-align: justify;"> Through challenging situations, cadets hone their leadership qualities, develop respect for their seniors and strengthen camaraderie with their peers. While the SGS NPCC unit has achieved many prestigious awards over the year, what s most rewarding is seeing the cadets grow into confident young men and women, and develop into leaders of the school and community. </p>
 
-<p style="text-align: justify;"> Alongside Officer Commanding (OC) Mr. Joel Yow, our Unit is also ably supported by the following Teacher-Officers in charge of the various squad levels – Mr Peh Chin Keong (Sec 1 squad), Mr. Fareeq Othman (Sec 2 squad), Ms. Ita Pranatih (Sec 3 squad), and Mrs. Joanne Lee (Sec 3 squad). </p>
+<p style="text-align: justify;"> Alongside Officer Commanding (OC) Mr. Joel Yow, our Unit is also ably supported by the following Teacher-Officers in charge of the various squad levels – Mr Peh Chin Keong (Sec 1 squad), Mr. Fareeq Othman (Sec 2 squad), Ms. Ita Pranatih (Sec 3 squad), and Mr. Joel Yow (Sec 4 squad). </p>
 
 
 ##### **Key programmes**
