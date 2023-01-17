@@ -4,7 +4,6 @@ permalink: /student-development/Co-Curricular-Activities/Choir/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 <p style="text-align: justify;"> The SGS Choir aims to nurture the passion for singing, and develop each member into resilient musicians and confident performers. The Choir encourages holistic development of members by providing a variety of project opportunities and leadership positions. In terms of repertoire, we do not limit our musical education to classical choral pieces, but also dabble in popular pop hits such as Ed Sheeran’s ‘Perfect’. </p>
 
 
