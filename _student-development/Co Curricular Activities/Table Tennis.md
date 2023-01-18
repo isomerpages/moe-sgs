@@ -18,9 +18,13 @@ third_nav_title: Co Curricular Activities
 <p style="text-align: justify;"> SGSians are given the opportunities to participate in the following competitions/activities: </p>
 
 * ‘B’ Division South Zone Inter-School Table Tennis Championships
+
 * ‘C’ Division South Zone Inter-School Table Tennis Championships
+
 * Friendly matches/tournaments
+
 * Bonding sessions conducted every semester
+
 * Student-initiated Values in Action (VIA) projects
 
 ![](/images/CCA%20Table%20Tennis/Table%20Tennis%201.jpg)
