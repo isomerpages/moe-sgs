@@ -4,7 +4,7 @@ permalink: /student-development/Co-Curricular-Activities/Table-Tennis/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<p style="text-align: justify;"> The Table Tennis CCA aims to: 
+<p style="text-align: justify;"> The Table Tennis CCA aims to: </p>
 
 * Develop members into disciplined, competent and skillful players
 
