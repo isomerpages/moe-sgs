@@ -28,27 +28,27 @@ Parents/Guardians without a Singpass account may request for a hardcopy letter f
 
 
 ### PDLP Introduction Video
-This is a video presentation about our PDLP programme which includes details on purchasing the PLD. The slides are available for [download here](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Sec-1-NDLP-Briefing-for-Parents-2022.pdf).
+This is a video presentation about our PDLP programme which includes details on purchasing the PLD. 
 
 <iframe width="556" height="310" src="https://www.youtube.com/embed/irEmIsr6-lQ" title="Personalised Digital Learning Programme 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Financial Assistance
-
 Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
 
-Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI) is below $1000. If your child qualifies for a subsidy, please submit [Annex D Application for Subsidy (PDLP)](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Annex-D-Application-for-Subsidy-PDLP.docx).
+Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit [this form](/files/Application%20for%20Subsidy%20for%20Purcahase%20of%20PLD.pdf)
+
+
 
 ### Cyberwellness Resources for Parents
 *   [Parent-Handbook-I-on-1_1-Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
 *   [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
-*   [https://beta.moe.gov.sg/programmes/cyber-wellness/](https://beta.moe.gov.sg/programmes/cyber-wellness/)
 *   [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
 *   [sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
 *   [help123.sg](http://help123.sg/)
 
 ### Frequently Asked Questions and Answers
 
-A list of answers to Frequently Asked Questions can be found [HERE](https://www.sgs.edu.sg/wp-content/uploads/2021/01/FAQs-on-PDLP-25-Jan-2021-2.pdf). 
+A list of answers to Frequently Asked Questions can be found. [HERE](/files/FAQs-on-PDLP.pdf)
 
 If you have any further queries, kindly email us at:
 
