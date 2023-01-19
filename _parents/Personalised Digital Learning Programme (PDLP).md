@@ -17,14 +17,15 @@ SGS has selected the Acer TravelMate Spin B3 as its PLD offering . Despite its s
 ### Important Actions For Parents (Sec 1 2023)
 By early-January 2023, parents/guardians would have received a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP. 
 
-Please submit the following consent forms online at [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)  by **20 **J**an 2023** in order for the school to begin processing the purchase of a PLD for your child/ward.
+Please submit the following consent forms online at [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)  by **20 Jan 2023** in order for the school to begin processing the purchase of a PLD for your child/ward.
 
 *   Intent to Purchase PLD
-*   Edusave Withdrawal (for Singapore Citizens only)
+*   Edusave Withdrawal
 *   Authorisation to collect PLD
 *   Application for Subsidy 
 
-PR/IS, please submit the _hardcopy letter to your child's/ward's Form Teacher_.
+Parents/Guardians without a Singpass account may request for a hardcopy letter from your child’s/ward’s Form Teacher or from the school's General Office.
+
 
 ### PDLP Introduction Video
 This is a video presentation about our PDLP programme which includes details on purchasing the PLD. The slides are available for [download here](https://www.sgs.edu.sg/wp-content/uploads/2022/01/Sec-1-NDLP-Briefing-for-Parents-2022.pdf).
