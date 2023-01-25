@@ -24,7 +24,9 @@ seeks continuous growth in themselves and others. They will have the opportunity
 their peers during various media projects and join the student’s executive committee to 
 chart the direction of the CCA.
 	
+	
 ![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Lead.jpg)
+	
 	
 ##### **Learn:**
 	
@@ -36,16 +38,25 @@ would undergo training in videography, cultivating essential skills such as stor
 video-recording, and video-editing. For Upper Secondary students, they would apply their 
 media skills to good causes through student-initiated Values-in-Action projects.
 	
+	
+	
 ![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Learn.jpg)
 	
+	
+	
 ##### **Serve:**
+	
 	
 <p style="text-align: justify;">Media Club students serve the school by lending their expertise and providing 
 photography and videography support for school events. In addition, they seek to raise 
 awareness for good social causes through creating multimodal media products such as 
 a photo series, video interviews, and podcast episodes exploring current topics.
+	
+	
 
 ![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Serve.jpg)
+	
+	
 	
 ##### **Excel:**
 	
@@ -56,12 +67,15 @@ Infocomm Media Club Youth Awards. During the latest Young News reporter Challeng
 organized by Mediacorp, our students were able to achieve a distinguished award for 
 retelling local news in an innovative way.
 	
+	
 ![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Excel.jpg)
+	
 	
 ##### **Discover:**
 	
 <p style="text-align: justify;">Media Club students are given the opportunity to explore higher education and 
 career pathways in the media sector through field trips organized by various media 
 institutions.
+	
 	
 ![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Discover.jpg)
