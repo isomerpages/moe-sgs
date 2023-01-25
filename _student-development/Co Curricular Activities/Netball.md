@@ -11,18 +11,3 @@ third_nav_title: Co Curricular Activities
 
 <p style="text-align: justify;"> The CCA presents our girls with an array of opportunities that include National School Games, Cluster Competitions, Netball Carnivals, Camps and Values-in-Action programmes which allow them to develop their character and give back to the community. They are also given many opportunities to spearhead events which help in developing their leadership skills. </p>
 
-![](/images/CCA%20Netball/Netball%20-%20B%20Division%20National%20School%20Games%202022%201.jpeg)
-
-![](/images/CCA%20Netball/Netball%20-%20B%20Division%20National%20School%20Games%202022%202.jpeg)
-
-![](/images/CCA%20Netball/Netball%20-%20B%20Division%20National%20School%20Games%202022%203.jpeg)
-
-![](/images/CCA%20Netball/Netball%20-%20B%20Division%20National%20School%20Games%202022%204.jpeg)
-
-![](/images/CCA%20Netball/Netball%20-%20C%20Division%20National%20School%20Games%202022.jpeg)
-
-![](/images/CCA%20Netball/Netball%20-%20Open%20House%202022.jpeg)
-
-![](/images/CCA%20Netball/Netball%20-%20VIA%20Day%20with%20Red%20Cross%20Youth.jpeg)
-
-![](/images/CCA%20Netball/Netball%201.jpeg)

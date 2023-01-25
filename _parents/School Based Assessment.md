@@ -1,8 +1,10 @@
 ---
 title: School Based Assessment
-permalink: /Parents-School-Based-Assessment/
+permalink: /sba/
 description: ""
 ---
+
+
 
 ### School-Based Assessment 2022
 
