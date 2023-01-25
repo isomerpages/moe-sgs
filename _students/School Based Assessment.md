@@ -37,7 +37,7 @@ Students who miss the WA/Examinations due to medical reasons will need to produc
 
 Should you have any queries, please contact the following personnel at 62889227:
 
-*   Mr Terrence Ong, HOD/MT ([terrance\_ong\_yong\_wee@moe.edu.sg](mailto:terrance_ong_yong_wee@moe.edu.sg))
+*   Mr Terrence Ong, HOD/MT ([terrence\_ong\_wee\_yum@moe.edu.sg](mailto:terrence_ong_wee_yum@moe.edu.sg))
 *   Mr Leslie Tan, HOD/ICT ([leslie\_yc\_tan@moe.edu.sg](mailto:leslie_yc_tan@moe.edu.sg))
 
 We thank you for partnering with us to support your child/ward in his/her learning.
