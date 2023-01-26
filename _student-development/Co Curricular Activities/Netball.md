@@ -4,10 +4,9 @@ permalink: /student-development/Co-Curricular-Activities/Netball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<p style="text-align: justify;"> Anyone can steer a ship in calm waters, but not every student is able to weather through difficulties with resilience and fortitude. Here, SGS Netball Team, guided by the motto ‘Strive for progress, not perfection’, offers an enriching and fruitful journey of self-discovery, where fine young ladies learn the importance of passion, appreciate the value of teamwork, and embrace the magic of persistence. They also form ties of comradeship.
+<p style="text-align: justify;"> Anyone can steer a ship in calm waters, but not every student is able to weather through difficulties with resilience and fortitude. Here, SGS Netball Team, guided by the motto ‘Strive for progress, not perfection’, offers an enriching and fruitful journey of self-discovery, where fine young ladies learn the importance of passion, appreciate the value of teamwork, and embrace the magic of persistence. They also form ties of comradeship.</p>
 	
 <h5>Key programmes</h5>
-	
 
 <p style="text-align: justify;"> The CCA presents our girls with an array of opportunities that include National School Games, Cluster Competitions, Netball Carnivals, Camps and Values-in-Action programmes which allow them to develop their character and give back to the community. They are also given many opportunities to spearhead events which help in developing their leadership skills. </p>
 <center>
