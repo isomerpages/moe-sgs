@@ -13,11 +13,14 @@ short films and podcasts.
 	
 	
 ##### **Key Programmes**
+	
 
 <p style="text-align: justify;">
 The programmes of the club are organized along 5 developmental pillars: Lead, Learn, Serve, Excel, and Discover.
+	
 
 ##### **Lead:**
+	
 	
 <p style="text-align: justify;">In Media Club, it is envisioned that every member will be a reflective leader who 
 seeks continuous growth in themselves and others. They will have the opportunity to lead 
@@ -60,6 +63,7 @@ a photo series, video interviews, and podcast episodes exploring current topics.
 	
 ##### **Excel:**
 	
+	
 <p style="text-align: justify;">Fostering a spirit of excellence is a key mission of the CCA. Media Club students 
 are confident in showcasing their media work by participating in annual competitions such 
 as the Our Schools, Our Stories photography and videography competition and the 
@@ -68,10 +72,13 @@ organized by Mediacorp, our students were able to achieve a distinguished award 
 retelling local news in an innovative way.
 	
 	
+	
 ![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Excel.jpg)
 	
 	
 ##### **Discover:**
+	
+	
 	
 <p style="text-align: justify;">Media Club students are given the opportunity to explore higher education and 
 career pathways in the media sector through field trips organized by various media 

@@ -65,7 +65,7 @@ table {
   <tr>
     <td>ICT Matters</td>
     <td>Mr Leslie Tan</td>
-    <td><a href="mailto:Leslie_yc_tan@moe.edu.sg">Leslie_yc_tan@moe.edu.sg</a></td>
+    <td><a href="mailto:Leslie_yc_tan@moe.edu.sg">leslie_yc_tan@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
