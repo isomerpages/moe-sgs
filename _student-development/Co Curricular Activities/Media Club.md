@@ -12,14 +12,13 @@ will also be content creators, embarking on their own projects such photo journa
 short films and podcasts.
 	
 	
-##### **Key Programmes**
-	
+<h5>Key Programmes</h5>	
 
 <p style="text-align: justify;">
 The programmes of the club are organized along 5 developmental pillars: Lead, Learn, Serve, Excel, and Discover.
 	
 
-##### **Lead:**
+<h5>Lead:<h5>
 	
 	
 <p style="text-align: justify;">In Media Club, it is envisioned that every member will be a reflective leader who 
@@ -28,10 +27,10 @@ their peers during various media projects and join the student’s executive com
 chart the direction of the CCA.
 	
 	
-![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Lead.jpg)
+<img src="/images/CCA%20Media%20Studio/Media%20Club%20-%20Lead.jpg">
 	
 	
-##### **Learn:**
+<h5>Learn:</h5>
 	
 
 <p style="text-align: justify;">Through the guidance of professional instructors and the teachers-in-charge, 
@@ -43,11 +42,11 @@ media skills to good causes through student-initiated Values-in-Action projects.
 	
 	
 	
-![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Learn.jpg)
+<img src="/images/CCA%20Media%20Studio/Media%20Club%20-%20Learn.jpg">
 	
 	
 	
-##### **Serve:**
+<h5>Serve:</h5>
 	
 	
 <p style="text-align: justify;">Media Club students serve the school by lending their expertise and providing 
@@ -57,11 +56,11 @@ a photo series, video interviews, and podcast episodes exploring current topics.
 	
 	
 
-![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Serve.jpg)
+<img src="/images/CCA%20Media%20Studio/Media%20Club%20-%20Serve.jpg">
 	
 	
 	
-##### **Excel:**
+<h5>Excel:	</h5>
 	
 	
 <p style="text-align: justify;">Fostering a spirit of excellence is a key mission of the CCA. Media Club students 
@@ -73,10 +72,10 @@ retelling local news in an innovative way.
 	
 	
 	
-![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Excel.jpg)
+<img src="/images/CCA%20Media%20Studio/Media%20Club%20-%20Excel.jpg">
 	
 	
-##### **Discover:**
+<h5>Discover:	</h5>
 	
 	
 	
@@ -85,4 +84,4 @@ career pathways in the media sector through field trips organized by various med
 institutions.
 	
 	
-![](/images/CCA%20Media%20Studio/Media%20Club%20-%20Discover.jpg)
+<img src="/images/CCA%20Media%20Studio/Media%20Club%20-%20Discover.jpg">
