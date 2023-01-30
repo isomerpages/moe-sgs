@@ -29,6 +29,4 @@ image: ""
 <p style="text-align: justify;">Thank you teachers for always being there for the “The Last, the Least, and the Lost”. Definitely our collective effort will bring the best in every child for them to contribute their part and maintain the unique social fabric of Singapore in moving forward.
 	
 
-
-	
-![](/images/msf.jpg)
+![](/images/Announcements/msf.jpg)
