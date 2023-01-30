@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-##### **Achievement**
 
 <p style="text-align: justify;">It was indeed an honour for our school to be part of the 46 individuals and organisations who received the **Community Cares Award** at the MSF Volunteer and Partner Awards 2023 ceremony yesterday night. The MSF Community Cares Awards was introduced in 2019 to recognise and appreciate organisations and individuals who passionately drive social change, strive to do good for society, and in so doing, inspire those around them.
 	
