@@ -12,5 +12,6 @@ image: ""
 	
 <p style="text-align: justify;">Definitely our collective effort will bring the best in every child for them to contribute their part and maintain the unique social fabric of Singapore in moving forward.
 	
+	
 
 ![](/images/Announcements/msf.jpg)

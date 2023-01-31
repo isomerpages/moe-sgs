@@ -28,15 +28,21 @@ Leadership, Fitness and Commitment to Singapore
 <p style="text-align: justify;"> Senior Cadets - Camp STEEL, Individual Field Craft (IFC), Orienteering Competition, Inter-school Cluster Training, Sports Championship, Freestyle Drill (selected cadets), Basic Instructor Course, Certification Leadership Camp (school-based)
 	
 <p style="text-align: justify;"> Cadet Leaders - Specialist Assessment, Senior Specialist Leaders Course (SSLC), Inter-school Cluster Training, Sports Championship, Freestyle Drill (selected cadets), Advanced Drill Course (selected), Advance Precision Drill Course, Leadership Camp (school-based)
+	
 
 ![](/images/CCA%20NCC/National%20Cadet%20Corps%201.jpg)
 	
+	
 ![](/images/CCA%20NCC/National%20Cadet%20Corps%202.jpg)
+	
 	
 ![](/images/CCA%20NCC/National%20Cadet%20Corps%203.jpg)
 	
+	
 ![](/images/CCA%20NCC/National%20Cadet%20Corps%205.jpg)
 	
+	
 ![](/images/CCA%20NCC/National%20Cadet%20Corps%206.jpg)
+	
 	
 ![](/images/CCA%20NCC/National%20Cadet%20Corps%204.jpg)
