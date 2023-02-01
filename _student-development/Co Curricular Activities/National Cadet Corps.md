@@ -24,7 +24,7 @@ Leadership, Fitness and Commitment to Singapore
 	
 ##### **Key programmes**
 
-<p style="text-align: justify;">Junior Cadets - Affirmation Ceremony, Camp FORGE, Individual Field Craft (IFC), Inter-school Cluster Training, Sports Championship, Freestyle Drill (selected cadets), Leadership Camp (school-based)</p>'
+<p style="text-align: justify;">Junior Cadets - Affirmation Ceremony, Camp FORGE, Individual Field Craft (IFC), Inter-school Cluster Training, Sports Championship, Freestyle Drill (selected cadets), Leadership Camp (school-based)</p>
 
 <p style="text-align: justify;">Senior Cadets - Camp STEEL, Individual Field Craft (IFC), Orienteering Competition, Inter-school Cluster Training, Sports Championship, Freestyle Drill (selected cadets), Basic Instructor Course, Certification Leadership Camp (school-based)</p>
 
