@@ -11,14 +11,19 @@ third_nav_title: Co Curricular Activities
 
 <p style="text-align: justify;"> Every year, our school basketball team will participate in the South Zone Basketball Championships and BM U-16 Basketball Championships. Our boys also undergo gym programs as part of their physical training. Through trainings and competitions, our players develop their self-confidence, perseverance to overcome the odds of winning and empathy towards their opponents. </p>
 
-<p style="text-align: justify;"> In addition, the CCA also acts as a platform for the students to forge friendships and bond outside of the classroom environment. All of these provide opportunities for our boys to excel physically and emotionally as they participate in and grow through the Basketball programme in SGS.
+<p style="text-align: justify;"> In addition, the CCA also acts as a platform for the students to forge friendships and bond outside of the classroom environment. All of these provide opportunities for our boys to excel physically and emotionally as they participate in and grow through the Basketball programme in SGS.</p>
+
 	
 ![](/images/CCA%20Basketball%20%20%20boys/Basketball%202.jpeg)
+
 	
 ![](/images/CCA%20Basketball%20%20%20boys/Basketball%203.jpg)
 
+
 ![](/images/CCA%20Basketball%20%20%20boys/Basketball%204.jpg)
+
 	
 ![](/images/CCA%20Basketball%20%20%20boys/Basketball%205.jpg)
+
 	
 ![](/images/CCA%20Basketball%20%20%20boys/Basketball%206.jpg)
