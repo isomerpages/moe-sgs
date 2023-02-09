@@ -40,16 +40,22 @@ third_nav_title: Co Curricular Activities
 	
 5. Service to School
 	
-<p style="text-align: justify;">The Guides actively lend their support to the school through various events such as flag-raising during the school’s morning assembly, National Day Parade, skills sharing of origami through the Level Signature Programme and hosting of guests during the school’s concert Garden Fiesta 2022.
+<p style="text-align: justify;">The Guides actively lend their support to the school through various events such as flag-raising during the school’s morning assembly, National Day Parade, skills sharing of origami through the Level Signature Programme and hosting of guests during the school’s concert Garden Fiesta 2022.</p>
+
 	
 ![](/images/CCA%20Girl%20Guides/Girl%20Guides%20-%20tent%20pitching.jpeg)
+
 	
 ![](/images/CCA%20Girl%20Guides/Girl%20Guides%20-%20company%20photo%202022.jpeg)
 
+
 ![](/images/CCA%20Girl%20Guides/Girl%20Guides%20-%20outdoor%20cooking.jpeg)
+
 	
 ![](/images/CCA%20Girl%20Guides/Girl%20Guides%20-%20renci%20VIA.jpeg)
+
 	
 ![](/images/CCA%20Girl%20Guides/Girl%20Guides%20-%20pnaa%202021%20gold.jpeg)
+
 	
 ![](/images/CCA%20Girl%20Guides/Girl%20Guides%20-%20south%20division%20learning%20day.jpeg)
