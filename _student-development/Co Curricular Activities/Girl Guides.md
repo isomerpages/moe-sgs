@@ -30,13 +30,13 @@ third_nav_title: Co Curricular Activities
 
 3. Badges
 
-<p style="text-align: justify;"> Guides enjoy working for interest badges and awards that will help them develop new skills and develop in their character. For example, the WAGGGS badges such as the Action on Body Confidence badge gives Guides a chance to stop and reflect on the world around them, and the influence it has on the way they think about themselves and other people. The Hostess Badge allows the Guides to practise being gracious hosts and build social awareness by engaging their guests.
+<p style="text-align: justify;"> Guides enjoy working for interest badges and awards that will help them develop new skills and develop in their character. For example, the WAGGGS badges such as the Action on Body Confidence badge gives Guides a chance to stop and reflect on the world around them, and the influence it has on the way they think about themselves and other people. The Hostess Badge allows the Guides to practise being gracious hosts and build social awareness by engaging their guests.</p>
 
 4. Leadership Initiatives
 
-<p style="text-align: justify;"> SGS Guides also actively champion campaigns to advocate for causes such as environmental and water conservation, cyber-wellness, mental health, anti-smoking, kindness and many more.
+<p style="text-align: justify;"> SGS Guides also actively champion campaigns to advocate for causes such as environmental and water conservation, cyber-wellness, mental health, anti-smoking, kindness and many more.</p>
 	
-<p style="text-align: justify;"> In order to contribute to the well-being of the community, SGS Guides maintains a close partnership with Ren Ci Nursing Home since 2019. Our guides spent time doing art and craft with the seniors in 2019. They also engaged them virtually during National Day and Mid-Autumn Festival 2021 through quizzes, songs and games, through collaborating with fellow schoolmates from Band and Guzheng. In 2022, the Guides shared about environmental awareness through planting microgreens and making paper baskets with the children from Bethel Preschool. All these experiences further develops a sense of responsibility that the Guides have for the people around them.
+<p style="text-align: justify;"> In order to contribute to the well-being of the community, SGS Guides maintains a close partnership with Ren Ci Nursing Home since 2019. Our guides spent time doing art and craft with the seniors in 2019. They also engaged them virtually during National Day and Mid-Autumn Festival 2021 through quizzes, songs and games, through collaborating with fellow schoolmates from Band and Guzheng. In 2022, the Guides shared about environmental awareness through planting microgreens and making paper baskets with the children from Bethel Preschool. All these experiences further develops a sense of responsibility that the Guides have for the people around them.</p>
 	
 5. Service to School
 	
