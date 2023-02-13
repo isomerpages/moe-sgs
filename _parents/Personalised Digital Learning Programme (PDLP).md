@@ -38,14 +38,6 @@ Subsidies are available to students who require financial assistance. Singapore 
 Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit [this form](/files/Application%20for%20Subsidy%20for%20Purcahase%20of%20PLD.pdf)
 
 
-
-### Cyberwellness Resources for Parents
-*   [Parent-Handbook-I-on-1_1-Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
-*   [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
-*   [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
-*   [sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
-*   [help123.sg](http://help123.sg/)
-
 ### Frequently Asked Questions and Answers
 
 A list of answers to Frequently Asked Questions can be found. [HERE](/files/FAQs-on-PDLP.pdf)
@@ -61,3 +53,18 @@ HOD ICT
 Ms Teresa Ng  
 Administration Manager  
 [teresa\_ng@schools.gov.sg](mailto:teresa_ng@schools.gov.sg)
+
+### Cyberwellness Resources for Parents
+*   [Parent-Handbook-I-on-1_1-Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
+*   [go.gov.sg/moe-cyber-wellness](http://go.gov.sg/moe-cyber-wellness)
+*   [go.gov.sg/better-internet-sg](http://go.gov.sg/better-internet-sg)
+*   [sure.nlb.gov.sg](http://sure.nlb.gov.sg/)
+*   [help123.sg](http://help123.sg/)
+
+### Additional Resources for Parents
+* [Learning Effectively with PLD](/files/Learning%20With%20Your%20PLD.pdf)
+* [PLD Initiative Infographic](/files/PLD%20Initiative%20Infographic_2023.pdf)
+* [DMA Option Infographic](/files/DMA%20Option%20Infographic_2023.pdf)
+* [Parent Handbook (I) on Learning with a PLD_2023](/files/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
+* [Parent Handbook (II) on Learning with a PLD_2023](/files/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
+* [Student Device Information Kit_2023](/files/Student%20Device%20Information%20Kit_2023.pdf)
