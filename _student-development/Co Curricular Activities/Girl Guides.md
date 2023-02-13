@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
 
 3. Badges
 
-<p style="text-align: justify;"> Guides enjoy working for interest badges and awards that will help them develop new skills and develop in their character. For example, the WAGGGS badges such as the Action on Body Confidence badge gives Guides a chance to stop and reflect on the world around them, and the influence it has on the way they think about themselves and other people. The Hostess Badge allows the Guides to practise being gracious hosts and build social awareness by engaging their guests.</p>
+<p style="text-align: justify;"> Guides enjoy working for interest badges and awards that will help them develop new skills and develop in their character. For example, the WAGGGS badges such as the Action on Body Confidence badge gives Guides a chance to stop and reflect on the world around them, and the influence it has on the way they think about themselves and other people. The Hostess Badge allows the Guides to practise being gracious hosts and build social awareness by engaging their guests.</p>**
 
 4. Leadership Initiatives
 
