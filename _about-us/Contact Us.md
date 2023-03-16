@@ -182,8 +182,7 @@ table {
 <tr>
  <td rowspan="2">1 Resilience </td>
 <td>Mr Alfred Liu </td>
-<td><a href="mailto: alfred_liu_hao_wei@moe.edu.sg>">alfred_liu_hao_wei@moe.edu.sg</td>
-</tr>
+<td><a href="mailto: alfred_liu_hao_wei@moe.edu.sg>">alfred_liu_hao_wei@moe.edu.sg
 <tr>
 <td>Ms Kwek Wen Qing </td>
 <td><a href="mailto: kwek_wen_qing@moe.edu.sg">kwek_wen_qing@moe.edu.sg</a></td>
