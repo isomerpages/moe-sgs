@@ -251,13 +251,18 @@ table {
 <td><a href="mailto: tang_zhi_feng@moe.edu.sg">tang_zhi_feng@moe.edu.sg</a></td>
 </tr>
 <tr>
- <td rowspan="2">2 Resilience </td>
+ <td rowspan="3">2 Resilience </td>
 <td>Mr Daryl Tan </td>
 <td><a href="mailto: daryl_tan_wen_hui@moe.edu.sg">daryl_tan_wen_hui@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mdm Vajira </td>
 <td><a href="mailto: vajira_yasoma_siriwardena@moe.edu.sg">vajira_yasoma_siriwardena@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Ms Li Lan Ting </td>
+<td><a href="mailto: 
+	li_lanting@moe.edu.sg">li_lanting@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">2 Compassion </td>
@@ -269,13 +274,17 @@ table {
 <td><a href="mailto: teng_hui_dan@moe.edu.sg">teng_hui_dan@moe.edu.sg</a></td>
 </tr>
 <tr>
- <td rowspan="2">2 Gratitude </td>
+ <td rowspan="3">2 Gratitude </td>
 <td>Ms Lee Shao Jia </td>
 <td><a href="mailto: lee_shaojia@moe.edu.sg">lee_shaojia@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Lye Nyap Hiang </td>
 <td><a href="mailto: lye_nyap_hiang@moe.edu.sg">lye_nyap_hiang@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Mrs Seow-Hong Huiting </td>
+<td><a href="mailto: hong_huiting@moe.edu.sg">hong_huiting@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">3 Perseverance </td>
@@ -333,12 +342,12 @@ table {
 </tr>
 <tr>
  <td rowspan="2">3 Compassion </td>
-<td>Mrs V Santhi </td>
-<td><a href="mailto: v_santhi@moe.edu.sg">v_santhi@moe.edu.sg</a></td>
-</tr>
-<tr>
 <td>Mdm Majidah </td>
 <td><a href="mailto: majidah_mahmood@moe.edu.sg">majidah_mahmood@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td>Mr Edmund Heng </td>
+<td><a href="mailto: heng_aik_ming_edmund@moe.edu.sg">heng_aik_ming_edmund@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">3 Gratitude </td>
@@ -350,13 +359,17 @@ table {
 <td><a href="mailto: chew_tee_jong_valerie@moe.edu.sg">chew_tee_jong_valerie@moe.edu.sg</a></td>
 </tr>
 <tr>
- <td rowspan="2">3 Wisdom </td>
+ <td rowspan="3">3 Wisdom </td>
 <td>Ms Sultanah </td>
 <td><a href="mailto: sultanah_ekhsan_hanim_ahma@moe.edu.sg">sultanah_ekhsan_hanim_ahma@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Linus Chan </td>
 <td><a href="mailto: chan_lin_siong_linus@moe.edu.sg">chan_lin_siong_linus@moe.edu.sg</a></td>
+</tr>
+	<tr>
+<td>Mr Andy Neo </td>
+<td><a href="mailto: andy_neo_chin_kai@moe.edu.sg">andy_neo_chin_kai@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">4 Perseverance </td>
@@ -413,17 +426,13 @@ table {
 <td><a href="mailto: lim_shixuan_gwen@moe.edu.sg">lim_shixuan_gwen@moe.edu.sg</a></td>
 </tr>
 <tr>
- <td rowspan="3">4 Compassion </td>
+ <td rowspan="2">4 Compassion </td>
 <td>Ms Kalai </td>
 <td><a href="mailto: kalai_vani_thanapalan@moe.edu.sg">kalai_vani_thanapalan@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td>Mr Tan Wei Zhi </td>
 <td><a href="mailto: tan_wei_zhi_a@moe.edu.sg">tan_wei_zhi_a@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td>Mr Edmund Heng </td>
-<td><a href="mailto:heng_aik_ming_edmund@moe.edu.sg ">heng_aik_ming_edmund@moe.edu.sg</a></td>
 </tr>
 <tr>
  <td rowspan="2">4 Gratitude </td>
