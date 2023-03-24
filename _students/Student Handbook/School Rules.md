@@ -63,7 +63,7 @@ third_nav_title: Student Handbook
 <p style="text-align: justify;">Hair accessories should be black or blue in colour. I will wear at most one pair of simple ear studs.</p>
 
 
-2.2 For all students
+2.3 For all students
 
 I will not colour or tint my hair.  
   
@@ -71,7 +71,8 @@ I will keep my fingernails clean and trimmed, without nail polish.
   
 I will not wear any other accessories.  
   
-No form of body decoration (e.g. tattoos) is allowed.
+No form of body decoration (e.g. tattoos) is allowed.</p>
+![](/images/School%20Rules/boys-hair-1-600x153.jpg)
 
 
 3. 	Attendance and Punctuality
@@ -137,6 +138,3 @@ I understand that if I do not comply with the regulations of using the lockers, 
 
 5.6
 <p style="text-align: justify;">I will be guided by the school values of **PRIDE**: **P**erseverance, **R**espect, **I**ntegrity, **D**iligence, **E**mpathy at all times.
-	
-	
-	
