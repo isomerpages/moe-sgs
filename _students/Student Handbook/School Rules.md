@@ -56,3 +56,20 @@ third_nav_title: Student Handbook
   
 <p style="text-align: justify;">I will have my hair short, neat and simple. The fringe should not touch the top of my eyebrows.</p>
 
+2.2 For the Ladies
+
+<p style="text-align: justify;">If I have shoulder-length hair or hair touching the collar, I will tie my hair up neatly at all times. Long fringe that are past the eyebrows will be clipped away neatly.</p>  
+  
+<p style="text-align: justify;">Hair accessories should be black or blue in colour. I will wear at most one pair of simple ear studs.</p>
+
+
+2.2 For all students
+
+I will not colour or tint my hair.  
+  
+I will keep my fingernails clean and trimmed, without nail polish.  
+  
+I will not wear any other accessories.  
+  
+No form of body decoration (e.g. tattoos) is allowed.</p>
+
