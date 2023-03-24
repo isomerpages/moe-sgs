@@ -71,5 +71,72 @@ I will keep my fingernails clean and trimmed, without nail polish.
   
 I will not wear any other accessories.  
   
-No form of body decoration (e.g. tattoos) is allowed.</p>
+No form of body decoration (e.g. tattoos) is allowed.
 
+
+3. 	Attendance and Punctuality
+	
+3.1<p style="text-align: justify;">I will attend school regularly and punctually. I understand that daily attendance in school during term time is compulsory as it supports learning.
+
+I will be in school by 7.55 a.m., seated with my class at the classroom, school hall or parade square for the flag-raising ceremony at 8 a.m.  
+  
+<p style="text-align: justify;">I understand that if I am not present during the flag-raising ceremony, I will be considered late or absent from school.
+
+3.2 
+<p style="text-align: justify;">Absence from school must be substantiated by a medical certificate. The medical certificate must be submitted to my Form Teacher when I return to school the next day. I understand that if I am absent without a valid reason, I will face consequences.
+	
+
+<p style="text-align: justify;">Letters from parents/legal guardians (maximum of 5 letters per term) may be considered in cases where medical certificates are not applicable. This does not apply during examinations.
+	
+3.3 
+<p style="text-align: justify;">I will attend lessons, CCA and other school activities punctually.
+	
+	
+#####  Respect for Nation and School	
+	
+4. 	Flag Raising Ceremony
+4.1
+	
+<p style="text-align: justify;">I will stand at attention when the National Anthem is sung and the Pledge is recited.  
+  
+If I am a Singapore citizen, I will sing the National Anthem and recite the Pledge with my right fist placed over my heart.
+	
+4.2
+<p style="text-align: justify;">I will sing the school song and recite the Students’ Creed with respect and pride.
+
+	
+##### Golden Rules for a Pleasant School Experience
+	
+5. 	Behaviour and Conduct
+5.1
+<p style="text-align: justify;">I will uphold and protect the school image by carrying myself with respect, pride and dignity at all times, whether I am within or outside the school premises.
+
+5.2
+<p style="text-align: justify;">
+I respect myself and my peers. I will not do anything which may cause others to feel physically or emotionally unsafe. Bullying is a serious offence that will not be tolerated by the school.
+	
+5.3
+<p style="text-align: justify;">
+I will not bring or be in possession of any weapon. I will also not bring any weapon-like item which can be used or intended to be used to cause harm to others. Possession of weapons is a serious offence.
+	
+
+5.4
+
+<p style="text-align: justify;">I will store only learning devices, reading materials and handphones in the locker at the start of the day unless requested by teachers for learning activities in class.  
+  
+I may only use my learning devices or handphones at the canteen during recess/lunch breaks.  
+  
+I will not deface the interior and exterior of the locker, which is the property of the school. I will open my locker for inspection when requested by school staff.  
+  
+I understand that if I do not comply with the regulations of using the lockers, I may not be able to continue using the lockers.
+
+5.5
+	
+<p style="text-align: justify;">I will only consume food and drinks in the canteen during breaks. I may consume snacks in class during snack time, with the permission of my teacher.
+	
+
+5.6
+<p style="text-align: justify;">I will be guided by the school values of **PRIDE**: **P**erseverance, **R**espect, **I**ntegrity, **D**iligence, **E**mpathy at all times.
+	
+	
+	
