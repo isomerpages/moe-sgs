@@ -83,10 +83,50 @@ third_nav_title: Student Handbook
 ##### 3.3
 <p style="text-align: justify;">I will attend lessons, CCA and other school activities punctually.</p>
 
+##### **Respect for Nation and School**
 
+##### 4 Flag Raising Ceremony
 
-##### 4
+##### 4.1
+<p style="text-align: justify;">I will stand at attention when the National Anthem is sung and the Pledge is recited.</p>
 
+<p style="text-align: justify;">If I am a Singapore citizen, I will sing the National Anthem and recite the Pledge with my right fist placed over my heart.</p>
+
+##### 4.2
+
+<p style="text-align: justify;">I will sing the school song and recite the Students’ Creed with respect and pride.</p>
+
+##### **Golden Rules for a Pleasant School Experience**
+##### 5 Behaviour and Conduct
+
+##### 5.2
+
+<p style="text-align: justify;">I respect myself and my peers. I will not do anything which may cause others to feel physically or emotionally unsafe. Bullying is a serious offence that will not be tolerated by the school.</p>
+
+##### 5.3
+<p style="text-align: justify;">I will not bring or be in possession of any weapon. I will also not bring any weapon-like item which can be used or intended to be used to cause harm to others. Possession of weapons is a serious offence.</p>
+
+##### 5.4
+<p style="text-align: justify;">I will store only learning devices, reading materials and handphones in the locker at the start of the day unless requested by teachers for learning activities in class.</p>
+
+<p style="text-align: justify;">I may only use my learning devices or handphones at the canteen during recess/lunch breaks.</p>
+
+<p style="text-align: justify;">I will not deface the interior and exterior of the locker, which is the property of the school. I will open my locker for inspection when requested by school staff.</p>
+
+<p style="text-align: justify;">I understand that if I do not comply with the regulations of using the lockers, I may not be able to continue using the lockers.</p>
+
+##### 5.5
+<p style="text-align: justify;">I will only consume food and drinks in the canteen during breaks. I may consume snacks in class during snack time, with the permission of my teacher.</p>
+
+##### 5.6
+
+<p style="text-align: justify;">I will be guided by the school values of PRIDE:</p>
+* Perseverance
+* Respect
+* Integrity
+* Diligence
+* Empathy
+.....at all times.
 
 <p style="text-align: justify;"></p>
 
