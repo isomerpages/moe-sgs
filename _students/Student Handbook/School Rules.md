@@ -127,7 +127,3 @@ third_nav_title: Student Handbook
 * Diligence
 * Empathy
 .....at all times.
-
-<p style="text-align: justify;"></p>
-
-<p style="text-align: justify;"></p>
