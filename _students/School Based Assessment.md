@@ -1,6 +1,6 @@
 ---
 title: School Based Assessment
-permalink: /sba/
+permalink: /student-sba/
 description: ""
 ---
 ### School-Based Assessment 2023
@@ -15,9 +15,9 @@ The schedule for our School-Based Assessment (SBA) for Secondary 4 and 5 student
 
 ### What are Weighted Assessments?
 
-For our **Sec 1 to 3** students, Weighted Assessments (WA) may take the form of short class tests, performance tasks, graded assignments, project work or oral presentations, varied and designed to support learning of students leveraging on formative assessment.
+For our&nbsp;**Sec 1 to 3**&nbsp;students, Weighted Assessments (WA) may take the form of short class tests, performance tasks, graded assignments, project work or oral presentations, varied and designed to support learning of students leveraging on formative assessment.
 
-To better prepare our **Sec 4 and 5** students for the rigour of the national exams at the end of the year, WA 1 & 2 will be closely aligned to the scope of assessment of the national exams.
+To better prepare our&nbsp;**Sec 4 and 5**&nbsp;students for the rigour of the national exams at the end of the year, WA 1 &amp; 2 will be closely aligned to the scope of assessment of the national exams.
 
 We seek your support to reinforce positive learning dispositions and attitudes in your child/ward by encouraging him/her to participate actively in lessons and stay engaged on the learning tasks and homework provided daily. These will help develop study habits and strengthen positive learning dispositions in them.
 
