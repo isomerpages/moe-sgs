@@ -21,12 +21,12 @@ To better prepare our&nbsp;**Sec 4 and 5**&nbsp;students for the rigour of the n
 
 We seek your support to reinforce positive learning dispositions and attitudes in your child/ward by encouraging him/her to participate actively in lessons and stay engaged on the learning tasks and homework provided daily. These will help develop study habits and strengthen positive learning dispositions in them.
 
-### Sec 1 to 5 Weighted Assessment 1
+### Sec 1 to 5 Weighted Assessment 2
 
-The Sec 1 to 5 Weighted Assessment 1 will take place from Week 4 to Week 8 of Term 1.  
+The Sec 1 to 5 Weighted Assessment 1 will take place from Week 4 to Week 8 of Term 2.  
 The timetable and the scope of assessment are available online at
 
-*   **[Link: for.edu.sg/sgs2023wa1](https://for.edu.sg/sgs2023wa1)**
+*   **[Link: for.edu.sg/sgs2023wa2](https://for.edu.sg/sgs2023wa2)**
 
 ### Students Absent from WA/Examinations
 
