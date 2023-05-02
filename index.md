@@ -8,10 +8,8 @@ notification: Please visit our official FB site to view more exciting updates on
   our school programmes.
 sections:
   - hero:
-      background: /images/Banner1.gif
-      title: Serangoon Garden Secondary School
-      subtitle: Learners with Grit. Leaders with Heart
+      background: /images/b00003.png
   - resources:
-      title: Announcements
+      title: Serangoon Garden Secondary School
       button: More announcements
 ---
