@@ -11,6 +11,7 @@ description: ""
 *  [HR & Payroll portal (HRP)](	https://www.hrp.gov.sg)
 *  [iCON 2.0](http://icon.moe.edu.sg/)
 *  [iEXAMS 2.0](https://iexams.seab.gov.sg/login)
+*  [SEAB Exam Personnel Portal](https://myexamduty.seab.gov.sg/)
 *  [MIMS](https://portal.mims.moe.gov.sg)
 *  [MOE](https://www.moe.gov.sg/)
 *  [MOE Intranet](https://intranet.moe.gov.sg)
