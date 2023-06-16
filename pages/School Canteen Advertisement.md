@@ -3,15 +3,15 @@ title: School Canteen Advertisement
 permalink: /sch-canteen-ad/
 description: ""
 ---
-Type of Stall | Closing Date |
-| -------- | -------- |
+|Type of Stall | Closing Date |
+|:--------: | :--------: |
 | Japanese Stall (halal/non-halal) | 27 June 2023|       
 
  
 ##### **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 [Application Form](/files/application%20form%20-%20canteen.pdf)
-
+<br>
 2. Attached the following documents together with the application form:
 * front and back of NRIC
 * proposed daily food menu and price list; and
@@ -40,6 +40,6 @@ Type of Stall | Closing Date |
 
 ##### **Other details:**
 * Estimated start date is July 2023 after gas and licence has been approved.
-* Application for gas, SFA licence, handover etc should preferably be done and completed before the start date. 
+* Application for gas, SFA licence, handover etc should preferably be done and completed before the start date.&nbsp;
 
 For further enquiries, you may contact the Administration Executive Mr Lou Gok Weng, during our opening hours at 62889227.
