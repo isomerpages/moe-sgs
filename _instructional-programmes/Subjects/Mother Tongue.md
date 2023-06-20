@@ -4,46 +4,24 @@ permalink: /instructional-programmes/Mother-Tongue/
 description: ""
 third_nav_title: Subjects
 ---
-MT Department aims to ‘Develop in every SGSians the love for MT language and culture through progressive and innovative teaching’.
+The MTL Department aims to ‘Develop in every SGSians the love for the Mother Tongue Language and appreciate the cultural diversities in Singapore.’ 
 
-Our department is committed to nurture our students to become “active learners and proficient users” （乐学善用）of the Mother Tongue Languages and engages students in learning through various ways, such as games and songs to infuse the Joy of learning, thinking routines like SEE-THINK-WONDER & Circle of viewpoints to enhance their competency in communication. We provide platforms and opportunities for students to know, experience and connect with the language and culture, such as Mother Fortnight, CPES and Xi’An Immersion.
+Our department is committed to nurture our students to become “active learners and proficient users” of the Mother Tongue Languages and embraces the languages as “Living Languages”. Students are engaged through various ways like games, songs and interactive materials to infuse joy of learning, and to better understand the importance of learning languages as a lifelong journey. 
 
-#### Signature Programmes
+The department also provide platforms and opportunities for students to immerse and connect with their language and culture through our various signature programmes, festive celebrations as well as external competitions. They include:
+1.	Lunar New Year Celebration
+2.	Pongal Celebration
+3.	Hari-Raya Celebration
+4.	MTL fortnight activities 
+5.	MTL cultural camp
+6.	CPES
+7.	CPEF (Tamil & Malay)
+8.	Xin Lei Jiang writing competition
+9.	Translation competition
+10.	TL App Creation competition 
+11.	MOE Comic Writing competition
+12.	Pena Emasku Competition
 
-MT Language & Cultural Programme enables our students to understand and develop their unique identity through a deeper appreciation of culture, traditions, literature and history.
-
-Festive Celebrations – Lunar New Year, Indian New Year & Hari Raya Celebrations engages students in active and authentic learning experiences.
-
-Language Arts Appreciation provides opportunities for students to use the language in an active and interactive manner e.g.
-
-* Reading and Writing Workshop 阅读计划
-*  Author-in-Residence Programme 驻校作家计划
-*  Cultural Performance Exposure Scheme
-*  Malay Arts Appreciation
-*  Speech and Drama Through Malay Films
-
-![Calligraphy Peck Har Teo](/images/mtl1.jpg)*Calligraphy Peck Har Teo*
-
-#### Achievements
-
-**2018**
-
-*    “Global Village” Children & Youths Bilingual Speech Competition – 2nd Runner Up
-*   Newspaper Design Competition organized by Lianhe Zaobao – Lower Secondary group was awarded the “Commendation Award”, while the Upper Secondary group clinched the 3rd Place. The Upper Secondary was also awarded the “Best Title Award” in recognition of the creative and impactful Newspaper title crafted.
-*   Malay Writing Competition  (Peraduan Pena Emasku) –  Awarded Gold Grade
-*   The Most Inspiring Tamil Teacher Award (Lifetime Achievement) – Mrs Bhupathy
-
-**2017**
-
-*   “Global Village” Children & Youths Bilingual Speech Competition – 1st Runner Up
-*   Amazing race competition ( Tamil Thoothargal) – Consolation Prize
-
-**2016**
-
-*   “Zhao Yang Bei” Speech Competition “朝阳杯”国际中小学朗诵比赛 – 1st Runner Up
-*   Create Your Own Newspaper Competition全国中学编采比赛 – Prize of Commendation
-*   Creation of Tamil Apps, organised by CPDD & Bartley Sec School. Came in 3rd
-*   Trail shuttle competition, organised by Tamil Language Learning and Promotion Committee (TLLPC) & Crescent Girls’ School. Came in 3rd
-*   Impromptu Advertisement Competition, organised by Anglo Chinese Independent. Came in 4th
-*   Impromptu speech competition, organised by CPDD. Came in 3rd
-*   Oratorical Competition, organised by Tamil Pattimandra Kalai Kazhagam with the support of Tamil Language Council, SINDA and Lamsoon CC IAEC Choa Chu Kang. Two of our students got the consolation prize.
+##### Photos
+![](/images/mtl001.JPG)
+![](/images/mtl002.JPG)
