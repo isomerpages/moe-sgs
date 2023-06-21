@@ -5,7 +5,7 @@ description: ""
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-| Japanese Stall (halal/non-halal) | 27 June 2023|       
+| Japanese Stall (halal/non-halal) | 29 June 2023|       
 
  
 ##### **Application Procedure**
