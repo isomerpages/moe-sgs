@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sgsbanner.png
+      background: /images/sgsbanner01.png
   - infopic:
       description: Please visit our official Facebook site to view more exciting
         updates on our school programmes.
