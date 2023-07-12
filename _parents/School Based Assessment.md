@@ -26,14 +26,13 @@ We seek your support to reinforce positive learning dispositions and attitudes i
 The Sec 4 &amp; 5 Preliminary Examinations will take place from Week 6 to Week 10 of Term 3.  
 The examination timetables are available online at
 
-*   **[Link to timetable](https://docs.google.com/spreadsheets/d/16pE4TJ9tvA3VBomGR113ZZfvrrqRyjBlLt5als1wbXo/edit#gid=1277634515)**
+*   [Link to timetable](https://docs.google.com/spreadsheets/d/16pE4TJ9tvA3VBomGR113ZZfvrrqRyjBlLt5als1wbXo/edit#gid=1277634515)
 
 ### Sec 1 to 3 Weighted Assessment 3
 
 The Sec 1 to 3 Weighted Assessment 3 will take place from Week 5 to Week 8 of Term 3.  
-The timetable and the scope of assessment will be made available at a later date.
-
-
+The timetable and the scope are available at 
+* [Link to timetable](https://for.edu.sg/sgs2023wa3) 
 
 ### Students Absent from WA/Examinations
 
