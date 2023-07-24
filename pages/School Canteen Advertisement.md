@@ -5,7 +5,7 @@ description: ""
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-| Japanese Stall (halal/non-halal) | 29 June 2023|       
+| Muslim Noodle Stall (Halal) | 1 August 2023|       
 
  
 ##### **Application Procedure**
@@ -39,7 +39,7 @@ description: ""
 * For shortlisted applicants, there will be an online interview and food sampling session. Applicants may be required to submit food samples for evaluation.
 
 ##### **Other details:**
-* Estimated start date is July 2023 after gas and licence has been approved.
+* Estimated start date is Aug/Sep 2023  after gas and licence has been approved.
 * Application for gas, SFA licence, handover etc should preferably be done and completed before the start date.&nbsp;
 
 For further enquiries, you may contact the Administration Executive Mr Lou Gok Weng, during our opening hours at 62889227.
