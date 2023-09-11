@@ -6,3 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parent(s)/Guardian,
+
+1.	We are delighted to have your child/ward back to school on Tues, 12 Sep as school reopens for Term4. 
+
+2.	Kindly inform your child/ward to report to the school hall by 7.50am in the FIRST/SECOND school uniform – ie: white top and blue bottom with a proper haircut, without coloured hair and approved footwear.   (Students taking ‘N’ level exams will report outside Computer Labs 1/2.)
+
+3. 	Your child/ward will be dismissed at 1.10pm on 12 and 20 Sep due to the conduct of GCE ‘N’ Level Listening Comprehension Exams.
+
+4.	Do remind them to bring a thermometer. Should they be unwell, please bring them to a doctor.
