@@ -22,7 +22,4 @@ sections:
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
       alt: Image alt text
-  - resources:
-      title: Announcements
-      id: resources
 ---
