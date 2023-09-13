@@ -21,18 +21,15 @@ To better prepare our&nbsp;**Sec 4 and 5**&nbsp;students for the rigour of the n
 
 We seek your support to reinforce positive learning dispositions and attitudes in your child/ward by encouraging him/her to participate actively in lessons and stay engaged on the learning tasks and homework provided daily. These will help develop study habits and strengthen positive learning dispositions in them.
 
-### Sec 4 &amp; 5 Preliminary Examinations
 
-The Sec 4 &amp; 5 Preliminary Examinations will take place from Week 6 to Week 10 of Term 3.  
-The examination timetables are available online at
+### Sec 1 to 3 End of Year Examinations
 
-*   [Link to timetable](https://docs.google.com/spreadsheets/d/16pE4TJ9tvA3VBomGR113ZZfvrrqRyjBlLt5als1wbXo/edit#gid=1277634515)
+The Sec 1 to 3 End of Year Examinations will take place in Weeks 4 &amp; 5 of Term 4.  
+The timetable and the scope can be accessed at:
+* [Secondary 1](https://docs.google.com/spreadsheets/d/1mJCqrUJLlDhzT593Lkls8amxoESqtY_Cey4RlAQJQmo/edit#gid=488164236) 
+* [Secondary 2](https://docs.google.com/spreadsheets/d/1vGdDNJ5Z2CfXw77OQ1lqbusCz91XTOCFTfl4YfjPKU0/edit#gid=488164236) 
+* [Secondary 3](https://docs.google.com/spreadsheets/d/1b7dpLxZqhU1LROHOjmJL8bfGbMwmofghE-Mwp660dTE/edit#gid=864193179) 
 
-### Sec 1 to 3 Weighted Assessment 3
-
-The Sec 1 to 3 Weighted Assessment 3 will take place from Week 5 to Week 8 of Term 3.  
-The timetable and the scope are available at 
-* [Link to timetable](https://for.edu.sg/sgs2023wa3) 
 
 ### Students Absent from WA/Examinations
 
