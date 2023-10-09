@@ -25,7 +25,7 @@ third_nav_title: Student Handbook
 
 ![](/images/School%20Rules/First%20Uniform%20Lower%20Sec.jpg)
 
-![](/images/School%20Rules/PR%20Attire.jpg)
+![](/images/lower%20sec%20pe%20attire.jpg)
 
 ![](/images/School%20Rules/Second%20Uniform%20Upper%20Sec.jpg)
 
