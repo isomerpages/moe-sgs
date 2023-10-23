@@ -41,3 +41,6 @@ Upon completion of this programme, students will develop skills such as critical
 
 
 ![](/images/alp.png)
+
+At the end of students’ participation in the ALP, they will undergo an evaluation based on their proficiency in 21st Century Competencies. Please refer to assessment rubric provided below for further details. 
+![](/images/reportcard%20alp%202023.jpg)
