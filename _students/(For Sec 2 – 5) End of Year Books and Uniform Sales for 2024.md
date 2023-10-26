@@ -4,7 +4,7 @@ permalink: /students/permalink/2024-sec2-sec5-books-uniform-sales/
 description: ""
 ---
 #### **Things to take Note:**
-#### 
+
 
 1.&nbsp; Students who are offering SBB subjects should check that they are ordering the correct textbooks/workbooks for their subjects.
 
@@ -25,8 +25,7 @@ Please click on the link to view or download the booklist.
 * [5NA Booklist 2024](/files/5na%20booklist%202024.pdf)
 
 #### **School Uniform**
-#### 
-##### 
+
 * Order online by 30 Nov 2023 [https://jeepsinguniform.com/collections/serangoon-gardens-secondary](https://jeepsinguniform.com/collections/serangoon-gardens-secondary)
 * Info on sale of uniform in Jeep Sing outlet <br>
 Walk-in Purchase at Jeep Sing Retail Outlet is strictly by appointment only, from 1 Nov 2023. Please book your time slots via this link https://jeepsinguniform.com/pages/appointment-booking
