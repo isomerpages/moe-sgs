@@ -8,7 +8,7 @@ description: ""
 
 1.&nbsp; Students who are offering SBB subjects should check that they are ordering the correct textbooks/workbooks for their subjects.
 
-2.&nbsp; Please visit [sgds.cascoedusupply.com.sg](sgds.cascoedusupply.com.sg) to order your books online. vLast day for online order is **15 Dec 2023**.
+2.&nbsp; Please visit [sgds.cascoedusupply.com.sg](sgds.cascoedusupply.com.sg) to order your books online. Last day for online order is **15 Dec 2023**.
 
 3.&nbsp; On-site purchase is from **6 Nov 2023 to 12 Dec 2023.**
 
@@ -28,4 +28,4 @@ Please click on the link to view or download the booklist.
 
 * Order online by 30 Nov 2023 [https://jeepsinguniform.com/collections/serangoon-gardens-secondary](https://jeepsinguniform.com/collections/serangoon-gardens-secondary)
 * Info on sale of uniform in Jeep Sing outlet <br>
-Walk-in Purchase at Jeep Sing Retail Outlet is strictly by appointment only, from 1 Nov 2023. Please book your time slots via this link https://jeepsinguniform.com/pages/appointment-booking
+Walk-in Purchase at Jeep Sing Retail Outlet is strictly by appointment only, from 1 Nov 2023. Please book your time slots via this link [https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)
