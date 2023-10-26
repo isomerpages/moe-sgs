@@ -30,4 +30,3 @@ Please click on the link to view or download the booklist.
 * Order online by 30 Nov 2023 [https://jeepsinguniform.com/collections/serangoon-gardens-secondary](https://jeepsinguniform.com/collections/serangoon-gardens-secondary)
 * Info on sale of uniform in Jeep Sing outlet <br>
 Walk-in Purchase at Jeep Sing Retail Outlet is strictly by appointment only, from 1 Nov 2023. Please book your time slots via this link https://jeepsinguniform.com/pages/appointment-booking
-
