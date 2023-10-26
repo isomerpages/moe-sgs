@@ -8,7 +8,7 @@ description: ""
 
 1.&nbsp; Students who are offering SBB subjects should check that they are ordering the correct textbooks/workbooks for their subjects.
 
-2.&nbsp; Please visit [sgds.cascoedusupply.com.sg](sgds.cascoedusupply.com.sg) to order your books online. Last day for online order is **15 Dec 2023**.
+2.&nbsp; Please visit [https://sgdqs.cascoedusupply.com.sg](https://sgds.cascoedusupply.com.sg) to order your books online. Last day for online order is **15 Dec 2023**.
 
 3.&nbsp; On-site purchase is from **6 Nov 2023 to 12 Dec 2023.**
 
