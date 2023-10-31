@@ -4,8 +4,10 @@ permalink: /instructional-programmes/Design-Technology/
 description: ""
 third_nav_title: Subjects
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFZ1jSrm9jI?si=ycBmrwYH8IIuQAJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
 ### Curriculum Overview
-The design process is at the heart of our Design & Technology program, serving as the fundamental platform for students to conceptualize and create practical and relevant design solutions for everyday life. Our curriculum takes students through a series of design and make projects, progressively building their knowledge and skills from Secondary 1 to 4/5.
+The design process is at the heart of our Design &amp; Technology program, serving as the fundamental platform for students to conceptualize and create practical and relevant design solutions for everyday life. Our curriculum takes students through a series of design and make projects, progressively building their knowledge and skills from Secondary 1 to 4/5.
 
 ### Lower Secondary
 In the lower secondary levels, students dive into the world of design and technology through engaging design-and-make projects. These projects not only help them acquire relevant knowledge but also foster the skills necessary to transform their ideas into tangible creations.
