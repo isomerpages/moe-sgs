@@ -4,28 +4,38 @@ permalink: /instructional-programmes/Design-Technology/
 description: ""
 third_nav_title: Subjects
 ---
-## Outline of Curriculum  
-Design process is the key platform in Design & Technology. It guides the act of conceptualising and creating design solutions that are practical and appropriate in everyday life. Students undertake a series of design and make projects progressively (from Secondary 1 to 4/5) to acquire new knowledge and skills through this learning platform.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFZ1jSrm9jI?si=ycBmrwYH8IIuQAJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-Students are also encouraged to take part in enrichment programmes such as seminars and competitions to apply their knowledge learned in class and reinforce their learning
+### Curriculum Overview
+The design process is at the heart of our Design &amp; Technology program, serving as the fundamental platform for students to conceptualize and create practical and relevant design solutions for everyday life. Our curriculum takes students through a series of design and make projects, progressively building their knowledge and skills from Secondary 1 to 4/5.
 
-### Lower secondary  
-In the lower secondary level, students learn through design-and-make projects. As students immerse in these projects, they will acquire related knowledge and develop skills to turn ideas into reality.  
+### Lower Secondary
+In the lower secondary levels, students dive into the world of design and technology through engaging design-and-make projects. These projects not only help them acquire relevant knowledge but also foster the skills necessary to transform their ideas into tangible creations.
 
-### Upper secondary  
-In the upper secondary level, students learn to identify design opportunities in the community, understand the needs of the user, and then work independently to design and prototype innovative solutions that meet those needs.  
-  
-In the process of working on design and make projects, students are able to develop 21st century competencies – skills like civic literacy, global awareness and cross-cultural skills, critical and inventive thinking, and communication, collaboration and information and skills.  
-This is in line with the SGS’s vision of “Learners with Grit, Leaders with Heart”.
+### Upper Secondary
+At the upper secondary level, students move beyond the classroom to explore design opportunities within the community. They learn to identify user needs and work independently to design and prototype innovative solutions that address those needs effectively.
+Throughout their journey of designing and making, students not only gain technical proficiency but also cultivate vital 21st-century competencies. These include skills such as civic literacy, global awareness, cross-cultural competence, critical and inventive thinking, as well as communication, collaboration, and information management abilities.
+This curriculum aligns seamlessly with the school's vision of "Learners with Grit, Leaders with Heart," preparing our students to be resilient and compassionate leaders of tomorrow.
 
-![](/images/department%20photo%202022%20-%20Md%20Imran.jpeg)
+### Enrichment Programs
+In addition to our core curriculum, we strongly encourage students to participate in various enrichment programs, such as seminars and competitions. These opportunities allow students to apply the knowledge gained in the classroom, reinforcing their learning and nurturing their innovative spirit.
 
-![](/images/Garden%20Fiesta%20DT%20Exhibition%202022%20-%20Md%20Imran.jpeg)
+![](/images/sec%203%20republic%20polytechnic%20learning%20journey.jpeg)
 
-![](/images/Visit%20to%20Temasek%20Aviation%20Academy%202022%20-%20Md%20Imran.jpeg)
+![](/images/sec%203%20republic%20polytechnic%20learning%20journey%202.jpeg)
 
-![](/images/Workshop%20at%20Temasek%20Polytechnic%202022%20-%20Md%20Imran.jpeg)
+![](/images/sec%203%20temasek%20polytechnic%20learning%20journey.jpeg)
 
-![](/images/Design%20seminar%202022%20-%20Md%20Imran.jpeg)
+![](/images/sec%203%20temasek%20polytechnic%20learning%20journey%202.jpeg)
 
-![](/images/1667986413969%20-%20Md%20Imran.jpg)
+![](/images/sec%203%20temasek%20polytechnic%20learning%20journey%203.jpeg)
+
+![](/images/sec%203%20temasek%20polytechnic%20learning%20journey%204.jpeg)
+
+![](/images/sec%204na%20coursework%20celebration.jpeg)
+
+![](/images/sec%203e%20project%20trellis.jpeg)
+
+![](/images/sec%204%20and%205%20ikea%20learning%20journey.jpeg)
+
+![](/images/sec%204%20and%205%20ikea%20learning%20journey%202.jpeg)
