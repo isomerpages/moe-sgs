@@ -8,21 +8,17 @@ notification: ""
 sections:
   - hero:
       background: /images/sgsbanner02.png
-  - infopic:
+  - infobar:
       title: End of Year Books and Uniform Sales for 2024
-      id: infopic
-      description: (For Sec 2 – 5)
+      subtitle: (For Sec 2 – 5)
+      id: infobar
       button: click here for more details
       url: https://www.sgs.moe.edu.sg/students/permalink/2024-sec2-sec5-books-uniform-sales/
-      image: /images/School-Logo.jpg
-      alt: Image alt text
-  - infopic:
+  - infobar:
       title: Financial Assistance Scheme (FAS) Application
-      id: infopic
+      id: infobar
       button: click here for more details
       url: https://www.sgs.moe.edu.sg/students/Student-Handbook/Financial-Assistance-Schemes/
-      image: /images/moefas2024_1.jpg
-      alt: Image alt text
   - infopic:
       description: Please visit our official Facebook site to view more exciting
         updates on our school programmes.
