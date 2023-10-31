@@ -12,22 +12,20 @@ Every year, our students look forward to participating in LSPs, three times a ye
 
 The theme **‘Discover’** is about our students exploring and discovering their talents, passions and their heritage; the theme **‘Enrich’** is about providing opportunities for our students to apply their knowledge, skills and competencies to authentic real-world context and the last theme is **‘Celebrate’** which affirms our students’ different talents and passion in the domains of Cognitive, Aesthetics, Moral, Physical and Social.
 
-![](/images/LSP2.jpeg)
+![](/images/photo%201_camp.jpeg)
 
-![](/images/LSP9.jpeg)
+![](/images/photo%202_dragon%20boat.jpeg)
 
-![](/images/LSP1.jpg)
+![](/images/photo%203_lj_veg.jpeg)
 
-![](/images/LSP10.jpeg)
+![](/images/photo%204_lj_goat%20farm.jpeg)
 
-![](/images/LSP3.jpeg)
+![](/images/photo%205_drumming.jpeg)
 
-![](/images/LSP4.jpeg)
+![](/images/photo%206_lj_sungei%20buloh.jpeg)
 
-![](/images/LSP5.jpeg)
+![](/images/photo%207_lj_botanical%20garden.jpeg)
 
-![](/images/LSP6.jpeg)
+![](/images/photo%208_lj_east%20coast.jpeg)
 
-![](/images/LSP7.png)
-
-![](/images/LSP8.jpeg)
+![](/images/photo%209_lj_temple.jpeg)
