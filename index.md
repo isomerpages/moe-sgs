@@ -18,7 +18,7 @@ sections:
       title: Financial Assistance Scheme (FAS) Application
       id: infobar
       button: click here for more details
-      url: https://www.sgs.moe.edu.sg/students/Student-Handbook/Financial-Assistance-Schemes/
+      url: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
   - infopic:
       description: Please visit our official Facebook site to view more exciting
         updates on our school programmes.
