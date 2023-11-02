@@ -7,8 +7,8 @@ description: ""
 |:--------: | :--------: |
 | Chinese Cuisine Stall (Economy Rice) | 8 November 2023|       
 | Japanese Cuisine Stall | 8 November 2023| 
-| Hot Drink and Snack Stall | 8 November 2023| 
-| Cold Drink and Snack Stall | 8 November 2023| 
+| Hot Drinks and Snacks Stall | 8 November 2023| 
+| Cold Drinks and Fruits Stall | 8 November 2023| 
 | Chinese Noodle Stall | 8 November 2023| 
 | Halal Rice Stall | 8 November 2023| 
 
