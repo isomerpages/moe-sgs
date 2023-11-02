@@ -5,9 +5,10 @@ description: ""
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-| Chinese Cuisine Stall (Economy Rice) | 24 October 2023|       
-| Japanese Cuisine Stall | 24 October 2023| 
-| Western Cuisine Stall | 24 October 2023| 
+| Chinese Cuisine Stall (Economy Rice) | 8 November 2023|       
+| Japanese Cuisine Stall | 8 November 2023| 
+| Hot Drink and Snack Stall | 8 November 2023| 
+
  
 ##### **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
