@@ -2,6 +2,7 @@
 title: (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024
 permalink: /students/permalink/2024-sec2-sec5-books-uniform-sales/
 description: ""
+variant: markdown
 ---
 #### **Things to take Note:**
 
@@ -21,8 +22,8 @@ Please click on the link to view or download the booklist.
 * [3E booklist 2024](/files/3e%20booklist%202024_updated.pdf)
 * [3NA booklist 2024](/files/3na%20booklist%202024_updated.pdf)
 * [3NT booklist 2024](/files/3nt%20booklist%202024_updated.pdf)
-* [4E Booklist 2024](/files/4e%20booklist%202024_updated.pdf)
-* [4NA Booklist 2024](/files/4na%20booklist%202024_updated.pdf)
+* [4E Booklist 2024](/files/4e%20booklist%202024_updated2.pdf)
+* [4NA Booklist 2024](/files/4na%20booklist%202024_updated2.pdf)
 * [4NT Booklist 2024](/files/4nt%20booklist%202024_updated.pdf)
 * [5NA Booklist 2024](/files/5na%20booklist%202024_updated.pdf)
 

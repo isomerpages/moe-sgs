@@ -5,12 +5,12 @@ description: ""
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-| Chinese Cuisine Stall (Economy Rice) | 8 November 2023|       
-| Japanese Cuisine Stall | 8 November 2023| 
-| Hot Drinks and Snacks Stall | 8 November 2023| 
-| Cold Drinks and Fruits Stall | 8 November 2023| 
-| Chinese Noodle Stall | 8 November 2023| 
-| Halal Rice Stall | 8 November 2023| 
+| Chinese Cuisine Stall (Economy Rice) | 10 November 2023|       
+| Japanese Cuisine Stall | 10 November 2023| 
+| Hot Drinks and Snacks Stall | 10 November 2023| 
+| Cold Drinks and Fruits Stall | 10 November 2023| 
+| Chinese Noodle Stall | 10 November 2023| 
+| Halal Rice Stall | 10 November 2023| 
 
  
 ##### **Application Procedure**
