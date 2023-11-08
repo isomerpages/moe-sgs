@@ -30,9 +30,9 @@ The objectives of the GETB programme are to foster effective thinking and commun
 
 ![Representive of SGSS for the Lower Secondary category](/images/el2024%20(6).jpeg)
 
-##### READ&amp;SGSS
+##### READ@SGSS
 
-READ@SGSS is a reading programme that aims to develop in students beginning, close and critical reading and viewing skills, strategies, attitudes and behaviour (SSABs) to comprehend a variety of texts meaningfully, strengthened with wide and extensive reading and viewing. Apart from morning reading periods, SGSS also holds book fairs and movie screenings (text to screen to further encourage the love of reading among  students. 
+READ@SGSS is a reading programme that aims to develop in students beginning, close and critical reading and viewing skills, strategies, attitudes and behaviour (SSABs) to comprehend a variety of texts meaningfully, strengthened with wide and extensive reading and viewing. Apart from morning reading periods, SGSS also holds book fairs and movie screenings (text to screen) to further encourage the love of reading among  students. 
 
 ![Students engaged in reading during morning reading periods.](/images/el2024%20(2).jpeg)
 
