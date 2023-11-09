@@ -29,3 +29,14 @@ The objectives of the GETB programme are to foster effective thinking and commun
 READ@SGSS is a reading programme that aims to develop in students beginning, close and critical reading and viewing skills, strategies, attitudes and behaviour (SSABs) to comprehend a variety of texts meaningfully, strengthened with wide and extensive reading and viewing. Apart from morning reading periods, SGSS also holds book fairs and movie screenings (text to screen) to further encourage the love of reading among  students. 
 ![](/images/ell2024%20(2).png)
 ![](/images/ell2024%20(3).png)
+
+
+##### Lit Up @ SGSS
+Literature is an exciting subject offered to all lower secondary students, 3 E and 3NA selected students. The Lit Up Camp is an annual event that celebrates the achievements of the Literature family and serves also to strengthen the bonds between students and teachers. This year's Lit Up Camp has our very Literature teachers taking camp participants on a literary trail along the Singapore River, where students get to appreciate poetry written about the river and its history. The highlight of the camp is the theatre trip to Into the Woods production, where students get to experience first-hand how fairy-tales are woven into a musical production.
+
+Literature students in SGSS also get to experience:
+- competitive events at the National Literature Festival
+- other theatre trips
+- literary writing competitions
+
+![](/images/ell2024%20(4).png)
