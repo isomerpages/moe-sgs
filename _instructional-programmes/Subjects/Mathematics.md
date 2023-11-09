@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /instructional-programmes/Mathematics/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 #### Our Belief
 The Math Department believe that all students can learn and want to learn. We believe in teaching our students how to learn and build up their confidence as they improve over time. To us, hope, confidence and thus motivation are the most important factors in learning.
@@ -21,11 +22,11 @@ and eventually achieve mastery.
 ![Students given immediate feedback when they get it wrong](/images/math3.jpg)*Students given immediate feedback when they get it wrong*
 
 #### Bringing Math to Life
-Math is all around us and we want students to realize this through fun activities. We bring students out for amazing race at places like Changi Airport and Botanic Gardens where they measure, identify and solve Math-related problems in real life. In school, we bring students out of the classroom to estimate the length of tall objects in school without actually having to measure it or peel oranges to derive the relationship between the surface area of spheres and their cross-sectional area. We hope that through these activities, students will appreciate and see more purpose in their learning.
+Math is all around us and we want students to realize this through fun activities. We bring students out for amazing race at places like Changi Airport and Gardens by the Bay where they measure, identify and solve Math-related problems in real life. In school, we bring students out of the classroom to estimate the length of tall objects in school without actually having to measure it or peel oranges to derive the relationship between the surface area of spheres and their cross-sectional area. We hope that through these activities, students will appreciate and see more purpose in their learning.
 
-![Sec 2 students at an Amazing Race at Changi Airport](/images/math4.jpg)
+![](/images/math%20activities%20.jpeg)
 
 ![Students deriving the formula of the surface area of a sphere](/images/math5.jpg)*Students deriving the formula of the surface area of a sphere*
 
 ##### Customized Programmes to cater to Students’ needs
-At Sec 3 and 4, students are banded based on academic ability with customized programmes. Weaker students are given more support while stronger ones are stretched. Some are also given more exposure through external competitions like the “All Singapore Secondary Mathematics Competition”.
+At Sec 3 and 4, students are banded based on academic ability with customized programmes. Weaker students are given more support while stronger ones are stretched. Some are also given more exposure through external competitions like the “All Singapore Secondary Mathematics Competition” and “Maths Olympiad”.
