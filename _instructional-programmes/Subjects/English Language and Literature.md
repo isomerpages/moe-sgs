@@ -22,20 +22,10 @@ To nurture students in EL and Literature beyond the classroom, students have opp
 #### Key programmes
 ##### Garden Expressions: Thoughts in Bloom (GETB)
 The objectives of the GETB programme are to foster effective thinking and communication skills while providing a platform for students to express their authentic voice. Initially an in-house competition, GETB has grown into an inter-school event, allowing students to learn from peers in other institutions. 
-![GETB 2023](/images/el2024%20(7).jpeg)
-
-![GETB finalists with our distinguished alumni and esteemed judges](/images/el2024%20(5).jpeg)
-
-![Representive of SGSS for the Upper Secondary category](/images/el2024%20(4).jpeg)
-
-![Representive of SGSS for the Lower Secondary category](/images/el2024%20(6).jpeg)
+![](/images/ell2024%20(1).png)
 
 ##### READ@SGSS
 
 READ@SGSS is a reading programme that aims to develop in students beginning, close and critical reading and viewing skills, strategies, attitudes and behaviour (SSABs) to comprehend a variety of texts meaningfully, strengthened with wide and extensive reading and viewing. Apart from morning reading periods, SGSS also holds book fairs and movie screenings (text to screen) to further encourage the love of reading among  students. 
-
-![Students engaged in reading during morning reading periods.](/images/el2024%20(2).jpeg)
-
-![Students engaged in reading during morning reading periods.](/images/el2024%20(1).jpeg)
-
-![Students picking books that they wish to have in the school’s library](/images/el2024%20(3).jpeg)
+![](/images/ell2024%20(2).png)
+![](/images/ell2024%20(3).png)
