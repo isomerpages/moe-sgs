@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-![](/images/girlguides2024%20(1).png)
-
-![](/images/girlguides2024%20(02).png)
-![](/images/girlguides2024%20(3).png)
-![](/images/girlguides2024%20(4).png)
-![](/images/girlguides2024%20(5).png)
+![](/images/ccagg2024__1_.png)
+![](/images/ccagg2024__2_.png)
+![](/images/ccagg2024__3_.png)
+![](/images/ccagg2024__4_.png)
+![](/images/ccagg2024__5_.png)
