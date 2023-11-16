@@ -5,4 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-![](/images/band2024%20(4).png)![](/images/band2024%20(2).png)![](/images/band2024%20(3).png)
+![](/images/ccaband2024__1_.png)
+![](/images/ccaband2024__2_.png)
+
