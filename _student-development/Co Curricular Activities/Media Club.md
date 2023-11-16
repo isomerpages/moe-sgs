@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-![](/images/mediaclub2024%20(1).png)
-![](/images/mediaclub2024%20(2).png)
-![](/images/mediaclub2024%20(3).png)
+![](/images/ccamedia2024__1_.png)
+![](/images/ccamedia2024__2_.png)
+![](/images/ccamedia2024__3_.png)
+
