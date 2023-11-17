@@ -3,5 +3,7 @@ title: Robotics Club
 permalink: /student-development/Co-Curricular-Activities/Robotics-Club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-![](/images/robotics2024%20(1).png)![](/images/robotics2024%20(2).png)
+![](/images/ccarobotics2024__1_.png)
+![](/images/ccarobotics2024__2_.png)
