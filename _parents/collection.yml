@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - SGSS Virtual Tour.md
       - Direct School Admission (DSA).md
       - Parents Support Group.md
       - School Based Assessment.md
