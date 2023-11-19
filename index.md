@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/sgsbanner02.png
   - infobar:
+      title: E-Open House 2024
+      id: infobar
+      button: click here for more details
+      url: https://www.sgs.moe.edu.sg/eopenhouse/
+  - infobar:
       title: End of Year Books and Uniform Sales for 2024
       subtitle: (For Sec 2 – 5)
       id: infobar
