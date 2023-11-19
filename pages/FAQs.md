@@ -13,6 +13,7 @@ The flag raising begins at 7.45 a.m sharp in class.
 
 On Monday, students are to report to their classrooms by 8.10 a.m
 
+
 2. How late are students expected to stay in school each day?
 
 This depends on whether your child is schedule for CCAs or additional learning 
@@ -69,4 +70,3 @@ All students have the opportunity to undergo leadership skills development in SG
 
 Our school’s Level Signature Programmes (LSPs) aim to enhance our students’ social
 And emotional competencies and deepen their 21st Century Competencies through authentic experiential Learning. Over the course of three to four days, all levels of students are engaged in specially curated and customized activities such as overseas learning trips, outdoor and adventure camp, healthy lifestyle lessons and sessions on education and career guidance for our graduating cohort, who get to visit the Polytechnics and various industries. Over the past years, our Secondary Two students, for example have the opportunity to visit Penang and Kuala Lumpur in Malaysia. For many of them, the highlight of these trips is the opportunity to meet their peers from the local schools.
-
