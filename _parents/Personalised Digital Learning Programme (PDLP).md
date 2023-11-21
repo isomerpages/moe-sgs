@@ -16,7 +16,7 @@ SGS has selected the Acer TravelMate Spin B3 as its PLD offering . Despite its s
 ![](/images/PDLP1.png)
 
 ### Important Actions For Parents (Sec 1 2024)
-By early-January 2024, parents/guardians would have received a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP. 
+By early-January 2024, parents/guardians will receive a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP. 
 
 ### PDLP Introduction Video
 This is a video presentation about our PDLP programme which includes details on purchasing the PLD. 
