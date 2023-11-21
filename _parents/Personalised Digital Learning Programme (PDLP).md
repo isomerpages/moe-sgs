@@ -2,6 +2,7 @@
 title: Personalised Digital Learning Programme (PDLP)
 permalink: /parents/Personalised-Digital-Learning-Programme/
 description: ""
+variant: markdown
 ---
 ### National Digital Literacy Programme
 
@@ -14,23 +15,13 @@ SGS has selected the Acer TravelMate Spin B3 as its PLD offering . Despite its s
 
 ![](/images/PDLP1.png)
 
-### Important Actions For Parents (Sec 1 2023)
-By early-January 2023, parents/guardians would have received a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP. 
-
-Please submit the following consent forms online at [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)  by **20 Jan 2023** in order for the school to begin processing the purchase of a PLD for your child/ward.
-
-*   Intent to Purchase PLD
-*   Edusave Withdrawal
-*   Authorisation to collect PLD
-*   Application for Subsidy 
-
-Parents/Guardians without a Singpass account may request for a hardcopy letter from your child’s/ward’s Form Teacher or from the school's General Office.
-
+### Important Actions For Parents (Sec 1 2024)
+By early-January 2024, parents/guardians will receive a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP. 
 
 ### PDLP Introduction Video
 This is a video presentation about our PDLP programme which includes details on purchasing the PLD. 
 
-<iframe width="556" height="310" src="https://www.youtube.com/embed/irEmIsr6-lQ" title="Personalised Digital Learning Programme 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="556" height="310" src="https://www.youtube.com/embed/irEmIsr6-lQ" title="Personalised Digital Learning Programme 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Financial Assistance
 Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
@@ -49,7 +40,7 @@ Mr Leslie Tan
 HOD ICT  
 [leslie\_yc\_tan@moe.edu.sg](mailto:leslie_yc_tan@moe.edu.sg)
 
-##### **Administrative & Financial Matters**  
+##### **Administrative &amp; Financial Matters**  
 Ms Teresa Ng  
 Administration Manager  
 [teresa\_ng@schools.gov.sg](mailto:teresa_ng@schools.gov.sg)
