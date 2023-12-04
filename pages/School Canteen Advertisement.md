@@ -2,15 +2,11 @@
 title: School Canteen Advertisement
 permalink: /sch-canteen-ad/
 description: ""
+variant: markdown
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-| Chinese Cuisine Stall (Economy Rice) | 10 November 2023|       
-| Japanese Cuisine Stall | 10 November 2023| 
-| Hot Drinks and Snacks Stall | 10 November 2023| 
-| Cold Drinks and Fruits Stall | 10 November 2023| 
-| Chinese Noodle Stall | 10 November 2023| 
-| Halal Rice Stall | 10 November 2023| 
+|Not Applicable | Not Applicable|       
 
  
 ##### **Application Procedure**
