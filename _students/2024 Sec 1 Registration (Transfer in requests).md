@@ -8,6 +8,6 @@ description: ""
 
 Dear Parent(s)/Guardian 
 
-If you are keen to seek a transfer in to our school for your P6 child/ward, who has recently received his/her secondary school posting in 2023, please submit the application form via this [link](https://go.gov.sg/s1appealsgss)link  by **Tuesday, 26 December 2023, 12 pm.** We will contact you should there be a suitable vacancy.
+If you are keen to seek a transfer in to our school for your P6 child/ward, who has recently received his/her secondary school posting in 2023, please submit the application form via this [link](https://go.gov.sg/s1appealsgss) by **Tuesday, 26 December 2023, 12 pm.** We will contact you should there be a suitable vacancy.
 
-Thank you. 
+Thank you.
