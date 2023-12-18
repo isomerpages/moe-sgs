@@ -9,6 +9,21 @@ sections:
   - hero:
       background: /images/sgsbanner02.png
   - infobar:
+      title: 2024 Sec 1 Registration (Transfer in requests)
+      id: infobar
+      button: click here for more details
+      url: https://www.sgs.moe.edu.sg/students/seconeregtransfer/
+  - infobar:
+      title: 2024 Sec 1 Registration (Mass Appeal Exercise)
+      id: infobar
+      button: click here for more details
+      url: https://www.sgs.moe.edu.sg/students/seconeregmassappeal/
+  - infobar:
+      title: Sec 1 Registration for 2024 Sec 1 Students and Parents
+      id: infobar
+      button: click here for more details
+      url: https://www.sgs.moe.edu.sg/students/sec1registration2024/
+  - infobar:
       title: E-Open House 2024
       id: infobar
       button: click here for more details
