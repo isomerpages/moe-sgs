@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - 2024 Sec 1 Registration (Transfer in requests).md
-      - 2024 Sec 1 Registration (Mass Appeal Exercise).md
       - Sec 1 Registration for 2024 Sec 1 Students and Parents.md
+      - 2024 Sec 1 Registration (Mass Appeal Exercise).md
+      - 2024 Sec 1 Registration (Transfer in requests).md
       - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
       - 2023 Timetable.md
       - School Based Assessment.md
