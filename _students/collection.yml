@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Sec 1 Registration for 2024 Sec 1 Students and Parents.md
       - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
       - 2023 Timetable.md
       - School Based Assessment.md
