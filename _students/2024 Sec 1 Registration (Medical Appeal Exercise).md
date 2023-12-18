@@ -1,6 +1,6 @@
 ---
-title: 2024 Sec 1 Registration (Mass Appeal Exercise)
-permalink: /students/seconeregmassappeal/
+title: 2024 Sec 1 Registration (Medical Appeal Exercise)
+permalink: /students/seconeregmedappeal/
 variant: markdown
 description: ""
 ---
@@ -14,4 +14,4 @@ a.	**Serious Medical Conditions.** Students with persistent or serious illness e
 
 b.	**Severe Physical Impairments**. Students with physical impairments. An assessment from qualified medical professional(s) of the student’s conditions and needs should be submitted. The assessment should clearly describe the extent of impairments (temporary/permanent) and the type of assistive device that the student is currently using (e.g. those requiring permanent use of a wheelchair). 
 
-Thank you. 
+Thank you.
