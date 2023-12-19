@@ -9,11 +9,6 @@ sections:
   - hero:
       background: /images/sgsbanner02.png
   - infobar:
-      title: Release of N level results 2023
-      id: infobar
-      button: click here for more details
-      url: https://www.sgs.moe.edu.sg/students/nlvl2023
-  - infobar:
       title: Sec 1 Registration for 2024 Sec 1 Students and Parents
       id: infobar
       button: click here for more details
@@ -28,6 +23,11 @@ sections:
       id: infobar
       button: click here for more details
       url: https://www.sgs.moe.edu.sg/students/seconeregtransfer/
+  - infobar:
+      title: Release of N level results 2023
+      id: infobar
+      button: click here for more details
+      url: https://www.sgs.moe.edu.sg/students/nlvl2023
   - infobar:
       title: E-Open House 2024
       id: infobar
