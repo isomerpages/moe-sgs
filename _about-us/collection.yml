@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Leaders/Our People.md
       - School Leaders/.keep
       - Vision, Mission, Motto and Values.md
       - Our Badge & School Song.md
