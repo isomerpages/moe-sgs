@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Key Personnel.md
-      - Our People/School Leaders.md
-      - Our People/.keep
       - Vision, Mission, Motto and Values.md
       - Our Badge & School Song.md
       - School Advisory Committee.md
+      - Our People/.keep
+      - Our People/Key Personnel.md
+      - Our People/School Leaders.md
