@@ -4,6 +4,4 @@ permalink: /students/2024-timetable/
 description: ""
 variant: tiptap
 ---
-# Class Timetables 2023
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRkqEko8sZIhCCmCaXn5m_sdPLQo4UUfWq_l4y-CFcYHEBq2QnYcpg34ngmuaRDS7vJS5ZLH5B6nWf0/pub?embedded=true" height="500" width="800"></iframe>
+<h1>Class Timetables 2024</h1><p>Dear SGSIANS,</p><p>The Class Timetables are ready for download. Thank you for your patience.</p><p><a href="/files/2024_Sec_1_Timetable_by_SG_28_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Timetable T1</a></p><p><a href="/files/2024_Sec_2___5_Class_Timetable_28_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2-5 Timetable T1</a></p>
