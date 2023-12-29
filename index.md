@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/sgsbanner02.png
   - infobar:
+      title: 2024 Orientation Programme
+      id: infobar
+      button: click here for more details
+      url: https://www.sgs.moe.edu.sg/students/2024op/
+  - infobar:
       title: Sec 1 Registration for 2024 Sec 1 Students and Parents
       id: infobar
       button: click here for more details
