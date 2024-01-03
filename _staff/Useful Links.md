@@ -2,9 +2,10 @@
 title: Useful Links
 permalink: /staff-links/
 description: ""
+variant: markdown
 ---
 # Useful Links
-*  [Workplace by Facebook](https://onepublicservice.facebook.com/)
+
 *  [All Ears](https://forms.moe.edu.sg/)
 *  [Form SG](https://form.gov.sg/)
 *  [Go SG](https://go.gov.sg/)
