@@ -1,0 +1,28 @@
+collections:
+  students:
+    output: true
+    order:
+      - 2024 Orientation Programme.md
+      - Sec 1 Registration for 2024 Sec 1 Students and Parents.md
+      - 2024 Sec 1 Registration (Medical Appeal Exercise).md
+      - 2024 Sec 1 Registration (Transfer in requests).md
+      - Release of N level results 2023.md
+      - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
+      - 2024 Timetable.md
+      - School Based Assessment.md
+      - Student Handbook/.keep
+      - Student Handbook/School Rules.md
+      - Student Handbook/Financial Assistance Scheme (FAS).md
+      - Student Handbook/Support for Students.md
+      - Student Handbook/Promotion Criteria.md
+      - Student Handbook/Post Secondary Landscape.md
+      - Safety Guidelines/.keep
+      - Safety Guidelines/Road Safety.md
+      - Safety Guidelines/Health & Fitness Room Safety Rules.md
+      - Safety Guidelines/D&T Workshops & Studios Safety Rules.md
+      - Safety Guidelines/Food Laboratories Safety Rules.md
+      - Safety Guidelines/Science Laboratories Safety Rules.md
+      - Safety Guidelines/Computer Laboratories Safety Rules.md
+      - Safety Guidelines/ICT Acceptable Use Policy (AUP) Agreement.md
+      - Education and Career Guidance.md
+      - SGS ICT Helpdesk.md
