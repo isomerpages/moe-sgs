@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact/contact-us/
 description: ""
+variant: markdown
 ---
 ![](/images/Map3.jpg)
 ![](/images/Map4.jpg)
@@ -35,22 +36,34 @@ table {
 	
   </tr>
   <tr>
-    <td>Lower Sec</td>
+    <td>Sec 1</td>
     <td>Ms Tay Hui Yih</td>
 		<td>Lower Sec Year Head</td>
     <td><a href="mailto:tay_hui_yih@moe.edu.sg">tay_hui_yih@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Upper Sec</td>
+    <td>Sec 2</td>
+    <td>Ms Lim Wan Qi</td>
+		<td>Assistant Year Head, Lower Sec</td>
+    <td><a href="mailto:wan_qi_lim@moe.edu.sg">wan_qi_lim@moe.edu.sg</a></td>
+  </tr>
+		 <tr>
+    <td>Sec 3</td>
+    <td>Ms Lim Si Ting</td>
+		<td>Assistant Year Head, Upper Sec</td>
+    <td><a href="mailto:lim_si_ting@moe.edu.sg">lim_si_ting@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Sec 4/5</td>
     <td>Mr Steven Wong </td>
 		<td>Upper Sec Year Head</td>
     <td><a href="mailto:wong_chiow_kwei_steven@moe.edu.sg">wong_chiow_kwei_steven@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Discipline Matters</td>
-    <td>Mr Shahul Hameed</td>
+    <td>Mr Poh Wei Ren</td>
 		<td>HOD Student Management</td>
-    <td><a href="mailto:shahul_hameed_kuthubudeen@moe.edu.sg">shahul_hameed_kuthubudeen@moe.edu.sg</a></td>
+    <td><a href="mailto:poh_wei_ren@moe.edu.sg">poh_wei_ren@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
