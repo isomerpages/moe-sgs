@@ -1,6 +1,6 @@
 ---
 title: Personalised Digital Learning Programme (PDLP)
-permalink: /parents/Personalised-Digital-Learning-Programme/
+permalink: /pdlp/
 description: ""
 variant: markdown
 ---
