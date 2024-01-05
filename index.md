@@ -9,6 +9,11 @@ sections:
   - hero:
       background: /images/sgsbanner02.png
   - infobar:
+      title: Release of O level results 2023
+      id: infobar
+      button: Click here for more details
+      url: https://www.sgs.moe.edu.sg/students/2023olvl/
+  - infobar:
       title: 2024 Orientation Programme
       id: infobar
       button: click here for more details
