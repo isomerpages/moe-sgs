@@ -3,6 +3,7 @@ title: Support for Students
 permalink: /students/Student-Handbook/Supportfor-Students/
 description: ""
 third_nav_title: Student Handbook
+variant: markdown
 ---
 ![](/images/Helplines.png)
 
@@ -34,8 +35,6 @@ Our ECG Counsellor works collaboratively with students to:
 *   explore relevant courses of study and educational pathways; and
 *   discover the world of work.
 
-Our ECG Counsellor is available at the **V-Hub on Wednesdays**.
+Our ECG Counsellor is available at the **V-Hub on Mondays and Tuesdays**.
 
 Students could find out more information from the ECG noticeboard located in the school canteen and the V-Hub. 
-
-**ECG Counsellor:**  Ms Camilla Teo
