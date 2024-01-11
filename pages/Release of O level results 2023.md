@@ -1,7 +1,0 @@
----
-title: Release of O level results 2023
-permalink: /students/2023olvl/
-variant: tiptap
-description: ""
----
-<p>Dear 4E/5NA students and Parents/Guardian of our 4E/5NA students,</p><p></p><p>The 2023 GCE O-Level Examination results will be released on <strong>Thursday, 11 January 2024 at 2 pm</strong>.</p><p>Students may be accompanied by their parents/guardian to collect their results.</p><p></p><p>Students are to:</p><p>• be seated in the hall from <strong>1.45 pm</strong>, latest by 2 pm.</p><p>• report to school in full school uniform with neat hair and appropriate hair colour.</p><p></p><p>Students who are unable to collect their results in person can appoint a proxy to collect a physical copy of their results from the school.  Students who are unwell should also appoint a proxy to collect a physical copy of their results from the school. Proxies are required to produce the relevant documents for the school’s verification when collecting the results. Students may contact their Form Teachers for assistance with the appointment of a proxy.</p><p></p><p>If a student is recovering from respiratory-related illnesses and is in school to collect their results, he/she should exercise social responsibility and wear a mask.</p><p></p><p>We wish all our students the best in their future endeavours.</p><p></p>
