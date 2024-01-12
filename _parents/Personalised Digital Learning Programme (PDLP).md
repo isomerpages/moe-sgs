@@ -13,10 +13,23 @@ Personal Learning Devices (PLDs) will truly transform the learning environment a
 
 SGS has selected the Acer TravelMate Spin B3 as its PLD offering . Despite its small size, it is feature packed with a responsive 11.6″ touchscreen and upgraded components like its CPU, RAM and storage. With 3 years of warranty and insurance coverage, it offers superb value for money and will provide students with many good years of learning and productivity.
 
-![](/images/PDLP1.png)
+![PLD2024](/images/Acer_TravelMate_Spin_TMB311RN_33_Convertible.jpg)
 
 ### Important Actions For Parents (Sec 1 2024)
-By early-January 2024, parents/guardians will receive a letter from the school via Parents’ Gateway or hardcopy with details about the PDLP. 
+
+Parents/guardians will receive a letter from the school via Parents’ Gateway or hardcopy with details about the purchase of PLD by mid January.
+
+Please submit the following consent forms in order for the school to begin processing the purchase of a PLD for your child/ward.
+
+*   Intent to Purchase PLD
+*   Edusave Withdrawal (for SC only)
+*   Application for Subsidy (PR/IS)
+
+Singapore Citizens, please make an online submission at [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) after the Parents’ Gateway notification.
+
+Permanent Residents/International Students, please submit the hardcopy letter to your child’s/ward’s Form Teacher.
+
+
 
 ### PDLP Introduction Video
 This is a video presentation about our PDLP programme which includes details on purchasing the PLD. 
@@ -26,7 +39,7 @@ This is a video presentation about our PDLP programme which includes details on 
 ### Financial Assistance
 Subsidies are available to students who require financial assistance. Singapore Citizens who are already on MOE FAS or School-based FAS will automatically qualify for these subsidies and do not need to take any action.
 
-Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit [this form](/files/Application%20for%20Subsidy%20for%20Purcahase%20of%20PLD.pdf)
+Permanent Residents (PR) and International Students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your child qualifies for a subsidy, please submit Annex D “Application for Subsidy for PLD”.
 
 
 ### Frequently Asked Questions and Answers
