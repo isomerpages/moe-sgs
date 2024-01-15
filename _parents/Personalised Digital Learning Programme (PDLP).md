@@ -66,7 +66,7 @@ Administration Manager
 *   [help123.sg](http://help123.sg/)
 
 ### Additional Resources for Parents
-* [Learning Effectively with PLD](/files/Learning%20With%20Your%20PLD.pdf)
+* [Learning Effectively with PLD](/files/Learning_With_Your_PLD_2024.pdf)
 * [PLD Initiative Infographic](/files/PLD%20Initiative%20Infographic_2023.pdf)
 * [DMA Option Infographic](/files/DMA%20Option%20Infographic_2023.pdf)
 * [Parent Handbook (I) on Learning with a PLD_2024](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
