@@ -4,4 +4,4 @@ permalink: /schcal/
 variant: markdown
 description: ""
 ---
-<div class="iframe-wrapper"><iframe allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=10eddbtqlpns0cpj33ugbjb40s%40group.calendar.google.com&amp;amp;ctz=Asia%2FSingapore"></iframe></div><p></p>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_febcf1007066ae8417cbdae3818c76274fce15aa1df8a020a358cd7981565483%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
