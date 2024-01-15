@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School Calendar.md
       - Release of O level results 2023.md
       - 2024 Orientation Programme.md
       - Sec 1 Registration for 2024 Sec 1 Students and Parents.md
