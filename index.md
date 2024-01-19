@@ -8,11 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/sgsbanner02.png
-  - infobar:
-      title: Release of O level results 2023
-      id: infobar
-      button: Click here for more details
-      url: https://www.sgs.moe.edu.sg/students/2023olvl/
   - infopic:
       description: Please visit our official Facebook site to view more exciting
         updates on our school programmes.
