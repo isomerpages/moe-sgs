@@ -6,7 +6,7 @@ variant: markdown
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-|Not Applicable | Not Applicable|       
+|Chinese Noodel | 19 Feb 2024|       
 
  
 ##### **Application Procedure**
@@ -40,7 +40,7 @@ variant: markdown
 * For shortlisted applicants, there will be an online interview and food sampling session. Applicants may be required to submit food samples for evaluation.
 
 ##### **Other details:**
-* Estimated start date is Jan 2024  after gas and licence has been approved.
+* Estimated start date is  Feb 2024  after gas and licence has been approved.
 * Application for gas, SFA licence, handover etc should preferably be done and completed before the start date.&nbsp;
 
 For further enquiries, you may contact the Administration Executive Mr Lou Gok Weng, during our opening hours at 62889227.
