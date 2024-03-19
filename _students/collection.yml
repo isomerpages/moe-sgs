@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - School Calendar.md
-      - Release of O level results 2023.md
-      - 2024 Orientation Programme.md
-      - Sec 1 Registration for 2024 Sec 1 Students and Parents.md
-      - 2024 Sec 1 Registration (Medical Appeal Exercise).md
-      - 2024 Sec 1 Registration (Transfer in requests).md
-      - Release of N level results 2023.md
-      - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
       - 2024 Timetable.md
       - School Based Assessment.md
       - Student Handbook/.keep
@@ -28,3 +21,10 @@ collections:
       - Safety Guidelines/ICT Acceptable Use Policy (AUP) Agreement.md
       - Education and Career Guidance.md
       - SGS ICT Helpdesk.md
+      - Release of O level results 2023.md
+      - 2024 Orientation Programme.md
+      - Sec 1 Registration for 2024 Sec 1 Students and Parents.md
+      - 2024 Sec 1 Registration (Medical Appeal Exercise).md
+      - 2024 Sec 1 Registration (Transfer in requests).md
+      - Release of N level results 2023.md
+      - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
