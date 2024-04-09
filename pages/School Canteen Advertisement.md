@@ -6,7 +6,7 @@ variant: markdown
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-|Chinese Noodle | 1 Apr 2024|       
+|Chinese Noodle | 19 Apr 2024|       
 
  
 ##### **Application Procedure**
@@ -23,7 +23,7 @@ variant: markdown
 * Address: 21 Serangoon North Ave 1, S555889
 * Contact No: 6288 9227
 * Email: sgss@moe.edu.sg
-* Contact Person: Mr Lou Gok Weng
+* Contact Person: Mr Tan Boo Kian
 
 ##### **Eligibility and criteria:**
 * Able to provide a variety of cooked set meals daily. A set meal is expected to include a carbohydrate-rich item, protein-rich item, vegetable and sliced fruit portion.
@@ -40,7 +40,7 @@ variant: markdown
 * For shortlisted applicants, there will be an online interview and food sampling session. Applicants may be required to submit food samples for evaluation.
 
 ##### **Other details:**
-* Estimated start date is  Feb 2024  after gas and licence has been approved.
+* Estimated start date is  May 2024  after gas and licence has been approved.
 * Application for gas, SFA licence, handover etc should preferably be done and completed before the start date.&nbsp;
 
-For further enquiries, you may contact the Administration Executive Mr Lou Gok Weng, during our opening hours at 62889227.
+For further enquiries, you may contact the Administration Executive Mr Tan Boo Kian, during our opening hours at 62889227.
