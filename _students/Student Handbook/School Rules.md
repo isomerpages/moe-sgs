@@ -3,8 +3,12 @@ title: School Rules
 permalink: /students/Student-Handbook/School-Rules/
 description: ""
 third_nav_title: Student Handbook
+variant: markdown
 ---
-<p style="text-align: justify;">The School Rules serve to guide and encourage positive behaviour, which is integral to fostering a caring and safe environment where learning can take place.</p>
+<p style="text-align: justify;">The School Rules serve to guide and encourage positive behaviour, which is integral to fostering a caring, safe and fair environment where learning can take place.</p>
+
+<p style="text-align: justify;">Rules and consequences are communicated to students so that they are clear of the expectations of the school and the consequences should they fall short of these expectations. The table of offences and their corresponding consequences can be found [here](/files/SGS_Discipline_Policy__For_Website___Cleared_.pdf). </p>
+
 
 <p style="text-align: justify;">The SGS community believes in holistic education centred on values and character development. Through a culture of care and mutual respect, we nurture our students into Learners with Grit and Leaders with Heart. Using daily routines and teachable moments, we cultivate our students’ social and emotional competencies, and inculcate the school values of PRIDE: Perseverance, Respect, Integrity, Diligence, and Empathy.</p>
 
