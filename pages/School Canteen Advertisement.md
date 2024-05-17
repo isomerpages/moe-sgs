@@ -6,7 +6,7 @@ variant: markdown
 ---
 |Type of Stall | Closing Date |
 |:--------: | :--------: |
-|Chinese Noodle | 19 Apr 2024|       
+      
 
  
 ##### **Application Procedure**
