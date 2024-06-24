@@ -23,7 +23,13 @@ Terms 1 to 3. The modes of WA could include:</p>
 students for the year.</p>
 <p><u>Table 1: Assessment weightings for 2024</u>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,6 +90,21 @@ for the rigour of the national exams at the end of the year, WA 1 &amp;
 in our students through their active participation in lessons and engagement
 on the learning tasks and homework provided daily. These will help develop
 study habits and strengthen positive learning dispositions in them.</p>
+<h3>Preliminary Examination and End-of-Year Examination for Secondary 4 and 5 students</h3>
+<p>The Preliminary Examination for Secondary 4 and 5 students will be conducted
+in Term 3.</p>
+<p>For 4NA, 4NT SBB and 4NT students, Preliminary Exam will take places from
+Term 3 Week 6 to 7.</p>
+<p>For 4E/5N and 4NA SBB students, Preliminary Exam will take places from
+Term 3 Week 8 to Term 4 Week 1.</p>
+<p>Students who are absent from the exams due to illness must submit a medical
+certificate to their Form Teacher upon their return to school. A student
+without a medical certificate will be awarded zero for the missed paper.
+Only medical certificates issued by registered medical practitioners will
+be accepted.</p>
+<p>The scope and schedule for the Preliminary Examination can be found here:
+<a href="https://for.edu.sg/sgsprelims24" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgsprelims24</a>
+</p>
 <h3>Sec 1 to 5 WA2</h3>
 <p>In Term 2, WA will take place in the form of Performance Tasks or short
 tests across the different subjects. Respective subject teachers will inform
