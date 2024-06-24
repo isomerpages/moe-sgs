@@ -10,7 +10,6 @@ description: ""
 website. Thank you for examining our privacy statement.&nbsp; &nbsp;</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
 data that allows us to identify you individually.</p>
-<p></p>
 <p>3.&nbsp; If you choose to make an application or send us an e-mail for
 which you provide us with personally identifiable data, we may share necessary
 data with other Government agencies, so as to serve you in a most efficient
@@ -31,4 +30,3 @@ of personal data are secured with appropriate security technologies.&nbsp;&nbsp;
 protection and privacy practices may differ from ours. We are not responsible
 for the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
-<p>&nbsp;</p>
