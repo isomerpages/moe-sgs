@@ -100,6 +100,12 @@ Term 3 Week 8 to Term 4 Week 1.</p>
 <p>The scope and schedule for the Preliminary Examination can be found here:
 <a href="https://for.edu.sg/sgsprelims24" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgsprelims24</a>
 </p>
+<h3>Sec 1 to 3 WA3</h3>
+<p>WA3 will be conducted in the form of Performance Tasks or written tests
+across different subjects.</p>
+<p>For Sec 1 &amp; 2 students, WA3 from take place from Week 4 to 8.</p>
+<p>For Sec 3 students, WA3 will be scheduled from Week 6 to 8.</p>
+<p>The schedule and scope for WA3 can be found here: <a href="https://for.edu.sg/sgswa3" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgswa3</a>.</p>
 <h3>Students Absent from WA/Examinations</h3>
 <p>Students who are absent from the tests due to illness must submit a medical
 certificate to his/her Form Teacher, upon his/her return to school. A student
