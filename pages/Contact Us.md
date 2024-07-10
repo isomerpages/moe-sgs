@@ -12,7 +12,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Map4.jpg">
 </div>
 <h3>Student Matters</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -106,7 +112,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>2024 Form Teachers List</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -168,6 +178,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Faezah</p>
+<p>Ms Valence Leung</p>
 <p>Mr Tan Jit Huih</p>
 </td>
 </tr>
@@ -185,7 +196,6 @@ variant: tiptap
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rita Wong</p>
 <p>Mr Antony Raj</p>
 <p>Mr Melvin Ong</p>
 </td>
@@ -204,7 +214,7 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Xi Ling</p>
+<p>Ms Yu Ka Yan</p>
 <p>Mr Osman</p>
 <p>Ms Loo Wei Sheng</p>
 </td>
@@ -225,7 +235,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Victoria Ang</p>
 <p>Ms Esther Tay</p>
-<p>Ms Cassandra Choo</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +244,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Eric Phua</p>
 <p>Ms Azmed Beevi</p>
-<p>Ms Zhao Zixi</p>
+<p>Ms Tee Shi En</p>
 </td>
 </tr>
 <tr>
@@ -298,8 +307,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Seow-Hong Huiting</p>
-<p>Mr Kelvin Tey</p>
-<p>Mr Tee Shi En</p>
+<p>Ms Cassandra Choo</p>
 </td>
 </tr>
 <tr>
@@ -326,7 +334,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr David Kwong</p>
-<p>Ms Valence Leung</p>
+<p>Ms Sia Boon Ping</p>
 </td>
 </tr>
 <tr>
