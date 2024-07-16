@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - HBL 2024.md
       - School Calendar.md
       - 2024 Timetable.md
       - School Based Assessment.md
