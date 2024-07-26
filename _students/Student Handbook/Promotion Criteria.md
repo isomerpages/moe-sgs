@@ -36,7 +36,7 @@ variant: tiptap
 <br>
 <br>OR
 <br>
-<br>Pass 5 other subjects if did not pass English</p>
+<br>Pass 5 other subjects if did not pass English (advanced)</p>
 </td>
 </tr>
 </tbody>
