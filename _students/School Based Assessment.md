@@ -78,27 +78,10 @@ students for the year.</p>
 <p>For subjects that are taught on a per-semester basis, i.e. Design and
 Technology and Food and Consumer education, respective subject teachers
 will inform students of the details on assessment weighting.&nbsp;&nbsp;</p>
-<h3>What are Weighted Assessments (WA)?</h3>
-<p>For our&nbsp;<strong>Sec 1 to 3</strong>&nbsp;students, WA may take the
-form of short class tests, performance tasks, graded assignments, project
-work or oral presentations, varied and designed to support learning of
-students leveraging on formative assessment.</p>
-<p>To better prepare our&nbsp;<strong>Sec 4 and 5</strong>&nbsp;students
-for the rigour of the national exams at the end of the year, WA 1 &amp;
-2 will be closely aligned to the scope of assessment of the national exams.</p>
-<p>It is important to reinforce positive learning dispositions and attitudes
-in our students through their active participation in lessons and engagement
-on the learning tasks and homework provided daily. These will help develop
-study habits and strengthen positive learning dispositions in them.</p>
 <h3>End-of-Year Examination for Secondary 1 to 3 students</h3>
 <p>The End-of-Year Examination for Secondary 1 to 3 students will commence
 in Term 4, Week 3.</p>
-<p>Students who are absent from the exams due to illness must submit a medical
-certificate to their Form Teacher upon their return to school.&nbsp; A
-student without a medical certificate will be awarded zero for the missed
-paper.&nbsp; Only medical certificates issued by registered medical practitioners
-will be accepted.</p>
-<p>The scope and schedule for the Preliminary Examination can be found here:
+<p>The scope and schedule for the End-of-Year Examination can be found here:
 <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgseoy2024</a>
 </p>
 <h3>Preliminary Examination for Secondary 4 and 5 students</h3>
@@ -108,11 +91,6 @@ in Term 3.</p>
 Term 3 Week 6 to 7.</p>
 <p>For 4E/5N and 4NA SBB students, Preliminary Exam will take place from
 Term 3 Week 8 to Term 4 Week 1.</p>
-<p>Students who are absent from the exams due to illness must submit a medical
-certificate to their Form Teacher upon their return to school. A student
-without a medical certificate will be awarded zero for the missed paper.
-Only medical certificates issued by registered medical practitioners will
-be accepted.</p>
 <p>The scope and schedule for the Preliminary Examination can be found here:
 <a href="https://for.edu.sg/sgsprelims24" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgsprelims24</a>
 </p>
