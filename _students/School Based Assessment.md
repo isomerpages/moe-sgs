@@ -101,12 +101,21 @@ will be accepted.</p>
 <p>The scope and schedule for the Preliminary Examination can be found here:
 <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgseoy2024</a>
 </p>
-<h3>Sec 1 to 3 WA3</h3>
-<p>WA3 will be conducted in the form of Performance Tasks or written tests
-across different subjects.</p>
-<p>For Sec 1 &amp; 2 students, WA3 from take place from Week 4 to 8.</p>
-<p>For Sec 3 students, WA3 will be scheduled from Week 6 to 8.</p>
-<p>The schedule and scope for WA3 can be found here: <a href="https://for.edu.sg/sgswa3" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgswa3</a>.</p>
+<h3>Preliminary Examination for Secondary 4 and 5 students</h3>
+<p>The Preliminary Examination for Secondary 4 and 5 students will be conducted
+in Term 3.</p>
+<p>For 4NA, 4NT SBB and 4NT students, Preliminary Exam will take place from
+Term 3 Week 6 to 7.</p>
+<p>For 4E/5N and 4NA SBB students, Preliminary Exam will take place from
+Term 3 Week 8 to Term 4 Week 1.</p>
+<p>Students who are absent from the exams due to illness must submit a medical
+certificate to their Form Teacher upon their return to school. A student
+without a medical certificate will be awarded zero for the missed paper.
+Only medical certificates issued by registered medical practitioners will
+be accepted.</p>
+<p>The scope and schedule for the Preliminary Examination can be found here:
+<a href="https://for.edu.sg/sgsprelims24" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgsprelims24</a>
+</p>
 <h3>Students Absent from WA/Examinations</h3>
 <p>Students who are absent from the tests due to illness must submit a medical
 certificate to his/her Form Teacher, upon his/her return to school. A student
