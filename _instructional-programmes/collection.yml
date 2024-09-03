@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Nutrition and Food Science.md
       - Subjects/Art.md
       - Subjects/Physical Education.md
