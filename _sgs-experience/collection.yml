@@ -4,16 +4,16 @@ collections:
     order:
       - Assessment Guidelines.md
       - Applied Learning Programme.md
-      - Subjects/Physical Education.md
-      - Subjects/Art.md
-      - Subjects/Nutrition and Food Science.md
-      - Subjects/Music.md
-      - Subjects/Principles of Accounting.md
-      - Subjects/Computing & Computer Applications.md
-      - Subjects/Design & Technology.md
-      - Subjects/Humanities.md
-      - Subjects/Science.md
-      - Subjects/Mathematics.md
-      - Subjects/Mother Tongue.md
-      - Subjects/English Language and Literature.md
       - Subjects/.keep
+      - Subjects/English Language and Literature.md
+      - Subjects/Mother Tongue.md
+      - Subjects/Mathematics.md
+      - Subjects/Science.md
+      - Subjects/Humanities.md
+      - Subjects/Design & Technology.md
+      - Subjects/Computing & Computer Applications.md
+      - Subjects/Principles of Accounting.md
+      - Subjects/Music.md
+      - Subjects/Nutrition and Food Science.md
+      - Subjects/Art.md
+      - Subjects/Physical Education.md
