@@ -2,10 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Co Curricular Activities/Overview.md
-      - Co Curricular Activities/.keep
-      - Learning for Life Programme.md
-      - Level Signature Programmes.md
       - Subjects/.keep
       - Subjects/English Language and Literature.md
       - Subjects/Mother Tongue.md
@@ -19,8 +15,12 @@ collections:
       - Subjects/Nutrition and Food Science.md
       - Subjects/Art.md
       - Subjects/Physical Education.md
+      - Assessment Guidelines.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Values In Action (VIA).md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Overview.md
       - Applied Learning Programme.md
-      - Assessment Guidelines.md
+      - Learning for Life Programme.md
+      - Level Signature Programmes.md
