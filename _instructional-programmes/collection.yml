@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Humanities.md
       - Subjects/Design & Technology.md
       - Subjects/Computing & Computer Applications.md
       - Subjects/Principles of Accounting.md
