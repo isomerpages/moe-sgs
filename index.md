@@ -9,9 +9,19 @@ sections:
   - hero:
       background: /images/sgsbanner03.gif
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: About
+          description: ""
           url: ""
+        - title: Academics
+          description: ""
+          url: ""
+        - title: News & Events
+          description: ""
+          url: ""
+        - title: Visit our Campus
+          description: ""
+          url: ""
+      variant: center
   - infopic:
       title: Infopic
       subtitle: Add an image and text
