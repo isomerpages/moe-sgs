@@ -2,7 +2,6 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Assessment Guidelines.md
       - Applied Learning Programme.md
       - Subjects/.keep
       - Subjects/English Language and Literature.md
