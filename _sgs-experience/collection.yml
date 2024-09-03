@@ -2,8 +2,8 @@ collections:
   sgs-experience:
     output: true
     order:
-      - CCA/Overview.md
-      - CCA/.keep
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/.keep
       - Learning for Life Programme.md
       - Level Signature Programmes.md
       - Subjects/.keep
