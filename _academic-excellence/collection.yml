@@ -1,4 +1,5 @@
 collections:
   academic-excellence:
     output: true
-    order: []
+    order:
+      - Assessment Guidelines.md
