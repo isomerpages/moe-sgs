@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Physical Education.md
