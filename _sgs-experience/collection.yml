@@ -2,6 +2,7 @@ collections:
   sgs-experience:
     output: true
     order:
+      - Applied Learning Programme.md
       - CCE/.keep
       - Assessment Guidelines.md
       - Subjects/.keep
