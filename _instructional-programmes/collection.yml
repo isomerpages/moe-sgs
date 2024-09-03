@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Principles of Accounting.md
       - Subjects/Music.md
       - Subjects/Nutrition and Food Science.md
       - Subjects/Art.md
