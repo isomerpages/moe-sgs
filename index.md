@@ -9,31 +9,21 @@ sections:
   - hero:
       background: /images/sgsbanner04.gif
       key_highlights:
-        - title: About
+        - title: About Us
           description: ""
           url: ""
-        - title: Academics
+        - title: Academic Excellence
           description: ""
           url: ""
         - title: News & Events
           description: ""
           url: ""
-        - title: Visit our Campus
+        - title: CONTACT US
           description: ""
           url: ""
       variant: center
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      description: Please visit our official Facebook site to view more exciting
-        updates on our school programmes.
-      button: Click here to facebook
-      url: https://www.facebook.com/SerangoonGardenSecondarySchool/
-      image: /images/sgs fb.JPG
-      alt: Image alt text
+  - resources:
+      title: Latest News
+      id: resources
+      button: Click here to view more
 ---
