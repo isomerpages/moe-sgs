@@ -1,11 +1,5 @@
 logo: /images/sgslogo.png
 links:
-  - title: About Us
-    collection: about-us
-  - title: INSTRUCTIONAL PROGRAMMES
-    collection: instructional-programmes
-  - title: STUDENT DEVELOPMENT
-    collection: student-development
   - title: STUDENTS
     collection: students
   - title: PARENTS
@@ -15,8 +9,6 @@ links:
   - title: Links
     url: Link
     sublinks:
-      - title: Contact Us
-        url: https://www.sgs.moe.edu.sg/contact/contact-us/
       - title: Student Learning Space (SLS)
         url: https://vle.learning.moe.edu.sg/login
       - title: School Canteen Advertisement
