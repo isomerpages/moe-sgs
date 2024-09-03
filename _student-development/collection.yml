@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - CCE/Values In Action (VIA).md
       - Level Signature Programmes.md
       - Learning for Life Programme.md
       - Co Curricular Activities/.keep
