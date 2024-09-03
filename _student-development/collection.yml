@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Learning for Life Programme.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/Badminton.md
