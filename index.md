@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: ""
+          url: https://www.sgs.moe.edu.sg/about-us/
         - title: Academic Excellence
           description: ""
           url: ""
