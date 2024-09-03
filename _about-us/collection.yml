@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - E Open House.md
       - Vision, Mission, Motto and Values.md
       - Our Badge & School Song.md
       - School Advisory Committee.md
       - Our People/.keep
       - Our People/School Leaders.md
       - Our People/Key Personnel.md
+      - E Open House.md
