@@ -1,5 +1,5 @@
 collections:
-  academic-excellence:
+  sgs-experience:
     output: true
     order:
       - Assessment Guidelines.md
