@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sgsbanner02.png
+      background: /images/sgsbanner04.gif
   - infopic:
       description: Please visit our official Facebook site to view more exciting
         updates on our school programmes.
@@ -22,4 +22,20 @@ sections:
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
       alt: Image alt text
+  - textcards:
+      title: .
+      id: textcards
+      cards:
+        - title: Facebook
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
