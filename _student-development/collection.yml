@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Level Signature Programmes.md
       - Learning for Life Programme.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
