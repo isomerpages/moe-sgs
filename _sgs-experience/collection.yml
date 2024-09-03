@@ -2,9 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Applied Learning Programme.md
-      - CCE/.keep
-      - Assessment Guidelines.md
       - Subjects/.keep
       - Subjects/English Language and Literature.md
       - Subjects/Mother Tongue.md
@@ -18,3 +15,6 @@ collections:
       - Subjects/Nutrition and Food Science.md
       - Subjects/Art.md
       - Subjects/Physical Education.md
+      - CCE/.keep
+      - Applied Learning Programme.md
+      - Assessment Guidelines.md
