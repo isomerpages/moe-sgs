@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: https://www.sgs.moe.edu.sg/about-us/
+          url: https://www.sgs.moe.edu.sg/about-us/Vision-Mission-Motto-Values/
         - title: SGS Experience
           description: ""
           url: ""
