@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Assessment Guidelines.md
-      - Subjects/.keep
       - Applied Learning Programme.md
+      - Subjects/.keep
