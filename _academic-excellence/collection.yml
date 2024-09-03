@@ -2,6 +2,5 @@ collections:
   academic-excellence:
     output: true
     order:
-      - Subjects/Assessment Guidelines.md
       - Subjects/.keep
       - Applied Learning Programme.md
