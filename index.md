@@ -12,7 +12,7 @@ sections:
         - title: About Us
           description: ""
           url: https://www.sgs.moe.edu.sg/about-us/
-        - title: Academic Excellence
+        - title: SGS Experience
           description: ""
           url: ""
         - title: News & Events
