@@ -20,7 +20,7 @@ sections:
           url: ""
         - title: CONTACT US
           description: ""
-          url: ""
+          url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: center
   - resources:
       title: Latest News
