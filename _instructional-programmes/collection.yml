@@ -1,5 +1,4 @@
 collections:
   instructional-programmes:
     output: true
-    order:
-      - Subjects/.keep
+    order: []
