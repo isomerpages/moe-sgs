@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Mathematics.md
       - Subjects/Science.md
       - Subjects/Humanities.md
       - Subjects/Design & Technology.md
