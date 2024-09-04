@@ -2,7 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Robotics Club.md
       - Subjects/.keep
       - Subjects/English Language and Literature.md
       - Subjects/Mother Tongue.md
