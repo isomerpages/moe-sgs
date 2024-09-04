@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>‘To teach, is to touch a life.’</p>
+<p>Thank you, SGS teachers for always being there. Happy Teachers’ Day!</p>
