@@ -1,0 +1,46 @@
+collections:
+  sgs-experience:
+    output: true
+    order:
+      - Subjects/.keep
+      - Subjects/English Language and Literature.md
+      - Subjects/Mother Tongue.md
+      - Subjects/Mathematics.md
+      - Subjects/Science.md
+      - Subjects/Humanities.md
+      - Subjects/Design & Technology.md
+      - Subjects/Computing & Computer Applications.md
+      - Subjects/Principles of Accounting.md
+      - Subjects/Music.md
+      - Subjects/Nutrition and Food Science.md
+      - Subjects/Art.md
+      - Subjects/Physical Education.md
+      - Assessment Guidelines.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Values In Action (VIA).md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Basketball (Boys).md
+      - Co Curricular Activities/Boys’ Brigade.md
+      - Co Curricular Activities/Choir.md
+      - Co Curricular Activities/Concert Band.md
+      - Co Curricular Activities/Dance.md
+      - Co Curricular Activities/Earth Club.md
+      - Co Curricular Activities/Floorball.md
+      - Co Curricular Activities/Football.md
+      - Co Curricular Activities/Girl Guides.md
+      - Co Curricular Activities/Girls’ Brigade.md
+      - Co Curricular Activities/Guzheng Ensemble.md
+      - Co Curricular Activities/Language Arts Club.md
+      - Co Curricular Activities/Media Club.md
+      - Co Curricular Activities/National Cadet Corps.md
+      - Co Curricular Activities/National Police Cadet Corps.md
+      - Co Curricular Activities/Netball.md
+      - Co Curricular Activities/Red Cross Youth.md
+      - Co Curricular Activities/Robotics Club.md
+      - Co Curricular Activities/Table Tennis.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Level Signature Programmes.md
