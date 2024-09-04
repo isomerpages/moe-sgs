@@ -26,4 +26,18 @@ sections:
       title: Latest News
       id: resources
       button: Click here to view more
+  - infopic:
+      id: infopic
+      description: Please visit our official Facebook site to view more exciting
+        updates on our school programmes.
+      button: Click here to facebook
+      url: https://www.facebook.com/SerangoonGardenSecondarySchool
+      image: /images/sgs fb.JPG
+  - infopic:
+      id: infopic
+      description: We invite you to visit our official Instagram page for a glimpse of
+        the exciting updates on our school programmes.
+      button: click here to instagram
+      url: https://www.instagram.com/official.sgss/
+      image: /images/sgs ig.JPG
 ---
