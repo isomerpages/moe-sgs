@@ -1,6 +1,0 @@
-collections:
-  student-development:
-    output: true
-    order:
-      - CCE/.keep
-      - Co Curricular Activities/.keep
