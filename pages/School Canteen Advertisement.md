@@ -23,7 +23,7 @@ variant: tiptap
 <p>Chinese Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Aug 2024</p>
+<p>13 Sept 2024</p>
 </td>
 </tr>
 </tbody>
