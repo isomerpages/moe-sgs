@@ -17,7 +17,7 @@ sections:
           url: https://www.sgs.moe.edu.sg/sgs-experience/english-language-and-literature/
         - title: Visit our campus
           description: ""
-          url: https://docs.google.com/presentation/d/1cl7ECmgZ0wNsoOkh_PLSxNTQYTrp8KyfyWbcrYvSggw/edit#slide=id.g9fe7a80692_0_1
+          url: https://docs.google.com/presentation/d/1cl7ECmgZ0wNsoOkh_PLSxNTQYTrp8KyfyWbcrYvSggw/pub?start=true&loop=false&delayms=3000
         - title: CONTACT US
           description: ""
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
