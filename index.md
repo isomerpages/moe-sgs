@@ -17,7 +17,7 @@ sections:
           url: https://www.sgs.moe.edu.sg/sgs-experience/english-language-and-literature/
         - title: Visit our campus
           description: ""
-          url: https://docs.google.com/presentation/d/e/2PACX-1vQq3FN97K_YRNSyDB8sM-0flcUuwGp5C4TAZr6RiUR27oMjiQY6s97Z-WMKBQp9pmcm3ImSWZzpjnFJ/embed?start=false&loop=false&delayms=3000
+          url: https://docs.google.com/presentation/d/1cl7ECmgZ0wNsoOkh_PLSxNTQYTrp8KyfyWbcrYvSggw/edit#slide=id.g9fe7a80692_0_1
         - title: CONTACT US
           description: ""
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
@@ -33,7 +33,6 @@ sections:
       button: Click here to facebook
       url: https://www.facebook.com/SerangoonGardenSecondarySchool
       image: /images/sgs fb.JPG
-      alt: ""
   - infopic:
       id: infopic
       description: We invite you to visit our official Instagram page for a glimpse of
@@ -41,5 +40,4 @@ sections:
       button: click here to instagram
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
-      alt: ""
 ---
