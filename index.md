@@ -33,6 +33,7 @@ sections:
       button: Click here to facebook
       url: https://www.facebook.com/SerangoonGardenSecondarySchool
       image: /images/sgs fb.JPG
+      alt: Facebook
   - infopic:
       id: infopic
       description: We invite you to visit our official Instagram page for a glimpse of
@@ -40,4 +41,5 @@ sections:
       button: click here to instagram
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
+      alt: Instagram
 ---
