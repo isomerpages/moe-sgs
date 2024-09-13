@@ -82,7 +82,7 @@ will inform students of the details on assessment weighting.&nbsp;&nbsp;</p>
 <p>The End-of-Year Examination for Secondary 1 to 3 students will commence
 in Term 4, Week 3.</p>
 <p>The scope and schedule for the End-of-Year Examination can be found here:
-<a href="https://for.edu.sg/sgseoy2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgseoy2024</a>
+<a href="https://docs.google.com/spreadsheets/d/1tBj5pMHCeopdz_1ylXUyDpgNrNcXkyNg_9n2aTH2_DE/edit?gid=1720561110#gid=1720561110" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/1tBj5pMHCeopdz_1ylXUyDpgNrNcXkyNg_9n2aTH2_DE/edit?gid=1720561110#gid=1720561110</a>
 </p>
 <h3>Preliminary Examination for Secondary 4 and 5 students</h3>
 <p>The Preliminary Examination for Secondary 4 and 5 students will be conducted
