@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sgsbanner05.gif
+      background: /images/sgsbanner06.gif
       key_highlights:
         - title: About Us
           description: ""
