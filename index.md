@@ -21,7 +21,7 @@ sections:
         - title: CONTACT US
           description: ""
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
-      variant: center
+      variant: image
   - resources:
       title: Latest News
       id: resources
