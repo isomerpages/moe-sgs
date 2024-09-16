@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sgsbanner05.gif
+      background: /images/sgsbanner06.gif
       key_highlights:
         - title: About Us
           description: ""
@@ -21,7 +21,7 @@ sections:
         - title: CONTACT US
           description: ""
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
-      variant: center
+      variant: image
   - resources:
       title: Latest News
       id: resources
