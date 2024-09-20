@@ -29,4 +29,5 @@ sections:
       button: FIND OUT MORE!
       url: https://www.sgs.moe.edu.sg/Resources/
       image: /images/here__1_.png
+      alt: ""
 ---
