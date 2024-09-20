@@ -1,5 +1,9 @@
 logo: /images/sgslogo.png
 links:
+  - title: About us
+    collection: about-us
+  - title: SGS Experience
+    collection: sgs-experience
   - title: STUDENTS
     collection: students
   - title: PARENTS
