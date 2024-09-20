@@ -9,12 +9,6 @@ sections:
   - hero:
       background: /images/sgsbanner08.gif
       key_highlights:
-        - title: About Us
-          description: ""
-          url: https://www.sgs.moe.edu.sg/about-us/Vision-Mission-Motto-Values/
-        - title: SGS Experience
-          description: ""
-          url: https://www.sgs.moe.edu.sg/sgs-experience/english-language-and-literature/
         - title: Visit our campus
           description: ""
           url: https://docs.google.com/presentation/d/1cl7ECmgZ0wNsoOkh_PLSxNTQYTrp8KyfyWbcrYvSggw/pub?start=true&loop=false&delayms=3000
