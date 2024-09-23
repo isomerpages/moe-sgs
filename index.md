@@ -23,6 +23,7 @@ sections:
       button: FIND OUT MORE!
       url: https://www.sgs.moe.edu.sg/Resources/
       image: /images/here__1_.png
+      alt: ""
   - infopic:
       id: infopic
       description: Please visit our official Facebook site to view more exciting
@@ -30,7 +31,6 @@ sections:
       button: Click here to facebook
       url: https://www.facebook.com/SerangoonGardenSecondarySchool
       image: /images/sgsfb.png
-      alt: ""
   - infopic:
       id: infopic
       description: We invite you to visit our official Instagram page for a glimpse of
@@ -38,5 +38,4 @@ sections:
       button: click here to instagram
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
-      alt: ""
 ---
