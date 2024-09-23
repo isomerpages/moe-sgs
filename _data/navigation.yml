@@ -1,8 +1,8 @@
 logo: /images/sgslogo.png
 links:
-  - title: About us
+  - title: ABOUT US
     collection: about-us
-  - title: SGS Experience
+  - title: SGS EXPERIENCE
     collection: sgs-experience
   - title: STUDENTS
     collection: students
@@ -10,7 +10,7 @@ links:
     collection: parents
   - title: STAFF
     collection: staff
-  - title: Links
+  - title: LINKS
     url: Link
     sublinks:
       - title: Student Learning Space (SLS)
