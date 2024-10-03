@@ -3,8 +3,8 @@ title: ICT Acceptable Use Policy (AUP) Agreement
 permalink: /students/Safety-Guideliness/ICT-AUP/
 description: ""
 third_nav_title: Safety Guidelines
+variant: markdown
 ---
-
 ### ICT Acceptable Use Policy (AUP) Agreement
 
 Computing devices and access to the Internet have become a necessity for work, play and learning in the 21st century. Serangoon Garden Secondary School is committed to providing a safe and conducive learning environment for all students. As a user of our ICT facilities, you are required to abide by the rules stated in this Acceptable Use Policy Agreement (AUP).
@@ -38,7 +38,3 @@ This policy applies to all students in this school and the use of our school’s
 13.  Users should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.
 14.  Users should not own, copy or share software in an unauthorized or illegal manner.
 15.  The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the user.
-
-##### Photography and Videography at School Events/Publication of Students’ Work
-
-16.  Photographs or video images of you or your parents/legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish selected photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels. Parents/Legal guardians are to notify the school in writing if they do not wish to grant such permission.
