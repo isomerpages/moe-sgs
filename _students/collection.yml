@@ -2,9 +2,7 @@ collections:
   students:
     output: true
     order:
-      - HBL 2024.md
       - School Calendar.md
-      - 2024 Timetable.md
       - School Based Assessment.md
       - Student Handbook/.keep
       - Student Handbook/School Rules.md
@@ -12,7 +10,8 @@ collections:
       - Student Handbook/Support for Students.md
       - Student Handbook/Promotion Criteria.md
       - Student Handbook/Post Secondary Landscape.md
-      - Student Handbook/Personal Data Privacy Act (PDPA) Policy.md
+      - Student Handbook/Photography and Videography at School Events,
+        Publication of Students’ Work.md
       - Safety Guidelines/.keep
       - Safety Guidelines/Road Safety.md
       - Safety Guidelines/Health & Fitness Room Safety Rules.md
@@ -23,4 +22,3 @@ collections:
       - Safety Guidelines/ICT Acceptable Use Policy (AUP) Agreement.md
       - Education and Career Guidance.md
       - SGS ICT Helpdesk.md
-      - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
