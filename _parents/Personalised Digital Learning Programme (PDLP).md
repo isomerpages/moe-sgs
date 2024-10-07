@@ -26,7 +26,7 @@ provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PLD2024" src="/images/Acer_TravelMate_Spin_TMB311RN_33_Convertible.jpg">
 </div>
-<h3>Important Actions For Parents (Sec 1 2024)</h3>
+<h3>Important Actions For Parents (Sec 1 2025)</h3>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
 <p>Please submit the following consent forms in order for the school to begin
@@ -42,10 +42,6 @@ processing the purchase of a PLD for your child/ward.</p>
 <p>Application for Subsidy (PR/IS)</p>
 </li>
 </ul>
-<p>Singapore Citizens, please make an online submission at <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a> after
-the Parents’ Gateway notification.</p>
-<p>Permanent Residents/International Students, please submit the hardcopy
-letter to your child’s/ward’s Form Teacher.</p>
 <h3>PDLP Introduction Video</h3>
 <p>This is a video presentation about our PDLP programme which includes details
 on purchasing the PLD.</p>
