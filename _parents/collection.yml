@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Direct School Admission (DSA).md
       - Parents Support Group.md
       - School Based Assessment.md
       - Apply for eGIRO.md
