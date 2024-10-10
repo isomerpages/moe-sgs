@@ -2,19 +2,19 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Subjects/.keep
-      - Subjects/English Language and Literature.md
-      - Subjects/Mother Tongue.md
-      - Subjects/Mathematics.md
-      - Subjects/Science.md
-      - Subjects/Humanities.md
-      - Subjects/Design & Technology.md
-      - Subjects/Computing & Computer Applications.md
-      - Subjects/Principles of Accounting.md
-      - Subjects/Music.md
-      - Subjects/Nutrition and Food Science.md
-      - Subjects/Art.md
-      - Subjects/Physical Education.md
+      - Instructional Programme/.keep
+      - Instructional Programme/English Language and Literature.md
+      - Instructional Programme/Mother Tongue.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Science.md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Design & Technology.md
+      - Instructional Programme/Computing & Computer Applications.md
+      - Instructional Programme/Principles of Accounting.md
+      - Instructional Programme/Music.md
+      - Instructional Programme/Nutrition and Food Science.md
+      - Instructional Programme/Art.md
+      - Instructional Programme/Physical Education.md
       - Assessment Guidelines.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
