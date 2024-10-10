@@ -2,7 +2,7 @@
 title: Mother Tongue
 permalink: /sgs-experience/mother-tongue/
 description: ""
-third_nav_title: Subjects
+third_nav_title: Instructional Programme
 variant: tiptap
 ---
 <p>The MTL Department aims to ‘Develop in every SGSians the love for the

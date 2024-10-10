@@ -2,7 +2,7 @@
 title: Physical Education
 permalink: /sgs-experience/physical-education/
 description: ""
-third_nav_title: Subjects
+third_nav_title: Instructional Programme
 variant: tiptap
 ---
 ![](/images/pe1.png)

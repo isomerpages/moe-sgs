@@ -2,7 +2,7 @@
 title: Principles of Accounting
 permalink: /sgs-experience/principles-of-accounting/
 description: ""
-third_nav_title: Subjects
+third_nav_title: Instructional Programme
 variant: tiptap
 ---
 **Principles of Accounts (POA)** is an elective subject offered to upper secondary school students. Serangoon Garden Secondary School’s POA Unit aims to help students develop critical thinking and communication skills when they analyse information, make decisions based on it and present their decisions. We adopt a mixed mode delivery, such as demonstration, games, inquiry and authentic learning using business examples to encourage our students in learning.  

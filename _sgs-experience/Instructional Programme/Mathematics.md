@@ -2,7 +2,7 @@
 title: Mathematics
 permalink: /sgs-experience/mathematics/
 description: ""
-third_nav_title: Subjects
+third_nav_title: Instructional Programme
 variant: markdown
 ---
 #### Our Belief

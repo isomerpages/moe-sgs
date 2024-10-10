@@ -2,7 +2,7 @@
 title: Computing & Computer Applications
 permalink: /sgs-experience/computing-computer-applications/
 description: ""
-third_nav_title: Subjects
+third_nav_title: Instructional Programme
 variant: tiptap
 ---
 ### Creative Solutions for Complex Problems
