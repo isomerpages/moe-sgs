@@ -2,7 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Work Shadowing Programme.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language and Literature.md
       - Instructional Programme/Mother Tongue.md
@@ -44,3 +43,4 @@ collections:
       - Learning for Life Programme.md
       - Level Signature Programmes.md
       - Overseas Learning Journey.md
+      - Work Shadowing Programme.md
