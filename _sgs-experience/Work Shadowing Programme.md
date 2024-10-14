@@ -88,3 +88,5 @@ for our students.</p>
 <p>Here are some photographs from our programme last year, and a video sharing
 our students’ learning. Enjoy!</p>
 <p></p>
+
+<iframe width="560" height="315" src="https://youtu.be/gcPH5y5IXpA?si=OiS-OIOfmhWE986x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
