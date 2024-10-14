@@ -89,4 +89,4 @@ for our students.</p>
 our students’ learning. Enjoy!</p>
 <p></p>
 
-<iframe width="560" height="315" src="https://youtu.be/gcPH5y5IXpA?si=OiS-OIOfmhWE986x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gcPH5y5IXpA?si=VMrMBQXJbEPnJYyK&amp;controls=0" height="315" width="560"></iframe>
