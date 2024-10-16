@@ -5,32 +5,72 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
-![](/images/pe1.png)
-
->The Physical Education Department aims to enable students to demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active, healthy living.
-
-![](/images/pe2.png)
-
-**Physical Education** curriculum at Serangoon Gardens Secondary aims to develop students to be physically active, competent and confident individuals who would value and participate in physical activities to enrich their experiential learning. It gives broad-based physical competencies and opportunities for students to pursue physical activities recreationally or competitively enhancing lifelong learning. 
-
-##### Physical Activities:
-Physical activities (see table below) covers movement and games concepts, principles and theories, game rules, strategies and environmental risks and safety concerns (personal and others). In the process, students develop the ability to transfer knowledge to additional skills while continuing to refine existing ones as self-directed and independent learners.
-
-##### Physical Health and Fitness: 
-Students are able to understand the benefits of health and skill related fitness that promote healthy development of bones, muscles, heart and lungs. This not only help in their physical activities but more importantly in their daily functionality. Students also touch on simple physiology and anatomy and nutrition (making healthy food choices, understanding caloric input versus output, body weight management). Besides, they also get themselves familiar with safe NAPFA testing procedures. In this regard, the principles of frequency, intensity, time and type (F.I.T.T) are imparted in their lessons. This further gives them a direction in setting SMART goals that allows them to train progressively to achieve their goals in a safe and effective manner.
-
-##### Outdoor Education: 
-Our outdoor education exposes and teaches students the fundamentals to engage and negotiate natural and urban environment that infuses a sense of adventure in them. In this process, students develop outdoor and environmental skills and experiences (eg: map reading and navigation, tent-pitching, knots tying, starting fire with firewood, field cooking). These exploratory experiences will also enable students to foster an appreciation, responsibility and understanding of nature and its environment and lifelong love for the outdoors.
-
-##### Signature Programmes
-We believe in educating students to enjoy and appreciate living active and healthy lifestyle through engaging in varied programmes. This is where our students compete in intra-class and inter-class sports, ACES Day Challenges, and  Sports Fiesta to name a few. Besides, the Level Signature Programmes expose students to physical activities that are largely not covered in their curriculum. It allows them an opportunity to learn new games and skill sets.
-
-Physical Education at Serangoon Gardens Secondary is more than just play, competition, physical activity and fitness. Importantly, it incorporates sports as a ‘vehicle’ to educate life skills to students and to imbibe core values like respect, responsibility, resilience, integrity, care and harmony. These are taught and facilitated at every opportune teaching moment. 
-
-Our quest is to work towards educating our students to ‘marry’ theory, practice and technology (eg: usage of apps and capturing of performance through videos during lessons) as this would enrich their learning and empower them to lead a lifelong of active healthy lifestyle.
-
-##### *“Intelligence and skill can only function at the peak of their capacity when the body is healthy and strong.” John F Kennedy*
-
-![](/images/pe4.jpg)![](/images/pe5.jpg)
-
-![](/images/pe6.png)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe2024__1_.png">
+</div>
+<p>The Physical Education&nbsp;department aims to develop students to be
+active, caring and healthy learners who would participate in physical activities
+actively and safely, as well as understand the importance of adopting a
+healthy lifestyle for their overall wellbeing. The PE curriculum provides
+broad-based opportunities for students to develop PE-related competencies
+in the three learning areas (Physical Activity, Outdoor Education, and
+Physical Health and Safety), enabling our students to be competent and
+confident individuals who enjoy a lifetime of active and healthy living
+safely and responsibly. Physical Education is also an important vehicle
+to educate life skills and to imbue core values like respect, responsibility,
+resilience, integrity, care and harmony. These are taught and facilitated
+at every opportune teaching moment.</p>
+<p><strong>Physical Activities:</strong>
+</p>
+<p>Our school offers a range of physical activities across the various categories
+of games. Students develop efficiency, effectiveness and versatility in
+game concepts and skills across the various games. &nbsp;As students learn
+and practise these skills and concepts through games and recreational competitions,
+they can and transfer their skills and concepts, individually and with
+others, across the different games. With enhanced movement competence,
+students gain confidence to sustain their participation in physical activities
+beyond their school experience.</p>
+<p><strong>Outdoor Education:</strong>
+</p>
+<p>Our outdoor education exposes and teaches students the fundamentals to
+engage and negotiate natural and urban environment that infuses a love
+for the outdoors and sense of adventure in them. In this process, students
+develop outdoor and environmental skills and experiences (e.g. map reading
+and navigation, tent-pitching, knots tying, starting fire with firewood,
+field cooking). These experiences will enable students to foster an appreciation
+for the outdoors and a deeper personal connection with the places around
+them and a desire to contribute to a sustainable community. Students apply
+their outdoor competencies (i.e., knowledge, skills, and attitudes) during
+the culminating tasks such as day trips and cohort camps where self-directed
+learning experiences develop their spirit of adventure, resilience, and
+deepen personal connections with the environment.</p>
+<p><strong>Physical Health and Safety:</strong>
+</p>
+<p>Students develop an understanding of physical health concepts, active
+living, safe practices and personal hygiene. With the understanding, students
+apply the skills and knowledge to participate in physical activities regularly
+and safely, make healthier food choices and take care of themselves, thus
+developing a sense of personal responsibility towards active and healthy
+living. Students make connections between what they have learnt in class
+and their environment to exhibit health-enhancing behaviours.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe2024__2_.jpg">
+</div>
+<p><strong>Signature Programmes</strong>
+</p>
+<p>We believe in educating students to enjoy and appreciate living active
+and healthy lifestyle through engaging in varied programmes. This is where
+our students compete in intra-class and inter-class sports, ACES Day Challenges,
+and Cross-Country Run. Besides, the Level Signature Programmes expose students
+to physical activities that are not taught in the curriculum, allowing
+them an opportunity to learn new games and skill sets.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe2024__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe2024__4_.png">
+</div>
+<p></p>
