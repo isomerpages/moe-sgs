@@ -1,5 +1,5 @@
 ---
-title: Overseas Learning Journey
+title: Overseas Learning Journeys
 permalink: /overseas-learning-journey/
 variant: markdown
 description: ""
