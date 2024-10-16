@@ -2,19 +2,19 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Instructional Programme/.keep
-      - Instructional Programme/English Language and Literature.md
-      - Instructional Programme/Mother Tongue.md
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/Science.md
-      - Instructional Programme/Humanities.md
-      - Instructional Programme/Design & Technology.md
-      - Instructional Programme/Computing & Computer Applications.md
-      - Instructional Programme/Principles of Accounting.md
-      - Instructional Programme/Music.md
-      - Instructional Programme/Nutrition and Food Science.md
-      - Instructional Programme/Art.md
-      - Instructional Programme/Physical Education.md
+      - Instructional Programmes/.keep
+      - Instructional Programmes/English Language and Literature.md
+      - Instructional Programmes/Mother Tongue.md
+      - Instructional Programmes/Mathematics.md
+      - Instructional Programmes/Science.md
+      - Instructional Programmes/Humanities.md
+      - Instructional Programmes/Design & Technology.md
+      - Instructional Programmes/Computing & Computer Applications.md
+      - Instructional Programmes/Principles of Accounting.md
+      - Instructional Programmes/Music.md
+      - Instructional Programmes/Nutrition and Food Science.md
+      - Instructional Programmes/Art.md
+      - Instructional Programmes/Physical Education.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/Values In Action (VIA).md
