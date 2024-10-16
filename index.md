@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/sgsbanner08.gif
       key_highlights:
-        - title: Sec 1 -3 EOY Exam
-          description: ""
-          url: https://docs.google.com/spreadsheets/d/1tBj5pMHCeopdz_1ylXUyDpgNrNcXkyNg_9n2aTH2_DE/edit?gid=1798804367#gid=1798804367
         - title: Visit our campus
           description: ""
           url: https://docs.google.com/presentation/d/1cl7ECmgZ0wNsoOkh_PLSxNTQYTrp8KyfyWbcrYvSggw/pub?start=true&loop=false&delayms=3000
