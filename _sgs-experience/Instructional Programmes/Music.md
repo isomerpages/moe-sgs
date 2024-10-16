@@ -2,7 +2,7 @@
 title: Music
 permalink: /sgs-experience/music/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 Our school has in place a **General Music Programme (GMP)** that aims to create opportunities for students to learn to perform, create and appreciate music.  

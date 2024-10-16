@@ -2,7 +2,7 @@
 title: Art
 permalink: /sgs-experience/art/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Instructional Programmes
 variant: markdown
 ---
 SGS Art Unit aims to instill in our students the love for visual arts through the development of artistic skills of observation, creative expression, and appreciation.

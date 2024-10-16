@@ -2,7 +2,7 @@
 title: English Language and Literature
 permalink: /sgs-experience/english-language-and-literature/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Instructional Programmes
 variant: markdown
 ---
 #### Department Vision: Language for Life and Learning

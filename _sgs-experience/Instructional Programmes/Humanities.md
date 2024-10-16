@@ -2,7 +2,7 @@
 title: Humanities
 permalink: /sgs-experience/humanities/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 ### Our Beliefs

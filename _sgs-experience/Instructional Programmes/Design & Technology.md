@@ -2,7 +2,7 @@
 title: Design & Technology
 permalink: /sgs-experience/design-technology/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 <div class="iframe-wrapper">

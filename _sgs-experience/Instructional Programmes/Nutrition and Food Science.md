@@ -2,7 +2,7 @@
 title: Nutrition and Food Science
 permalink: /sgs-experience/nutrition-and-food-science/
 description: ""
-third_nav_title: Instructional Programme
+third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 <p><strong>The Nutrition and Food Science</strong> Department aims to empower
