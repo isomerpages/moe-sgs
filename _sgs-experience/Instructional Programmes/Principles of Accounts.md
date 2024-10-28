@@ -1,5 +1,5 @@
 ---
-title: Principles of Accounting
+title: Principles of Accounts
 permalink: /sgs-experience/principles-of-accounting/
 description: ""
 third_nav_title: Instructional Programmes

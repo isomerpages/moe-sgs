@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
       - School Calendar.md
       - School Based Assessment.md
       - Assessment Guidelines.md
