@@ -5,6 +5,5 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-![](/images/ccatabletennis2024__1_.png)
-
-![](/images/ccatabletennis2024__2_.png)
+![](/images/tabletennis2024__1_.jpg)
+![](/images/tabletennis2024__2_.jpg)
