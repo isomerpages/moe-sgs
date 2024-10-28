@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-![](/images/ccaguzheng2024__1_.png)
-![](/images/ccaguzheng2024__2_.png)
-![](/images/ccaguzheng2024__3_.png)
+![](/images/guzheng2024__1_.png)
+![](/images/guzheng2024__2_.png)
+![](/images/guzheng2024__3_.png)
+![](/images/guzheng2024__4_.png)
