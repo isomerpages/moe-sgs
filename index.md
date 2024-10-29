@@ -12,6 +12,9 @@ sections:
         - title: Sec 2-5 Books and Uniform sales
           description: ""
           url: https://www.sgs.moe.edu.sg/students/permalink/2024-sec2-sec5-books-uniform-sales/
+        - title: Semestral Awards Day 2024
+          description: ""
+          url: https://www.sgs.moe.edu.sg/semestral-awards-day-2024/
         - title: Visit our campus
           description: ""
           url: https://docs.google.com/presentation/d/1cl7ECmgZ0wNsoOkh_PLSxNTQYTrp8KyfyWbcrYvSggw/pub?start=true&loop=false&delayms=3000
