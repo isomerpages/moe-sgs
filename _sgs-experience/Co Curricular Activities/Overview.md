@@ -8,7 +8,8 @@ variant: markdown
 ![](/images/ccaoverview2024__1_.png)
 ![](/images/ccaoverview2024__2_.png)
 ![](/images/ccaoverview2024__3_.png)
-![](/images/ccaoverview2024__4_.png)
+
+![](/images/ccaoverviewv22024_4.png)
 
 ![](/images/ccaoverview2024__5_.png)
 ![](/images/ccaoverview2024__6_.png)
