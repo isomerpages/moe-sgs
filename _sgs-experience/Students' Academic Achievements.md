@@ -106,6 +106,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__1_.jpg">
+</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -165,6 +168,12 @@ description: ""
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__3_.jpg">
+</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -277,7 +286,11 @@ ESSAY WRITING CONTEST]</p>
 </tr>
 </tbody>
 </table>
-<p></p><table style="minWidth: 75px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__4_.jpg">
+</div>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -285,7 +298,6 @@ ESSAY WRITING CONTEST]</p>
 </colgroup>
 <tbody>
 <tr>
-
 <td rowspan="1" colspan="1">
 <p><strong>Department&nbsp;</strong>
 </p>
@@ -315,7 +327,11 @@ ESSAY WRITING CONTEST]</p>
 </tr>
 </tbody>
 </table>
-<p></p><table style="minWidth: 75px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/el2024__1_.png">
+</div>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -323,7 +339,6 @@ ESSAY WRITING CONTEST]</p>
 </colgroup>
 <tbody>
 <tr>
-
 <td rowspan="1" colspan="1">
 <p><strong>Department&nbsp;</strong>
 </p>
@@ -365,7 +380,11 @@ ESSAY WRITING CONTEST]</p>
 </tbody>
 </table>
 <p></p>
-<p></p><table style="minWidth: 75px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__5_.jpg">
+</div>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -373,7 +392,6 @@ ESSAY WRITING CONTEST]</p>
 </colgroup>
 <tbody>
 <tr>
-
 <td rowspan="1" colspan="1">
 <p><strong>Department&nbsp;</strong>
 </p>
@@ -410,6 +428,10 @@ ESSAY WRITING CONTEST]</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__6_.jpg">
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -445,6 +467,10 @@ ESSAY WRITING CONTEST]</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__7_.jpg">
+</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -484,4 +510,8 @@ ESSAY WRITING CONTEST]</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__8_.jpg">
+</div>
 <p></p>
