@@ -2,7 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Students' Academic Achievements.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -45,3 +44,4 @@ collections:
       - Level Signature Programmes.md
       - Overseas Learning Journeys.md
       - Work Shadowing Programme.md
+      - Students' Academic Achievements.md
