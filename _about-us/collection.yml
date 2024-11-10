@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Rich Heritage.md
       - Vision, Mission, Motto and Values.md
+      - Our Rich Heritage.md
       - Our Badge & School Song.md
       - School Advisory Committee.md
       - Our People/.keep
