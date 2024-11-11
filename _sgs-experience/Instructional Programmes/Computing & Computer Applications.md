@@ -40,6 +40,10 @@ be able to demonstrate their skills in interface design, computer drawing
 and image editing through blogs and web pages, as well as animated stories
 and games.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="500" width="900" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_KyoZ9-nKLs?si=QKKx_BwSzzeFI_8E"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/computing2024__1_.jpg">
 </div>
