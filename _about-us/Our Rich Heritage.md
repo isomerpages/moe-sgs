@@ -4,6 +4,9 @@ permalink: /our-rich-heritage/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdQe63PdhmkHUFJ5BNy7mad0fHRdDGTKxRsb3UQFPmz2Wq6K_rhZcqePJmDEJQoX_aVoqyP_lJbpnw/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>Serangoon Garden Secondary School began as Lichfield Secondary School,
 an English-medium school, in 1959. &nbsp;In the following year, the school
 was renamed Serangoon Garden Government High School, an integrated school
