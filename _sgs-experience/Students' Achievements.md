@@ -1,5 +1,5 @@
 ---
-title: Students' Academic Achievements
+title: Students' Achievements
 permalink: /students-academic-achievements/
 variant: tiptap
 description: ""
