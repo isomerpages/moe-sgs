@@ -27,9 +27,6 @@ The three-year Pre-University course was re-introduced from 1980 to 1991.
 &nbsp;In 1984, the school became an English-medium school with the last
 batch of Chinese-stream students graduating in the same year.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgt.jpg">
-</div>
 <p>In 2003, Serangoon Garden Secondary School merged with Serangoon Garden
 Technical School to form the present school. &nbsp;Serangoon Garden Technical
 School was officially opened by the then Prime Minister, Mr Lee Kuan Yew,
