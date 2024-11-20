@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: image
+  - infobar:
+      title: SGS Virtual Tour
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/DB-yHbiizp4?si=N5LYUvRrt-7Rli8r&controls=0"
+        height="500" width="900"></iframe>
   - infopic:
       title: SGS Spotlight
       id: infopic
