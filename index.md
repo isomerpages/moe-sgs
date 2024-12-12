@@ -4,7 +4,9 @@ title: Serangoon Garden Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School-Logo.jpg
 permalink: /
-notification: ""
+notification: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)- Level
+  Examination Results On 16 December 2024 (Mon). Refer to the page below for
+  more information.
 sections:
   - hero:
       background: /images/sgsbanner08.gif
@@ -22,6 +24,13 @@ sections:
           description: ""
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: image
+  - infobar:
+      title: 2024 Singapore Cambridge GCE N(A) & N(T)
+      subtitle: Release of the
+      id: infobar
+      description: Level Examination Results on 16 December 2024
+      button: More information
+      url: https://www.sgs.moe.edu.sg/release-of-the-2024-singapore-cambridge-gce-n-a-n-t-level-examination-results-16-december-2024/
   - infobar:
       title: SGS Virtual Tour
       id: infobar
