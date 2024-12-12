@@ -16,15 +16,11 @@ description: ""
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; report to school in full school
 uniform with neat hair and appropriate hair colour.</p>
 <p></p>
-<p>School candidates who are unwell should appoint a proxy to collect a physical
-copy of their results from the school. If they are recovering from respiratory-related
-illnesses and are in school to collect their results, they should exercise
-social responsibility and wear a mask.</p>
-<p></p>
-<p>School candidates who are unable to collect their results in person can
-also appoint a proxy to collect a physical copy of their results from the
-school. Proxies are required to produce the relevant documents for the
-school’s verification when collecting the results. School candidates may
-contact their Form Teachers for assistance with the appointment of a proxy.</p>
+<p>School candidates who are unwell / unable to collect their results in
+person can also appoint a proxy to collect a physical copy of their results
+from the school. Proxies are required to produce the relevant documents
+for the school’s verification when collecting the results. School candidates
+may contact their Form Teachers for assistance with the appointment of
+a proxy.</p>
 <p></p>
 <p>Thank you.</p>
