@@ -25,6 +25,27 @@ sections:
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: image
   - infobar:
+      title: Sec 1 Registration Info-Kit
+      subtitle: ""
+      id: infobar
+      description: for 2025 Sec 1 Students and Parents
+      button: More information
+      url: https://www.sgs.moe.edu.sg/sec-1-registration-info-for-2025-sec-1-students-and-parents/
+  - infobar:
+      title: Appeal for transfer into Serangoon Garden Secondary School
+      subtitle: "2025 Sec 1 Registration:"
+      id: infobar
+      description: (for non-medical cases)
+      button: more information
+      url: https://www.sgs.moe.edu.sg/appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
+  - infobar:
+      title: Medical Appeal Exercise (MAE)
+      subtitle: "Sec 1 Registration:"
+      id: infobar
+      description: Thursday, 19 December 2024, 8.30 am to 12 pm
+      button: more information
+      url: https://www.sgs.moe.edu.sg/medical-appeal-exercise-mae-transfer-out-due-to-medical-reasons-or-physical/
+  - infobar:
       title: 2024 Singapore Cambridge GCE N(A) & N(T)
       id: infobar
       description: Level Examination Results
