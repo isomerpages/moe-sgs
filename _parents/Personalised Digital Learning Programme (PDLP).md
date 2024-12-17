@@ -49,14 +49,71 @@ on purchasing the PLD.</p>
 <iframe height="310" width="556" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/irEmIsr6-lQ"></iframe>
 </div>
 <h3>Financial Assistance</h3>
-<p>Subsidies are available to students who require financial assistance.
-Singapore Citizens who are already on MOE FAS or School-based FAS will
-automatically qualify for these subsidies and do not need to take any action.</p>
-<p>Permanent Residents (PR) and International Students (IS) who need support
-can apply for subsidies, particularly those whose Gross Household Income
-(GHI) is below $4400 or Per Capita Income (PCI) is below $1100. If your
-child qualifies for a subsidy, please submit Annex D “Application for Subsidy
-for PLD”.</p>
+<p>Subsidies are available for students who require funding support to purchase
+a PLD. Please note that it is compulsory for all students on the MOE Financial
+Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums
+due for the PLD, after subsidies have been granted. Please see the table
+below for information on the eligibility for the subsidy:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Students eligible for subsidy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Income criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>How to apply for subsidy</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students under MOE FAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or</p>
+<p>Per Capita Income (“<strong>PCI</strong>”)* is $750 or less</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No action required. Automatically subsidised for the PLD.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students under School-based FAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GHI</strong> is $4,400 or less, or</p>
+<p><strong>PCI</strong> is $1,100 or less</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach the school’s General Office to apply for a subsidy.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students who are currently <u>not</u> under the MOE FAS or School-based
+FAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>GHI</strong> is $4,400 or less, or</p>
+<p><strong>PCI</strong> is $1,100 or less</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach the school’s General Office to apply for a subsidy.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Frequently Asked Questions and Answers</h3>
 <p>A list of answers to Frequently Asked Questions can be found. <a href="/files/FAQs-on-PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
 </p>
