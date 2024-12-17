@@ -201,11 +201,11 @@ refer to the steps below:</p>
 <p>Method 2: Jeep Sing</p>
 <p>Blk 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1</p>
 <p>Singapore 569628</p>
-<p>Support Centre</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appointment booking</p>
-<p><a href="https://go.gov.sg/2024sgs18-30dec" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
+<p><a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
 </p>
 <p></p>
 <p>(Prior booking is required before going down to Jeep Sing Retail outlet)</p>
