@@ -113,7 +113,7 @@ the booklist.</p>
 <p>1: Online Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Order via <a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
+<p>Order via <a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ the booklist.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Via appointment booking for a slot (18 Dec – 30 Dec)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sgs18-30dec</a>
+<p><a href="https://go.gov.sg/2024sgs18-30dec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sgs18-30dec</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,7 +188,7 @@ refer to the steps below:</p>
 <td rowspan="1" colspan="1">
 <p>Appointment booking for 18 – 27 Dec</p>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sgs18-30dec</a>
+<p><a href="https://go.gov.sg/2024sgs18-30dec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sgs18-30dec</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,12 +201,11 @@ refer to the steps below:</p>
 <p>Method 2: Jeep Sing</p>
 <p>Blk 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1</p>
 <p>Singapore 569628</p>
-<p>Support Centre <a rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
-</p>
+<p>Support Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Appointment booking</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
+<p><a href="https://go.gov.sg/2024sgs18-30dec" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
 </p>
 <p></p>
 <p>(Prior booking is required before going down to Jeep Sing Retail outlet)</p>
@@ -228,7 +227,7 @@ refer to the steps below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Purchase online via</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/serangoon-gardens-secondary</a>
+<p><a href="https://jeepsinguniform.com/collections/serangoon-gardens-secondary" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/serangoon-gardens-secondary</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,14 +271,14 @@ the appointment link below.</p>
 your way to the bookshop or uniform shop for collection. Please <strong><u>do not</u></strong> purchase
 the books and/or uniforms <strong><u>before</u></strong> collecting the MOEFAS
 approval letter.</p>
-<p>Appointment booking for 19 Dec - 30 Dec* - <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sgs18-30dec</a>
+<p>Appointment booking for 19 Dec - 30 Dec* - <a href="https://go.gov.sg/2024sgs18-30dec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sgs18-30dec</a>
 </p>
 <p><em>* Appointment for 30 Dec is only for the school bookshop and not for the uniform shop</em>
 </p>
 <p><strong>New MOEFAS applicants / Applicants for School-based FAS</strong>
 </p>
 <p>If you wish to apply for Financial Assistance Scheme (FAS), please go
-to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> to
+to&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> to
 submit your FAS application with the required supporting documents. Alternatively,
 you may submit hardcopy documents to our General Office.</p>
 <p>You will be informed of the application outcome once the application has
@@ -576,7 +575,7 @@ on the first day of school.</p>
 the festive season, Sec 1 students may report to school in their Primary
 School uniform during the first two weeks of school.&nbsp;&nbsp;</p>
 <p>For more information on school attire and general appearance, please refer
-to <a rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/students/Student-Handbook/School-Rules/</a>
+to <a href="https://www.sgs.moe.edu.sg/students/Student-Handbook/School-Rules/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/students/Student-Handbook/School-Rules/</a>
 </p>
 <p></p>
 <p><strong>Thank you, and here’s wishing all our 2025 Sec 1 SGSians and families a wonderful new year ahead!</strong>
