@@ -26,7 +26,6 @@ sections:
       variant: image
   - infobar:
       title: Sec 1 Registration Info-Kit
-      subtitle: ""
       id: infobar
       description: for 2025 Sec 1 Students and Parents
       button: More information
