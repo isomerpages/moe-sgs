@@ -76,7 +76,8 @@ the top of my eyebrows.</p>
 my hair up neatly at all times. Long fringe that are past the eyebrows
 will be clipped away neatly.</p>
 <p>Hair accessories should be black or blue in colour. I will wear at most
-one pair of simple ear studs.</p>
+one pair of simple ear studs. Ear rings or additional pairs of ear studs
+will be confiscated for the rest of the term.</p>
 <h5>2.3 For all students</h5>
 <p>I will not colour or tint my hair.</p>
 <p>I will keep my fingernails clean and trimmed, without nail polish.</p>
@@ -89,8 +90,8 @@ one pair of simple ear studs.</p>
 <h5>3.1</h5>
 <p>I will attend school regularly and punctually. I understand that daily
 attendance in school during term time is compulsory as it supports learning.</p>
-<p>I will be in school by 7.55 a.m., seated with my class at the classroom,
-school hall or parade square for the flag-raising ceremony at 8 a.m.</p>
+<p>I will be in school by 7.50 am, seated with my class at the classroom,
+school hall or parade square for the flag-raising ceremony at 7.55 am.</p>
 <p>I understand that if I am not present during the flag-raising ceremony,
 I will be considered late or absent from school.</p>
 <h5>3.2</h5>
@@ -120,15 +121,14 @@ and pride.</p>
 others to feel physically or emotionally unsafe. Bullying is a serious
 offence that will not be tolerated by the school.</p>
 <h5>5.3</h5>
-<p>I will not bring or be in possession of any weapon. I will also not bring
-any weapon-like item which can be used or intended to be used to cause
-harm to others. Possession of weapons is a serious offence.</p>
+<p>I will not bring prohibited items such as lighters, poker cards, any form
+of weapon or weapon-like items to school. Possession of such items is a
+serious offence.</p>
 <h5>5.4</h5>
-<p>I will store only learning devices, reading materials and handphones in
-the locker at the start of the day unless requested by teachers for learning
-activities in class.</p>
+<p>I will not use any personal digital devices, including smartphones, during
+lessons unless explicit permission is given by the teacher</p>
 <p>I may only use my learning devices or handphones at the canteen during
-recess/lunch breaks.</p>
+recess/lunch breaks and after school.</p>
 <p>I will not deface the interior and exterior of the locker, which is the
 property of the school. I will open my locker for inspection when requested
 by school staff.</p>
