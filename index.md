@@ -30,6 +30,13 @@ sections:
       button: More information
       url: https://www.sgs.moe.edu.sg/2025-orientation-programme/
   - infobar:
+      title: 2025 Class Timetable
+      subtitle: ""
+      id: infobar
+      description: ""
+      button: more information
+      url: https://www.sgs.moe.edu.sg/timetable2025/
+  - infobar:
       title: Sec 1 Registration Info-Kit
       id: infobar
       description: for 2025 Sec 1 Students and Parents
