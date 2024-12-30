@@ -23,6 +23,13 @@ sections:
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: image
   - infobar:
+      title: Class Timetable 2025
+      subtitle: ""
+      id: infobar
+      description: ""
+      button: More information
+      url: https://www.sgs.moe.edu.sg/timetable2025/
+  - infobar:
       title: Orientation Programme
       subtitle: "2025"
       id: infobar
