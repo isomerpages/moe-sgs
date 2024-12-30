@@ -3,7 +3,7 @@ title: School Rules
 permalink: /students/student-handbook/school-rules/
 description: ""
 third_nav_title: Student Handbook
-variant: markdown
+variant: tiptap
 ---
 <p>The School Rules serve to guide and encourage positive behaviour, which
 is integral to fostering a caring, safe and fair environment where learning
@@ -32,8 +32,7 @@ who are happier, more cooperative and productive, and more likely to make
 positive changes in their behaviour.</p>
 <h5><strong>First Impressions Count</strong></h5>
 <h5>1. Attire</h5>
-<p>1.1 <strong>School Uniform and Name-tag</strong>
-</p>
+<h5>1.1 School Uniform and Name-tag</h5>
 <p>I must wear the prescribed school uniform, and modification to the uniform
 is not allowed.</p>
 <p>I will wear my first school uniform with pride, whether I am within or
@@ -44,19 +43,19 @@ skirt/shorts/long pants). During PE lessons or physical activities, I will
 wear my PE attire.</p>
 <p>During school and national examinations, I will wear my first school uniform.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Rules/First%20Uniform%20Upper%20Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Uniform_Upper_Sec.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Rules/First%20Uniform%20Lower%20Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Uniform_Lower_Sec.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lower%20sec%20pe%20attire.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Second_Uniform_Upper_Sec.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Rules/Second%20Uniform%20Upper%20Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Second_Uniform_Lower_Sec.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Rules/Second%20Uniform%20Lower%20Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PR_Attire.jpg">
 </div>
 <h5>1.2 Footwear</h5>
 <p>I will wear all white or all black socks that cover my ankles fully.</p>
@@ -66,6 +65,9 @@ Neon colours on any part of the shoes or shoes with fanciful logos or designs
 are not to be worn.</p>
 <p>In the event of a foot injury, I may obtain permission from the Student
 Management Committee to wear slippers or sandals to school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shoes.png">
+</div>
 <h5>2. Grooming</h5>
 <h5>2.1 For the Gentlemen</h5>
 <p>I must be neat in appearance and clean shaven.</p>
@@ -84,7 +86,7 @@ will be confiscated for the rest of the term.</p>
 <p>I will not wear any other accessories.</p>
 <p>No form of body decoration (e.g. tattoos) is allowed.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Rules/boys-hair-1-600x153.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hairstyle.jpg">
 </div>
 <h5>3. Attendance and Punctuality</h5>
 <h5>3.1</h5>
@@ -116,6 +118,10 @@ the Pledge with my right fist placed over my heart.</p>
 and pride.</p>
 <h5><strong>Golden Rules for a Pleasant School Experience</strong></h5>
 <h5>5 Behaviour and Conduct</h5>
+<h5>5.1</h5>
+<p>I will uphold and protect the school image by carrying myself with respect,
+pride and dignity at all times, whether I am within or outside the school
+premises.</p>
 <h5>5.2</h5>
 <p>I respect myself and my peers. I will not do anything which may cause
 others to feel physically or emotionally unsafe. Bullying is a serious
