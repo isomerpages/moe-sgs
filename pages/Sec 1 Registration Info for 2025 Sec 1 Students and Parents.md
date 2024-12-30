@@ -472,7 +472,7 @@ signed form via email by <strong>Tuesday, 24 December 2024</strong>. <u>Please t
 <p>12.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.40 pm</p>
+<p>2 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 pm</p>
@@ -482,7 +482,7 @@ signed form via email by <strong>Tuesday, 24 December 2024</strong>. <u>Please t
 </table>
 <p>From <strong>Wednesday, 8 January onwards</strong>, usual dismissal time
 will be as follows:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Mondays: 3.20 pm</p>
+<p>a)&nbsp;&nbsp;&nbsp; Mondays: 2.50 pm</p>
 <p>b)&nbsp;&nbsp;&nbsp; Tuesdays to Thursdays: 2 pm</p>
 <p>c)&nbsp;&nbsp;&nbsp; Fridays: 12.40 pm</p>
 <p>Sec 1 students would be informed of their form class and classroom venue
@@ -492,7 +492,7 @@ to bring textbooks for Orientation Week. They are, however, required to
 bring <u>stationery and water bottle</u> daily.&nbsp;</p>
 <p>All students are strongly encouraged to have breakfast before attending
 school each day. In addition to their meals at <strong>recess</strong>,
-students are allowed to consume a <strong>snack</strong> during class, <strong>between 12.20pm - 12.30pm</strong>,while
+students are allowed to consume a <strong>snack</strong> during class, <strong>between 9am - 9.10am</strong>,while
 lessons are ongoing. We recommend that students prepare a healthy snack
 such as a whole-meal sandwich, bun, fruits, nuts or a healthy snack bar.
 Sweets, chocolates and any form of chips/crackers are discouraged. Regarding
