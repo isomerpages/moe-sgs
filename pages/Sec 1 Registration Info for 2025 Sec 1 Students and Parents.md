@@ -417,7 +417,10 @@ signed form via email by <strong>Tuesday, 24 December 2024</strong>. <u>Please t
 <td rowspan="1" colspan="1">
 <p>Parade Square</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Hall</p>
 </td>
 <td rowspan="1" colspan="1">
