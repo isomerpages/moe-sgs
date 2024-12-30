@@ -101,9 +101,8 @@ I will be considered late or absent from school.</p>
 medical certificate must be submitted to my Form Teacher when I return
 to school the next day. I understand that if I am absent without a valid
 reason, I will face consequences.</p>
-<p>Letters from parents/legal guardians (maximum of 5 letters per term) may
-be considered in cases where medical certificates are not applicable. This
-does not apply during examinations.</p>
+<p>Letters from parents/legal guardians may be considered in cases where
+medical certificates are not applicable. This does not apply during examinations.</p>
 <h5>3.3</h5>
 <p>I will attend lessons, CCA and other school activities punctually.</p>
 <h5><strong>Respect for Nation and School</strong></h5>
@@ -132,7 +131,8 @@ of weapon or weapon-like items to school. Possession of such items is a
 serious offence.</p>
 <h5>5.4</h5>
 <p>I will not use any personal digital devices, including smartphones, during
-lessons unless explicit permission is given by the teacher</p>
+lessons unless explicit permission is given by the teacher. I will place
+my smartphone in the phone pouch installed in every classroom.</p>
 <p>I may only use my learning devices or handphones at the canteen during
 recess/lunch breaks and after school.</p>
 <p>I will not deface the interior and exterior of the locker, which is the
