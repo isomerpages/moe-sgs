@@ -131,8 +131,8 @@ variant: tiptap
 <p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms So Man Yan</p>
-<p>Ms Kwek Wen Qing</p>
+<p>Mr Chen Yong Hong</p>
+<p>Ms Nurhanani</p>
 </td>
 </tr>
 <tr>
@@ -140,8 +140,8 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Shaojia</p>
-<p>Mr Hameed</p>
+<p>Ms Pathma Chinniah</p>
+<p>Mr Edmund Heng</p>
 </td>
 </tr>
 <tr>
@@ -149,8 +149,8 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Punitha</p>
-<p>Mr Andy Neo</p>
+<p>Mr Peh Chin Keong</p>
+<p>Mr Osman</p>
 </td>
 </tr>
 <tr>
@@ -158,9 +158,8 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Hui Ling</p>
-<p>Mdm Nazurah</p>
-<p>Mr Lee Yan Jun</p>
+<p>Mdm Majidah</p>
+<p>Mr Eric Phua</p>
 </td>
 </tr>
 <tr>
@@ -168,8 +167,8 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Zheng</p>
-<p>Mr Wong Meng Kit</p>
+<p>Mr Joshua Chen</p>
+<p>Ms Elizabeth Tong</p>
 </td>
 </tr>
 <tr>
@@ -177,14 +176,103 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faezah</p>
-<p>Ms Valence Leung</p>
-<p>Mr Tan Jit Huih</p>
+<p>Ms Cheong Xi Ling</p>
+<p>Mr Tan Zheng Hao</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Amy Charles</p>
+<p>Mr Hasren</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Imran</p>
+<p>Ms Annie Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Wisdom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rekha</p>
+<p>Ms Esther Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hema Khaira</p>
+<p>Ms Yu Ka Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kwek Wen Qing</p>
+<p>Ms So Man Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hameed</p>
+<p>Ms Lee Shaojia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Neo</p>
+<p>Ms Punitha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Hui Ling</p>
+<p>Mr Lee Yan Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Victoria Ang</p>
+<p>Mr Wong Meng Kit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Faezah</p>
+<p>Ms Valence Leung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tang Zhi Feng</p>
@@ -193,7 +281,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Gratitude</p>
+<p>2 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Antony Raj</p>
@@ -202,85 +290,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Perseverance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Hasren</p>
-<p>Ms Tan Wei Ning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yu Ka Yan</p>
-<p>Mr Osman</p>
-<p>Ms Loo Wei Sheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurhanani</p>
-<p>Mr Jeremiah Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Victoria Ang</p>
-<p>Ms Esther Tay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Eric Phua</p>
-<p>Ms Azmed Beevi</p>
-<p>Ms Tee Shi En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ben Toh</p>
-<p>Mrs Amy Charles</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Adeline Yeo</p>
-<p>Ms Wu Pi Juan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pathma Chinniah</p>
-<p>Mr Ang Shi Han</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Wee</p>
-<p>Ms Kalai</p>
+<p>Ms Manju</p>
+<p>Mrs Rames</p>
 </td>
 </tr>
 <tr>
@@ -288,8 +302,8 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Yow</p>
-<p>Ms Amirah</p>
+<p>Mdm Nazurah</p>
+<p>Mdm Lai Yin Fong</p>
 </td>
 </tr>
 <tr>
@@ -297,8 +311,8 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Wei Zhi</p>
-<p>Mr Clement Lee</p>
+<p>Mrs Loh Zhi Yang</p>
+<p>Ms Sultanah</p>
 </td>
 </tr>
 <tr>
@@ -306,13 +320,93 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Seow-Hong Huiting</p>
-<p>Ms Cassandra Choo</p>
+<p>Ms Tan Wei Ning</p>
+<p>Mdm Teo Peck Har</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremiah</p>
+<p>Mdm Wu Pijuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Erica Tay</p>
+<p>Mr Tee Shi En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johnny Tee</p>
+<p>Ms Adeline Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benjamin Tan</p>
+<p>Ms Stephanie Zhong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Wisdom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Theresa Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kalai Thanapalan</p>
+<p>Mr Daniel Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amirah</p>
+<p>Mr Joel Yow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Clement Lee</p>
+<p>Mr Tan Wei Zhi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cassandra Choo</p>
+<p>Mrs Seow-Hong Huiting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gwen Chiew</p>
@@ -321,16 +415,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Loh Ai Lian</p>
 <p>Ms Lin Wanting</p>
+<p>Mrs Loh Ai Lian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Compassion</p>
+<p>4 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr David Kwong</p>
@@ -339,7 +433,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Gratitude</p>
+<p>4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Iswari</p>
@@ -348,92 +442,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Wisdom</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fareeq</p>
-<p>Ms Annie Wong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Perseverance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Zheng Hao</p>
-<p>Mdm Lai Yin Fong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Joshua Chen</p>
-<p>Ms Rekha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Benjamin Tan</p>
-<p>Ms Loh Zhi Yang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chan Siew Eng</p>
-<p>Ms Lee Cai Yun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Manju</p>
-<p>Mr Johnny Tee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hema Khaira</p>
-<p>Mr Chen Yong Hong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Majidah</p>
-<p>Mr Edmund Heng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Theresa Eng</p>
-<p>Mr Alarick Soh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 Wisdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Chin Keong</p>
-<p>Ms Sultanah</p>
+<p>Mr Fareeq</p>
 </td>
 </tr>
 <tr>
@@ -441,7 +453,7 @@ variant: tiptap
 <p>5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr David Yee</p>
+<p>Mrs Chan Siew Eng</p>
 </td>
 </tr>
 </tbody>
