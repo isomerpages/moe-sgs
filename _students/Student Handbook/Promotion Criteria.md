@@ -21,14 +21,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Express</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pass English and average score of all subjects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sec 3 Express</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,24 +53,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Lateral transfer to Express</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Normal (Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pass EL and 2 other subjects
-<br>
-<br>OR
-<br>
-<br>Pass 4 other subjects if did not pass English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>70% or more for overall percentage.
-<br>
-<br>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -120,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2/3 Normal (Technical)</p>
+<p>Sec 3 Normal (Technical)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pass 2 subjects, of which 1 subject must be English
@@ -130,7 +104,7 @@ variant: tiptap
 <br>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To Sec 2/3 Normal (Academic):
+<p>To Sec 3 Normal (Academic):
 <br>
 <br>70% or more for overall percentage
 <br>
