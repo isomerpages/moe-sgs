@@ -25,6 +25,13 @@ sections:
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: image
   - infobar:
+      title: 2024 Singapore-Cambridge GCE O-Level Examination Results
+      subtitle: Release of the
+      id: infobar
+      description: On 10 January 2025 (Fri)
+      button: More information
+      url: https://www.sgs.moe.edu.sg/release-of-the-2024-singapore-cambridge-gce-o-level-examination-results/
+  - infobar:
       title: Class Timetable 2025
       id: infobar
       button: More information
@@ -49,12 +56,6 @@ sections:
       description: (for non-medical cases)
       button: more information
       url: https://www.sgs.moe.edu.sg/appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
-  - infobar:
-      title: 2024 Singapore Cambridge GCE N(A) & N(T)
-      id: infobar
-      description: Level Examination Results
-      button: More information
-      url: https://www.sgs.moe.edu.sg/release-of-the-2024-singapore-cambridge-gce-n-a-n-t-level-examination-results-16-december-2024/
   - infobar:
       title: SGS Virtual Tour
       id: infobar
