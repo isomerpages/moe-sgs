@@ -57,12 +57,6 @@ sections:
       button: more information
       url: https://www.sgs.moe.edu.sg/appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
   - infobar:
-      title: 2024 Singapore Cambridge GCE N(A) & N(T)
-      id: infobar
-      description: Level Examination Results
-      button: More information
-      url: https://www.sgs.moe.edu.sg/release-of-the-2024-singapore-cambridge-gce-n-a-n-t-level-examination-results-16-december-2024/
-  - infobar:
       title: SGS Virtual Tour
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
