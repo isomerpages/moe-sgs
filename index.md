@@ -25,6 +25,13 @@ sections:
           url: https://www.sgs.moe.edu.sg/contact/contact-us/
       variant: image
   - infobar:
+      title: 2024 Singapore-Cambridge GCE O-Level Examination Results
+      subtitle: Release of the
+      id: infobar
+      description: On 10 January 2025 (Fri)
+      button: More information
+      url: https://www.sgs.moe.edu.sg/release-of-the-2024-singapore-cambridge-gce-o-level-examination-results/
+  - infobar:
       title: Class Timetable 2025
       id: infobar
       button: More information
