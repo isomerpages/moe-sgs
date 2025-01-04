@@ -50,13 +50,6 @@ sections:
       button: More information
       url: https://www.sgs.moe.edu.sg/sec-1-registration-info-for-2025-sec-1-students-and-parents/
   - infobar:
-      title: Appeal for transfer into Serangoon Garden Secondary School
-      subtitle: "2025 Sec 1 Registration:"
-      id: infobar
-      description: (for non-medical cases)
-      button: more information
-      url: https://www.sgs.moe.edu.sg/appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
-  - infobar:
       title: SGS Virtual Tour
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
