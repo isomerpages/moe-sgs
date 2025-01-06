@@ -6,13 +6,13 @@ description: ""
 ---
 <h4>Instructions for students collecting results in school</h4>
 <p>Dear 4E5NA students,</p>
-<p>The GCE O-level results will be released on <strong>10 January 2025 (Fri) at 2 pm</strong>.
+<p>The GCE O-level results will be released on <strong>10 January 2025 (Fri) at 2.30 pm</strong>.
 Parents/guardians may accompany their child/ward to collect their results.</p>
 <p></p>
 <p>Students are to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>be seated in the hall from 1.45 pm</p>
+<p>be seated in the hall from 2.15 pm</p>
 </li>
 <li>
 <p>report to school in full school uniform with neat hair and appropriate
