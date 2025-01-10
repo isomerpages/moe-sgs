@@ -23,8 +23,9 @@ its small size, it is feature packed with a responsive 11.6″ touchscreen
 and upgraded components like its CPU, RAM and storage. With 3 years of
 warranty and insurance coverage, it offers superb value for money and will
 provide students with many good years of learning and productivity.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PLD2024" src="/images/Acer_TravelMate_Spin_TMB311RN_33_Convertible.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD2025.png">
 </div>
 <h3>Important Actions For Parents (Sec 1 2025)</h3>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
@@ -142,17 +143,9 @@ FAS</p>
 <p><a href="http://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sure.nlb.gov.sg</a>
 </p>
 </li>
-<li>
-<p><a href="http://help123.sg/" rel="noopener noreferrer nofollow" target="_blank">help123.sg</a>
-</p>
-</li>
 </ul>
 <h3>Additional Resources for Parents</h3>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Learning_With_Your_PLD_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Learning Effectively with PLD</a>
-</p>
-</li>
 <li>
 <p><a href="/files/PLD%20Initiative%20Infographic_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative Infographic</a>
 </p>
@@ -162,15 +155,11 @@ FAS</p>
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD_2024</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD_2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Student%20Device%20Information%20Kit_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit_2024</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2025</a>
 </p>
 </li>
 </ul>
