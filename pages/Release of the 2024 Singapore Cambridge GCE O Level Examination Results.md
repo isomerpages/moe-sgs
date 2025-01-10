@@ -4,28 +4,12 @@ permalink: /release-of-the-2024-singapore-cambridge-gce-o-level-examination-resu
 variant: tiptap
 description: ""
 ---
-<h4>Instructions for students collecting results in school</h4>
-<p>Dear 4E5NA students,</p>
-<p>The GCE O-level results will be released on <strong>10 January 2025 (Fri) at 2.30 pm</strong>.
-Parents/guardians may accompany their child/ward to collect their results.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/n_level_2024.jpg">
+</div>
+<p>Click <a href="/files/Release_of_O_level_results_slides_10_Jan_2025__for_school_website_.pdf" rel="noopener nofollow" target="_blank">here </a>to
+read more information.</p>
 <p></p>
-<p>Students are to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>be seated in the hall from 2.15 pm</p>
-</li>
-<li>
-<p>report to school in full school uniform with neat hair and appropriate
-hair colour.</p>
-</li>
-</ul>
 <p></p>
-<p>School candidates who are unwell / unable to collect their results in
-person can also appoint a proxy to collect a physical copy of their results
-from the school.</p>
 <p></p>
-<p>Proxies are required to produce the relevant documents for the school’s
-verification when collecting the results. School candidates may contact
-their Form Teachers for assistance with the appointment of a proxy.</p>
 <p></p>
-<p>Thank you.</p>
