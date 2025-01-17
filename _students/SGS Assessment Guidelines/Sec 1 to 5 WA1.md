@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: SGS Assessment Guidelines
 ---
+<h3><strong>Sec 1 to 5 Weighted Assessment 1</strong></h3>
 <p>WA1 will be conducted in the form of Performance Tasks or written tests
 across different subjects.</p>
 <p>It will take place from Week 5 to 9.</p>
