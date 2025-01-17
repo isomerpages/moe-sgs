@@ -21,6 +21,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pass English and 2 subjects</p>
+<p>OR</p>
+<p>at least half the number of examinable subjects offered</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sec 3 Express</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +38,7 @@ variant: tiptap
 <br>
 <br>OR
 <br>
-<br>Pass 5 other subjects if did not pass English (advanced)</p>
+<br>Pass 5 other subjects if student did not pass English (advanced)</p>
 </td>
 </tr>
 </tbody>
