@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Sec 1 to 5 WA1/Sec 1 to 5 WA1.md
       - Sec 1 to 5 WA1/.keep
       - SGS Assessment Guidelines.md
       - Timetable2025.md
