@@ -2,10 +2,12 @@ collections:
   students:
     output: true
     order:
+      - SGS Assessment Guidelines/SGS Assessment Guidelines.md
+      - SGS Assessment Guidelines/Sec 1 to 5 WA1.md
+      - SGS Assessment Guidelines/.keep
       - Timetable2025.md
       - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
       - School Calendar.md
-      - SGS Assessment Guidelines.md
       - Student Handbook/.keep
       - Student Handbook/School Rules.md
       - Student Handbook/Financial Assistance Scheme (FAS).md

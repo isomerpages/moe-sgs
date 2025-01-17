@@ -3,6 +3,7 @@ title: SGS Assessment Guidelines
 permalink: /sgs-experience/assessment-guidelines/
 description: ""
 variant: tiptap
+third_nav_title: SGS Assessment Guidelines
 ---
 <h2>What is assessment?</h2>
 <p>Assessment is an integral part of the school curriculum and a child’s
