@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Sec 1 to 5 WA1.md
       - SGS Assessment Guidelines.md
       - Timetable2025.md
       - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
