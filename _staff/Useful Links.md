@@ -17,7 +17,6 @@ variant: markdown
 *  [MOE](https://www.moe.gov.sg/)
 *  [MOE Intranet](https://intranet.moe.gov.sg)
 *  [Opal 2.0](https://www.opal2.moe.edu.sg)
-*  [Outlook Web Mail](https://schools.gov.sg/owa)
 *  [Parents Gateway](https://pg.moe.edu.sg/)
 *  [REMS 2.0](https://rems.moe.edu.sg/)
 *  [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
@@ -27,4 +26,3 @@ variant: markdown
 *  [Singapore Examninations & Assessment Board (SEAB)](https://www.seab.gov.sg/)
 *  [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
 *  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-*  [Travel Advisory Portal (2022)](https://go.gov.sg/sgssstafftravel2022)
