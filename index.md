@@ -4,9 +4,7 @@ title: Serangoon Garden Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School-Logo.jpg
 permalink: /
-notification: Release of the 2024 Singapore-Cambridge GCE O-Level Examination
-  Results On 10 January 2025 (Fri). Refer to the page below for more
-  information.
+notification: ""
 sections:
   - hero:
       background: /images/sgsbanner08.gif
