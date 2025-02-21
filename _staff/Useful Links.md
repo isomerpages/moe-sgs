@@ -24,5 +24,5 @@ variant: markdown
 *  [School Cockpit](https://schoolcockpit.moe.gov.sg)
 *  [Science Lab E-Requisition](https://sites.google.com/view/sgssclab)
 *  [Singapore Examninations & Assessment Board (SEAB)](https://www.seab.gov.sg/)
-*  [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
+*  [SSOE2 Portal](https://adfs.ssoe.moe.edu.sg/)
 *  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
