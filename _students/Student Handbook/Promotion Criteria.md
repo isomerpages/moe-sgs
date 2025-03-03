@@ -26,8 +26,25 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Pass English and 2 subjects</p>
 <p>OR</p>
-<p>at least half the number of examinable subjects offered</p>
+<p>Pass at least half the number of examinable subjects offered</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level/Stream</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Promotion criteria</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,9 +60,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
