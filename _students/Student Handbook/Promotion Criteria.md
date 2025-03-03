@@ -16,7 +16,8 @@ variant: tiptap
 <p>Level/Stream</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Promotion criteria</p>
+<p><strong>Common Academic Requirement</strong>
+</p>
 </th>
 </tr>
 <tr>
