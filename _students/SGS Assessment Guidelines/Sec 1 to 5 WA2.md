@@ -67,7 +67,7 @@ schedule. Subject teachers will inform students of the details.</p>
 <p>Scheduled papers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weeks 6 &amp; 7</p>
+<p>Weeks 6 - 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/sec45gswa2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec45gswa2</a>
@@ -86,9 +86,8 @@ schedule. Subject teachers will inform students of the details.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Students who are absent from tests due to illness must submit a medical
-certificate to their Form Teacher upon their return to school. A student
-without a medical certificate will be awarded zero for the missed test.
-Only medical certificates issued by registered medical practitioners will
-be accepted.</p>
+<p>&nbsp;Students who are absent from tests due to illness must submit a
+medical certificate to their Form Teacher upon their return to school.
+A student without a medical certificate will be awarded zero for the missed
+test. Only medical certificates issued by registered medical practitioners
+will be accepted.</p>
