@@ -78,7 +78,7 @@ schedule. Subject teachers will inform students of the details.</p>
 <td rowspan="1" colspan="4">
 <p><strong><em>Note for Sec 4 &amp; 5:</em></strong>
 </p>
-<p><em>Sec 4 &amp; 5 students should report to school as usual by 7.50am during this assessment period. No extra time will be given to latecomers.</em>
+<p><em>Sec 4 &amp; 5 students should report to school as usual by 7.50am during this assessment period. No make-up time will be given to latecomers.</em>
 </p>
 <p><em>Sec 4 &amp; 5 students are not required to report to school if they do not have any papers on that day.</em>
 </p>
