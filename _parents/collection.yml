@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
       - SGS Assessment Guidelines.md
