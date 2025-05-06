@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - DIRECT SCHOOL ADMISSION.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
       - SGS Assessment Guidelines.md
