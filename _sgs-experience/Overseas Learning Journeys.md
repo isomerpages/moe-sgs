@@ -28,7 +28,7 @@ Penang Trip 2024
 
 ![](/images/Choi_Hung_Estate_Catholic_Secondary_School.jpg) 
 ![](/images/Choi_Hung_Estate_Catholic_Secondary_School__1_.jpg)
-SGS had the pleasure of hosting students and teachers from Choi Hung Estate Catholic Secondary School (Hong Kong, China) as part of International Friendship Day (IFD) celebrations on 11 April 2025.
+SGS had the pleasure of hosting students and teachers from Choi Hung Estate Catholic Secondary School (Hong Kong SAR, China) as part of International Friendship Day (IFD) celebrations on 11 April 2025.
 
 Our visitors participated in a special IFD concert and presented on their school, Co-Curricular Activities (CCA), and academic experiences.  Together with their buddies, they attended lessons and enjoyed a hands-on experience when they proudly prepared and savoured Pad Thai during a Food and Consumer Education (FCE) lesson. 
 
