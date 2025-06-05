@@ -9,13 +9,6 @@ sections:
   - hero:
       background: /images/sgsbanner08.gif
       variant: image
-  - infobar:
-      title: Weighted Assessment 2
-      subtitle: Sec 1 to 5
-      id: infobar
-      description: Scope and Schedule
-      button: Find out more!
-      url: https://www.sgs.moe.edu.sg/sec-1-to-5-wa2/
   - infopic:
       title: SGS Spotlight
       id: infopic
