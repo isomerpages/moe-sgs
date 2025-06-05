@@ -10,7 +10,7 @@ variant: tiptap
 <p>One of our Earth Club members combined her love for Art and nature, to
 inspire us to care for even the tiny creatures around us. Let’s all do
 our part to protect our Earth, one small step at a time!</p>
-<p><strong> #EarthClub #EcoArt #ProtectOurPlanet #SGSGoGreen</strong>
+<p><strong>#EarthClub #EcoArt #ProtectOurPlanet #SGSGoGreen</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
