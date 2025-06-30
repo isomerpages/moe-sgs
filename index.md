@@ -11,7 +11,6 @@ sections:
       variant: image
   - infobar:
       title: Preliminary Examination for Secondary 4 and 5 students
-      subtitle: ""
       id: infobar
       button: Find out more
       url: https://www.sgs.moe.edu.sg/preliminary-examination-for-secondary-4-and-5-students/
