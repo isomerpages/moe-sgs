@@ -73,14 +73,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu Fen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Yew Choon Leslie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,22 +201,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ow Li Ying, Ezann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Saravana Pillai s/o Arjunan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Physical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Stephanie Zhong Hongkun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,6 +245,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Knowledge Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wee Hwee Lee Cjay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Management</p>
 </td>
 </tr>
 </tbody>
