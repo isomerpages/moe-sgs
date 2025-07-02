@@ -4,10 +4,10 @@ permalink: /contact/contact-us/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Map3.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu1.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Map4.jpg">
 </div>
@@ -142,6 +142,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Pathma Chinniah</p>
 <p>Mr Edmund Heng</p>
+<p>Mr Clive Heng</p>
 </td>
 </tr>
 <tr>
@@ -176,8 +177,8 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Xi Ling</p>
 <p>Mr Tan Zheng Hao</p>
+<p>Ms Tanny Quek</p>
 </td>
 </tr>
 <tr>
@@ -212,8 +213,8 @@ variant: tiptap
 <p>1 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hema Khaira</p>
 <p>Ms Yu Ka Yan</p>
+<p>Ms Rita Wong</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +295,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Manju</p>
-<p>Mrs Rames</p>
+<p>Mr Bonn Lim</p>
 </td>
 </tr>
 <tr>
@@ -313,6 +314,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Loh Zhi Yang</p>
 <p>Ms Sultanah</p>
+<p>Ms Iswari</p>
 </td>
 </tr>
 <tr>
@@ -347,8 +349,8 @@ variant: tiptap
 <p>3 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Johnny Tee</p>
 <p>Ms Adeline Yeo</p>
+<p>Ms Leow Hui Li</p>
 </td>
 </tr>
 <tr>
@@ -357,7 +359,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benjamin Tan</p>
-<p>Ms Stephanie Zhong</p>
 </td>
 </tr>
 <tr>
@@ -436,7 +437,6 @@ variant: tiptap
 <p>4 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Iswari</p>
 <p>Ms Teng Hui Dan</p>
 </td>
 </tr>
