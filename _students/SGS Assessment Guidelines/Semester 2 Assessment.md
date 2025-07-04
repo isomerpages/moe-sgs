@@ -5,6 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: SGS Assessment Guidelines
 ---
+<h4>Sec 1 to 3 WA3</h4>
+<p>WA3 will be conducted in the form of Performance Tasks or written tests
+across different subjects.</p>
+<p>For Sec 1 &amp; 2 students, WA3 from take place from Week 4 to 8.</p>
+<p>For Sec 3 students, WA3 will be scheduled from Week 6 to 8.</p>
+<p>The schedule and scope for WA3 can be accessed here: <a href="https://go.gov.sg/sec13sgswa3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec13sgswa3</a>
+</p>
+<p></p>
+<h4>The Preliminary Examination for Secondary 4 and 5 students</h4>
 <p>The Preliminary Examination for Secondary 4 and 5 students will be conducted
 in Term 3.</p>
 <p>For 4NA, 4NT SBB and 4NT students, Preliminary Exam will take places from
@@ -18,3 +27,5 @@ Only medical certificates issued by registered medical practitioners will
 be accepted.</p>
 <p>The schedule for the Preliminary Examination can be found here: <a href="https://go.gov.sg/prelimsgs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prelimsgs</a>
 </p>
+<p></p>
+<p></p>
