@@ -10,10 +10,10 @@ sections:
       background: /images/sgsbanner08.gif
       variant: image
   - infobar:
-      title: Preliminary Examination for Secondary 4 and 5 students
+      title: Semester 2 Assessment
       id: infobar
       button: Find out more
-      url: https://www.sgs.moe.edu.sg/preliminary-examination-for-secondary-4-and-5-students/
+      url: https://www.sgs.moe.edu.sg/semester-2-assessment/
   - infopic:
       title: SGS Spotlight
       id: infopic
