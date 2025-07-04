@@ -3,7 +3,6 @@ title: Sec 1 to 5 WA2
 permalink: /sec-1-to-5-wa2/
 variant: tiptap
 description: ""
-third_nav_title: SGS Assessment Guidelines
 ---
 <h3><strong>Sec 1 to 5 Weighted Assessment 2</strong></h3>
 <p>WA2 will be conducted in the form of Performance Tasks or written tests
