@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
+      - SGS Assessment Guidelines/.keep
+      - SGS Assessment Guidelines/SGS Assessment Guidelines.md
       - SGS Assessment Guidelines/Preliminary Examination for Secondary 4 and 5
         students.md
-      - SGS Assessment Guidelines/SGS Assessment Guidelines.md
-      - SGS Assessment Guidelines/.keep
       - Timetable2025.md
       - (For Sec 2 – 5) End of Year Books and Uniform Sales for 2024.md
       - School Calendar.md
