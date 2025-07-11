@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - SGS HBL Term 3 2025.md
       - SGS Assessment Guidelines/.keep
       - SGS Assessment Guidelines/SGS Assessment Guidelines.md
       - SGS Assessment Guidelines/Semester 2 Assessment.md
