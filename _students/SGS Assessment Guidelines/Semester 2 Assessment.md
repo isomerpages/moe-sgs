@@ -13,7 +13,7 @@ across different subjects.</p>
 <p>The schedule and scope for WA3 can be accessed here: <a href="https://go.gov.sg/sec13sgswa3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec13sgswa3</a>
 </p>
 <p></p>
-<h4>The Preliminary Examination for Secondary 4 and 5 students</h4>
+<h4>Preliminary Examination for Secondary 4 and 5 students</h4>
 <p>The Preliminary Examination for Secondary 4 and 5 students will be conducted
 in Term 3.</p>
 <p>For 4NA, 4NT SBB and 4NT students, Preliminary Exam will take places from
