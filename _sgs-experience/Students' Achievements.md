@@ -515,166 +515,52 @@ ESSAY WRITING CONTEST]</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__8_.jpg">
 </div>
 <p></p>
-<h3>CCA Awards</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCA</strong>
+<h3><strong>CCA Awards</strong></h3>
+<h4>Uniformed Groups CCA</h4>
+<p><strong>Unit Awards 2025</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Floorball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games ‘C’ Division Girls Floorball League 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Champion</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Boys’ Brigade – JP Fraser Award (High Distinction)</p>
+</li>
+<li>
+<p>Girls’ Brigade – Company Award (Silver)</p>
+</li>
+<li>
+<p>NCC – Best Unit Award (Distinction)</p>
+</li>
+<li>
+<p>NPCC - Unit Overall Proficiency Award (Distinction)</p>
+</li>
+<li>
+<p>Red Cross Youth – Unit Award (Silver)</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2025.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Netball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games ‘C’ Division Girls Netball League 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2nd position</strong>
+<h4>Performing Arts CCA</h4>
+<p><strong>Singapore Youth Festival Arts Presentation 2025</strong>
 </p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boys' Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JP Fraser Award (Unit Award)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Silver</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choir - Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Concert Band - Certificate of Accomplishment</p>
+</li>
+<li>
+<p>DWDC Dance - Certificate of Distinction</p>
+</li>
+<li>
+<p>Language Arts Club - Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Guzheng - Certificate of Distinction</p>
+</li>
+</ul>
+<p><strong><em>Want to catch more of our exciting SYF performances? Click </em></strong>
+<a href="https://drive.google.com/drive/folders/1CSdX0kBH5klsQx97jgVGFb2hTwSR3UhG?usp=drive_link" rel="noopener nofollow" target="_blank">here</a><strong><em>!</em></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girl Guides</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award (Unit Award)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls' Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Girls' Brigade Singapore Company Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Cadet Corps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Distinction</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Police Cadet Corps</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Distinction</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Red Cross Youth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Excellent Units Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Silver</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance___Super_24.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dance</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Super 24 - Secondary School Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Robotics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Drone Maze Tournament</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Special Commendation Award :</strong> Tan Cheng Kong, Gabriel,
-Ng Jun Wei Belmond, Tan Ai En</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
