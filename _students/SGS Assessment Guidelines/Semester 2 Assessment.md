@@ -28,4 +28,15 @@ be accepted.</p>
 <p>The schedule for the Preliminary Examination can be found here: <a href="https://go.gov.sg/prelimsgs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prelimsgs</a>
 </p>
 <p></p>
+<h4>End-of-Year Examination for Secondary 1 to 3 students</h4>
+<p>The End-of-Year Examination for Secondary 1 to 3 students will commence
+in Term 4, Week 2.</p>
+<p>Students who are absent from the exams due to illness must submit a medical
+certificate to their Form Teacher upon their return to school. A student
+without a medical certificate will be awarded zero for the missed paper.
+Only medical certificates issued by registered medical practitioners will
+be accepted.</p>
+<p>The scope for the End-of-Year Examination can be found here: <a href="https://for.edu.sg/sgseoy2025" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sgseoy2025</a>
+</p>
+<p></p>
 <p></p>
