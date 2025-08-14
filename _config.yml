@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1c2l9q9guwj9m.amplifyapp.com
 prod: https://master.d1c2l9q9guwj9m.amplifyapp.com
 shareicon: /images/School-Logo.jpg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
