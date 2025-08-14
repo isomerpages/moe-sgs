@@ -183,7 +183,7 @@ accordingly.</p>
 <p>All students are responsible for upholding the highest standards of academic
 conduct and integrity in all academic undertakings. Any act of academic
 dishonesty, including cheating and plagiarism, will be subjected to stern
-disciplinary actions.to do better, and learn for life.</p>
+disciplinary actions, and even affect conduct grades.</p>
 <h3>Further Queries</h3>
 <ul data-tight="true" class="tight">
 <li>
