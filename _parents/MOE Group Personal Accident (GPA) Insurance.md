@@ -4,26 +4,44 @@ permalink: /moe-group-personal-accident-gpa-insurance/
 variant: tiptap
 description: ""
 ---
-<h3>MOE has an insurance plan with NTUC Income for students.</h3>
-<p>All students accident insurance claims are to be submitted electronically.</p>
+<h4><strong>Student Group Personal Accident (GPA) Insurance</strong></h4>
+<p>The Ministry of Education (MOE) has partnered with NTUC Income to provide
+accident insurance coverage for all students.</p>
+<h4><strong>Claims Submission</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents/Students can submit their claims or check the status of their
-claims directly from the <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a>
+<p>All accident insurance claims must be submitted electronically through
+the Student GPA Claims Portal <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/#/</a>
 </p>
 </li>
 <li>
-<p>Schools will verify claim information and access records via the same
-portal.</p>
+<p>Parents and students can submit new claims and track existing claims directly
+through the portal.</p>
+</li>
+<li>
+<p>Schools use the same portal to verify claim information and access records.</p>
 </li>
 </ul>
-<p>For more details on the GPA Insurance Plan for Students, including claims
-information and FAQs, please visit Income’s website. <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+<h4><strong>Additional Information</strong></h4>
+<p>For comprehensive details about the insurance plan, including claims procedures
+and frequently asked questions, please visit NTUC Income's website at
+<a href="www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg/studentgpa</a>
 </p>
-<p>You are encouraged to read the <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Student Product Fact Sheet</a> for
-the full terms and conditions of the insurance coverage.</p>
-<p>For any enquires, please email our zone representative Mr Edmund Tan,
-<a href="mailto:edmund.tankh@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">edmund.tankh@income.com.sg</a>or <a href="mailto:studentgpa@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">studentgpa@income.com.sg</a>
+<p>We strongly recommend reviewing the MOE Student Product Fact Sheet <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf</a> to
+understand the full terms and conditions of the insurance coverage.</p>
+<h4><strong>Contact Information</strong></h4>
+<p>For enquiries, please contact our zone representative:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Edmund Tan</p>
+</li>
+<li>
+<p>Email:&nbsp;<a href="mailto:edmund.tankh@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">edmund.tankh@income.com.sg</a>
 </p>
-<p></p>
+</li>
+<li>
+<p>Alternative email:&nbsp;<a href="mailto:studentgpa@income.com.sg" rel="noopener noreferrer nofollow" target="_blank">studentgpa@income.com.sg</a>
+</p>
+</li>
+</ul>
 <p></p>
