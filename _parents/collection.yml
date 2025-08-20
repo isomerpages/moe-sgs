@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - MOE Group Personal Accident (GPA) Insurance.md
       - Direct School Admission (DSA).md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
       - SGS Assessment Guidelines.md
       - Apply for eGIRO.md
+      - MOE Group Personal Accident (GPA) Insurance.md
       - Sign Up For Parents Gateway.md
       - MOE Sexuality Education.md
       - Mental Health Education.md
