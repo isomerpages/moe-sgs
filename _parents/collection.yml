@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - MOE Group Personal Accident (GPA) Insurance.md
       - Direct School Admission (DSA).md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Support Group.md
