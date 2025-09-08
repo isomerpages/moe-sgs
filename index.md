@@ -9,11 +9,6 @@ sections:
   - hero:
       background: /images/sgsbanner08.gif
       variant: image
-  - infobar:
-      title: Semester 2 Assessment
-      id: infobar
-      button: Find out more
-      url: https://www.sgs.moe.edu.sg/semester-2-assessment/
   - infopic:
       title: SGS Spotlight
       id: infopic
