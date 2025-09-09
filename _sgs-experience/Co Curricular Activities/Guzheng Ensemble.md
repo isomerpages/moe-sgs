@@ -19,6 +19,6 @@ The ensemble actively contributes to the community through its VIA (Values-in-Ac
 
 ![](/images/guzheng2025_2_.png)
 
-##### Our Achievements
+##### Achievements
 
 Under the expert guidance of instructors, Ms Zhang Rong Hui and Ms Wang Hong Ying, the ensemble has consistently achieved stellar results at the biennial Singapore Youth Festival (SYF) Arts Presentation. From 2013 to 2025, the ensemble has attained the Certificate of Distinction, a testament to the team’s consistent effort and team work.
