@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-
 ![](/images/bb2025__2_.png)
 The Boys' Brigade (BB) 47th Singapore Company has been operating in Serangoon Garden Secondary School since 2000 with sponsoring church Trinity Methodist Church. The mission of The Boys' Brigade is the advancement of Christ's Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect and all that tends towards a true Christian Manliness. The motto of The Boys' Brigade is Sure and Stedfast.
 
