@@ -12,23 +12,23 @@ In line with the mission of the Boys' Brigade, the Company develops programmes t
 
 ![](/images/bb2025__1_.png)
 
-##### Key Programmes
-1. Boys’ Brigade Day
-2. One Star Kayaking
-3. BB Target Camp 
-4. BB Week Collection
-5. BB BLAZE Competition 
-6. Leadership Training Camp 
-7. Exercise NAVEX and Adventure Badge (Navigation, Basha Building and Field Cooking)
-8. BB 95th Anniversary Carnival (VIA)
-9. BB Family Day
-10. Band of Brothers Cluster Sports Competition 
-11. BB Share-A-Gift Project 
+##### Key programmes
+*  Boys’ Brigade Day
+*  One Star Kayaking
+*  BB Target Camp 
+*  BB Week Collection
+*  BB BLAZE Competition 
+*  Leadership Training Camp 
+*  Exercise NAVEX and Adventure Badge (Navigation, Basha Building and Field Cooking)
+*  BB 95th Anniversary Carnival (VIA)
+*  BB Family Day
+*  Band of Brothers Cluster Sports Competition 
+*  BB Share-A-Gift Project 
 
 ##### Achievements
 Founder’s Award 2025
-1. SSG TAN GUAN YI 
-2. SSG TEO WEI YU BEVAN
-3. SSG ALDRIC NEO LE JUN 
+*  SSG TAN GUAN YI 
+*  SSG TEO WEI YU BEVAN
+*  SSG ALDRIC NEO LE JUN 
 
 JM Fraser 2025 High Distinction Award
