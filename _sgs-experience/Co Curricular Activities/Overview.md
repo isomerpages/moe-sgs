@@ -9,7 +9,8 @@ variant: markdown
 ![](/images/ccaoverview2024__2_.png)
 ![](/images/ccaoverview2024__3_.png)
 
-![](/images/ccaoverviewv22024_4.png)
+##### General CCA Schedule 
+![](/images/CCA_overview_2025.png)
 
 ![](/images/ccaoverview2024__5_.png)
 ![](/images/ccaoverview2024__6_.png)
