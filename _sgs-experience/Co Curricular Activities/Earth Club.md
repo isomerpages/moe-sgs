@@ -5,26 +5,27 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-SGS Earth Club is at the heart of our school’s sustainability movement. In alignment with SG Green Plan and MOE’s Eco Stewardship Programme, our CCA aims to groom students to champion green sustainable initiatives in SGS.
+The SGS Earth Club is the driving force behind our school's sustainability movement. Aligned with the Singapore Green Plan 2030 and MOE’s Eco-Stewardship Programme (ESP), we empower students to learn, act, and advocate for a greener future.
 
-Following our guiding principle of “I Know – I Do – I Advocate”, our CCA aims to:
+Our mission is guided by the principle of “I Know – I Do – I Advocate” and implemented through the ESP's four pillars:
 
-*   Fuel lifelong learning and passion in environmental sustainability
-*   Provide opportunities and empower students to initiate meaningful environmental activities
-*   Provide a platform through which students can advocate for sound environmental behaviour.
+*   Curriculum: We explore sustainability through interactive games, model building, and video production. Our members train Green Champs to lead their classes in growing microgreens, bringing lessons to life.
+    
+*   Campus: We manage our school's green spaces—Spice Green, VegePods, Green Cove, and Cacao Nook—transforming them into outdoor classrooms where we learn both traditional and high-tech farming methods.
+    
+*   Culture: We spearhead school-wide initiatives like the SGS Recycles Programme and lead campaigns for events like Earth Day, Flea Market, Food for Heart and World Wildlife Day, fostering an eco-conscious culture campus-wide.
+    
+*   Community: We extend our impact beyond school walls through partnerships with organizations like Terra SG and the Singapore Environment Council. Our members lead learning journeys and even educate preschoolers on the importance of recycling and energy saving.
+    
 
-##### Key programmes
+Join Us!  
+Through the Earth Club, students develop critical leadership, teamwork, and problem-solving skills while making a tangible difference for our planet. Be part of the change!
 
-Earth Club members will acquire knowledge on environmental sustainability, horticultural skills, and gain a better understanding of green industries and applications through our partnership with external organisations such as NParks and PUB. They will be given the platform to initiate eco-projects around the school, plan Values-in-Action (VIA) projects to contribute back to the community, as well as participate in external competitions and conferences.
+##### Recent Achievements:
 
-Through these various learning opportunities, our CCA aims to develop in them leadership, social and cooperative skills, as well as inculcate values of teamwork, responsibility and commitment.
+*   Singapore Environment Council's School Green Awards 2024: Yellow Flame Award (Secondary)
+    
+*   Active participation in national competitions like the Climate Crisis Challenge and National Geographic Slingshot Challenge.
 
-![](/images/earthclub2024__1_.jpg)
-![](/images/earthclub2024__2_.jpg)
-![](/images/earthclub2024__3_.jpg)
-![](/images/earthclub2024__4_.jpg)
-![](/images/earthclub2024__5_.jpg)
-![](/images/earthclub2024__6_.jpg)
-![](/images/earthclub2024__7_.jpg)
-![](/images/earthclub2024__8_.jpg)
-![](/images/earthclub2024__9_.jpg)
+![](/images/earthclub2025__1_.png)
+![](/images/earthclub2025__2_.png)
