@@ -3,7 +3,7 @@ title: Semester 2 Assessment
 permalink: /semester-2-assessment/
 variant: tiptap
 description: ""
-third_nav_title: SGS Assessment Guidelines
+third_nav_title: Assessment Guidelines
 ---
 <h4>End-of-Year Examination for Secondary 1 to 3 students</h4>
 <p>The End-of-Year Examination for Secondary 1 to 3 students will commence

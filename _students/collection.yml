@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - SGS HBL Term 3 2025.md
-      - SGS Assessment Guidelines/.keep
-      - SGS Assessment Guidelines/SGS Assessment Guidelines.md
-      - SGS Assessment Guidelines/Semester 2 Assessment.md
+      - Home Based Learning.md
+      - Assessment Guidelines/.keep
+      - Assessment Guidelines/SGS Assessment Guidelines.md
+      - Assessment Guidelines/Semester 2 Assessment.md
       - Timetable 2025.md
       - School Calendar.md
       - Student Handbook/.keep
@@ -26,4 +26,4 @@ collections:
       - Safety Guidelines/Computer Laboratories Safety Rules.md
       - Safety Guidelines/ICT Acceptable Use Policy (AUP) Agreement.md
       - Education and Career Guidance.md
-      - SGS ICT Helpdesk.md
+      - ICT Helpdesk.md
