@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Home Based Learning.md
-      - SGS Assessment Guidelines/.keep
-      - SGS Assessment Guidelines/SGS Assessment Guidelines.md
-      - SGS Assessment Guidelines/Semester 2 Assessment.md
+      - Assessment Guidelines/.keep
+      - Assessment Guidelines/SGS Assessment Guidelines.md
+      - Assessment Guidelines/Semester 2 Assessment.md
       - Timetable 2025.md
       - School Calendar.md
       - Student Handbook/.keep
