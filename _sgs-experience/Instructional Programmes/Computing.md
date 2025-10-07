@@ -15,12 +15,20 @@ intelligence, finance and banking, gaming and mobile applications, to healthcare
 and security all require the specialist skills of professional computer
 scientists.</p>
 <h3>Aims of the Computing Curriculum</h3>
-<p>Computing will be offered at G1, G2 and G3 for Upper Secondary students
-starting 2026.
-<br>The syllabus aims to provide students with the foundation to continue
-with further studies in computing and skills to participate in a rapidly
-changing technological environment so that the concepts and skills learnt
-would also be applicable in other fields that require computing.</p>
+<p>Computing will be offered at G1, G2 and G3 levels for Upper Secondary
+students starting 2026. The syllabus aims to provide students with the
+foundation to continue with further studies in computing and skills to
+participate in a rapidly changing technological environment so that the
+concepts and skills learnt would also be applicable in other fields that
+require computing.</p>
+<p>The three levels of Computing progress from building foundational skills
+to focusing on problem-solving and finally to catering to students with
+a particular talent or passion for the subject. G1 Computing develops essential
+software and document processing skills. G2 Computing then places a stronger
+emphasis on problem-solving through more advanced spreadsheet functions
+and introduces block-based programming. Finally, G3 Computing caters to
+students with a demonstrated aptitude by introducing more advanced, specialized
+topics such text-based programming</p>
 <h3>Building A Strong Foundation</h3>
 <p>Students will be able to use relevant application software to solve problems
 in everyday context, and represent their problem solutions via data tables,
@@ -29,8 +37,9 @@ office productivity application software for word processing, multimedia
 presentations and spreadsheet calculations and charts. Students will also
 be able to demonstrate their skills in interface design, computer drawing
 and image editing through blogs and web pages, as well as animated stories
-and games.Lower Secondary students get a taster of the Computing curriculum
-during the 10 hour Code For Fun programme in Secondary One and AI For Fun
+and games.</p>
+<p>Lower Secondary students will get a taster of the Computing curriculum
+during the 20 hour Code For Fun programme in Secondary One and AI For Fun
 programme in Secondary Two.</p>
 <p></p>
 <div class="isomer-image-wrapper">
