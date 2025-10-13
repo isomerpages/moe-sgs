@@ -4,6 +4,56 @@ permalink: /students-academic-achievements/
 variant: tiptap
 description: ""
 ---
+<h3><strong>CCA Awards 2025</strong></h3>
+<h4>Uniformed Groups CCA</h4>
+<p><strong>Unit Awards 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boys’ Brigade – JP Fraser Award (High Distinction)</p>
+</li>
+<li>
+<p>Girls’ Brigade – Company Award (Silver)</p>
+</li>
+<li>
+<p>NCC – Best Unit Award (Distinction)</p>
+</li>
+<li>
+<p>NPCC - Unit Overall Proficiency Award (Distinction)</p>
+</li>
+<li>
+<p>Red Cross Youth – Unit Award (Silver)</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2025.png">
+</div>
+<h4>Performing Arts CCA</h4>
+<p><strong>Singapore Youth Festival Arts Presentation 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choir - Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Concert Band - Certificate of Accomplishment</p>
+</li>
+<li>
+<p>DWDC Dance - Certificate of Distinction</p>
+</li>
+<li>
+<p>Language Arts Club - Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Guzheng - Certificate of Distinction</p>
+</li>
+</ul>
+<p><strong><em>Want to catch more of our exciting SYF performances? Click </em></strong>
+<a href="https://drive.google.com/drive/folders/1CSdX0kBH5klsQx97jgVGFb2hTwSR3UhG?usp=drive_link" rel="noopener nofollow" target="_blank">here</a><strong><em>!</em></strong>
+</p>
+<p></p>
+<h3><strong>CCA Awards 2024</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -515,52 +565,5 @@ ESSAY WRITING CONTEST]</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentacademic2024__8_.jpg">
 </div>
 <p></p>
-<h3><strong>CCA Awards</strong></h3>
-<h4>Uniformed Groups CCA</h4>
-<p><strong>Unit Awards 2025</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Boys’ Brigade – JP Fraser Award (High Distinction)</p>
-</li>
-<li>
-<p>Girls’ Brigade – Company Award (Silver)</p>
-</li>
-<li>
-<p>NCC – Best Unit Award (Distinction)</p>
-</li>
-<li>
-<p>NPCC - Unit Overall Proficiency Award (Distinction)</p>
-</li>
-<li>
-<p>Red Cross Youth – Unit Award (Silver)</p>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF2025.png">
-</div>
-<h4>Performing Arts CCA</h4>
-<p><strong>Singapore Youth Festival Arts Presentation 2025</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Choir - Certificate of Accomplishment</p>
-</li>
-<li>
-<p>Concert Band - Certificate of Accomplishment</p>
-</li>
-<li>
-<p>DWDC Dance - Certificate of Distinction</p>
-</li>
-<li>
-<p>Language Arts Club - Certificate of Accomplishment</p>
-</li>
-<li>
-<p>Guzheng - Certificate of Distinction</p>
-</li>
-</ul>
-<p><strong><em>Want to catch more of our exciting SYF performances? Click </em></strong>
-<a href="https://drive.google.com/drive/folders/1CSdX0kBH5klsQx97jgVGFb2hTwSR3UhG?usp=drive_link" rel="noopener nofollow" target="_blank">here</a><strong><em>!</em></strong>
-</p>
+<h3></h3>
 <p></p>
