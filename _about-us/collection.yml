@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Vision, Mission, Motto and Values.md
       - Our Rich Heritage.md
       - Our Badge & School Song.md
@@ -11,3 +10,4 @@ collections:
       - Our People/School Leaders.md
       - Our People/Key Personnel.md
       - E Open House.md
+      - Contact Us.md
