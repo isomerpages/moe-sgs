@@ -86,7 +86,9 @@ and a deeper understanding of the place of Singapore in ASEAN and the world.</p>
 <p></p>
 <h3>International Visits @ SGS</h3>
 <h4>Educational Visit by Members of the Changzhou Municipal Education Bureau and Principals of Changzhou schools in May 2025</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Changzhou_visit_2025.png">
+</div>
 <h4>SGS Welcomes Choi Hung Estate Catholic Secondary School</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choi_Hung_Estate_Catholic_Secondary_School.jpg">
