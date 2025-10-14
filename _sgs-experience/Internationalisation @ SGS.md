@@ -61,7 +61,6 @@ their exciting experiences.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suzhou_Pingjiang.jpg">
 </div>
 <p>Educational Visit to Partner School 苏州市平江中学校 (SUZHOU PINGJIANG ZHONGXUEXIAO)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/.jpg">
 </div>
@@ -108,7 +107,7 @@ Education (FCE) lesson.</p>
 <p>This meaningful exchange provided an excellent platform for our students
 to develop communication skills and global literacy, as they interacted
 with peers from Hong Kong, fostering cross-cultural friendships and understanding.</p>
-<h3>Internationalisation programme 2024</h3>
+<h3>Internationalisation Programme 2024</h3>
 <p>In 2024, two groups of Sec 3 students went on trips to Bali and Penang
 respectively. Both groups had the opportunity to participate in an exchange
 programme with the local schools. Students also engaged in cultural immersion
