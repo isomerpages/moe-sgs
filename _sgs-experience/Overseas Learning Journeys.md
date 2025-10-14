@@ -11,6 +11,9 @@ the world. Over the years, students have visited our partner schools in
 various countries and cities including:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>China - Shanghai, Suzhou, Xian and Hong Kong</p>
+</li>
+<li>
 <p>Malaysia - Langkawi, Kuching, Penang and Kuala Lumpur</p>
 </li>
 <li>
@@ -18,9 +21,6 @@ various countries and cities including:</p>
 </li>
 <li>
 <p>Vietnam - Hanoi and Ho Chi Minh City</p>
-</li>
-<li>
-<p>China - Xian and Hong Kong</p>
 </li>
 <li>
 <p>Indonesia - Bali</p>
@@ -32,8 +32,8 @@ various countries and cities including:</p>
 <p>Cambodia</p>
 </li>
 </ul>
-<h3>Internationalisation programme 2025</h3>
-<h4>Suzhou and Shanghai Trip 2025</h4>
+<h3>Internationalisation Programme 2025</h3>
+<h4>Suzhou and Shanghai</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shanghai_Shuzhou_Trip_2025.jpg">
 </div>
@@ -57,21 +57,20 @@ Oriental Pearl Tower, wrapping up their last evening with the ERA ‘Intersectio
 of Time Acrobatics Show’. The trip developed students’ global awareness
 and cross-cultural skills and they returned, brimming with memories of
 their exciting experiences.</p>
-<h4>Educational Visit to Partner School 苏州市平江中学校 (SUZHOU PINGJIANG ZHONGXUEXIAO) </h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suzhou_Pingjiang.jpg">
 </div>
-<h4>Educational Visit to Partner School 苏州工业园区文景实验学校 (SUZHOU INDUSTRIAL PARK WENJING EXPERIMENTAL SCHOOL)</h4>
+<p>Educational Visit to Partner School 苏州市平江中学校 (SUZHOU PINGJIANG ZHONGXUEXIAO)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suzhou_Wenjing.jpg">
 </div>
-<p></p>
-<h4>Ho Chi Minh City Trip 2025</h4>
+<p>Educational Visit to Partner School 苏州工业园区文景实验学校 (SUZHOU INDUSTRIAL PARK
+WENJING EXPERIMENTAL SCHOOL)</p>
+<h4>Ho Chi Minh City</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HCM_Vietnam_Trip_2025.jpg">
 </div>
@@ -86,7 +85,7 @@ local barista school. Through it all, students gained cross-cultural skills
 and a deeper understanding of the place of Singapore in ASEAN and the world.</p>
 <p></p>
 <h3>International Visits @ SGS</h3>
-<h4>Changzhou: Educational Visit by Members of the Changzhou Municipal Education Bureau and Principals of Changzhou schools in May 2025</h4>
+<h4>Educational Visit by Members of the Changzhou Municipal Education Bureau and Principals of Changzhou schools in May 2025</h4>
 <p></p>
 <h4>SGS Welcomes Choi Hung Estate Catholic Secondary School</h4>
 <div class="isomer-image-wrapper">
