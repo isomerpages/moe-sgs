@@ -60,15 +60,18 @@ their exciting experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suzhou_Pingjiang.jpg">
 </div>
-<p>Educational Visit to Partner School 苏州市平江中学校 (SUZHOU PINGJIANG ZHONGXUEXIAO)</p>
+<p><em>Educational Visit to Partner School 苏州市平江中学校 (SUZHOU PINGJIANG ZHONGXUEXIAO)</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suzhou_Wenjing.jpg">
 </div>
-<p>Educational Visit to Partner School 苏州工业园区文景实验学校 (SUZHOU INDUSTRIAL PARK
-WENJING EXPERIMENTAL SCHOOL)</p>
+<p><em>Educational Visit to Partner School 苏州工业园区文景实验学校 (SUZHOU INDUSTRIAL PARK WENJING EXPERIMENTAL SCHOOL)</em>
+</p>
 <h4>Ho Chi Minh City</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HCM_Vietnam_Trip_2025.jpg">
