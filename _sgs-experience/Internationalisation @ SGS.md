@@ -63,11 +63,9 @@ their exciting experiences.</p>
 <p><em>Educational Visit to Partner School 苏州市平江中学校 (SUZHOU PINGJIANG ZHONGXUEXIAO)</em>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SuzhouWenjing.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Suzhou_Wenjing.jpg">
 </div>
