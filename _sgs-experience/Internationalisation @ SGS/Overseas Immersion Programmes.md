@@ -37,7 +37,7 @@ various countries and cities including:</p>
 </li>
 </ul>
 <h3>Internationalisation Programme 2025</h3>
-<h4>Brunei </h4>
+<h4>Brunei</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/brunei20251.png">
 </div>
@@ -110,6 +110,9 @@ their exciting experiences.</p>
 <h4>Ho Chi Minh City</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HCM_Vietnam_Trip_2025.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bOVVug_FQXs?si=YVpWrqpdb58o8z5w"></iframe>
 </div>
 <p>In 2025, 30 Secondary 3 students embarked on an enriching and unforgettable
 trip to Ho Chi Minh City, Vietnam. Over the course of four days, they learnt
