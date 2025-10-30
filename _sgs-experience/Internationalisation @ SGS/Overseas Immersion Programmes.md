@@ -32,8 +32,43 @@ various countries and cities including:</p>
 <li>
 <p>Cambodia</p>
 </li>
+<li>
+<p>Brunei - Bandar Seri Begawan</p>
+</li>
 </ul>
 <h3>Internationalisation Programme 2025</h3>
+<h4>Brunei </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brunei20251.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brunei20257.png">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8smhLm71zLw?si=CZjeaOkGmPYK5eZ7"></iframe>
+</div>
+<p>From 13 to 16 October 2025, 12 Secondary 3 students embarked on a school
+and cultural immersion trip to Brunei, where they gained deep insights
+into the nation’s culture, traditions, and development. At landmarks such
+as the Jame' Asr Hassanal Bolkiah Mosque, Istana Nurul Iman, and the Royal
+Regalia Museum, they learnt about Brunei’s faith, leadership, and sense
+of community. Visits to the ASEAN Sculpture Park, Kampong Ayer, and the
+Malay Technology Museum helped them appreciate unity among ASEAN nations,
+the balance between tradition and modernity, and the ingenuity of Bruneians
+in the past. Through these experiences, the students reflected on values
+of responsibility, gratitude, and cultural respect, drawing parallels between
+Brunei’s progress and Singapore’s own development.</p>
+<p>The students also enjoyed exploring Brunei’s natural beauty and modern
+attractions. They were amazed by the grandeur of The Empire Brunei Hotel,
+the breathtaking sunset views, and the majestic Sultan Haji Omar Ali Saifuddien
+Bridge. Educational visits to the Energy Hub and Brunei Maritime Museum
+deepened their understanding of sustainability and Brunei’s historical
+role in regional trade. Interacting with students at Sekolah Tinggi Perempuan
+Raja Isteri fostered cultural appreciation and friendship, while visits
+to Tamu Kianggeh Market and Gadong Night Market showcased Brunei’s lively
+local life. The trip not only enriched their knowledge of Bruneian culture
+but also strengthened their bonds and appreciation for diversity, heritage,
+and shared regional identity.</p>
 <h4>Suzhou and Shanghai</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shanghai_Shuzhou_Trip_2025.jpg">
@@ -85,9 +120,6 @@ students. Students also explored the Mekong Delta and learnt about Saigon’s
 culture and innovations when they visited the Saigon Hi-Tech Park and a
 local barista school. Through it all, students gained cross-cultural skills
 and a deeper understanding of the place of Singapore in ASEAN and the world.</p>
-<p></p>
-<h3>International Visits @ SGS</h3>
-<h4></h4>
 <h3>Internationalisation Programme 2024</h3>
 <p>In 2024, two groups of Sec 3 students went on trips to Bali and Penang
 respectively. Both groups had the opportunity to participate in an exchange
@@ -105,5 +137,4 @@ such as Batik painting and glass painting.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpbAuFzrDTEfBOl0mSKICI3OYUCc67fKeEsyavee9d4L1ITamzxYXMffkxwVqMVum8bNFMtg0ddVxl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h3></h3>
 <p></p>
