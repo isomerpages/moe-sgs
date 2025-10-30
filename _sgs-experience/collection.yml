@@ -2,6 +2,9 @@ collections:
   sgs-experience:
     output: true
     order:
+      - Internationalisation @ SGS/.keep
+      - Internationalisation @ SGS/Overseas Immersion Programmes.md
+      - Internationalisation @ SGS/International Visits@SGS.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -42,6 +45,5 @@ collections:
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Level Signature Programmes.md
-      - Internationalisation @ SGS.md
       - Work Shadowing Programme.md
       - Students' Achievements.md
