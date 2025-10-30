@@ -2,6 +2,7 @@ collections:
   sgs-experience:
     output: true
     order:
+      - Internationalisation @ SGS/International Visits@SGS.md
       - Internationalisation @ SGS/Overseas Immersion Programmes.md
       - Internationalisation @ SGS/.keep
       - Instructional Programmes/.keep
