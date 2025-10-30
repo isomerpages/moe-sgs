@@ -2,8 +2,8 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Overseas Immersion Programmes/Internationalisation @ SGS.md
-      - Overseas Immersion Programmes/.keep
+      - Internationalisation @ SGS/Internationalisation @ SGS.md
+      - Internationalisation @ SGS/.keep
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
       - Instructional Programmes/Mother Tongue.md
