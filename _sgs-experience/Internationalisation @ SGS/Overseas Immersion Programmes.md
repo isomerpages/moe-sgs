@@ -92,8 +92,9 @@ culture and innovations when they visited the Saigon Hi-Tech Park and a
 local barista school. Through it all, students gained cross-cultural skills
 and a deeper understanding of the place of Singapore in ASEAN and the world.</p>
 <h4>Brunei</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brunei_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/brunei2025.png">
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8smhLm71zLw?si=CZjeaOkGmPYK5eZ7"></iframe>
