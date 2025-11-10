@@ -1,5 +1,5 @@
 ---
-title: Key Personnel
+title: Executive Committee
 permalink: /about-us/our-people/keypersonnel/
 variant: tiptap
 description: ""
@@ -7,7 +7,7 @@ third_nav_title: Our People
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SgsKP2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/executive_committee_2.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -253,6 +253,22 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Judith Mah Ming Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Liao Kuo Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
 </td>
 </tr>
 </tbody>
