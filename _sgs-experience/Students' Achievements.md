@@ -4,6 +4,10 @@ permalink: /students-academic-achievements/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Academic Achievements 2025</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="1000" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vS4RBDzLJLuGGL1hwFHVXyDBQXTJLl7YlZTUygW1CmRMDRu5lo8Fd36BK68SEkWYjJn2w1d4DKgJj89/pub?embedded=true"></iframe>
+</div>
 <h3><strong>CCA Awards 2025</strong></h3>
 <h4>Uniformed Groups CCA</h4>
 <p><strong>Unit Awards 2025</strong>
