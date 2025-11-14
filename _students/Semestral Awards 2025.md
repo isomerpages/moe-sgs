@@ -1,5 +1,5 @@
 ---
-title: Semestral Awards Day 2025
+title: Semestral Awards 2025
 permalink: /semestral-awards-day-2025/
 variant: tiptap
 description: ""
