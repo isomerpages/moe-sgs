@@ -2,11 +2,11 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Semestral Award 2025.md
       - Internationalisation @ SGS/.keep
       - Internationalisation @ SGS/Overseas Immersion Programmes.md
       - Internationalisation @ SGS/International Visits@SGS.md
       - Students' Achievements.md
+      - Semestral Award 2025.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
       - Instructional Programmes/Mother Tongue.md
