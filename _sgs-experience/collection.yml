@@ -2,11 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Internationalisation @ SGS/.keep
-      - Internationalisation @ SGS/Overseas Immersion Programmes.md
-      - Internationalisation @ SGS/International Visits@SGS.md
-      - Students' Achievements.md
-      - Semestral Award 2025.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -44,7 +39,12 @@ collections:
       - Co Curricular Activities/Red Cross Youth.md
       - Co Curricular Activities/Robotics Club.md
       - Co Curricular Activities/Table Tennis.md
+      - Internationalisation @ SGS/.keep
+      - Internationalisation @ SGS/Overseas Immersion Programmes.md
+      - Internationalisation @ SGS/International Visits@SGS.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Level Signature Programmes.md
       - Work Shadowing Programme.md
+      - Students' Achievements.md
+      - Semestral Award 2025.md
