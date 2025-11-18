@@ -12,16 +12,15 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: ""
       announcement_items:
         - title: (For Sec 2 – 5) End of Year Books and Uniform Sales for 2026
           date: 22 October 2025
-          announcement: ""
+          announcement: Click the link below to find out more
           link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
           link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
         - title: 2026 FAS application
           date: 21 October 2025
-          announcement: ""
+          announcement: Click the link below to find out more
           link_text: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
           link_url: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
   - infopic:
