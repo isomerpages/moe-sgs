@@ -7,9 +7,9 @@ description: ""
 <p>The school year came to a rousing finish with the Semestral Awards last
 Friday, where we celebrated students' achievements in both academic and
 non-academic domains.</p>
-<h4>Ho Bee Foundation Scholarship Award</h4>
-<p>The Ho Bee Foundation Scholarship award recognises well-rounded students
-who have excelled in both academic and non-academic spheres, and who exemplify
+<h4>Ho Bee Foundation Scholarship</h4>
+<p>The Ho Bee Foundation Scholarship recognises well-rounded students who
+have excelled in both academic and non-academic spheres, and who exemplify
 the PRIDE values of the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Bee_Awards.jpg">
