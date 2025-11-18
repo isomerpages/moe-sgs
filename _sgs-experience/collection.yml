@@ -2,6 +2,7 @@ collections:
   sgs-experience:
     output: true
     order:
+      - Semestral Award 2025.md
       - Internationalisation @ SGS/.keep
       - Internationalisation @ SGS/Overseas Immersion Programmes.md
       - Internationalisation @ SGS/International Visits@SGS.md
