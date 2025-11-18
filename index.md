@@ -32,6 +32,16 @@ sections:
       image: /images/here__1_.png
       alt: SGS Spotlight
   - infopic:
+      title: E-Open House for 2026 Sec 1 Students
+      subtitle: "2025"
+      id: infopic
+      description: Discover how Serangoon Garden Secondary School helps every student
+        blossom. Join our e-open house to learn more.
+      button: Learn more
+      url: https://www.sgs.moe.edu.sg/eopenhouse/
+      image: /images/2025eopenhouse_cover_photo1.png
+      alt: eopenhouse2025
+  - infopic:
       id: infopic
       description: Please visit our official Facebook site to view more exciting
         updates on our school programmes.
