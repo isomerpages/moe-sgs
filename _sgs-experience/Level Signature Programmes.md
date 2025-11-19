@@ -27,4 +27,20 @@ Social.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lsp20251__2_.png">
 </div>
+<h4>Code for Fun &amp; AI for Fun</h4>
+<p>The school leverages on IMDA's Code for Fun and AI for Fun programmes
+to expose all Lower Secondary students to the world of computational thinking
+and basic programming. Secondary One students take part in the 10 hour
+CFF programme using their new PLDs based on the theme of Sustainability
+Living. They then progress to AIFF in Secondary Two which applies Generative
+AI to solve problems related to the theme of Sustainable Living.&nbsp;These
+two programmes work in tandem to develop students' competencies in Digital
+Literacy and Technological Skills, specifically in Computational Thinking
+and Coding &amp; Programming. A secondary objective of the programme is
+to enthuse prospective students to consider if a career in IT is for them
+and if they should study Computing as an elective in Secondary Three.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025CodeForFun.jpg">
+</div>
 <p></p>
