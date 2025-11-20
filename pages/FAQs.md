@@ -45,18 +45,20 @@ school’s available teaching resources.</p>
 <h5>Special Programmes</h5>
 <p><strong>What is your Applied Learning Programme (ALP)?</strong>
 </p>
-<p>In line with our vision of nuturing SGSians as ‘Learning with Grit, Leaders
+<p>In line with our vision of nurturing SGSians as ‘Learning with Grit, Leaders
 with Heart’, our Applied Learning Programme (ALP), entitled “Researching
 Society through Media Literacy” focuses on equipping our students with
-necessary media communication skills to think critically and deeply about
-society issues. Over the three-year programme, students progressively hone
-competencies such as media literacy, critical thinking and media creations
-skills to facilitate their research and present their findings.</p>
+necessary information skills to think critically and deeply about society
+issues. Over the three-year programme, students progressively hone competencies
+such as evaluating digital information with discernment, critical and inventing
+thinking, communication and collaborative skills to facilitate their research
+and present their findings.</p>
 <p>Through the ALP, our students grow in confidence as they learn to manage
 an independent project, effectively work with others and present their
 research through different mediums. At the end of the project, there is
 the ALP Celebrations, where students share their research and solutions
-to societal issues with the SGSians family.</p>
+to societal issues with the SGSians family and the community.</p>
+<p></p>
 <p>For more information on ALP, please refer to: <a href="https://www.sgs.moe.edu.sg/instructional-programmes/alp/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/instructional-programmes/alp/</a>
 </p>
 <p><strong>Will there be opportunities for my child to develop leadership skills? What is your Learning for Life Programme (LLP)?</strong>
