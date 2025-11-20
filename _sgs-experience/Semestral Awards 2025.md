@@ -4,9 +4,6 @@ permalink: /semestral-award-2025/
 variant: tiptap
 description: ""
 ---
-<p>The school year came to a rousing finish with the Semestral Awards last
-Friday, where we celebrated students' achievements in both academic and
-non-academic domains.</p>
 <h4>Ho Bee Foundation Scholarship</h4>
 <p>The Ho Bee Foundation Scholarship recognises well-rounded students who
 have excelled in both academic and non-academic spheres, and who exemplify
