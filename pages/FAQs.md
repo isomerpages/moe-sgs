@@ -31,6 +31,8 @@ National Police Cadet Corps (NPCC) and the Red Cross Youth.</p>
 </p>
 <p><strong>What subject combinations does your school offer to Secondary 3 pupils? Does your school offer Pure Science?</strong>
 </p>
+<p>The school offers a diverse range of subject combinations that will enable
+students to access all the different post-secondary school pathways.</p>
 <p>In addition to the core subjects of Languages and Math, we also offer
 a range of electives such as History, Geography and Literature in English
 for Combined Humanities; and Physics, Chemistry and Biology for Combined
@@ -42,6 +44,7 @@ in Secondary 2.</p>
 Pure Sciences and Pure Humanities, may vary depending on the students’
 preferences, their aptitude to do well in these subjects, as well as the
 school’s available teaching resources.</p>
+<p></p>
 <h5>Special Programmes</h5>
 <p><strong>What is your Applied Learning Programme (ALP)?</strong>
 </p>
