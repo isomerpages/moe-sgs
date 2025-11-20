@@ -60,7 +60,7 @@ Our school’s Level Signature Programmes (LSPs) provide opportunities for SGSia
 Selected secondary 3 students also have the opportunity to embark on Overseas Learning Journeys to develop global awareness and cross-cultural skills and sensitivities. These experiences enable them to gain a deeper understanding of the place of Singapore in the world.
 
 For more information on LSP, please refer to:
-https://www.sgs.moe.edu.sg/student-development/level-signature-programmes/
+[https://www.sgs.moe.edu.sg/student-development/level-signature-programmes/](https://www.sgs.moe.edu.sg/student-development/level-signature-programmes/)
 
 For more information on Overseas Immersion Programmes, please refer to:
-https://www.sgs.moe.edu.sg/overseas-learning-journey/
+[https://www.sgs.moe.edu.sg/overseas-learning-journey/](https://www.sgs.moe.edu.sg/overseas-learning-journey/)
