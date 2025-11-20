@@ -63,4 +63,4 @@ For more information on LSP, please refer to:
 https://www.sgs.moe.edu.sg/student-development/level-signature-programmes/
 
 For more information on Overseas Immersion Programmes, please refer to:
-https://www.sgs.moe.edu.sg/overseas-learning-journey/ 
+https://www.sgs.moe.edu.sg/overseas-learning-journey/
