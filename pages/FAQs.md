@@ -53,7 +53,7 @@ with Heart’, our Applied Learning Programme (ALP), entitled “Researching
 Society through Media Literacy” focuses on equipping our students with
 necessary information skills to think critically and deeply about society
 issues. Over the three-year programme, students progressively hone competencies
-such as evaluating digital information with discernment, critical and inventing
+such as evaluating digital information with discernment, critical and inventive
 thinking, communication and collaborative skills to facilitate their research
 and present their findings.</p>
 <p>Through the ALP, our students grow in confidence as they learn to manage
