@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h5>School Life</h5>
-<p><strong>What are your school hours like?</strong>
+<p><strong>What are your school hours?</strong>
 </p>
 <p>Students are to be in school by 7.50 a.m. Flag raising begins at 8 a.m.</p>
 <p>Curriculum time ends at 3.20pm on Mondays, 2.00pm on Tuesday to Thursdays
@@ -37,9 +37,7 @@ students to access all the different post-secondary school pathways.</p>
 a range of electives such as History, Geography and Literature in English
 for Combined Humanities; and Physics, Chemistry and Biology for Combined
 Sciences. Also, we offer subjects like Principles of Accounts, Food and
-Nutrition, and Design and Technology. Students may choose to offer up to
-6 or 7 subjects, depending on their level of readiness and their performance
-in Secondary 2.</p>
+Nutrition, and Design and Technology.</p>
 <p>From year to year, the subject combinations eventually offered, including
 Pure Sciences and Pure Humanities, may vary depending on the students’
 preferences, their aptitude to do well in these subjects, as well as the
@@ -61,7 +59,6 @@ an independent project, effectively work with others and present their
 research through different mediums. At the end of the project, there is
 the ALP Celebrations, where students share their research and solutions
 to societal issues with the SGSians family and the community.</p>
-<p></p>
 <p>For more information on ALP, please refer to: <a href="https://www.sgs.moe.edu.sg/instructional-programmes/alp/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/instructional-programmes/alp/</a>
 </p>
 <p><strong>Will there be opportunities for my child to develop leadership skills? What is your Learning for Life Programme (LLP)?</strong>
