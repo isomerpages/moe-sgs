@@ -71,9 +71,7 @@ students to access all the different post-secondary school pathways.</p>
 a range of electives such as History, Geography and Literature in English
 for Combined Humanities; and Physics, Chemistry and Biology for Combined
 Sciences. Also, we offer subjects like Principles of Accounts, Food and
-Nutrition, and Design and Technology. Students may choose to offer up to
-6 or 7 subjects, depending on their level of readiness and their performance
-in Secondary 2.</p>
+Nutrition, and Design and Technology.</p>
 <p>From year to year, the subject combinations eventually offered, including
 Pure Sciences and Pure Humanities, may vary depending on the students’
 preferences, their aptitude to do well in these subjects, as well as the
