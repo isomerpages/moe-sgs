@@ -143,7 +143,7 @@ of the place of Singapore in the world.</p>
 <p><a href="https://www.sgs.moe.edu.sg/student-development/level-signature-programmes/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/student-development/level-signature-programmes/</a>
 </p>
 <p>For more information on Overseas Immersion Programmes, please refer to:</p>
-<p><a href="https://www.sgs.moe.edu.sg/overseas-learning-journey/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/overseas-learning-journey/</a> 
+<p><a href="https://www.sgs.moe.edu.sg/overseas-learning-journey/" rel="noopener noreferrer nofollow" target="_blank">https://www.sgs.moe.edu.sg/overseas-learning-journey/</a>
 </p>
 </td>
 </tr>
