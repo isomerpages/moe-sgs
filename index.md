@@ -57,4 +57,13 @@ sections:
           announcement: Click the link below to find out more
           link_text: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
           link_url: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      id: infopic
+      description: ""
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/sgs
+      image: /images/2025AskGov.png
+      alt: Image alt text
 ---
