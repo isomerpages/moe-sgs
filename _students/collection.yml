@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Semestral Awards 2025.md
       - Home Based Learning.md
       - Assessment Guidelines/.keep
       - Assessment Guidelines/SGS Assessment Guidelines.md
