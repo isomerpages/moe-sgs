@@ -13,6 +13,22 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2026 Sec 1 Registration
+          date: 19 December 2025
+          announcement: Medical Appeal Exercise (MAE)
+          link_text: Click this link to find out more
+          link_url: /medical-appeal-exercise-mae-transfer-out-due-to-medical-reasons-or-physical/
+        - title: 2026 Sec 1 Registration
+          date: 19 December 2025
+          announcement: Appeal for transfer into Serangoon Garden Secondary School (for
+            non-medical cases)
+          link_text: Click this link to find out more
+          link_url: /appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
+        - title: 2026 Sec 1 Registration
+          date: 19 December 2025
+          announcement: Sec 1 Registration Info for 2026 Sec 1 Students and Parents
+          link_text: Click this link to find out more
+          link_url: /sec-1-registration-info-for-2026-sec-1-students-and-parents/
         - title: Release of 2025 GCE N-Level Results on 18 Dec 2025
           date: 11 December 2025
           announcement: Click the link below to find out more
@@ -23,11 +39,6 @@ sections:
           announcement: Click the link below to find out more
           link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
           link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
-        - title: 2026 FAS application
-          date: 21 October 2025
-          announcement: Click the link below to find out more
-          link_text: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
-          link_url: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
   - infopic:
       title: E-Open House
       subtitle: "2025"
