@@ -15,9 +15,9 @@ sections:
       announcement_items:
         - title: 2026 Sec 1 Registration
           date: 19 December 2025
-          announcement: Medical Appeal Exercise (MAE)
+          announcement: Sec 1 Registration Info for 2026 Sec 1 Students and Parents
           link_text: Click this link to find out more
-          link_url: /medical-appeal-exercise-mae-transfer-out-due-to-medical-reasons-or-physical/
+          link_url: /sec-1-registration-info-for-2026-sec-1-students-and-parents/
         - title: 2026 Sec 1 Registration
           date: 19 December 2025
           announcement: Appeal for transfer into Serangoon Garden Secondary School (for
@@ -26,9 +26,9 @@ sections:
           link_url: /appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
         - title: 2026 Sec 1 Registration
           date: 19 December 2025
-          announcement: Sec 1 Registration Info for 2026 Sec 1 Students and Parents
+          announcement: Medical Appeal Exercise (MAE)
           link_text: Click this link to find out more
-          link_url: /sec-1-registration-info-for-2026-sec-1-students-and-parents/
+          link_url: /medical-appeal-exercise-mae-transfer-out-due-to-medical-reasons-or-physical/
         - title: Release of 2025 GCE N-Level Results on 18 Dec 2025
           date: 11 December 2025
           announcement: Click the link below to find out more
