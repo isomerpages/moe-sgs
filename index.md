@@ -9,6 +9,25 @@ sections:
   - hero:
       background: /images/sgsbanner08.gif
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of 2025 GCE N-Level Results on 18 Dec 2025
+          date: 11 December 2025
+          announcement: Click the link below to find out more
+          link_text: /release-of-the-2025-singapore-cambridge-gce-n-a-n-t-level-examination-results/
+          link_url: /release-of-the-2025-singapore-cambridge-gce-n-a-n-t-level-examination-results/
+        - title: (For Sec 2 – 5) End of Year Books and Uniform Sales for 2026
+          date: 22 October 2025
+          announcement: Click the link below to find out more
+          link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
+          link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
+        - title: 2026 FAS application
+          date: 21 October 2025
+          announcement: Click the link below to find out more
+          link_text: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
+          link_url: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
   - infopic:
       title: E-Open House
       subtitle: "2025"
@@ -43,20 +62,6 @@ sections:
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
       alt: IG
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: (For Sec 2 – 5) End of Year Books and Uniform Sales for 2026
-          date: 22 October 2025
-          announcement: Click the link below to find out more
-          link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
-          link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
-        - title: 2026 FAS application
-          date: 21 October 2025
-          announcement: Click the link below to find out more
-          link_text: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
-          link_url: https://www.sgs.moe.edu.sg/students/student-handbook/financial-assistance-scheme/
   - infopic:
       title: Find answers from our Q&A platform
       subtitle: Have A question?
