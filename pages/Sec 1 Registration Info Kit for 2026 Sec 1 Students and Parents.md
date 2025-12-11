@@ -504,7 +504,7 @@ about Full Subject-Based Banding <a href="https://www.moe.gov.sg/microsites/psle
 <p>Parents/Guardians of students who meet the eligibility criteria will be
 notified via Parents Gateway (PG) by <strong>Friday, 19 December 2025</strong>.
 Parents should indicate whether they will accept or reject the offer via
-PG* by <strong>Friday, 26 December 2025.</strong>  <strong><u>Please take care to order/purchase the learning materials for the corresponding subject level (i.e. G3 or G2) your child will be studying.</u></strong> 
+PG* by <strong>Friday, 26 December 2025.</strong>  <strong><u>Please take care to order/purchase the learning materials for the corresponding subject level (i.e. G3 or G2) your child will be studying.</u></strong>
 </p>
 <p><em>*Parents who are not onboarded to PG will be contacted via email</em>
 </p>
@@ -541,7 +541,7 @@ letter.</p>
 </p>
 <p><em>* See Section B and D for Opening Hours</em>
 </p>
-<p><strong>Category 2: New MOE FAS applicants </strong>
+<p><strong>Category 2: New MOE FAS applicants</strong>
 </p>
 <p>New applicants for the Financial Assistance Scheme (FAS) 2026 may apply
 digitally either through The Parents Gateway app services, or online application
