@@ -9,6 +9,7 @@ description: ""
 do not need to be physically present at school. &nbsp;Should further assistance
 or clarification be required, parents may contact the school at 6288 9227
 or approach staff at the General Office.</p>
+<p>To prepare for the start of your Secondary School journey with us, please:</p>
 <p>(i) complete the following Sec 1 Registration <a href="https://go.gov.sg/26s1sgsregistrationform" rel="noopener nofollow" target="_blank">Form</a> by Monday, 22
 December 2025</p>
 <p>(ii) review the Sec 1 Registration Info-kit below:</p>
@@ -31,7 +32,7 @@ for Higher Mother Tongue Language (HMTL)</p>
 FAS</p>
 <p></p>
 <h4><strong><u>Section B - Purchase of Books</u></strong></h4>
-<p>Please click on the link to view the booklist. <a href="/files/2026_Sec_1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Booklist</a>
+<p>Please click on the link to view the booklist. <a href="/files/2026_Sec_1_Booklist_Final.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Booklist</a>
 </p>
 <p>There are two methods to make book purchases:</p>
 <table style="minWidth: 75px">
