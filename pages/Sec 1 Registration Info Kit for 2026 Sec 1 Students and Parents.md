@@ -32,7 +32,7 @@ for Higher Mother Tongue Language (HMTL)</p>
 FAS</p>
 <p></p>
 <h4><strong><u>Section B - Purchase of Books</u></strong></h4>
-<p>Please click on the link to view the booklist. <a href="/files/2026_Sec_1_Booklist_Final.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Booklist</a>
+<p>Please click on the link to view the booklist. <a href="/files/SGDS_2026_Sec_1_Booklist_Final_171225.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Booklist</a>
 </p>
 <p>There are two methods to make book purchases:</p>
 <table style="minWidth: 75px">
