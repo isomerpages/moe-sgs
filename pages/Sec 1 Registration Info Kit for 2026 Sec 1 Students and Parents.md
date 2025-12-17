@@ -534,11 +534,11 @@ Please note that late submissions will not be accepted.</p>
 (MOEFAS) applications have been approved by their Primary Schools are to
 make an <strong>appointment</strong> to collect their books and uniform on-site
 in Serangoon Garden Secondary School (SGS) via the appointment link below.</p>
-<p>On the day of your appointment, please go to the General Office with your <strong>Primary School MOE FAS approval letter to collect the SGS MOE FAS letter</strong>  <strong><u>before</u></strong> making
+<p>On the day of your appointment, please go to the General Office with your <strong>MOE FAS approval letter to collect the SGS MOE FAS letter</strong>  <strong><u>before</u></strong> making
 your way to the bookshop or uniform shop for collection. Please do not
 purchase the books and/or uniforms before collecting the MOEFAS approval
 letter.</p>
-<p>Appointment booking for 26 Dec - 30 Dec* - <a href="https://go.gov.sg/sgs2026sec1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sgs2026sec1</a>
+<p>Appointment booking for 23 Dec - 30 Dec* - <a href="https://go.gov.sg/sgs2026sec1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sgs2026sec1</a>
 </p>
 <p><em>* See Section B and D for Opening Hours</em>
 </p>
