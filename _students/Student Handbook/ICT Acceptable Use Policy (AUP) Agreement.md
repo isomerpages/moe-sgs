@@ -35,7 +35,7 @@ and school internet networks.</p>
 you are not authorised to.</p>
 <p>2. You are reminded that the use of learning devices and school’s EdTech
 resources should solely be for the purpose of learning.</p>
-<h4>Using your PLD </h4>
+<h4>Using your PLD</h4>
 <p>3. You are responsible for your PLD. In the event of loss or theft of
 the device, you must make a police report and report the matter to the
 school.</p>
@@ -50,6 +50,9 @@ support a safe and conducive learning environment. You should not attempt
 to bypass the DMA.</p>
 <p>7. You are responsible for regularly backing up your learning materials
 in your PLD to prevent data loss.</p>
+<p>Please complete the SLS package on File Management and Data back-up here:
+<a href="https://go.gov.sg/sls-dlts-8" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sls-dlts-8</a>
+</p>
 <h4>Being a Responsible Digital Citizen</h4>
 <p>8. You should interact with others in a respectful and responsible way.
 You should not post online remarks that are</p>
@@ -80,7 +83,7 @@ others.</p>
 commercial activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with the school’s discipline policy.</p>
-<h4>Respecting Copyright </h4>
+<h4>Respecting Copyright</h4>
 <p>11. You are reminded to obtain explicit permission from the content owner(s)
 before downloading, copying or sharing any copyrighted materials (e.g.
 pictures, videos, music).</p>
