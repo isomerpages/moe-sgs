@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
+      - Timetable 2026.md
       - Home Based Learning.md
       - Assessment Guidelines/.keep
       - Assessment Guidelines/SGS Assessment Guidelines.md
-      - Timetable 2025.md
       - School Calendar.md
       - Student Handbook/.keep
       - Student Handbook/School Rules.md
