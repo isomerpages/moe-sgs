@@ -27,7 +27,7 @@ provide students with many good years of learning and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD2025.png">
 </div>
-<h3>Important Actions For Parents (Sec 1 2025)</h3>
+<h3>Important Actions For Parents (Sec 1 2026)</h3>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
 or hardcopy with details about the purchase of PLD by mid January.</p>
 <p>Please submit the following consent forms in order for the school to begin
@@ -43,12 +43,18 @@ processing the purchase of a PLD for your child/ward.</p>
 <p>Application for Subsidy (PR/IS)</p>
 </li>
 </ul>
-<h3>PDLP Introduction Video</h3>
-<p>This is a video presentation about our PDLP programme which includes details
-on purchasing the PLD.</p>
-<div class="iframe-wrapper">
-<iframe height="310" width="556" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/irEmIsr6-lQ"></iframe>
-</div>
+<h3>Device Management Application</h3>
+<p>Device management application (DMA) software will be installed on your
+child's device to provide a safe learning experience for your child, and
+to prevent misuse of the device.</p>
+<p>The DMA will be funded by MOE and will be uninstalled from the device
+when the child graduates/leaves the school.</p>
+<h3>Acceptable Use Policy</h3>
+<p>Parents can refer to the Acceptable Use Policy (AUP) when helping to manage
+your child's use of PLD. The AUP will help your child understand the expectations
+of device use to enable a conducive learning environment.</p>
+<p><a href="https://www.sgs.moe.edu.sg/students/Safety-Guideliness/ICT-AUP/" rel="noopener nofollow" target="_blank">Acceptable Use Policy for students</a>
+</p>
 <h3>Financial Assistance</h3>
 <p>Subsidies are available for students who require funding support to purchase
 a PLD. Please note that it is compulsory for all students on the MOE Financial
@@ -72,7 +78,7 @@ below for information on the eligibility for the subsidy:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>How to apply for subsidy</strong>
+<p><strong>How to Apply for Subsidy</strong>
 </p>
 </td>
 </tr>
@@ -81,8 +87,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under MOE FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or</p>
-<p>Per Capita Income (“<strong>PCI</strong>”)* is $750 or less</p>
+<p>Gross Household Income (“<strong>GHI</strong>”) is $4,000 or less, or</p>
+<p>Per Capita Income (“<strong>PCI</strong>”)* is $1,000 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No action required. Automatically subsidised for the PLD.</p>
@@ -93,8 +99,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong> is $4,400 or less, or</p>
-<p><strong>PCI</strong> is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or</p>
+<p><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
@@ -106,8 +112,8 @@ below for information on the eligibility for the subsidy:</p>
 FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong> is $4,400 or less, or</p>
-<p><strong>PCI</strong> is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or</p>
+<p><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
@@ -120,9 +126,9 @@ FAS</p>
 </p>
 <p>If you have any further queries, kindly email us at:</p>
 <h5><strong>PDLP Matters</strong></h5>
-<p>Mr Leslie Tan
+<p>Ms Lim Si Ting
 <br>HOD ICT
-<br><a href="mailto:leslie_yc_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leslie_yc_tan@moe.edu.sg</a>
+<br><a href="mailto:lim_si_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_si_ting@moe.edu.sg</a>
 </p>
 <h5><strong>Administrative &amp; Financial Matters</strong></h5>
 <p>Ms Judith Mah</p>
@@ -143,6 +149,10 @@ FAS</p>
 <p><a href="http://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">sure.nlb.gov.sg</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.digitalforlife.gov.sg/learn/resources?utm_source=google&amp;utm_medium=sem&amp;utm_term=DigitalLiteracy-Overall_Generic&amp;utm_content=TX-TX-NA-NA-NA-Resources&amp;utm_campaign=DfLBrand_Resources&amp;gad_source=1&amp;gad_campaignid=21962581414&amp;gbraid=0AAAAAqs2dkfGGxolAlMqzSDyMJJYnqHbd&amp;gclid=CjwKCAiA3rPKBhBZEiwAhPNFQN2R4i4jhhyHo87mHrbqiSHkrYgrixsXxAmaCI58pMUNNSCjuZ2vaxoCUooQAvD_BwE" rel="noopener nofollow" target="_blank">Digital for life</a>
+</p>
+</li>
 </ul>
 <h3>Additional Resources for Parents</h3>
 <ul data-tight="true" class="tight">
@@ -155,11 +165,11 @@ FAS</p>
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2025</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2025</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 </p>
 </li>
 </ul>
