@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Timetable 2025.md
+      - Timetable 2026.md
       - Home Based Learning.md
       - Assessment Guidelines/.keep
       - Assessment Guidelines/SGS Assessment Guidelines.md
