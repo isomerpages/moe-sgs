@@ -78,7 +78,7 @@ below for information on the eligibility for the subsidy:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>How to apply for subsidy</strong>
+<p><strong>How to Apply for Subsidy</strong>
 </p>
 </td>
 </tr>
@@ -87,8 +87,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under MOE FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gross Household Income (“<strong>GHI</strong>”) is $3,000 or less, or</p>
-<p>Per Capita Income (“<strong>PCI</strong>”)* is $750 or less</p>
+<p>Gross Household Income (“<strong>GHI</strong>”) is $4,000 or less, or</p>
+<p>Per Capita Income (“<strong>PCI</strong>”)* is $1,000 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No action required. Automatically subsidised for the PLD.</p>
@@ -99,8 +99,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong> is $4,400 or less, or</p>
-<p><strong>PCI</strong> is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or</p>
+<p><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
@@ -112,8 +112,8 @@ below for information on the eligibility for the subsidy:</p>
 FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong> is $4,400 or less, or</p>
-<p><strong>PCI</strong> is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or</p>
+<p><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
