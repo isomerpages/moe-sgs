@@ -19,13 +19,13 @@ teaching and learning will support the development of digital literacies
 in our students as well as develop them as self-directed and collaborative
 learners.</p>
 <p>SGS has selected the Acer TravelMate Spin B3 as its PLD offering . Despite
-its small size, it is feature packed with a responsive 11.6″ touchscreen
-and upgraded components like its CPU, RAM and storage. With 3 years of
+its small size, it is feature packed with a responsive 12.2″ touchscreen
+and upgraded components like its CPU, RAM and storage. With 4 years of
 warranty and insurance coverage, it offers superb value for money and will
 provide students with many good years of learning and productivity.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_PLD.png">
 </div>
 <h3>Important Actions For Parents (Sec 1 2026)</h3>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
