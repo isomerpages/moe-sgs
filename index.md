@@ -13,7 +13,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2026 Orientation Programme
+        - title: 2026 Orientation Programme (for Sec 1 to 5)
           date: 29 December 2025
           announcement: Orientation Programme schedule
           link_text: Click this link to find out more
