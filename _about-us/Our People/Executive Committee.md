@@ -57,6 +57,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lim Si Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim Song Heng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,14 +77,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yew Choon Leslie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
 </td>
 </tr>
 <tr>
@@ -109,6 +109,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Upper Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Jianbin Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Humanities</p>
 </td>
 </tr>
 <tr>
@@ -169,18 +177,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Si Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lim Wan Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Lower Sec)</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ third_nav_title: Our People
 <p>Ms Stephanie Zhong Hongkun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being</p>
+<p>Assistant Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
@@ -225,6 +225,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Wee Hwee Lee Cjay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Wee Lip Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,26 +241,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Jiabin Jason</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Yeo Wee Sen Wilson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Knowledge Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wee Hwee Lee Cjay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>HOD/Knowledge Management&nbsp;&amp; Special Projects</p>
 </td>
 </tr>
 <tr>
