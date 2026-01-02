@@ -23,13 +23,12 @@ its small size, it is feature packed with a responsive 12.2″ touchscreen
 and upgraded components like its CPU, RAM and storage. With 4 years of
 warranty and insurance coverage, it offers superb value for money and will
 provide students with many good years of learning and productivity.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_PLD.png">
 </div>
 <h3>Important Actions For Parents (Sec 1 2026)</h3>
 <p>Parents/guardians will receive a letter from the school via Parents’ Gateway
-or hardcopy with details about the purchase of PLD by mid January.</p>
+or hardcopy with details about the purchase of PLD by <strong><u>9 January 2026</u></strong>.</p>
 <p>Please submit the following consent forms in order for the school to begin
 processing the purchase of a PLD for your child/ward.</p>
 <ul data-tight="true" class="tight">
@@ -39,10 +38,9 @@ processing the purchase of a PLD for your child/ward.</p>
 <li>
 <p>Edusave Withdrawal (for SC only)</p>
 </li>
-<li>
-<p>Application for Subsidy (PR/IS)</p>
-</li>
 </ul>
+<p>For more information, please access the <a href="https://docs.google.com/presentation/d/1fOqhYA8IQWcDdjT8ihmrTpQupIlHEEOYSICQGMzj_30/edit?usp=sharing" rel="noopener nofollow" target="_blank">Parent Engagement slides.</a>
+</p>
 <h3>Device Management Application</h3>
 <p>Device management application (DMA) software will be installed on your
 child's device to provide a safe learning experience for your child, and
