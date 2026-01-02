@@ -25,7 +25,7 @@ through the portal.</p>
 <h4><strong>Additional Information</strong></h4>
 <p>For comprehensive details about the insurance plan, including claims procedures
 and frequently asked questions, please visit NTUC Income's <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">website</a>.</p>
-<p>We strongly recommend reviewing the MOE <a href="https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/MOE+Student+Product+Fact+Sheet.pdf" rel="noopener nofollow" target="_blank">Student Product Fact Sheet</a> to
+<p>We strongly recommend reviewing the MOE <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Student Product Fact Sheet (2026)</a> to
 understand the full terms and conditions of the insurance coverage.</p>
 <h4><strong>Contact Information</strong></h4>
 <p>For enquiries, please contact our zone representative:</p>
