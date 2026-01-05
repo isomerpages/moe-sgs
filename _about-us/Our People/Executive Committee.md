@@ -60,7 +60,7 @@ third_nav_title: Our People
 <p>Ms Lim Si Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD/Information and Communications Technology</p>
 </td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ third_nav_title: Our People
 <p>Mr Liao Kuo Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 </tr>
 </tbody>
