@@ -244,7 +244,7 @@ third_nav_title: Our People
 <p>Mr Yeo Wee Sen Wilson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Knowledge Management&nbsp;&amp; Special Projects</p>
+<p>SH/Knowledge Management&nbsp;&amp; Special Projects</p>
 </td>
 </tr>
 <tr>
