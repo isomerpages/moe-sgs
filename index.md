@@ -13,11 +13,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2026 Orientation Programme (for Sec 1 to 5)
-          date: 29 December 2025
-          announcement: Orientation Programme schedule
+        - title: RELEASE OF 2025 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS
+          date: 07 January 2026
+          announcement: The 2025 GCE O-Level results will be released on Wednesday, 14
+            January 2026
           link_text: Click this link to find out more
-          link_url: https://www.sgs.moe.edu.sg/2026-orientation-programme/
+          link_url: https://www.sgs.moe.edu.sg/release-of-the-2025-singapore-cambridge-gce-o-level-examination-results/
         - title: 2026 Sec 1 Registration
           date: 19 December 2025
           announcement: Sec 1 Registration Info for 2026 Sec 1 Students and Parents
