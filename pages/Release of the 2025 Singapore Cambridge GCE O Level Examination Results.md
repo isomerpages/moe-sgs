@@ -4,7 +4,7 @@ permalink: /release-of-the-2025-singapore-cambridge-gce-o-level-examination-resu
 variant: tiptap
 description: ""
 ---
-<p>Dear 4E5N students and Parents/Guardians of our 4E5N students,</p>
+<p>Dear (2025) 4E5N students and Parents/Guardians of our (2025) 4E5N students,</p>
 <p>The 2025 GCE O-Level Examination results will be released on <strong>Wednesday, 14 January 2025</strong> at <strong>2 pm</strong>.
 Students may be accompanied by their parents/guardians to collect their
 results.</p>
