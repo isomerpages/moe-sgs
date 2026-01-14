@@ -19,22 +19,6 @@ sections:
             January 2026
           link_text: Click this link to find out more
           link_url: https://www.sgs.moe.edu.sg/release-of-the-2025-singapore-cambridge-gce-o-level-examination-results/
-        - title: 2026 Sec 1 Registration
-          date: 19 December 2025
-          announcement: Sec 1 Registration Info for 2026 Sec 1 Students and Parents
-          link_text: Click this link to find out more
-          link_url: /sec-1-registration-info-for-2026-sec-1-students-and-parents/
-        - title: 2026 Sec 1 Registration
-          date: 19 December 2025
-          announcement: Appeal for transfer into Serangoon Garden Secondary School (for
-            non-medical cases)
-          link_text: Click this link to find out more
-          link_url: /appeal-for-transfer-into-serangoon-garden-secondary-school-for-non-medical-cases/
-        - title: (For Sec 2 – 5) End of Year Books and Uniform Sales for 2026
-          date: 22 October 2025
-          announcement: Click the link below to find out more
-          link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
-          link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
   - infopic:
       title: E-Open House
       subtitle: "2025"
