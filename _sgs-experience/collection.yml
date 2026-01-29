@@ -2,7 +2,6 @@ collections:
   sgs-experience:
     output: true
     order:
-      - Semestral Awards 2025.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -48,3 +47,4 @@ collections:
       - Level Signature Programmes.md
       - Work Shadowing Programme.md
       - Students' Achievements.md
+      - Semestral Awards 2025.md
