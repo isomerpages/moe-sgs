@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer_Banner_2026v1.gif
+      background: /images/sgsbanner08.gif
       variant: image
   - infopic:
       title: E-Open House
