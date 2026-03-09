@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Congratulations to the Class of 2025!</p>
+<p>As you begin a new chapter, continue to be Learners with Grit, Leaders
+with Heart. We are so proud of you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025Olevel.jpg">
+</div>
+<p></p>
