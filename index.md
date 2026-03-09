@@ -7,18 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sgsbanner08.gif
+      background: /images/Isomer_Banner_2026v2.gif
       variant: image
-  - infopic:
-      title: E-Open House
-      subtitle: "2025"
-      id: infopic
-      description: Discover how Serangoon Garden Secondary School helps every student
-        blossom. Join our e-open house to learn more.
-      button: Learn more
-      url: https://www.sgs.moe.edu.sg/eopenhouse/
-      image: /images/2025eopenhouse_cover_photo1.png
-      alt: eopenhouse2025
   - infopic:
       title: SGS Spotlight
       id: infopic
@@ -43,6 +33,16 @@ sections:
       url: https://www.instagram.com/official.sgss/
       image: /images/sgs ig.JPG
       alt: IG
+  - infopic:
+      title: E-Open House
+      subtitle: "2025"
+      id: infopic
+      description: Discover how Serangoon Garden Secondary School helps every student
+        blossom. Join our e-open house to learn more.
+      button: Learn more
+      url: https://www.sgs.moe.edu.sg/eopenhouse/
+      image: /images/2025eopenhouse_cover_photo1.png
+      alt: eopenhouse2025
   - infopic:
       title: Find answers from our Q&A platform
       subtitle: Have A question?
