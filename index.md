@@ -9,16 +9,6 @@ sections:
   - hero:
       background: /images/Isomer_Banner_2026v1.gif
       variant: image
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: RELEASE OF 2025 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS
-          date: 07 January 2026
-          announcement: The 2025 GCE O-Level results will be released on Wednesday, 14
-            January 2026
-          link_text: Click this link to find out more
-          link_url: https://www.sgs.moe.edu.sg/release-of-the-2025-singapore-cambridge-gce-o-level-examination-results/
   - infopic:
       title: E-Open House
       subtitle: "2025"
