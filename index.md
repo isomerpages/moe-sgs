@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/sgsbanner08.gif
+      background: /images/Isomer_Banner_2026v1.gif
       variant: image
   - announcements:
       title: Announcements
