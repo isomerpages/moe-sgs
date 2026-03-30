@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Isomer_Banner_2026v2.gif
       variant: image
+  - infobar:
+      title: Weighted Assessment 2
+      subtitle: Sec 1 to 5
+      id: infobar
+      description: Click here to find out more details.
+      button: FIND OUT MORE!
+      url: https://www.sgs.moe.edu.sg/sec-1-to-5-wa2/
   - infopic:
       title: SGS Spotlight
       id: infopic
