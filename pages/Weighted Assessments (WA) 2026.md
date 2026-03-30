@@ -3,7 +3,6 @@ title: Weighted Assessments (WA) 2026
 permalink: /wa2026/
 variant: tiptap
 description: ""
-third_nav_title: Assessment Guidelines
 ---
 <h4>Sec 1 to 5 Weighted Assessment 1</h4>
 <p>WA1 will be conducted in the form of Performance Tasks or written tests
