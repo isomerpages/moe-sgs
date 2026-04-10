@@ -23,7 +23,7 @@ variant: tiptap
 <p>Chinese Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Nov 2025</p>
+<p>24 Apr 2026</p>
 </td>
 </tr>
 </tbody>
