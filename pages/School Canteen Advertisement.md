@@ -20,10 +20,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodles</p>
+<p>Hot Drinks &amp; Snacks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Apr 2026</p>
+<p>3 June 2026</p>
 </td>
 </tr>
 </tbody>
@@ -120,9 +120,6 @@ evaluation.</p>
 </ul>
 <h5><strong>Other details:</strong></h5>
 <ul data-tight="true" class="tight">
-<li>
-<p>Estimated start date is Sept 2024 after gas and licence has been approved.</p>
-</li>
 <li>
 <p>Application for gas, SFA licence, handover etc should preferably be done
 and completed before the start date.&nbsp;</p>
