@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Student Group Personal Accident (GPA) Insurance</strong></h4>
-<p>The Ministry of Education (MOE) has partnered with NTUC Income to provide
-accident insurance coverage for all students.</p>
+<p>The Ministry of Education (MOE) has partnered with Income to provide accident
+insurance coverage for all students.</p>
 <h4><strong>Claims Submission</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -24,7 +24,7 @@ through the portal.</p>
 </ul>
 <h4><strong>Additional Information</strong></h4>
 <p>For comprehensive details about the insurance plan, including claims procedures
-and frequently asked questions, please visit NTUC Income's <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">website</a>.</p>
+and frequently asked questions, please visit Income's <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">website</a>.</p>
 <p>We strongly recommend reviewing the MOE <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Student Product Fact Sheet (2026)</a> to
 understand the full terms and conditions of the insurance coverage.</p>
 <h4><strong>Contact Information</strong></h4>
