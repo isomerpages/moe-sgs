@@ -12,7 +12,7 @@ the world. Over the years, students have visited our partner schools in
 various countries and cities including:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>China - Shanghai, Suzhou, Xian and Hong Kong</p>
+<p>China - Beijing, Shanghai, Suzhou, Xian and Hong Kong</p>
 </li>
 <li>
 <p>Malaysia - Langkawi, Kuching, Penang and Kuala Lumpur</p>
@@ -42,13 +42,13 @@ various countries and cities including:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shanghai_Shuzhou_Trip_2025.jpg">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rrJX7DC3T7M"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rrJX7DC3T7M"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4kQuJtpSf7o"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4kQuJtpSf7o"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/trYDT8eA9r4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/trYDT8eA9r4"></iframe>
 </div>
 <p>From 26 to 29 May 2025, 30 Secondary 3 students embarked on a cultural
 immersion trip to Suzhou and Shanghai. In Suzhou, students experienced
@@ -80,7 +80,7 @@ their exciting experiences.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HCM_Vietnam_Trip_2025.jpg">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bOVVug_FQXs?si=YVpWrqpdb58o8z5w"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bOVVug_FQXs?si=YVpWrqpdb58o8z5w"></iframe>
 </div>
 <p>In 2025, 30 Secondary 3 students embarked on an enriching and unforgettable
 trip to Ho Chi Minh City, Vietnam. Over the course of four days, they learnt
@@ -97,7 +97,7 @@ and a deeper understanding of the place of Singapore in ASEAN and the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/brunei2025.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8smhLm71zLw?si=CZjeaOkGmPYK5eZ7"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8smhLm71zLw?si=CZjeaOkGmPYK5eZ7"></iframe>
 </div>
 <p>From 13 to 16 October 2025, 12 Secondary 3 students embarked on a school
 and cultural immersion trip to Brunei, where they gained deep insights
@@ -132,10 +132,10 @@ Entopia and Penang Hill. They also engaged in experiential learning activities,
 such as Batik painting and glass painting.</p>
 <h4>Bali Trip 2024</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iA24ybqTOJc?si=vF8tC6F46g2_ZcMX&amp;controls=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iA24ybqTOJc?si=vF8tC6F46g2_ZcMX&amp;controls=0"></iframe>
 </div>
 <h4>Penang Trip 2024</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpbAuFzrDTEfBOl0mSKICI3OYUCc67fKeEsyavee9d4L1ITamzxYXMffkxwVqMVum8bNFMtg0ddVxl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpbAuFzrDTEfBOl0mSKICI3OYUCc67fKeEsyavee9d4L1ITamzxYXMffkxwVqMVum8bNFMtg0ddVxl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

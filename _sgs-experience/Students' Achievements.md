@@ -4,9 +4,22 @@ permalink: /students-academic-achievements/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Ho Bee Foundation Scholarship</strong></h3>
+<p>The Ho Bee Foundation Scholarship recognises well-rounded students who
+have excelled in both academic and non-academic spheres, and who exemplify
+the PRIDE values of the school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ho_Bee_Awards.jpg">
+</div>
+<p>In addition, the Secondary 4 Ho Bee Foundation Scholarship awardees received
+the award during their Secondary 4 Graduation night.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HoBeeFoundation2025.jpg">
+</div>
+<p></p>
 <h3><strong>Academic Achievements 2025</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="1000" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vS4RBDzLJLuGGL1hwFHVXyDBQXTJLl7YlZTUygW1CmRMDRu5lo8Fd36BK68SEkWYjJn2w1d4DKgJj89/pub?embedded=true"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="1000" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/document/d/e/2PACX-1vS4RBDzLJLuGGL1hwFHVXyDBQXTJLl7YlZTUygW1CmRMDRu5lo8Fd36BK68SEkWYjJn2w1d4DKgJj89/pub?embedded=true"></iframe>
 </div>
 <h3><strong>CCA Awards 2025</strong></h3>
 <h4>Uniformed Groups CCA</h4>
