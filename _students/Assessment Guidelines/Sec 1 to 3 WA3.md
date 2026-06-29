@@ -1,6 +1,6 @@
 ---
 title: Sec 1 to 3 WA3
-permalink: /sec-1-to-5-wa2/
+permalink: /sec-1-to-3-wa3/
 variant: tiptap
 description: ""
 third_nav_title: Assessment Guidelines
