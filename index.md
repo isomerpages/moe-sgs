@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Isomer_Banner_2026v2.gif
       variant: image
+  - infobar:
+      title: Term 3 Week 3 HBL
+      subtitle: Schedule for
+      id: infobar
+      description: 14 - 16 July
+      button: Click here to find out more
+      url: https://www.sgs.moe.edu.sg/sgs-hbl-term-3-2026/
   - infopic:
       title: SGS Spotlight
       id: infopic
