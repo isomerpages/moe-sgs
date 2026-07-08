@@ -21,5 +21,6 @@ certificate to their Form Teacher upon their return to school.&nbsp; A
 student without a medical certificate will be awarded zero for the missed
 paper.&nbsp; Only medical certificates issued by registered medical practitioners
 will be accepted.</p>
-<p>&nbsp;The schedule and scope for WA3 can be found <a href="https://for.edu.sg/sgsprelimswa3" rel="noopener noreferrer nofollow" target="_blank">here</a> from 8 July onwards.</p>
+<p>&nbsp;The schedule and scope for WA3 can be found <a href="https://for.edu.sg/sgs2026wa3" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p>&nbsp;</p>
