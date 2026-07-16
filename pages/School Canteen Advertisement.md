@@ -23,18 +23,17 @@ variant: tiptap
 <p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 July 2026</p>
+<p>31 July 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h5><strong>Application Procedure</strong></h5>
+<h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. <a href="/files/application%20form%20-%20canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
-<br>
+hardcopy from the School’s General Office.&nbsp;<a href="https://www.sgs.moe.edu.sg/files/application%20form%20-%20canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 <li>
@@ -67,13 +66,14 @@ email OR to the School's General Office.</p>
 <p>Contact No: 6288 9227</p>
 </li>
 <li>
-<p>Email: sgss@moe.edu.sg</p>
+<p>Email: <a href="mailto:sgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sgss@moe.edu.sg</a>
+</p>
 </li>
 <li>
 <p>Contact Person: Mr Tan Boo Kian</p>
 </li>
 </ul>
-<h5><strong>Eligibility and criteria:</strong></h5>
+<h4><strong>Eligibility and criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Able to provide a variety of cooked set meals daily. A set meal is expected
@@ -107,18 +107,17 @@ student population is reduced.</p>
 <p>Be onboard GIRO for payment to school</p>
 </li>
 <li>
-<p>Willing to bill school through vendors@gov (for small quantity order)</p>
+<p>Willing to bill school through vendors@gov</p>
 </li>
 <li>
 <p>Willing to onboard the SmartBuddy Programme</p>
 </li>
 <li>
-<p>For shortlisted applicants, there will be an online interview and food
-sampling session. Applicants may be required to submit food samples for
-evaluation.</p>
+<p>For shortlisted applicants, there will be a food sampling session. Applicants
+are required to submit food samples for evaluation (at own expense).</p>
 </li>
 </ul>
-<h5><strong>Other details:</strong></h5>
+<h4><strong>Other details:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Application for gas, SFA licence, handover etc should preferably be done
@@ -127,3 +126,4 @@ and completed before the start date.&nbsp;</p>
 </ul>
 <p>For further enquiries, you may contact the Administration Executive Mr
 Tan Boo Kian, during our opening hours at 62889227.</p>
+<p>&nbsp;</p>
