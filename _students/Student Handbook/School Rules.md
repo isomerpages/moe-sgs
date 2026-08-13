@@ -42,17 +42,12 @@ Closed cardigans will not be worn as part of the school uniform.</p>
 skirt/shorts/long pants). During PE lessons or physical activities, I will
 wear my PE attire.</p>
 <p>During school and national examinations, I will wear my first school uniform.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Uniform_Upper_Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_First_Uniform.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Uniform_Lower_Sec.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Second_Uniform_Upper_Sec.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Second_Uniform_Lower_Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Second_Uniform.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PR_Attire.jpg">
